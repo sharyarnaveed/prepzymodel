@@ -1,0 +1,234 @@
+PropertSolids_2ndphy_fed 
+
+After studying this chapter the students will be able to:
+1. Distinguish between the structure of crystalline, glassy, amorphous and polymeric solids.
+2. Describe that deformation in solids is caused by a force and that in one dimension, the deformation can be tensile or compressive.
+3. Describe the behaviour of springs in terms of load-extension, Hooke’s law and the spring constant.
+4. Define and use the terms Young's modulus, bulk modulus and shear modulus.
+5. Demonstrate knowledge of the force-extension graphs for typical ductile, brittle and polymeric materials.
+6. Become familiar with ultimate tensile stress, elastic deformation and plastic deformation of a material.
+7. Describe the idea of energy bands in solids.
+8. Classify conductors, semiconductors and insulators on the basis of energy bands.
+9. Become familiar with the behaviour of superconductors and their potential applications.
+10. Distinguish between dia, para and ferro magnetic materials.
+11. Understand the concepts of magnetic domains in a material.
+12. Understand Curie point, and soft and hard ferromagnetic substances.
+13. Describe how magnetic field strength and flux density are related.
+
+For your Information:
+Magnetic-levitation is an application where superconductors perform extremely well. Transport vehicles such as trains can be made to float on strong superconducting magnets, virtually eliminating friction between the train and its tracks. It can attain an incredible speed of 361 mph (581 kph). On the other hand, conventional electromagnets waste much of the electrical energy as heat.
+
+A solid consists of atoms or clusters of atoms arranged in close proximity. The internal structure of a solid and its electrical properties are closely related to the arrangement of atoms within it. In crystalline solids, especially metals, the arrangement of atoms is regular and periodic. The concepts of space lattice and unit cell help in understanding the atomic arrangement in crystals. Crystal structures are analyzed by X-ray diffraction technique pioneered by Max von Laue and extensively employed by Bragg. The real crystals are defective of different kinds. The study of crystal geometry helps us to understand the diverse behavior of solids in their mechanical, metallurgical, magnetic and optical properties. The imperfections in real crystals can be recognized and suitably altered to improve the selected physical properties of solids.
+
+CLASSIFICATION OF SOLIDS
+
+On the basis of atomic arrangement, solids may be classified as:
+1. Crystalline Solids: In a crystalline solid, the particles (ions, molecules or atoms) are arranged in a regular repeating pattern in the three-dimensional network. This is known as long-range order. This arrangement repeats periodically over the entire crystal lattice. In this arrangement, they have short-range as well as long-range order. Crystalline solids have smooth faces and straight edges. When a crystal is broken, it does so along certain preferred directions. X-ray diffraction studies have revealed that in crystals the constituent atoms are arranged in a regular periodic pattern in three dimensions. The arrangement of atoms in specific relation to each other is called order. In crystals the order exists in the immediate neighborhood of a given atom as well as over large distances corresponding to several layers of atoms. Therefore, crystals possess both short-range order and long-range order. Sucrose (sugar), diamond and sodium chloride (NaCl) are examples of solids that occur as large-size single crystals.
+2. Polycrystalline Solids: A material made up of many small single crystals (also called crystallites or grains) is called polycrystalline. In polycrystalline solids, the ordered regions vary considerably in size and orientation with respect to one another. These ordered regions are called as grains or domains and are separated from one another by grain boundaries. The atomic arrangement varies from one domain to the other. The grains are usually 100 nm to several microns in diameter. Metals are examples of polycrystalline solids.
+3. Amorphous Solids: An amorphous (non-crystalline) solid is composed of randomly oriented atoms, ions, or molecules that do not form defined patterns or lattice structures. In amorphous solids the arrangement of atoms is random. It is a substance whose particles do not possess a regular arrangement. In these solids, the particles are arranged in a fairly random manner up to a short distance. This is called short-range order. In these solids, the long-range regular arrangement is absent. Although metals can be thought of as polycrystalline, the structure is never perfect. For example, there are point defects, line defects, etc. Amorphous solid is also called undercooled liquid or glassy solid. Some amorphous solids form by rapid cooling of the melt. Glass and plastics are very useful materials and are widely used in construction, houseware, laboratory ware, etc. Amorphous silica is one of the best materials for converting sunlight into electricity (photovoltaic). Amorphous solid rubber is used in making tyres, shoes soles, etc. Therefore, the atomic arrangement in two dimensions in cases of the three classes of solids is illustrated in Fig. 16.3.
+
+SPACE LATTICE AND UNIT CELL
+
+X-ray diffraction investigations show that the crystals are composed of atoms arranged in an orderly three-dimensional array. The arrangement of atoms is described by a group of atoms, henceforth called a basis, located at each lattice point in the crystal. The arrangement of lattice points in space is the basic feature of crystals. The space lattice is an imaginary array of points in space. The mathematical analysis of crystal structure is made by referring to an imaginary array of points in space called lattice. The points are called lattice sites. A lattice is an array of points in space. A space lattice is a set of infinite number of points in a periodic arrangement. The smallest geometric figure or unit whose periodic repetition in two or three dimensions forms a crystal is called a unit cell. Therefore, the study of crystal structure becomes simpler when it is represented by a space lattice. The point which represents the position of an atom or a group of atoms in a crystal is called a lattice point. The space lattice is merely an imaginary geometrical framework. A space lattice is a set of points in space, each having an identical environment. The crystal structure is built by placing atoms on or near the lattice points. Therefore, the study of crystal structure becomes simpler when it is represented by a space lattice. The unit cell is the smallest repeating unit that generates the entire crystal when translated along the crystal axes. The arrangement of lattice points in two dimensions is shown in Fig. 16.4(a). A two-dimensional lattice is obtained by translation of vectors a and b. In three dimensions, the lattice is generated by translation of vectors a, b and c as shown in Fig. 16.4(b). It is made up of a large number of identical unit cells, each containing one or more atoms. The crystal structure is obtained when a basis is added at each lattice point. The basis must be identical in composition, arrangement and orientation so that the crystal appears exactly the same at one point as it does at other corresponding points. Fig. 16.5(a) shows the basis consisting of a group of two atoms. If this basis is associated with each lattice site, the crystal structure is defined.
+
+Crystal Lattice + Basis = Crystal Structure
+
+ELASTICITY
+
+When an external force is applied to an object, it changes its shape or size. Generally, this deformation is small and often not visible. If an object regains its original shape when external force is removed, it is called elastic deformation. But if it remains in deformed shape, it is called plastic deformation. There are three types of deformations and corresponding three moduli of elasticity. The deforming force is expressed in terms of stress and the deformation is expressed in terms of strain. For elastic solids, the ratio of stress to strain is constant and is called elastic modulus. That is:
+
+Elastic modulus = Stress / Strain
+
+This relationship is known as Hooke’s law. There are three types of elastic moduli: Young’s modulus (Y), Shear modulus (S) and Bulk modulus (B). In crystalline solids, the properties like electrical conductance, refractive index, thermal expansion, etc. have different values in different directions. This type of behavior is called anisotropy and the substances with this property are called anisotropic. A crystalline solid gives a clean surface after cleavage with a knife rather than an irregular breakage.
+
+Young’s Modulus (Y)
+
+The change in length due to deforming force is described by Young’s modulus. Consider a rod of length L and cross-sectional area A. If it is clamped at one end and a force is applied perpendicular to the area of cross-section, the rod changes its length. The internal forces of the rod resist the change in length but the rod attains an equilibrium in which the length is increased by ΔL, where ΔL is the change in length.
+
+The ratio of the magnitude of external force F to the area of cross-section A is defined as tensile stress:
+
+Tensile stress = F / A
+
+The ratio of the change in length to the original length is called tensile strain:
+
+Tensile strain = ΔL / L
+
+Young’s modulus is defined as the ratio of tensile stress to tensile strain:
+
+Y = (F/A) / (ΔL/L) = (F * L) / (A * ΔL)
+
+Hooke’s law is valid within the elastic limit and for small deformations. When a material is subjected to increasing deforming force, the stress-strain curve is as shown in Fig. 16.6.
+
+Shear Modulus (S)
+
+When a force is applied tangentially to one face of an object while the opposite face is fixed, the object deforms by changing its shape. This is called shear deformation. Shear stress is defined as the ratio of tangential deforming force F to the area A of the face being sheared:
+
+Shear stress = F / A
+
+Shear strain is the ratio of displacement of the sheared face Δx and the perpendicular distance y between the two faces:
+
+Shear strain = Δx / y
+
+This is also described by the angle θ, which is called the angle of shear. Hence:
+
+tan θ = Δx / y
+
+For small θ, tan θ ≈ θ. Shear modulus is defined as the ratio of shear stress to shear strain:
+
+S = (F/A) / (Δx/y) = (F * y) / (A * Δx)
+
+Bulk Modulus (B)
+
+When forces act on all the surfaces of a body uniformly, the body undergoes volume deformation. The forces are distributed equally over all surfaces as illustrated in Fig. 16.8. In this case, there is a change in the volume and not in the shape. The volume stress is the ratio of the magnitude of the normal force F to the area A. Therefore, volume stress = F / A. In fluids, it is called pressure P. The change in volume ΔV relative to the original volume V is the volume strain:
+
+Volume strain = ΔV / V
+
+Bulk modulus is defined as the ratio of volume stress to volume strain:
+
+B = (F/A) / (-ΔV/V) = - (P * V) / ΔV
+
+The negative sign is inserted because an increase in pressure causes a decrease in volume. The value of bulk modulus is always taken as positive.
+
+HOOKE’S LAW
+
+For small deformations, stress and strain are proportional to each other. This is known as Hooke’s law.
+
+Stress ∝ Strain
+Stress = k × Strain
+
+Here, k is the proportionality constant and is known as modulus of elasticity. Hooke’s law is an empirical law and is found to be valid for most materials. However, there are some materials which do not exhibit this linear relationship.
+
+STRESS-STRAIN CURVE
+
+Engineering stress and strain are usually measured using a machine that stretches the material at a fixed linear rate and records the stress. Typically, stress is gradually increased in steps and the change in length is measured. These values are then plotted on a graph. A typical graph for a metal is shown in Fig. 16.9. The stress-strain curves vary from material to material. These curves help us to understand how a given material deforms with increasing loads.
+
+We see that in the region from O to A, the curve is linear. Up to point A, Hooke’s law is obeyed. The body regains its original dimensions when the applied force is removed. In this region, the solid behaves as an elastic solid. In the region from A to B, stress and strain are not proportional. Nevertheless, the body still returns to its original dimension when the load is removed. The point B in the curve is known as yield point (also known as elastic limit) and the corresponding stress is known as yield strength (Sy) of the material.
+
+If the stress is increased further, the stress developed exceeds the yield strength and strain increases rapidly even for a small change in the stress. The region of the curve between B and C is the plastic deformation region. At point C, the material is said to have undergone significant plastic deformation. Beyond point C, the material cannot be stretched further and any increase in stress will result in breaking the sample. The points C and D are called ultimate tensile strength and fracture point, respectively. If points C and D are close, the material is said to be brittle. If they are far apart, the material is said to be ductile.
+
+Example: A force of 500 N is applied to one end of a cylindrical steel rod of length 2 m and diameter 0.5 cm. Calculate the stress.
+
+Solution:
+Force F = 500 N
+Diameter = 0.5 cm = 0.005 m
+Radius r = 0.0025 m
+Area A = πr² = π × (0.0025)² = 1.96 × 10⁻⁵ m²
+Stress = F/A = 500 / (1.96 × 10⁻⁵) = 2.55 × 10⁷ N/m²
+
+Example: In an experiment to measure Young’s modulus, a load of 500 kg hanging from a steel wire 2.4 m long, of cross section 0.16 cm² was found to stretch the wire 0.30 cm from its un-stretched length. What is (a) the stress? (b) the strain? (c) the value of Young's modulus for the steel of which the wire is composed?
+
+Solution:
+Mass m = 500 kg, Force F = mg = 500 × 9.8 = 4900 N
+Length L = 2.4 m, Extension ΔL = 0.30 cm = 0.003 m
+Cross-sectional area A = 0.16 cm² = 1.6 × 10⁻⁵ m²
+(a) Stress = F/A = 4900 / (1.6 × 10⁻⁵) = 3.0625 × 10⁸ N/m²
+(b) Strain = ΔL/L = 0.003 / 2.4 = 1.25 × 10⁻³
+(c) Young's modulus Y = Stress / Strain = (3.0625 × 10⁸) / (1.25 × 10⁻³) = 2.45 × 10¹¹ N/m²
+
+MECHANICAL PROPERTIES OF SOLIDS
+
+The mechanical properties of a material are those properties that involve a reaction to an applied load. The mechanical properties of metals determine the range of usefulness of a material and establish the service life that can be expected. Mechanical properties are also used to help classify and identify materials. The most common properties considered are strength, ductility, hardness, toughness, and stiffness.
+
+Strength: The general ability of a material to withstand an applied force.
+Hardness: A measure of how easily a material can be scratched or indented. Hard materials are often also very brittle – this means they have a low resistance to impact. Well-known hard materials include diamond and hardened high-carbon steels.
+Brittleness: A material that has a tendency to break easily or suddenly without any extension first. Good examples are cast iron, concrete, high-carbon steels, ceramics, and some polymers such as urea formaldehyde.
+Toughness: A material that absorbs impact (sudden forces) without breaking is tough – this is the opposite to brittle. Good examples are rubber, wood, and some plastics.
+Stiffness: The ability to resist bending.
+Plasticity: Materials which deform permanently when subjected to a load exhibit plasticity. Plasticine and clay are good examples.
+Elasticity: The ability of a material to return to its original shape after being stretched or compressed when the applied load is removed. Good examples include rubber, spring steel, and some plastics such as nylon.
+Malleability: The ability to be hammered or rolled into thin sheets.
+Ductility: The ability to be drawn out into a thin wire or thread.
+Workability: A measure of how easily a material can be worked. Good examples are copper, titanium, wrought iron, low-carbon steels, and brass.
+
+Ductility provides an indication of how visible overload damage to a component might become before the component fractures. Ductility is also used as a quality control measure to assess the level of impurities and proper processing of a material.
+
+Conventional measures of ductility are the engineering strain at fracture (usually called elongation) and the reduction of area at fracture. Both of these properties are obtained by fitting the broken specimen back together after fracture and measuring the change in length and change in area.
+
+The area under the stress-strain curve represents the energy absorbed per unit volume when the material is loaded up to fracture. Brittle materials fracture at low strains and absorb little energy. Conversely, ductile materials can be deformed significantly and absorb more energy.
+
+STRAIN ENERGY
+
+When a wire is stretched, energy is stored in it. A graph of force against extension has the same shape as the graph of stress against strain. Work done on the wire during stretching = average force × extension. The area under the force-extension curve gives the work done. For a small extension Δx, the work done ΔW = F Δx. The total work done in stretching the wire from 0 to x is the area under the curve. This work is stored as elastic potential energy (strain energy) in the wire.
+
+Strain energy per unit volume = ½ × stress × strain.
+
+This is the area under the stress-strain graph.
+
+ENERGY BAND THEORY
+
+When atoms bond together to become molecules, their energy levels merge. In solids, the energy levels merge into bands of closely spaced levels with large energy gaps between them. There is a gap between these energy bands which cannot be occupied by electrons; these are called forbidden energy gaps. In an isolated atom, an electron can only occupy certain discrete energy states. In a solid, the electrons occupy energy bands. The band theory of solids can explain many of their electrical properties.
+
+Fig. 16.12 shows two energy bands, the upper empty conduction band and the lower filled valence band. In the conduction band, electrons are free to move and can conduct electric current. In the valence band, all states are filled with electrons, so electrons cannot move about.
+
+Insulators: In an insulating material, the outer electrons are all shared between atoms so they are not available as charge carriers. These valence electrons have allowed energies which form a valence band. This valence band is completely filled, so there are no allowed energy levels to allow the electrons to gain energy from an applied field and move. There is a forbidden energy band between the valence band and the conduction band. The band gap is large (typically > 3 eV). Thermal excitation at room temperature (kT ≈ 0.025 eV) is insufficient to excite electrons across this large gap. Hence, the probability of an electron jumping into the conduction band is virtually zero. This explains the extremely high resistivity of insulators.
+
+Conductors: In conductors, the valence band and conduction band overlap, so there is no forbidden gap. Electrons can easily move into the conduction band where they are free to conduct. Even at low temperatures, conductors have free electrons in the conduction band.
+
+Semiconductors: A semiconductor has a valence band and a conduction band with a small band gap (typically < 3 eV). At low temperatures, semiconductors behave as insulators. However, the band gap is much smaller than in insulators. As a result, some electrons can be thermally excited into the conduction band where they can move freely. When this happens, the electrons leave holes in the valence band. These holes behave like positive charge carriers and can also contribute to conduction. When a potential difference is applied, electrons and holes drift in opposite directions and both contribute to current. The concentration of charge carriers in a semiconductor is about 10¹⁶ m⁻³, much lower than in metals (about 10²⁸ m⁻³).
+
+Superconductors: A superconductor is a material that can conduct electricity or transport electrons from one atom to another with no resistance. No heat, sound or any other form of energy would be released from the material when it has reached the critical temperature (Tc), the temperature at which the material becomes superconducting. The resistance of a superconductor is zero, since there are no energy losses for currents flowing in them. They are used in producing high currents, such as in MRI machines, and they offer no resistance in transmission lines. In the past decade, tremendous advances have been made in developing materials that become superconductors at relatively high temperatures. A graph of resistivity versus temperature for a material that becomes a superconductor shows a sharp transition to zero at the critical temperature Tc. High-temperature superconductors have verifiable Tc greater than 125 K, well above the easily achieved 77 K temperature of liquid nitrogen. The temperature at which a material becomes a superconductor is said to be its critical temperature, denoted by Tc. High-temperature superconductors are used in experimental apparatus. Many superconductors are of complex and exotic composition, sometimes including strontium, mercury, or yttrium along with barium, copper, and other elements. Room temperature (about 293 K) superconductivity is the ultimate goal. Since maintaining temperatures close to room temperature is relatively cheap and easy, room-temperature superconductors would have many industrial applications.
+
+MAGNETISM
+
+Each molecule of a magnetic substance (whether magnetized or not) is a magnet in itself having a north pole and a south pole of equal strength. In an unmagnetized substance, the molecular magnets are randomly oriented as shown in Fig. 16.14(a). The north pole of one molecular magnet cancels the effect of the south pole of the other so that the substance does not show any net magnetism. When a magnetizing force is applied to the substance, the molecular magnets align themselves in the direction of the applied field as shown in Fig. 16.14(b). When all the molecular magnets are aligned, the substance is said to be saturated with magnetism. If a magnetized substance is heated, the molecular magnets gain kinetic energy and some of them lose their arrangement. Thus, a magnet loses some magnetism on heating.
+
+MODERN VIEW ABOUT MAGNETISM
+
+According to the modern view, the magnetic properties of a substance are due to the motions of electrons (orbital and spin) in the atoms. An atom has a central nucleus with electrons revolving around the nucleus in different orbits. This motion of electrons is called orbital motion. Electrons also spin about their own axis. Due to these motions, each atom is equivalent to a current loop, i.e., each atom behaves as a magnetic dipole. In unmagnetized substances, the magnetic dipoles are randomly oriented and their effects mutually cancel. When the substance is magnetized, the dipoles align.
+
+CLASSIFICATION OF MAGNETIC MATERIALS
+
+On the basis of magnetic properties, materials are classified into three categories: diamagnetic, paramagnetic and ferromagnetic. The behavior of these three classes of materials is different in an external magnetic field.
+
+Paramagnetic Materials: In these substances, the orbital and spin magnetic moments of the electrons do not completely cancel each other, so each atom has a net magnetic moment. These substances are called paramagnetic materials. When a paramagnetic substance (e.g., aluminum, antimony, etc.) is placed in a magnetic field, the substance is weakly magnetized in the direction of the applied field. Therefore, a paramagnetic substance is weakly attracted by a strong magnet.
+
+Diamagnetic Materials: The substances in which the orbital and spin magnetic moments of the electrons in an atom are oriented such that their fields cancel the effect of each other so that their resultant magnetic moment is zero. Such substances are called diamagnetic materials. When a diamagnetic substance (e.g., copper, zinc, bismuth, etc.) is placed in a magnetic field, the substance is weakly magnetized in a direction opposite to that of the applied field. Therefore, a diamagnetic substance is weakly repelled by a strong magnet.
+
+Ferromagnetic Materials: In these substances, the individual atoms act like tiny magnets. The interaction between these tiny atomic magnets is so strong that they line up parallel to each other even when no external magnetic field is present. Such substances are called ferromagnetic materials. These tiny magnets are called magnetic domains. A domain is very small, of the order of millimeters, and contains atoms from 10¹² to 10¹⁵. Each domain acts as a tiny magnet with a north and south pole. The coupling or interaction between these tiny magnets is reduced by increasing the temperature. The temperature at which a ferromagnetic material becomes paramagnetic is called the Curie temperature.
+
+When a ferromagnetic substance (e.g., iron, nickel, cobalt, etc.) is placed in a magnetic field, the substance is strongly magnetized in the direction of the applied field. Therefore, a ferromagnetic material is strongly attracted by a magnet. Diamagnetism and paramagnetism are weak forms of magnetism. However, ferromagnetic substances exhibit very strong magnetic effects.
+
+MAGNETIC HYSTERESIS
+
+When a current is passed through a coil of wire, the coil acts like a bar magnet with a north pole at one end and a south pole at the other. In other words, it becomes an electromagnet. If a bar of soft iron is placed inside the coil, the strength of the electromagnet is much increased. This is because the piece of soft iron is converted into a magnet by the effect of the current in the coil.
+
+Magnetic flux density (B) is a measure of the amount of magnetic flux in a unit area perpendicular to the direction of magnetic flow, or the amount of magnetism induced in a material placed in the magnetic field. Magnetic field strength (H) is the magnetizing force. The intensity of the magnetic flux density (B) depends on the intensity of the magnetic field (H) and the nature of the material.
+
+When a magnetic material is subjected to a cycle of magnetization (first in one direction and then in the other), it is found that the flux density B in the material lags behind the applied magnetizing force H. This phenomenon is known as hysteresis. If we start with an unmagnetized material and increase the magnetizing current I in a positive direction, the magnetic field H increases linearly with I. The flux density B will increase as shown by the curve from point O to point a as it heads towards saturation. Now if the magnetizing current is reduced to zero, the magnetic field around the material reduces to zero but the magnetic flux does not go to zero due to the residual magnetism present in the material. This is shown on the curve from point a to point b. To reduce the flux density at point b to zero, we need to reverse the current through the coil. The magnetizing force which must be applied to cancel the residual magnetism is called the coercive force. This coercive force reverses the direction of the magnetic field. An increase in the reverse current causes the flux density to increase in the negative direction and increasing this magnetization further will cause the material to saturate in the opposite direction at point d. If the current is reduced again to zero, the residual magnetism will have a value as shown at point e. Again, reversing the current and increasing it in the positive direction will cause the magnetic flux to reach zero at point f and then saturation at point a. Then the B-H curve follows the path a-b-c-d-e-f-a as the magnetizing current flowing through the coil alternates between positive and negative values such as the cycle of an AC voltage. This is called a Magnetic Hysteresis Loop. Thus, when a magnetic material is taken through one cycle of magnetization, B always lags behind H so that the B-H curve forms a closed loop, called hysteresis loop.
+
+From the hysteresis loop, a number of magnetic properties of a material are determined:
+- Retentivity: It is a material's ability to retain a certain amount of residual magnetic field when the magnetizing force is removed after achieving saturation.
+- Residual Magnetism or Residual Flux: The magnetic flux density that remains in a material when the magnetizing force is zero.
+- Coercive Force: The amount of reverse magnetic field which must be applied to a magnetic material to make the magnetic flux return to zero.
+- Reluctance: Is the opposition that a ferromagnetic material shows to the establishment of a magnetic field. Reluctance is analogous to the resistance in an electrical circuit.
+
+MAGNETIC HYSTERESIS LOOPS FOR SOFT AND HARD MATERIALS
+
+Soft ferromagnetic materials such as iron or silicon steel have narrow magnetic hysteresis loops resulting in very small amounts of residual magnetism, making them ideal for use in relays, solenoids and transformers as they can be easily magnetized and demagnetized. Since a coercive force must be applied to overcome the residual magnetism, work is done in closing the hysteresis loop with the energy being dissipated as heat in the magnetic material. This heat is known as hysteresis loss, which depends on the material's value of coercive force. Silicon steel, a material with a very small coercive force, can be used in transformer cores. It may contain 5% silicon and have very narrow hysteresis loops. Materials with narrow hysteresis loops are easily magnetized and demagnetized and are known as soft magnetic materials.
+
+Hysteresis results in the dissipation of wasted energy in the form of heat. The energy wasted is in proportion to the area of the magnetic hysteresis loop. Hysteresis losses will always be a problem in AC transformers where the current constantly changes direction and thus the magnetic poles in the core constantly reverse direction.
+
+In order to create a permanent magnet, a material with a wide hysteresis loop may be used (Fig. 16.18a). Such materials, once magnetized, are very difficult to demagnetize and when the magnetizing field is removed, a large magnetic flux density remains. These materials are known as hard magnetic materials. Examples are tungsten steel, Cunife, and Alnico.
+
+SUMMARY
+
+In a crystalline solid, the particles (ions, molecules or atoms) are arranged in a regular repeating pattern in the three-dimensional network. This is called long-range order.
+A polycrystal is a material made up of many small single crystals (crystallites or grains). Metals are examples of polycrystalline solids.
+An amorphous (non-crystalline) solid is composed of randomly oriented atoms, ions, or molecules that do not form defined patterns or lattice structures.
+The mathematical analysis of crystal structure is made by referring to an imaginary array of points in space.
+A lattice is a set of infinite number of points in a periodic arrangement.
+The smallest geometric figure or unit whose periodic repetition in two or three dimensions forms a crystal is called a unit cell.
+The crystal structure is obtained when a basis is added at each point in the lattice.
+For elastic solids, the ratio of stress to strain is constant and it is called elastic modulus.
+The ratio of external force F to the area of cross-section A is defined as tensile stress.
+Young's modulus is defined as the ratio of tensile stress to tensile strain.
+Shear modulus is defined as the ratio of tangential deforming force F to the area of the face being sheared.
+Bulk modulus is defined as the ratio of volume stress to volume strain.
+For small deformations, the stress and strain are proportional to each other. This is Hooke’s law.
+Hardness is a measure of how easily a material can be scratched or indented.
+When a wire is stretched, energy is stored in it.
+In the band theory of solids, the energy levels in an atom are merged into two main bands namely conduction band and valence band separated by a forbidden energy gap.
+A superconductor is a material that can conduct electricity or transport electrons from one atom to another with no resistance.
+According to the modern view, the magnetic properties of a substance are due to the motions of electrons (orbital and spin) in the atoms.
+On the basis of magnetic properties, materials are classified into three categories: diamagnetic, paramagnetic and ferromagnetic.
+When a magnetic material is subjected to a cycle of magnetism, it is found that the flux density B in the material lags behind the applied magnetizing force H. This phenomenon is known as hysteresis.

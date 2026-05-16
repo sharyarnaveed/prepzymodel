@@ -1,0 +1,292 @@
+EVOLUTION
+
+EVOLUTION -
+
+Questions of origins of earth and life on it have been on the minds of humans
+since prehistoric times. Many of us are also concerned with questions of origin: How old
+is the planet earth? How long has life been on earth? How did life arise on earth? How
+did a certain animal species come into existence? Answers for these questions come from
+scientific inquiry. In this chapter we will study some aspects of organic evolution.
+Evolution refers to the processes that have transformed life on earth from its
+earliest forms to the vast diversity that we observe today. Evolutionary change is based
+mainly on the interactions between populations of organisms and their environments.
+Whenever we say or hear the word evolution, the name of Darwin comes to our mind
+immediately. In fact, he was the first person who argued from evidence that species
+were not specially created in their present forms; rather they had evolved from ancestral
+species. He also proposed a mechanism for evolution, which he termed natural
+selection.
+
+CONCEPT OF EVOLUTION VS SPECIAL CREATION
+In a bid to explain the cause of diversity of life and interrelationship among
+living organisms, two schools of thought emerged in the earlier 19th century. Creationists
+believed in the Theory of Special Creation, whereas evolutionists believed in the
+Theory of Natural Selection. According to the theory of special creation, all living things
+came into existence in their present forms especially and specifically created by Nature.
+Among the scientists who believed in divine creation was Carolus Linnaeus (1707–1778).
+The idea that organisms might evolve through time, with one type of organism
+giving rise to another type of organism, is an ancient one, existing from the days of
+Aristotle. Aristotle recognized that organisms ranged from relatively simple to very
+complex structures. However, the present day concept of evolution is based on a known
+historical context (Table 24.1).
+
+Table 24.1: Darwinism in historical context.
+
+Malthus | 1766–1834 | Published Essay on the Principle of Population.
+Cuvier | 1769–1832 | Contributed aspects to paleontology and explained Earth's history by catastrophism.
+Lamarck | 1744–1829 | Published ideas on the inheritance of acquired characters.
+Darwin | 1809–1882 | 1. Voyage of the Beagle.
+2. Began his investigations into evolution.
+3. Wrote his major work, "On the Origin of Species".
+Weismann | 1834–1914 | Published papers on selection.
+
+This text discusses some details of the work and ideas of these men. Linnaeus in the eighteenth century grouped species into the same genus and similar groups. But as time
+passed, it was observed that species were not common static entities. Linnaeus became a focal point in later systematic studies.
+
+EVOLUTION FROM PROKARYOTES TO EUKARYOTES
+
+Speculations aiming to explain the emergence of life favor certain ideas. In underwater hot springs simple chemical reactions may have provided raw materials and energy for early life forms. A group of bacteria, called archaebacteria, that live in extreme environments appear to have undergone less evolutionary change than other living groups.
+
+Photosynthetic organisms probably freed living organisms from a dwindling source of free hydrogen. The first photosynthetic organisms probably used hydrogen sulfide as a source of hydrogen for reducing carbon dioxide to sugars. Later, water served this same purpose, and oxygen liberated by photosynthetic reactions began to accumulate in the atmosphere. Earth and its atmosphere slowly began to change. Ozone in the upper atmosphere began to block ultraviolet radiation from the sun; the reducing atmosphere slowly became an oxidizing atmosphere, and at least some living organisms began to utilize oxygen. About 420 million years ago, enough protective ozone had formed, making life in the terrestrial environment more feasible. Ironically, the change from a reducing atmosphere to an oxidizing atmosphere also meant that life could no longer arise abiotically. The first cells were most likely very simple prokaryotic forms. The prokaryotes may have arisen many billions of years ago.
+
+Eukaryotes are thought to have first appeared about 1.5 billion years ago. The eukaryotic
+cell might have evolved when a large anaerobic (living without oxygen) amoeboid
+prokaryote ingested small aerobic (living with oxygen) bacteria and stabilized them,
+instead of digesting them. This idea is known as the endosymbiont hypothesis
+(Fig. 24.1a) and was first proposed by Lynn Margulis. According to this hypothesis, the
+aerobic bacteria developed into mitochondria, which are the sites of aerobic respiration
+and most energy conversion in eukaryote cells. The possession of these mitochondria-
+like endosymbionts brought the advantage of aerobic respiration to the host.
+
+Flagella (whiplike structures) may have arisen through the ingestion of
+prokaryotes similar to spiral-shaped bacteria called spirochetes. Ingestion of prokaryotes
+that resembled present-day cyanobacteria could have led to the endosymbiotic
+development of chloroplasts in plants.
+
+Another hypothesis for the evolution of eukaryotic cells proposes that the
+prokaryotic cell membrane invaginated (folded inward) to enclose copies of its genetic
+material (Fig. 24.1b). This invagination resulted in the formation of several double-
+membrane-bound entities (organelles) in a single cell. These entities could then have
+evolved into the eukaryotic mitochondrion, nucleus, chloroplast etc.
+
+Whatever the exact mechanism for the evolution of the eukaryotic cell might be,
+the formation of the eukaryotic cell led to a dramatic increase in the complexity and
+diversity of life-forms on the earth. At first, these newly formed eukaryotic cells existed
+only by themselves. Later, however, some probably evolved into multicellular organisms
+in which various cells became specialized into tissues, which, in turn, formed organs for
+many different functions. These multicellular forms then adapted themselves to life in a
+great variety of environments.
+
+INHERITANCE OF ACQUIRED CHARACTERISTICS
+
+Toward the end of the eighteenth century, several naturalists suggested that life
+had evolved along with the evolution of earth. But only one of Darwin's predecessors
+developed a comprehensive model that attempted to explain how life evolves. Jean
+Baptiste Lamarck (1744–1829) published his theory of evolution in 1809, the year
+Darwin was born. Lamarck was in charge of the invertebrate collection at the Natural History
+Museum in Paris. He presented a mechanism to explain how specific adaptations evolve.
+Lamarck argued that those parts of the body used extensively to cope with the
+environment become larger and stronger, while those that are not used deteriorate.
+Among the examples Lamarck cited were the blacksmith developing a bigger bicep in the
+arm that works the hammer and the giraffe stretching its neck to new lengths in pursuit of
+leaves to eat. The second idea Lamarck adopted was called the inheritance of acquired
+characteristics. In this concept of heredity, the modifications an organism acquires
+during its lifetime can be passed along to its offspring, e.g., the long neck of the giraffe,
+Lamarck reasoned, evolved gradually as the cumulative product of a great many
+generations of ancestors stretching higher and higher. However, now we know that
+acquired characteristics cannot be inherited.
+
+Charles Darwin
+
+Charles Darwin was born in Shrewsbury, in western England, in 1809. He joined
+the expedition on the Beagle to the South American coastline. He observed and collected
+thousands of specimens of diverse fauna and flora of South America. He noticed that
+the fauna and flora of the different regions of the continent had a definite South American
+stamp, very distinct from the life forms of Europe. Furthermore, the South American
+fossils that Darwin found, though clearly different from modern species, were distinctly
+South American in their resemblance to the living plants and animals of that continent. A
+particularly puzzling case of geographical distribution was the fauna of the Galapagos
+Islands. Most of the animal species on the Galapagos live nowhere else in the world,
+although they resemble species living on the South American mainland. It was as if
+the islands were colonized by plants and animals that strayed from the South American
+mainland and then diversified on the different islands. Among the birds Darwin collected
+on the Galapagos were 13 types of finches that, although distinct species, were
+different adaptations of a common ancestral finch. Some species were restricted to individual islands, while others were
+distributed on two or more islands that were close together.
+
+After returning to Great Britain, Darwin studied species and adaptations as closely as
+he could, comparing them with ancestral forms and considering how gradual accumulation of changes,
+separated from original habitats by isolation, could cause populations to become distinct.
+This was apparently what happened to the Galapagos finches.
+
+By the early 1840s, Darwin had worked out the major features of his theory of
+natural selection as the mechanism of evolution. In 1844, Darwin wrote a long essay on
+the origin of species and natural selection. But before it could be published Alfred
+Wallace, a young naturalist working in the East Indies, developed a theory of natural
+selection essentially identical to Darwin’s. Wallace's paper, along with extracts from
+Darwin's unpublished 1844 essay, were presented to the Linnaean Society of London on
+July 1, 1858. Darwin quickly finished The Origin of Species and published it the next
+year. In this book Darwin developed two main points:
+
+Descent with Modification: Darwin believed in a perceived unity in life, with all
+organisms related through descent from some common ancestor that lived in the remote
+past. In the Darwinian view, the history of life is like a tree, with multiple branching and
+rebranching from a common trunk all the way to the tips of the living twigs, symbolic of
+the current diversity of organisms. At each fork of the evolutionary tree is an ancestor
+common to all lines of evolution branching from that fork.
+
+Natural Selection and Adaptation: Darwin suggested that populations of
+individual species become better adapted to their local environments through natural
+selection. Darwin’s theory of natural selection was based on the following observations.
+
+(a) Production of more individuals than the environment can support leads to a
+struggle for existence among individuals of a population, with only a fraction of
+offspring surviving each generation.
+
+(b) Survival in the struggle for existence is not random, but depends in part on the
+hereditary constitution of the surviving individuals. Those individuals whose
+inherited characteristics fit them best to their environment are likely to leave
+more offspring than the less fit individuals.
+
+This unequal ability of individuals to survive and reproduce will lead to a gradual
+change in a population, with favourable characteristics accumulating over the
+generations, thus leading to the evolution of a new species.
+
+The Modern Synthesis: The modern evolutionary synthesis integrated Mendelian genetics with Darwinian natural selection. This synthesis emphasized the extensive genetic variation within populations and the importance of quantitative characters. With progress in population genetics, Mendelism and Darwinism were reconciled, and the genetic basis of natural selection was worked out. Thus, a comprehensive theory, the modern synthesis or Neo-Darwinism, was developed because it integrated discoveries and ideas from fields including paleontology, taxonomy, biogeography, and more.
+
+Evidences of Evolution
+
+Evolution leaves observable signs. Darwin's theory of evolution was mainly based
+on the evidence from the geographical distribution of species and from the fossil record.
+However, as biology progressed, new discoveries continue to validate the evolutionary view of life. Let us discuss now some of the evidences.
+
+Biogeography: It was the geographical distribution of species — biogeography — that
+first suggested the idea of evolution to Darwin. Islands have many species of plants and
+animals that are endemic but closely related to species of the nearest mainland or
+neighboring island. Consider armadillos, the armored mammals that live only in South
+America. The evolutionary view of biogeography predicts that contemporary armadillos
+are modified descendants of earlier species that occupied these continents, and the fossil
+record confirms that such ancestors existed.
+
+The Fossil Record: The succession of fossil forms is strong evidence in favour of
+evolution. It provides a visual record in a series showing the evolution of an
+organism. For instance, evidence from biochemistry, molecular biology, and cell biology
+places prokaryotes as the ancestors of all life, and predicts that bacteria should precede all
+eukaryotic life in the fossil record. Indeed, the oldest known fossils are prokaryotes.
+Another example is the chronological appearance of the different classes of vertebrate animals in the fossil record:
+fossil fishes, the earliest vertebrates, with amphibians next, followed by reptiles,
+then mammals and birds. This sequence is consistent with the history of vertebrate
+descent. The evolution of horse provides an example of such a history. Fossils are either the actual remains or traces of organisms that lived in ancient
+geological times. The organism may be embedded in sand, resin or ice, or an
+impression or cast is made of the body parts, the tissue being replaced or
+petrified by silica or calcium carbonate minerals. Most fossils are found in
+sedimentary rocks.
+
+Comparative Anatomy: Anatomical similarities between species grouped in the
+same taxonomic category bring another support to the theory of descent with modification.
+For example, the same skeletal elements make up the forelimbs of humans,
+cats, whales, bats, and all other mammals, although these appendages have very different
+functions. The basic similarity of these forelimbs is the consequence of the descent of all
+from a common ancestor. Homologous organs are structurally similar but functionally different — wings, flippers, and forelegs of different mammals are variations on a common anatomical theme that has been modified for divergent functions. Analogous organs are functionally alike but structurally different (e.g., wings of bats, birds and insects).
+
+Similarity in characteristics resulting from common ancestry is known as homology,
+and such anatomical signs of evolution are called homologous structures. Vestigial organs are rudimentary structures of marginal, if any, use to the organism. Vestigial organs are historical remnants of structures that had important functions in ancestors but are no longer essential presently. For instance, the skeletons of whales and some snakes retain vestiges of the pelvis and leg bones of walking ancestors (Fig. 24.2). The vermiform appendix in carnivores, ear muscles in man, etc., are other examples of vestigial structures.
+
+Comparative Embryology: Closely related organisms go through similar stages in their
+embryonic development. For example, all vertebrate embryos go through a stage in which
+they have gill pouches on the sides of their throats. At an early embryonic stage of development,
+similarities between fishes, frogs, snakes, birds, humans, and all other vertebrates are
+more apparent than differences (Fig. 24.3). As development progresses, the various
+vertebrates diverge more and more, taking on the distinctive characteristics of their classes. For example, the gill pouches develop into gills in fishes; in terrestrial vertebrates,
+embryonic structures become modified for other functions, such as the eustachian tube in mammals. Comparing fully developed forms thus obscures their common origin, while embryology often reveals it.
+
+NATURAL AND ARTIFICIAL SELECTION
+
+Natural selection arises from the interaction between organisms and their environment.
+Darwin found evidence in nature: domestication and breeding show that selection
+can produce marked changes in a relatively short period of time. Artificial selection by breeders can produce desired changes in populations by selecting for certain traits. Natural selection acts similarly but is driven by environmental pressures rather than human choice.
+
+Genetic Variation and Population Genetics
+
+Genetic variation in populations is fundamental to evolution. A gene pool consists of all the alleles for all the genes in a population. An individual may be homozygous or heterozygous for a given gene. If all members of a population are homozygous for the same allele, that allele is said to be fixed in the gene pool. More often, there are two or more alleles for a gene, each having relative frequency (proportion) in the gene pool. Consider an example: a wildflower population with two varieties contrasting in flower color. An allele for pink flowers, symbolized by A, is completely dominant over an allele for white flowers, symbolized by a. Suppose these are the only two alleles for this locus in the population. Our imaginary population has 500 plants. Twenty have white flowers because they are homozygous for the recessive allele; their genotype is aa. Of the 480 plants with pink flowers, 320 are homozygous (AA) and 160 are heterozygous (Aa). Since these are diploid organisms, there are a total of 1000 copies of genes for flower color in the
+population. The dominant allele accounts for 800 of these genes (320×2 = 640 for AA
+plants, plus 160×1 = 160 for Aa individuals).
+
+Thus, the frequency of the A allele in the gene pool of this population is 80%, or 0.8.
+And since there are only two allelic forms of the gene, the a allele must have a frequency
+of 20%, or 0.2. Related to these allele frequencies are the frequencies of genotypes.
+In our model wildflower population, these frequencies are: AA = 0.64 (64%) (320 out of 500 plants), Aa = 0.32 (160/500), and aa = 0.04 (20/500).
+0.64 + 0.32 + 0.04 = 1.
+
+Hardy-Weinberg Theorem
+The frequencies of alleles and genotypes in a non-evolving population are described by the Hardy-Weinberg theorem. The theorem, named for the two scientists who derived the principle in 1908, states that the relative frequencies of alleles and genotypes in a population’s gene pool remain constant over generations unless acted upon by agents other than sexual recombination. Sexual recombination alone will not alter the relative frequencies of alleles or genotypes. (p = frequency of A; q = frequency of a).
+
+For a gene locus where only two alleles occur in a population, population
+geneticists use the letter p to represent the frequency of one allele and the letter q to
+represent the frequency of the other allele. In the imaginary wildflower population, p = 0.8
+and q = 0.2. Note that p + q = 1; the combined frequencies of all possible alleles must
+account for 100% of the genes for that locus in the population. If there are only two
+alleles and we know the frequency of one, the frequency of the other can be calculated:
+1 − p = q, or 1 − q = p.
+
+When gametes combine their alleles to form zygotes, the probability of
+generating an AA genotype is p². In the wildflower population, p = 0.8, and p² = 0.64, the
+probability of an A sperm fertilizing an A ovum to produce an AA zygote. The frequency
+of individuals homozygous for the other allele (aa) is q², or 0.2 × 0.2 = 0.04 for the
+wildflower population. There are two ways in which an Aa genotype can arise, depending
+on which parent contributes the dominant allele. Therefore, the frequency of
+heterozygous individuals in the population is 2pq (2 × 0.8 × 0.2 = 0.32, in our example). If
+we have calculated the frequencies of all possible genotypes correctly, they should add up
+to 1:
+p² + 2pq + q² = 1.
+
+Factors affecting gene frequency
+Many factors can alter gene frequency. Out of these, five affect the proportion of
+homozygotes and heterozygotes enough to produce significant deviations from the
+proportions predicted by the Hardy-Weinberg principle. They are listed below.
+
+Mutation: The ultimate source of all changes in alleles. Mutations introduce new alleles into a gene pool, though rarely will a single mutation alone cause large evolutionary change.
+
+Migration: A very potent agent of change is migration (gene flow) — the movement of members from one population to another. Immigration of individuals into a population introduces new alleles into the gene pool.
+
+Genetic Drift: Genetic drift is the change in allele frequencies due to random sampling effects, especially in small populations.
+
+Non-random mating: Inbreeding is the most common form; it does not alter allele
+frequency, but lessens the proportion of heterozygote individuals. Individuals with certain genotypes sometimes mate with one another more commonly than would be expected on a random basis. This causes the frequencies of particular genotypes to differ greatly from those predicted by the Hardy-Weinberg principle.
+
+Selection: Some individuals leave behind more progeny than others, and the
+rate at which they do so is affected by their inherited characteristics. This is called selection. Selection can be artificial selection or natural selection. In artificial selection, breeders select for desired characters. In natural selection, the environment plays this role, thus affecting the proportions of genes in a population.
+
+ENDANGERED SPECIES
+
+Extinction has been the fate of most plant and animal species. It is a natural
+process that will continue. In recent years, however, the threat to the welfare of wild
+plants and animals has increased dramatically—mostly as a result of habitat destruction.
+Tropical rain forests, the most threatened areas on the earth, have been reduced to 44% of
+their original extent. In certain areas, such as Ecuador, forest coverage has been reduced
+by 95%. This decrease in habitat has resulted in tens of thousands of extinctions.
+Accurately estimating the number of extinctions is impossible in areas like rain forests,
+where taxonomists have not even described most species. We are losing species that we
+do not know exist and we are losing resources that could lead to new medicines, foods,
+and textiles. Other causes of extinction include climate change, pollution, and invasions
+from foreign species. Habitats other than rain forest—grasslands, marshes, deserts, and
+coral reefs—are also being seriously threatened.
+
+An endangered species is in imminent danger of extinction throughout its range
+(where it lives). A threatened species is likely to become endangered in the near future.
+Preserving a species requires more than preserving a few remnant individuals. It
+requires preservation of genes within species groups to promote species survival in
+changing environments. This genetic diversity requires large populations of plants and
+animals. Preservation of endangered species depends on a multifaceted conservation plan:
+
+National parks to protect large tracts of land and wildlife habitats that allow movement between natural areas.
+
+Multiple-use areas that allow controlled private activity while maintaining wildlife habitat.
+
+Zoos and botanical gardens to save species whose extinction is imminent.
+
+In Pakistan, Cheetah, Tiger, Asian lion, Indian rhino, Cheer pheasant, Crocodile and
+Gharial have been declared extinct (locally). Meanwhile, Indus dolphin, Blackbuck, Common peafowl,
+Great Indian bustard, Houbara bustard, White-headed duck and Marbled teal are among
+the animals near extinction.
+Deserts, sub-mountainous tracts and wetlands are habitats in peril. We must
+protect them rapidly. Endangered species of plants have been recorded to more than 500.

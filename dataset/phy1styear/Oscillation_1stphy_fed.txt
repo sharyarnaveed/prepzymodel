@@ -1,0 +1,118 @@
+
+7.1 OSCILLATIONS
+When a particle executes repeated movement about a mean position, it is said to be in harmonic motion, and if this motion is repeated at regular intervals, it is called periodic motion. Oscillation is a type of harmonic motion typically periodic, in one or more dimensions. Among the examples of oscillations in the physical world, are the motion of a spring, a pendulum, or the back-and-forth motion of a swing.
+
+7.2 TERMINOLOGY OF OSCILLATORY MOTION
+In the given Figure 7.1(a) the motion of a simple pendulum is shown. When the bob of simple pendulum is displaced to one side and released, it starts vibrating about its mean position. For such a motion we use the following terminology.
+(i) Vibratory Motion: The to and fro (back and forth) motion of a body about the mean position is called vibratory motion.
+(ii) Vibration: The complete round trip of a body about the mean position is called vibration. For example, motion of bob of pendulum from ‘A’ to ‘B’ and back from ‘B’ to ‘A’ is one vibration as shown in Figure 7.1(a).
+(iii) Time period: The time required by a body to complete one vibration, is called time period.
+(iv) Frequency: The number of vibrations completed by a body in one second is called frequency. It is the reciprocal of the time period of a vibrating body. f = 1/T. Its unit is called hertz. 1 Hz = 1 s⁻¹.
+(v) Periodic Motion: Motion, which is repeated in equal intervals of time, is called periodic motion. For example, motion of the pendulum of wall’s clock.
+(vi) Displacement (x): At any instant, the distance of the oscillating body from the mean position is called displacement.
+(vii) Amplitude (x₀): The maximum displacement of a body from mean position, is called amplitude.
+(viii) Angular frequency (ω): The number of revolution per second of a body is called angular frequency. ω = 2πf. f = ω / 2π where ω is angular velocity.
+
+7.3 SIMPLE HARMONIC MOTION (S.H.M)
+A body of mass ‘m’ attached with a spring of spring constant ‘k’ lying on a smooth surface of table as shown in Figure 7.1(b). Initially, the body is at rest at position ‘O’ called mean position or equilibrium position.
+Now we apply some force F on body and we displace the body from ‘O’ to A’. The spring will exert the force on body due to elastic restoring force (F = -kx). Hence, when we release the body it will move towards 'O' and will cross the mean position 'O' due to inertia and reaches point B compresses the spring it returns and start oscillation between A & B.
+At point ‘A’, F_applied = - F_restoring. kx = -F_restoring (by Hooke’s law). kx = -ma. a = -(k/m) x. During the motion ‘k’ and ‘m’ remains constant. Then a = - (k/m) x (7.1). a = constant (-x). a ∝ -x (7.2). Where ‘k’ is constant depending upon the nature (physical shape and structure) of a spring.
+The type of motion in which the acceleration of body is always directly proportional to the displacement of body from mean position and is always directed towards the mean position is called simple harmonic motion.
+Time period: As the time required for one vibration of a simple harmonic oscillator is T = 2π / ω (3). But we know that a = -x ω² = -(k/m) x = - x ω². ω = √(k/m) (7.8). put value in Eq (3) we get T = 2π √(m/k) (7.9).
+Frequency: as the frequency is f = 1/T. f = (1/2π) √(k/m) (7.10).
+
+Example 7.1 SPRING CONSTANT
+A mass of 0.5 kg is suspended from a spring. The spring is stretched by 0.098 m. Calculate the spring constant when it is given a small displacement.
+GIVEN: Mass m = 0.5 kg, Force = weight = mg = 0.5 * 9.8 = 4.9 N, Extension = x = 0.098 m. REQUIRED: Spring constant k = ?
+SOLUTION: In case of spring: k = F/x. k = 4.9 / 0.098 = 50 N m⁻¹. k = 50 N m⁻¹.
+
+ASSIGNMENT 7.1
+A 2.0 kg block hung from a vertical spring causes it to stretch by 20.0 cm. If the 2.0 kg block is replaced by a 0.50 kg mass, and the spring is stretched and released, what are the frequency and period of the oscillations? (2.2 Hz & 0.45 s)
+
+7.4 CIRCULAR MOTION AND S.H.M
+Let there be particle of mass m whirling in a horizontal circle of radius r with angular velocity ω. A distant light causes a shadow of mass m on wall, the shadow executes simple harmonic motion. Similarly when a particle moves in vertical circle, its projection vibrates simple harmonic motion on the diameter of the circle, having time-period, frequency and acceleration.
+Let AB is the diameter and O is the centre of circle. When the particle moves in circle, its projection ‘Q’ vibrates along the diameter of circle about the mean position O. When the body is at point ‘P’, its projection ‘Q’ is at distance ‘x’ from mean position.
+If a_c is the centripetal acceleration of body directing towards the mean position O.
+We have resolved the centripetal acceleration into its Components as:
+Its component along the diameter is a_x = a_c cos θ (1). As a_c = v²/r = r ω², where ‘ω’ is the angular velocity of body. Then (eq.1) becomes, a_x = r ω² (cos θ) (2). From Figure 7.2a, we see that Δ OQP is a right angle triangle. So x/r = cos θ => x = r cos θ. Putting in eq. (2), then a_x = r ω² (x/r) = ω² x (3). As a_x is directed towards the mean position so we take its sign negative and (Eq.3) becomes, a_x = ω² (-x). a_x = - constant x Where ω² = constant. a_x ∝ -x. Which is the equation of S.H.M.
+(1) Time-period = T: The time required by a body to complete one vibration, is called time-period. In given Figure 7.3(a), the vibration of a body is shown. The time period is given by T = 2π / ω.
+(2) Frequency = f: By definition, f = 1/T. Putting for ‘T’, then f = ω / (2π) => ω = 2π f which is the frequency of body in S.H.M.
+(3) Velocity of Projection: Reconsider the Figure 7.2(a) We have resolved the velocity of body in its components as: (i) v_x = v sin θ and (ii) v_y = v cos θ. As ‘Q’ vibrates in the direction of v_x, so we take ‘v_x’ only. That is: v_x = v sin θ (7.3). By trigonometry cos²θ + sin²θ = 1. sin²θ = 1 - cos²θ. From figure x/r = cos θ. So, sin²θ = 1 - (x² / r²). sin θ = √(1 - (x² / r²)) = (1/r) √(r² - x²). Putting the value of sin θ in equation (7.3) v_x = v (1/r) √(r² - x²) (2). Putting v = r ω, then: v_x = (r ω / r) √(r² - x²). or v_x = ω √(r² - x²) (7.4). Where ‘r’ is radius of circle ‘x’ is the displacement of projection ‘Q’ from mean position ‘O’ and ‘ω’ is the angular velocity of projection of particle.
+
+7.5 SIMPLE PENDULUM
+A simple pendulum consists of a small heavy mass m suspended by a light string of length ℓ fixed with its upper end as shown in Figure 7.4. When such a pendulum is displaced from its mean position, it starts oscillating to and fro about the mean position O.
+Let the bob of pendulum of mass ‘m’ having weight w is displaced from mean position ‘O’ towards ‘A’. Weight w acts vertically in downward direction ‘ℓ’ is length of pendulum which is the sum of the length of string plus the radius ‘r’ of the metallic bob. T is tension in string. We have resolved w into its components. As T = mg cos θ. F_applied = - F_restoring (1). F_restoring = - mg sin θ (2). m a = - mg sin θ. a = -g sin θ (i). It means that ‘a’ depends upon sin θ. When ‘θ’ is very small, sin θ ≈ θ, and (i) becomes a = -g θ (7.5). But when ‘θ’ is very small, point ‘O’ will be very near to point ‘A’ and arc OA = x is a straight line and then Δ AOC will be a right angle triangle. And x/ℓ = sin θ = θ. For SHM a ∝ -x. Then Eq (7.5) becomes, a = -g (x/ℓ). OR a = -(g/ℓ) x (7.6). During the motion, ‘g’ and ‘ℓ’ remain constant and so we put (g/ℓ) = ω² = constant. Hence a = constant (-x). a ∝ -x. This is the equation of S.H.M. So motion of simple pendulum is a S.H.M.
+(i) Time-Period = T: The time required by the pendulum to complete one vibration, is called Time-Period. By definition, T = 2π / ω (i). But ω² = g/ℓ or ω = √(g/ℓ). Then (i) becomes, T = 2π / √(g/ℓ) = 2π √(ℓ/g) (7.7). This equation shows that: (i) “The longer the pendulum, greater will be its time period”. (ii) The time period of the pendulum is independent of mass of the bob.
+
+Example 7.2 SPIDER SWINGS
+A spider swings in the breeze from a silk thread with a period of 0.6 s. How long is the spider’s strand of silk?
+GIVEN: Time period T = 0.60 s, Gravitational acceleration, g = 9.8 m/s². REQUIRED: length ℓ = ?
+SOLUTION: T = 2π √(ℓ/g) => T² = 4π² (ℓ/g) => ℓ = (g T²) / (4π²). ℓ = (9.8)(0.60)² / (4π²) = 0.089293 m. ℓ = 0.089293 m.
+
+ASSIGNMENT 7.2:
+A pendulum extending from the ceiling almost touches the floor and that its period is 12 s. How tall is the tower? (ℓ = 36 m)
+
+7.5.1 Energy conservation in case of S.H.M.
+To study the energy conservation in simple harmonic motion, consider a mass m suspended from a strong support by means of a spring of spring constant k as shown. Let the mass is pulled through displacement x₀ and released. The mass will oscillate with amplitude x₀. Let at certain instant of time the oscillating mass is at a displacement x from the equilibrium position O. According to Hook’s law the applied force is directly proportional to the displacement x. Now the K.E, P.E & T.E. of the system is equilibrium position.
+K.E in simple Harmonic motion: As the K.E of a simple harmonic oscillator moving with an instantaneous velocity is K.E = ½ m v². But v = ω √(x₀² - x²) [Putting r = x₀ in Eq 7.4]. K.E = ½ m [ω √(x₀² - x²)]² = ½ m ω² (x₀² - x²) = ½ k (x₀² - x²) (7.11). Thus the K.E will be maximum when oscillator passes at the mean position i.e when x = 0; (K.E)_max = ½ k x₀² (7.12). The K.E will be minimum (zero) when the oscillator is at the extreme position i.e when x = x₀; K.E = ½ k (x₀² - x₀²) = 0 (7.13).
+P.E in simple harmonic motion: To study the elastic P.E in SHM we know that the restoring force on a simple harmonic oscillator at a displacement x is F_r = -kx. F_r = -m ω² x ...(7.14). Where ω = √(k/m). As the force is applied F = -F_r = -(-m ω² x). F = m ω² x (7.14 a). The force F is m ω² x when the displacement is x, this force is zero when x = 0. So the average force F_avg acting on the mass during displacement x is F_avg = (F₁ + F₂)/2 = (0 + k x)/2 = (0 + m ω² x)/2. or F_avg = ½ m ω² x (7.15). The work done against the restoring force in displacing the oscillator through displacement x is Work = F_avg . x. work = (½ m ω² x) . x = ½ m ω² x² (7.16). According to work energy principle this work is stored as an elastic potential energy in the oscillating mass-spring system. P.E = ½ m ω² x². P.E = ½ k x² (7.17). Thus the P.E is maximum when the oscillator is at the extreme position i.e when x = x₀. (P.E)_max = ½ k x₀² (7.18). The P.E is zero when the oscillator is at the mean position i.e when x = 0. P.E = ½ k (0) = 0.
+
+7.9.2 Total energy in SHM and energy conservation
+As the energy of a simple harmonic oscillator at a displacement x is partly kinetic and partly potential. The total energy of a simple harmonic oscillator at displacement x is Total energy = K.E + P.E. E = ½ m ω² (x₀² - x²) + ½ m ω² x² = ½ m ω² x₀² (7.19). = ½ k x₀² (7.20). Thus it is clear that the total energy of SHM remains constant everywhere. At mean position P.E is zero and the whole energy is kinetic. At the extreme position the energy is wholly potential and kinetic energy = 0. The energy oscillates back and forth between K.E and P.E but the total energy remains the same.
+
+ASSIGNMENT 7.3:
+Determine the period and frequency of a car whose mass is 1400 kg and whose shock absorbers have a spring constant of 6.5 x 10⁴ N/m after hitting a bump. Assume the shock absorbers are poor, so the car really oscillates up and down.
+
+7.6 FREE AND FORCED OSCILLATIONS
+(i) A body is said to be executing free vibrations if it oscillates with its natural frequency without the interference of an external force. For example, a simple pendulum vibrates freely with its natural frequency that depends only upon its length when it is slightly displaced from its mean position.
+(ii) If a freely oscillating system is subjected to an external force, then forced vibrations will take place. Such as when the mass of the pendulum (when vibrating) is struck repeatedly, then forced vibrations are produced. For example the vibrations of a factory floor caused by the running of heavy machinery are an example of forced vibration. Another example of forced vibration is loud music produced by sounding wooden boards of string instruments.
+
+7.7 RESONANCE
+We observe daily; that when a swing is vibrating, it is always desirable to increase the amplitude of its vibration. To do so, we give a specific movement to our body at a suitable time and the amplitude of the swing is increased. On contrary some suspension bridges, it is advised that the general public or army troops should not march in steps while crossing the bridge. The reason is that, the bridge receives periodic impulses by the regular steps and if the time-period of pulses happens to be equal to the natural time-period of the bridge, a vibration of dangerously large amplitude may result and the bridge may collapse. These examples show that there is always a marked increase in the amplitude of a vibrating body when an external force having a time period equal to the natural time period of the body is applied to it. This process is called “resonance”. Thus it also occurs when the applied force has frequency an integral multiple of the natural frequency of body. If ‘f₁’ is the natural frequency of a body, then resonance takes place at: f₂ = 2f₁, f₃ = 3f₁, f₄ = 4f₁, or f_n = n f₁.
+Experiment 1 In given diagram 7.7. A number of simple pendulums A, B, C, D, E etc; attached with a stretched string/rubber cord are shown. The string is stretched in between the two hooks. Lengths of A,B are same and is equal to L₁, and lengths of ‘C’ and ‘D’ are same and is equal to L₂.
+Case (a) If the length of ‘E’ is equal to the lengths of ‘A’ and ‘B’ and if ‘E’ is set into vibrations in a direction perpendicular to the plane of the paper, then after sometime, we see that ‘A’ and ‘B’ will start vibrations automatically (because of same length and frequencies) but ‘C’ and ‘D’ will remain at rest (because of the difference is lengths of ‘E’ with ‘C’ and ‘D’).
+Case (b) If the length of ‘E’ is made equal to the lengths of ‘C’ and ‘D’ and if ‘E’ is set into vibrations by applying some force, we see in this case, ‘C’ and ‘D’ will start vibrations while ‘A’ and ‘B’ will remain at rest.
+
+1. Radio and Resonance: Tuning a radio is the best example of electrical resonance. When we turn the knob of a radio, to tune a station, we are changing the natural frequency of the electric circuit of the receiver, to make it equal to the transmission frequency of the radio station. When the two frequencies match, energy absorption is maximum and this is the only station we hear.
+2. Magnetic Resonance Image (M.R.I): Magnetic resonance scanning has greatly improved medical diagnoses. Strong radio frequency radiations are used to cause nuclei of atoms to oscillate. When resonance occurs, energy is absorbed by the molecules. The pattern of energy absorption can be used to produce a computer enhanced photograph Figure 7.9.
+3. Cooking of Food and Resonance: In a microwave oven, microwave with a frequency similar to the natural frequency of vibration of water or fat molecules are used. When food which contains water molecules is placed in the oven, the water molecules resonates, absorbing energy from the microwaves and consequently gets heated up. The plastic or glass containers do not heat up since they do not contain water molecules Figure 7.10.
+
+7.8 WAVEFORM OF SIMPLE HARMONIC MOTION
+We have seen that in circular motion when a body is executing Simple Harmonic Motion. Then x = r cos θ = r cos ωt. x = x₀ cos ωt = Displacement of Projection on diameter from mean position. The waveform is shown in given diagram. if we determine the value of x at different instant and plot it against time, we get a curve as shown in Figure (7.11) and Figure (7.12). This graph gives the displacement as a function of time is known as the wave form of SHM. The wave form of simple harmonic motion can also be experimentally traced by the following experiment. Let a small mass m is hung from the hook of a spring. A sheet of paper is placed behind the mass and there is an arrangement to move the paper at constant speed as shown. The mass is provided with a pen which lightly touches the paper. The pen would mark the position of the mass m on the paper at each instant. The mass is raised a distance “y” and then released. It executes Simple Harmonic Motion of amplitude “A” and the pen will trace out its wave form on the paper as shown in Figure (7.12).
+
+7.9 PHASE
+Phase is the quantity which shows the state of motion of an oscillator. In circular motion, we studied, the displacement of projection of the body moving in circle, executing S.H.M on the diameter of the circle, as given by: x = x₀ cos θ = x₀ cos ωt (7.21). Where x is instantaneous displacement, x₀ is maximum displacement; ω is the angular velocity its graphical representation is shown in Figure 7.13.
+The general way of showing this equation is x = x₀ cos (ωt + φ) (7.22). The time varying quantity, (ωt + φ), in Eq. (7.22) is called the phase of the motion. It describes the state of motion at a given time. The constant φ is called the phase constant (or phase angle). The value of φ depends on the displacement and velocity of the particle at t = 0. The quantity φ represents the phase difference between the states of motion of two oscillators. Let us explain, this by help of graph drawn between ‘x’ and ‘t’. If φ = 0 then equation 7.22 become x = x₀ cos ωt then putting different values of ωt = 0, π/2, π, 3π/2, 2π, we get a graph shown in Figure 7.13.
+If φ = 90°, then from equation 7.22 , we get x = x₀ cos (ωt + 90°). Putting different values of ‘t’ we get a graph shown in Figure 7.14. Comparing curves in Figure 7.13 and Figure 7.14 we say that, the curve in Figure 7.13 leads in phase the curve in Figure 7.14 by 90°.
+Similarly, if φ = 180°, then putting different values of ‘t’ using equation 7.22 we get the curve as shown in Figure 7.15. Comparing Figure 7.13 and Figure 7.15, we see that in Figure 7.13 the displacement of the oscillation reaches position maximum value x₀, whereas at the same instant the other oscillation reaches a negative maximum value (-x₀). Thus the two oscillations are said to be out of phase. The angle θ = ωt which specifies the displacement x as well as the direction of motion of the point oscillating S.H.M is called Phase.
+
+Example 7.3 SPRING VIBRATES
+A mass at the end of a spring vibrates up and down with a frequency of 0.600 Hz and an amplitude of 5 cm. What is its displacement 2.56 s after it reaches a maximum?
+GIVEN: amplitude x₀ = 5 cm, Frequency, f = 0.600 Hz. REQUIRED: displacement x = ?
+SOLUTION: x = x₀ cos(2 π f t). = (5 cm) cos [2π (0.6 Hz)(2.56 s)]; x = -4.87 cm.
+
+ASSIGNMENT 7.4
+An object vibrates with an amplitude of 6 cm and a frequency of 0.490 Hz. Starting from maximum displacement in the positive direction, when will be the first time that its displacement is 2 cm? ( x = x₀ cos(2 π f t); (t = 0.400 s) ).
+
+7.10 DAMPED OSCILLATIONS
+Oscillations (vibrations) are damped when they are changed by some action. For example, touching an oscillating (vibrating) tuning fork with your finger is said to be damping it. The oscillation (number of hertz) of an electrical oscillator, such as a TV tuner, is changed by varying the settings of the tuner.
+For an ideal oscillatory system, the total mechanical energy of the system remains constant, as we discussed in spring mass system, motion of a body in circle and also in case of simple pendulum. But in practical life, as we observe daily, some dissipating forces are acting on these systems. Oscillations do die out with time unless energy is continuously supplied to the system, for example, to keep a swing continuously oscillating, the swing must be given a small push at right time during each oscillation Figure 7.17. The result of such discussion is that, oscillations where amplitude becomes smaller and smaller with time are known as damped oscillation. To counteract dampening forces, you need to keep pumping a swing.
+The process by which energy of the oscillating system is dissipated is known as damping. The energy of a damped oscillating system decreases due to the work done against friction. Oscillation of a damped simple pendulum is shown in Figure 7.19. The amplitude of an oscillating simple pendulum decreases gradually with time till it becomes zero. Such oscillations, in which the amplitude decreases steadily with time, are called damped oscillations.
+The concept of damping is used in the suspension system of a car, motor cycle etc (as shown in Figure 7.18). Damping system is required to ensure a comfortable ride for the passengers when the car, bus, motor cycle etc moving on a bumpy, rough road by producing excessive oscillations by damping using shock absorbers in such vehicles.
+
+7.11 SHARPNESS OF RESONANCE
+At resonance, the amplitude of vibration becomes very large when damping is small. Thus, damping prevents the amplitude from becoming excessively large. The amplitude decreases rapidly at a frequency slightly different from the resonant frequency. Whereas a heavily damped system has a fairly flat resonance curve as shown in an amplitude frequency graph Figure 7.20.
+Damped oscillations are applied in the shock absorber of a car which provides a damping force to prevent excessive vibrations.
+The effect of damping can be observed by attaching a very light mass such as a pith ball, and another of the same length carrying a heavy mass such as a lead bob of equal size, to a rod. They are set into vibrations by a third pendulum of equal length, attached to the same road. It is observed that amplitude of the lead bob is much greater than that of the pith-ball. The damping effect for the pith-ball due to air resistance is much greater than for the lead bob. Thus, the sharpness of the resonance curve of a resonating system depends on the frictional loss of energy.
+
+SUMMARY
+Oscillatory motion: The to and fro motion of a body about its mean position is called oscillations.
+Amplitude: The maximum displacement of particles from their normal position.
+Damping: The dissipation of energy during oscillation, which prevents an object from continuing in simple harmonic motion and will eventually force it to stop oscillating altogether. Damping is usually caused by friction.
+Phase: The angle θ = ωt which specifies the displacement x as well as the direction of motion of SHM is called phase.
+Frequency: For a particle experiencing oscillation, frequency is the number of cycles that take place during one second. Frequency is measured in hertz.
+Harmonic Motion: The repeated movement of a particle about a position of equilibrium.
+Hertz: hertz is unit of frequency. It may be expressed in units of cycles s⁻¹. A unit for measuring frequency is hertz. Hertz is the number of cycles per second.
+Period: The amount of time required for one cycle in oscillating motion.
+Periodic Motion: Motion that is repeated at regular intervals.
+Resonance: it is the vibrations of a body under the action of a force having frequency equal to the natural frequency of body.

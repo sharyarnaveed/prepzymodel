@@ -1,0 +1,533 @@
+
+
+Most of the substances we encounter more often in daily life are mixtures. For example milk, wood, air, ocean water are mixtures of substances. Such substances have properties different from those of the pure material they contain. Any mixture has defining characteristics, its composition is variable and it retains some properties of its components. In this chapter we focus on two extremely common types of mixtures, solutions and colloids. We will discuss the role of intermolecular forces in their formation. We will examine equilibrium nature of solubility and will discuss how temperature and pressure affect this equilibrium. For solutions we will discuss ways of expressing concentration and go on learning various properties of solutions which do not depend on the nature of solute and daily life application of such properties.
+
+GENERAL PROPERTIES OF SOLUTIONS
+
+A sample of matter having a fixed composition and uniform properties throughout is called a phase. For example pure sample of water under standard conditions exists as a single liquid phase. The properties of water like density, pressure etc are uniform throughout this liquid phase. When a small quantity of common salt dissolves in it the entire sample remains a single phase. The composition and properties of this new phase are different from those of pure water. This is a mixture since it contains two different substances. Such a mixture is said to be homogeneous, because its properties are uniform throughout the liquid.
+A homogeneous mixture of two or more pure substances, which has uniform composition throughout is called solution.
+
+HYDROPHILIC AND HYDROPHOBIC MOLECULES
+
+There are some substances that do not dissolve in water. For instance substances like benzene, cyclohexane, oils etc. do not dissolve in water. This is because these substances have non-polar molecules which do not have any interaction with water molecules. Therefore, molecules can be hydrophilic or hydrophobic in nature.
+Hydro means water, philic means loving. So hydrophilic literally means water loving. Molecules that are miscible with water are known as hydrophilic molecules. Such molecules can form hydrogen bond with water molecules. For example, molecules of methanol, acetone, acetic acid etc. are called hydrophilic molecules. Since phobic means disliking, therefore hydrophobic literally means water disliking. Molecules that do not dissolve in water are known as hydrophobic molecules. For example, molecules of organic fats and oils are called hydrophobic molecules.
+
+NATURE OF SOLUTION IN LIQUID PHASE
+
+Solutions of liquids in liquids may be divided into three classes.
+(a) Completely miscible (b) Partially miscible (c) Immiscible.
+Completely Miscible Liquids
+Liquids which are miscible in all proportions are called completely miscible. For instance water and methanol, acetone and water, benzene and cyclohexane are completely miscible liquid pairs. Substances that dissolve in each other possess similar types of inter-molecular interactions. For example water and methanol are miscible because molecules in the pure liquids and their mixtures form hydrogen bonds. The degree of hydrogen bonding in the solution is same as that in the pure liquids. Benzene and cyclohexane are completely miscible because the molecules in the pure liquids and their mixtures interact through London dispersion forces. These dispersion forces between benzene and cyclohexane are about the same as those in pure liquids.
+Partially Miscible Liquids
+Liquids that dissolve in each other to a very small extent are called partially miscible liquids. On mixing such liquids two layers are formed. Each layer is a saturated solution of the other. For example ether and water are partially miscible liquids. The mutual solubilities of these liquids change with temperature. Typical examples of such systems are:
+Aniline-cyclohexane
+Nicotine-water
+Phenol-water
+When equal volumes of phenol and water are mixed into each other, two liquid layers are formed. The lower layer consists of small amount of water dissolved in phenol, while the upper layer consists of small amount of phenol dissolved in water. It is observed that at 25°C upper layer is 5% solution of phenol in water and the lower layer is 30% water in phenol. This means water is solute in lower layer and phenol is solute in the upper layer. Such solutions are called conjugate solutions. As the temperature increases, the mutual solubility of two liquids increases. Water starts moving from upper to the lower layer and phenol from lower layer to the upper layer. Thus composition of both the layers changes. When the temperature finally reaches 65.9°C, the composition of both the layers become identical. Each layer contains 34% phenol and 66% water. Above this temperature two solutions merge into one another and two liquids become completely miscible in all proportions. The temperature at which two conjugate solutions merge into one another is called critical solution temperature or upper consolute temperature. For example:
+Critical solution temperature for water-aniline system is 167°C with 15% water and that for aniline-hexane is 59.6 °C with 52% aniline. And that for water-phenol is 65.9°C with 34% phenol.
+Completely immiscible Liquids
+What happens when you mix oil in water?
+Liquids which do not dissolve into each other in any proportion at any temperature are called completely immiscible. For instance water and benzene, carbon disulphide and water, cyclohexane and water. Benzene, carbon disulphide or cyclohexane are non-polar in nature. The only forces of attraction between their molecules are dispersion forces. In water hydrogen bonds are much stronger than dispersion forces. Since hydrogen bonds cannot be disrupted by the molecules of benzene, carbon disulphide or cyclohexane, these liquids are immiscible with water.
+
+DISSOLUTION PROCESS
+
+When a solute is added in a suitable solvent it dissolves forming a solution. In the formation of a solution three types of interactions are involved. These are solute-solute, solvent-solvent and solute-solvent interactions. A solution forms only when the interactions between solute-solvent molecules are equal to or greater than the interactions between solute-solute and solvent-solvent molecules. This means the process of dissolution can occur only when the interactions that hold together solute particles are weakened appreciably by the solute-solvent interactions. The speed with which a solute dissolves in a solvent is called dissolving rate. Four factors influence the rate at which substances dissolve.
+(1) Particle size (2) Temperature (3) Solution concentration (4) Stirring.
+
+SOLVATION OF IONIC AND MOLECULAR SUBSTANCES
+
+Ionic solids are soluble only in solvents having polar molecules. When an ionic compound is dissolved in a polar solvent, it splits up into its ions. For instance, when NH4NO3 dissolves in water the resulting solution contains NH4+ and NO3- ions floating around independently. Solvent molecules surround these ions by directing their negative poles towards positive ions and their positive poles towards negative ions. This interaction is called as ion-dipole interaction (see figure 10.1).
+Molecular solids are held together by dispersion forces, dipole-dipole forces and sometimes hydrogen bonds. Such solids dissolve readily in solvents with similar types of inter-molecular forces. For example when a polar molecular substance is mixed with a polar solvent. Polar ends of solvent molecules interact with the opposite polar ends of molecules of solute and break attractive forces between them. Finally solvent molecules surround these molecules. This interaction is called dipole-dipole interaction.
+The process in which solvent molecules interact and surround solute ions or molecules is known as solvation. When water is the solvent, this process is known as hydration.
+In ionic and molecular substances particles are surrounded by solvent molecules. However, the heat of solvation in both the cases is much different since ion-dipole interactions are much stronger than dipole-dipole or dispersion forces, heat of solvation for ionic species is generally larger than those for molecular substances.
+
+ROLE OF SOLVATION IN THE DISSOLVING PROCESS
+
+Energy change in the formation of a solution depends upon three types of interactions between solute-solute, solvent-solvent and solute-solvent particles. In the formation of solution, interactions between solute particles are broken. At the same time solvent molecules also move apart to accommodate the solute particles. Since energy is needed to break interactions. Therefore, both these processes are endothermic. Simultaneously interactions between the particles of solute and solvent are established i.e., solvation occurs. Solvent molecules surround solute particles from all sides. In these interactions energy is released, so it is exothermic. Thus the strength of these two types of interactions determines whether the process of dissolution is endothermic or exothermic.
+Thus when a solute dissolves in water, attractive forces among these solute particles must be overcome to break solute particles from the solid lattice. A strong force must bind these separated solute particles to water molecules in the solution. Therefore, heat of solution measures the net energy flow that occurs as a substance dissolves. The energy needed to break solute particles is equal to lattice energy of solute (ΔHlattice). On the other hand the energy released when solute particles bind to the water molecules in the solution is called heat of hydration (ΔHhyd). In other solvents this energy is known as heat of solvation. Heat of solution includes both the energy needed to move solvents molecules move apart and energy released when they surround solute particles. Thus, heat of solution ΔHsolution is the difference in ΔHlattice and ΔHhyd.
+ΔHsolution = ΔHlattice - ΔHhyd
+When ΔHsolution is very large, the solute is unlikely to be soluble. But if ΔHsolution is moderately positive, then solute dissolves. For example, when ammonium nitrate dissolves in water 25.7 kJmole-1 energy is absorbed and the flask becomes cold. This is because crystal lattice binds NH4+ and NO3- ions more tightly than the solution.
+NH4NO3(s) + H2O(l) → NH4+(aq) + NO3-(aq) ΔHsolution= 25.7 kJmole-1
+On the other hand, if solvent binds solute particles more tightly than the crystal, energy is released as the solute dissolves and we have an exothermic solution process. For example when NaOH dissolves in water 44.5 kJmole-1 energy is released and the flask becomes hot.
+NaOH(s) + H2O(l) → Na+(aq) + OH-(aq) ΔHsolution = -44.5 kJmole-1
+Thus solution process can be endothermic or exothermic depending on the difference in the lattice energy for solute and heat of solvation for solute particles. Two examples are given below.
+CaCl2(s) + H2O(l) → Ca2+(aq) + 2Cl-(aq) ΔHsolution = -83.0 kJmole-1
+MgSO4(s) + H2O(l) → Mg2+(aq) + SO42-(aq) ΔHsolution = -91.2 kJmole-1
+The values of standard enthalpies of solution of some ionic solids in water are given in table (10.2).
+
+Daily Life Applications of Heat of Solution
+
+Instant hot and cold packs are in common use today. Cold packs are used for the treatment of injuries and reduction of swelling. Hot packs are used for instant warmth for hikers and skiers and treatment of pulled muscles. These packs are excellent examples of basic science producing a technologically useful product. These packs are based on heat of solutions. These packs contain two separate compartments. One contains water and the other contains a salt. NH4NO3 is used for cold packs and CaCl2 or MgSO4 for hot packs. When required these packs are broken, allowing the salts to mix with water. Heat is absorbed in cold packs and heat is released in hot packs. Gradually these packs attain room temperature. For the amount of heat absorbed or released in these packs, see section 10.1.5.
+
+WATER OF HYDRATION
+
+A crystalline substance which has associated with each of its formula unit a definite number of water molecules is called a hydrate. Such water molecules are called water of crystallization or water of hydration. The water molecules that combine with compounds as they are crystallized from aqueous solution are called water of crystallization or water of hydration. For example,
+(i) CuSO4.5H2O (ii) BaCl2.2H2O
+(iii) MgSO4.7H2O (iv) (COOH)2.2H2O
+(v) Na2CO3.10H2O
+How many moles of water are present in hydrated copper sulphate?
+The percentage of water in a hydrate can be determined. For this purpose a known mass of hydrate is heated to expel water completely. Mass of anhydrous solid is determined. Difference in the two masses gives the mass of water. From these masses percentage of water in the hydrate is determined. An ion having higher charge density has greater ability to attract water molecules. In CuSO4.5H2O, the charge density of Cu2+ ion is greater than that of SO42- ion. Thus Cu2+ ion has greater ability to attract water molecules than SO42- ion. That is why, out of five water of hydration four are associated with Cu2+ ion and only one with SO42- ion. In hydrates, although new bonds between ions and water molecules are formed but no hydrogen oxygen bond of water is broken.
+Percent water in a hydrate = (mass of water in the hydrate / mass of hydrate) x 100
+
+Example 10.1
+250g of CuSO4.xH2O on heating produced 159.82g CuSO4. Calculate the percent of water in the CuSO4.xH2O. Also determine the value of x.
+Problem solving strategy
+1. Find the mass of water by subtracting mass of anhydride from that of hydrate.
+2. Find % water in hydrate using formula.
+3. Find the value of x using formula.
+Solution
+Mass of CuSO4.xH2O = 250g
+Mass of CuSO4 = 159.82g
+Mass of water in the hydrate = 250 - 159.82 = 90.18g
+Percent of water in the hydrate = (90.18g / 250g) x 100 = 36.07%
+x = No. of moles of water / No. of moles of CuSO4
+x = (Mass of water in hydrate / Molar mass of water) / (Mass of CuSO4 / Molar mass of CuSO4)
+x = (90.18g / 18g/mole) / (159.82g / 159.5g/mole)
+x = 5.01 / 1.002
+x ≈ 5
+
+CONCEPT OF SOLUBILITY
+
+When a small amount of solute is mixed in excess of water it dissolves to form a solution. If a little more solute is added it will also dissolve. Such a solution which can dissolve more solute under existing conditions is called unsaturated solution. As more solute is added, a stage is reached where further addition of solute fails to dissolve leaving solid solute at the bottom of the container. Such a solution which cannot dissolve more solute under existing conditions is called saturated solution. The maximum amount of solute that dissolves in a given volume of solvent to form a saturated solution at a given temperature is called solubility. Solubility is commonly expressed in grams of solute per cm3 of solution or in terms of number of moles of solute per cm3 of solution.
+On molecular level a saturated solution is in equilibrium with excess of solute. At equilibrium the rate of solute going into the solution equals the rate of solute returning to undissolved solute.
+Undissolved solute(s) ⇌ Dissolved solute(aq)
+In a saturated solution dissolution of solute in fact continues. At the same time many dissolved particles moving freely in solution strike the solid solute. Such particles are recaptured by the solid solute present at the bottom of the container. Such particles are thus re-crystallized. A stage is reached when a dynamic equilibrium is established between dissolved and undissolved solute.
+A general rule useful for predicting solubilities is “like dissolves like.” Substances which have similar structures and intermolecular forces tend to be soluble. While substances which have dissimilar structures and intermolecular forces are insoluble.
+For instance, water and methanol have similar structures and have hydrogen-bonding between their molecules. They can form hydrogen bonds with each other, when they are mixed. See Fig 10.2. Thus water and methanol are miscible.
+Molecules of benzene, C6H6 and carbon tetrachloride CCl4 are non-polar and have London dispersion forces between their molecules. When these two liquids are mixed, their molecules attract each other with London dispersion forces, thus these are miscible liquids.
+Think what will happen when CCl4 or Benzene is mixed with water?
+Ionic solids have a crystal lattice structure composed of oppositely charged ions. When an ionic solid e.g. NaCl is placed in water which is a polar solvent. These ions are attracted by polar molecules. Water molecules break the crystal lattice of Na+Cl- and then surround the resulting Na+ and Cl- ions. These ions are called hydrated ions.
+But when NaCl crystals are placed in CCl4 or C6H6. Non-polar molecules of these liquids are unable to attract ions in Na+Cl- and cannot break apart the crystal lattice. Thus NaCl is insoluble in these solvents. Think, what will happen when solid NH4NO3, an ionic solid is placed in water?
+
+Self Check Exercise 10.1
+Which solvent, liquid ammonia, NH3 or benzene is more likely to dissolve each of the following solute. Give reasons? (a) AgCl (b) C6H6 (c) H2O (d) NH4OH
+
+EFFECT OF TEMPERATURE ON SOLUBILITY
+
+Generally, an increase in temperature increases the solubility of a solid in a liquid. At higher temperature greater masses of solutes dissolve in a fixed mass of water than at lower temperature. A curve drawn between solubility and temperature is called solubility curve (see figure 10.3). The solubilities of solid solutes generally increase with the increase in temperature. However this is not always the case. The solubilities of some solids e.g. Na2SO4 and Ce2(SO4)3 decrease with increasing temperature. Some substances like NaCl have relatively constant solubility with increasing temperature.
+The variation of solubility with temperature can be predicted from the enthalpy of solution. If ΔH°solution is negative, the solubility of solute decreases as the temperature increases. But if ΔH°solution is positive, the solubility increases with temperature.
+Solubility of KNO3 rapidly increases with increase in temperature, this is because it has large positive value of ΔH°solution (+36 kJ/mole). The solubility of NaCl does not vary much with temperature because of relatively small magnitude of ΔH°solution (+3 kJ/mole).
+It is generally observed that the solubility of a gas decreases with increasing temperature. The dissolution of gases in liquids can be understood in terms of two processes (a) the condensation of the gas which is exothermic and (b) the creation of holes in the liquid to accommodate the condensed gas molecules, it is endothermic. Because of the open structure of water, little work is required to accommodate gas molecules, this means dissolving process is exothermic. Thus solubility of gases in water decreases with temperature.
+
+Self Check Exercise 10.2
+Consult solubility curve shown in figure 10.3 and explain the following.
+1. ΔHsolution of Ce2(SO4)3 and that of KClO3 is positive or negative.
+2. ΔHsolution of CaCl2 is greater or lesser than that of NaNO3 at 20°C.
+3. Indicate the temperature at which solubilities of NaCl and KCl are same.
+4. Which of the following salts has rapid increase in solubility with the increase in temperature:
+(a) CaCl2 (b) K2Cr2O7
+
+EFFECT OF PRESSURE ON SOLUBILITY
+
+Pressure has negligible effect on the solubility of solids or liquids. On the other hand it does significantly increase the solubility of a gas. At a given temperature, the solubility of a gas which does not react with the solvent is directly proportional to the partial pressure of the gas above the solution. This relationship is known as Henry's Law. It is obeyed most accurately by dilute solutions of gases. Henry's law can be understood from Fig.10.4.
+Equilibrium between the gas above a liquid and the dissolved gas within the liquid is reached when the rates of evaporation and condensation of gas molecules become equal. (Fig.10.4). When the pressure is suddenly increased by pushing the piston, the number of molecules per unit volume increase in the gaseous state, this causes an increase in the rate at which the gas enters the solution, so the concentration of the dissolved gas increases. The greater gas concentration in the solution causes an increase in the rate of evaporation, until a new equilibrium is reached.
+Carbonated drinks are bottled at high pressure of carbon dioxide. When the cap is removed, the effervescence results from the fact that the partial pressure of carbon dioxide in the atmosphere is much less than used in the bottling process. As a result, the equilibrium quickly shifts towards lower gas solubility. This causes effervescence.
+
+CONCENTRATION UNITS
+
+A dilute solution is one which contains relatively small amount of solute per unit volume of solution. Whereas a concentrated solution is one which contains relatively greater amount of solute per unit volume of solution. We need to define solution composition more precisely in order to perform calculations. The amount of solute, solvent and solutions may be expressed by volume, mass or number of moles. Therefore, there are various types of concentration units. Some of these are given below.
+
+MASS PERCENT
+
+It is defined as the mass of solute present in 100g of solution. It is also referred as percent weight / weight.
+Mass Percent = (mass of solute (g) / mass of solution (g)) x 100
+15% NaCl solution means 15g of NaCl dissolved per 100 g of solution or 85g of water.
+
+Example 10.2
+Calculate mass percent of a solution containing 10g sugar dissolved in 100g of water.
+Solution
+Mass Percent = (mass of solute (g) / mass of solution (g)) x 100
+Mass Percent = (10g sugar / (10g sugar + 100g water)) x 100 = (10g / 110g) x 100 = 9.09%
+
+PERCENT WEIGHT BY VOLUME
+
+It is the mass of solute dissolved per 100 part by volume of solution. In this case volume of solvent is not exactly known.
+Percent w/v = (Mass of solute (g) / volume of solution (cm3)) x 100
+For example, a 10% (w/v) NaCl solution contains 10g NaCl dissolved in 100 cm3 of solution.
+
+PERCENT VOLUME BY VOLUME
+
+It is the volume of solute dissolved per 100 parts by volume of solution. In such solutions volumes of solute and solvent may not be necessarily equal to the volume of solution.
+Percent v/v = (volume of solute (cm3) / volume of solution (cm3)) x 100
+For example a 5% (v/v) ethanol solution means 5cm3 ethanol dissolved per 100 cm3 of solution.
+
+PERCENT VOLUME BY WEIGHT
+
+The volume of a solute dissolved per 100g of solution is called percent volume by weight. In this case total volume of solution is not known.
+For example, a 5% (v/w) Ethanol contains 5 cm3 ethanol per 100g of solution.
+% v/w = (volume of solute (cm3) / Mass of solution (g)) x 100
+
+MOLARITY (M)
+
+It is defined as the number of moles of solute dissolved per dm3 of solution. Note that the reference volume is that of solution and not the pure solvent. If 0.5 mole of NaOH (20g) is dissolved in enough water to make one dm3 of solution, 0.5 molar or 0.5 M NaOH solution is obtained.
+M = moles of solute / volume of solution(dm3)
+M = (mass of solute (g) / (molar mass of solute x volume of solution (dm3))
+
+Example 10.3
+What is the molarity of a solution of 0.25g NaHCO3 in 100 cm3 of solution?
+Mass of NaHCO3 = 0.25g
+Molar mass of NaHCO3 = 23 + 1 + 12 + 16 x 3 = 84g / mole
+Volume of solution = 100 cm3 = 100/1000 = 0.1 dm3
+Molarity = mass of NaHCO3 / (molar mass of NaHCO3 x volume of solution in dm3)
+Molarity = 0.25g / (84g/mole x 0.1dm3) = 0.0298 M
+
+MOLALITY (m)
+
+It is defined as the number of moles of solute dissolved per kilogram of solvent. For example when 58.5g NaCl (1 mole) is dissolved in one kilogram of water, the resulting solution would be one molal or 1m NaCl solution.
+m = moles of solute / mass of solvent (kg)
+
+Example 10.4
+Ethanol is an excellent organic solvent. It is used to prepare tinctures and in the extraction of medicinal compounds from plants. For this purpose either pure ethanol or its aqueous solutions are used. A solution is prepared by mixing 1.00g of ethanol (C2H5OH) with 100g of water. Calculate molality of this solution.
+Solution
+Mass of ethanol = 1.00g
+Molar mass of ethanol = 12x2 + 1x6 + 16 = 46g/mole
+Moles of ethanol = 1.00g / 46g/mole = 2.17x10-2 mole.
+Mass of water = 100g = 100/1000 = 0.1 kg
+Molality of solution = moles of C2H5OH / mass of water in kg
+Molality = 2.17 x 10-2 mole / 0.1 kg = 0.217 m.
+Notice that molality is independent of temperature whereas molarity depends on temperature. This is because molarity is based upon volume of solution. As the temperature increases, the amount of solute remains constant but the volume of solution increases slightly, thus molarity decreases slightly.
+
+Self Check Exercise 10.3
+Any fluids infused intravenously into an individual must be isotonic with the blood cells and the blood plasma. Such infusions are either 5% dextrose (glucose) or 0.9% normal saline. The first solution is composed of 5.0 gram of glucose per 100cm3 of solution and the other of 0.9 gram NaCl per 100 cm3 of solution. Calculate the molarity of these intravenous solutions. (Ans: 0.28M, 0.15M)
+
+MOLE FRACTION (X)
+
+Sometimes it is necessary to use a concentration unit in which the amount of all the solution components are described on a number basis. This can be done through mole fraction concentration unit.
+It is defined as the ratio of the number of moles of a given component to the total number of moles of solution. Suppose a solution contains nA and nB moles of two components A and B. Mole fraction of each component is given by
+Mole fraction of component A = XA = nA / (nA + nB)
+Mole fraction of component B = XB = nB / (nA + nB)
+
+Example 10.5
+An aqueous solution containing 100g ethanol per dm3 of solution has a density of 0.984g cm-3. Calculate mole fraction of ethanol.
+Solution
+Volume of solution = 1dm3 = 1000 cm3
+Mass of ethanol = 100g
+Mass of solution = Density x Vol of solution = 0.984 g.cm-3 x 1000 cm3 = 984g
+Mass of water (solvent) = 984g – 100g = 884g
+No of moles of H2O = 884g / 18g/mole = 49.11 mole
+No. of moles of ethanol = 100g / 46g/mole = 2.174 mole
+Total No. of moles in solution = 49.11 + 2.174 = 51.284 mole
+Xwater = 49.11 / 51.284 = 0.9576
+Xethanol = 2.174 / 51.284 = 0.0424
+
+PARTS PER MILLION (ppm)
+
+It is defined as the number of parts by weight (or volume) of a solute per million parts by weight (or volume) of the solution.
+ppm = (Mass or volume of solute / Mass or volume of solution) x 10^6
+
+PARTS PER BILLION (ppb)
+
+It is defined as the number of parts by weight (or volume) of a solute per billion parts by weight (or volume) of the solution.
+ppb = (Mass or volume of solute / Mass or volume of solution) x 10^9
+
+PARTS PER TRILLION (ppt)
+
+It is defined as the number of parts by weight (or volume) of a solute per trillion parts by weight (or volume) of the solution.
+ppt = (Mass or volume of solute / Mass or volume of solution) x 10^12
+Rare components of a solution are expressed by ppm, ppb and ppt. A pollutant concentration of 1 ppm in the atmosphere means that out of one million molecules of air there is one molecule of the pollutant, whereas 1 ppb concentration of it means that out of one billion molecules of air there is one molecule of that pollutant.
+
+Example 10.6
+An atmospheric chemist reports that one dm3 of air in an urban area contained 3.5 x 10-5 cm3 of CO. What was the concentration of CO in ppm?
+ppm = (Volume of CO (cm3) / Volume of air (cm3)) x 10^6
+ppm = (3.5 x 10-5 cm3 / 1000 cm3) x 10^6 = 0.035 ppm
+
+Example 10.7
+If the concentration of ozone in atmosphere reaches 0.5 ppb. What mass of ozone would be present per kg of air.
+Solution
+ppb = (Mass of ozone (g) / Mass of air (g)) x 10^9
+0.5 = (Mass of ozone / 1000 g) x 10^9
+Mass of ozone = (0.5 x 1000 g) / 10^9 = 5 x 10-7 g
+
+Self Check Exercise 10.4
+1. Calculate the ppm by mass of calcium in a 2.5g tablet that contains 500mg calcium. (Ans: 0.2x10^6 ppm)
+2. Waste water from a cement factory contains 22mg Ca2+ ions and 0.006g Mg2+ ions per kg of solution. Calculate the concentration of both these ions in ppm. (Ans: 22ppm, 6ppm)
+3. Gold occurs in sea water at an average concentration of 1.1 x 10-2 ppb. How many kg of water must be processed to recover 1g of Gold. (Ans: 9.17 x 10^7 kg)
+
+INTER CONVERSION OF VARIOUS CONCENTRATION UNITS OF SOLUTION.
+
+Sometimes we get prepared solutions whose molarity is given, but we need its weight percentage or molality. For this purpose, we need to convert one unit of concentration into other. How it can be done? It is explained by the following examples.
+
+Example 10.8
+Calculate the molality of 15% (w/w) glucose (C6H12O6) solution.
+Solution
+Since solution of glucose is 15% w/w
+Mass of glucose = 15g
+Mass of solution = 100g
+Mass of water = 100g - 15g = 85g = 85/1000 = 0.085 kg.
+Molar mass of glucose = 12x6 + 1x12 + 16x6 = 180 g/mole
+Molality = (mass of solute) / (molar mass of solute x mass of solvent(kg))
+Molality = 15g / (180 g/mole x 0.085kg) = 0.98 moles per kg.
+Molality = 0.98 m
+
+Example 10.9
+Sulphuric acid is known as king of chemicals it is used in the manufacture of many chemicals, drugs, dyes, plastics, paints, disinfectants, explosives, synthetic fibres etc. It is prepared commercially by contact process and is normally 98% by weight. If its density is 1.84g cm-3, what is its molarity.
+Solution
+Molar Mass of H2SO4 = 2x1 + 32 + 16x4 = 98g/mole
+Percentage of H2SO4 solution = 98%
+Density of H2SO4 solution = 1.84g cm-3
+1 cm3 of H2SO4 solution contains 1.84g H2SO4 solution
+1000 cm3 H2SO4 solution would have = 1.84 x 1000 = 1840g H2SO4 solution
+Of this total mass 98% is H2SO4
+Mass of H2SO4 in solution = 1840 x 98 / 100 = 1803.2g
+Moles of H2SO4 in solution = 1803.2g / 98 g/mole = 18.4 moles
+Since solution has 18.4 moles of H2SO4 per 1000 cm3 or 1dm3 of solution, the molarity of this solution is 18.4M.
+
+Example 10.10
+Commercial HCl is 12 molar (density = 1.17 g cm-3). Calculate the mass percent of HCl.
+Solution
+Molarity of HCl = 12M
+As d = m/v, m = d x v
+Thus mass of HCl solution present in its 1000 cm3 (1dm3) would be 1.17g/cm3 x 1000cm3 = 1170g
+Molar mass of HCl = 1 + 35.5 = 36.5g/mole
+As HCl solution is 12M,
+Mass of HCl in solution = 12 x 36.5 = 438g
+Mass percent of HCl = (438g / 1170g) x 100 = 37.44%
+Often more concentrated solutions are diluted to obtain less concentrated solutions. Such dilutions are done after calculating the amount of water that is mixed with the more concentrated solution to give the desired lower concentration.
+
+Example 10.11
+Sodium hydroxide solutions are used to neutralize acids, to treat cellulose in the preparation of rayon and to remove potato peals commercially. 250cm3 of 2M NaOH is mixed with 250cm3 of water. Calculate the molarity of resulting solution.
+Solution
+250 cm3 of 2M NaOH contains = (250 cm3 x 2M) / 1000 cm3 = 0.5 moles of NaOH
+Total volume of solution = 250 cm3 + 250 cm3 = 500 cm3 = 0.5 dm3
+Molarity of resulting solution = 0.5 moles / 0.5 dm3 = 1M
+
+Self Check Exercise 10.5
+1. Urea (NH2CONH2) is a white solid produced commercially as a fertilizer and a starting material for plastics. It is a non-volatile and non-ionizable compound. What is the molarity of Urea in an aqueous solution that is 0.25m Urea. (Ans: 0.24M)
+2. Potassium hydroxide (KOH) is used in the manufacture of liquid soaps, in paint and varnish removers. An experimenter needs 25cm3 of 0.015M KOH. What mass of KOH, he will dissolve to make this solution. (Ans: 0.021g)
+
+RAOULT'S LAW
+
+A French chemist Raoult discovered a quantitative relationship between vapour pressure of solution and concentration of solution. This relationship is known as Raoult's law.
+It states that when a nonvolatile solute is dissolved in a solvent, the vapour pressure of solution (P) is directly proportional to the mole fraction of solvent (X1)
+P ∝ X1
+P = P° X1 --------- (1)
+where P° is constant of proportionality and is the vapour pressure of the pure solvent. A more common form of Raoult's law is obtained by simple substitution. In a binary solution
+X1 + X2 = 1
+And X1 = 1 – X2 Where X2 is mole fraction of solute.
+Substituting value of X1 in equation (1), we get
+P = P° (1 – X2)
+P = P° – P° X2
+P° – P = P° X2 ------------ (2)
+ΔP = P° X2
+Where P° – P = lowering in vapour pressure of solvent (ΔP).
+Therefore Raoult's law can also be stated as the lowering in vapour pressure is directly proportional to the mole fraction of solute. Rearranging equation (2) we get another form of Raoult's law.
+(P° – P) / P° = X2
+ΔP / P° = X2
+(P° – P)/P° or ΔP/P° is relative lowering in vapour pressure of the solvent. Raoult’s law can also be stated as the relative lowering in vapour pressure is equal to the mole fraction of solute. Lowering in vapour pressure depends on temperature whereas relative lowering in vapour pressure is independent of temperature.
+
+Raoult’s law for ideal solution of two volatile components (liquids)
+Raoult's Law also governs the vapour pressure of mixtures of two or more volatile components. The vapour pressure of each component is determined by its mole fraction and the vapour pressure of the pure component. The total vapour pressure always lies between the vapour pressures of the pure components, and is determined by the mixture composition.
+
+Example 10.12
+What are the partial pressures of benzene and toluene in a solution in which the mole fraction of benzene is 0.6? What is the total vapour pressure? The vapour pressure of pure benzene is 95.1 mm Hg and the vapour pressure of pure toluene is 28.4 mm Hg at 25°C.
+Problem solving strategy
+1. Remember that the sum of mole fractions of all the components of solution is unity.
+2. Mole fraction of benzene is given find the mole fraction of toluene.
+3. Find the partial pressure of each component of solution using formula.
+4. Find total pressure by adding the two partial pressures.
+Solution
+If Xbenzene = 0.6, then Xtoluene = 0.4 because 1 - 0.6 = 0.4.
+Now that we know the mole fractions and vapor pressures.
+Pbenzene = Xbenzene P°benzene = (0.6) (95.1 mm Hg) = 57.06 mm Hg
+Ptoluene = Xtoluene P°toluene = (0.4)(28.4 mm Hg) = 11.36 mm Hg
+The total vapor pressure is simply the sum of the partial pressures:
+Ptotal = Pbenzene + Ptoluene = 57.06 mm Hg + 11.36 mm Hg = 68.42 mm Hg
+
+CAUSES OF LOWERING IN VAPOUR PRESSURE
+
+Every liquid has a definite vapour pressure at a particular temperature (see Chap 5). In a pure liquid, all the surface particles are that of the liquid. But in a solution containing a nonvolatile solute, both solute and solvent particles occur on the surface. The solute particles decrease the number of solvent surface particles (see figure 10.5). Decreasing the number of surface solvent particles decreases the rate of evaporation of the solvent, which decreases the vapour pressure. Thus the vapour pressure of a solution containing a nonvolatile solute is always less than the vapour pressure of the pure solvent.
+
+COLLIGATIVE PROPERTIES OF SOLUTIONS CONTAINING NON-ELECTROLYTE SOLUTES
+
+The presence of solute always lowers the vapour pressures of the solutions. Since a lower vapour pressure implies a higher boiling point we can also conclude that the presence of a nonvolatile solute always raises the boiling point of solvent. It also decreases the freezing point of the solvent. The properties of solutions which depend only on number of solute particles and not on their nature are called colligative properties. The word colligative means depending on the number. Four such related properties are:
+(i) Vapour pressure lowering
+(ii) Boiling point elevation
+(iii) Freezing point depression
+(iv) Osmotic pressure.
+The study of colligative properties has provided methods of molecular weight determination.
+
+LOWERING OF VAPOUR PRESSURE
+
+When a non-volatile and non-electrolyte solute is dissolved in a solvent, the escaping tendency of solvent molecules from the surface of the solution decreases. Thus its vapour pressure is lowered (see section 10.3.1). According to the Raoult's law relative lowering of vapour pressure is equal to mole fraction of solute.
+(P° – P)/P° = X2
+If n1 and n2 are the number of moles of the solvent and solute respectively, then
+X2 = n2 / (n1 + n2)
+So (P° – P)/P° = n2 / (n1 + n2)
+Since for dilute solutions n2 << n1, n2 can be ignored in the denominator
+(P° – P)/P° = n2 / n1
+If W1 and W2 are masses of solvent and solute while M1 and M2 are their molecular masses respectively, then we
+n1 = W1/M1 and n2 = W2/M2
+So (P° – P)/P° = (W2/M2) / (W1/M1)
+(P° – P)/P° = (W2 x M1) / (M2 x W1)
+Or M2 = (W2 x M1 x P°) / (W1 x (P° – P))
+Thus molecular mass of a non-volatile solute can be calculated from this equation.
+
+Example 10.13
+When 106.3g of an organic compound M dissolved in 863.5g of benzene, the vapour pressure of benzene is lowered from 98.6 torr to 86.7 torr. Calculate the molecular mass of M.
+Solution
+P° = 98.6 torr
+P = 86.7 torr
+ΔP = P° – P = 98.6 – 86.7 = 11.9 torr
+W2 = 106.3g
+W1 = 863.5g
+M1 (benzene) = 78g/mole
+M2 = (W2 x M1 x P°) / (W1 x ΔP)
+M2 = (106.3g x 78g/mole x 98.6 torr) / (863.5g x 11.9 torr) = 79.56 g/mole
+
+ELEVATION OF BOILING POINT
+
+A liquid boils at a temperature where its vapour pressure becomes equal to the atmospheric pressure. When a non-volatile and non-electrolyte solute is added to a solvent, its vapour pressure is decreased (see section 10.3.1). Thus solute particles decrease the number of solvent surface particles. This decreases the rate of evaporation of solvent, which decreases the vapour pressure. Therefore, a solution must be heated to a higher temperature than the boiling point of pure solvent to equalize its vapour pressure to the atmospheric pressure. Thus addition of solute to a pure solvent causes an elevation of the boiling point of solution.
+The difference between the boiling point of solution and that of pure solvent is called Elevation of Boiling Point.
+Quantitative Aspects of Boiling Point Elevation
+Experiments have shown that when one mole of non-electrolyte and nonvolatile solute is dissolved in 1 kg of water boiling point is raised by 0.52°C. This value is known as the molal boiling point elevation constant (ebullioscopic constant) for water. Figure 10.6 shows how the vapour pressure influences the boiling point. Curve AB represents variation in vapour pressure of pure solvent with temperature.
+The solvent boils at temperature T1 when its vapour pressure becomes equal to the external pressure P°. The curve CD represents variation in vapour pressure of solution with temperature. This curve must lie below that of pure solvent. This is because the vapour pressure of solution at all temperatures is lower than that of pure solvent. The solution will boil at higher temperature T2 to equalize its vapour pressure to external pressure P°.
+The difference of two boiling points gives the elevation of boiling point (ΔTb).
+ΔTb = T2 – T1
+For a given solution magnitude of the boiling point elevation is directly proportional to the molality of solution.
+ΔTb ∝ m
+ΔTb = Kb m --------- (1)
+The constant Kb is called molal boiling point elevation constant or ebullioscopic constant. For 1 molal solution ΔTb = Kb.
+Thus elevation of boiling point when 1 mole of non-volatile non-electrolyte solute is dissolved in 1 kg of solvent is called molal boiling point elevation constant. Kb depends only on the nature of the solvent and is independent of nature of solute used. The nature of solute does not affect boiling point elevation as long as the solute does not ionize.
+The molality m of the solution containing W2g of solute of molecular mass M2 dissolved in W1g of the solvent is given by
+m = (W2 / M2) x (1000 / W1)
+Substituting the value of m in eq(1) we have
+ΔTb = Kb x (W2 / M2) x (1000 / W1)
+M2 = (Kb x W2 x 1000) / (ΔTb x W1)
+This equation is used to determine the molecular mass of solute.
+
+Self Check Exercise 10.6
+Calculate the boiling point of a solution containing 12.5g of benzoic acid, C7H6O2, in 110g of benzene. Boiling point and Kb of benzene are 80.1°C and 2.53 respectively. (Ans: 82.637°C)
+
+Example 10.14
+Cholesterol is an important compound in our body. If 4.5g of cholesterol is added to 100cm3 of pure Benzene at 5.5°C, the temperature rises to 6.07°C. The volume of solution becomes 121.5 cm3 (density =0.897g cm-3). Calculate the molecular mass of Cholesterol. (Kb= 5.12)
+Solution:
+Mass of Cholesterol = W2 = 4.5g
+Mass of Benzene = W1 = ?
+Boiling Point of Benzene = T1 = 5.5°C
+Boiling Point of Solution = T2 = 6.07°C
+Kb for Benzene = 5.12
+Volume of solution = 121.5 cm3
+Density of solution = 0.897 g cm-3
+Molecular mass of Cholesterol = M2 = ?
+As, mass = density x volume
+Mass of Solution = 0.897 x 121.5 = 108.9855g
+Mass of Benzene (W1) = Mass of solution – Mass of Cholesterol
+W1 = 108.9855 - 4.5 = 104.4855g
+ΔTb = T2 – T1 = 6.07 – 5.5 = 0.57°C
+Now, M2 = (Kb x W2 x 1000) / (ΔTb x W1)
+M2 = (5.12 x 4.5 x 1000) / (0.57 x 104.4855) = 386.86 g mole-1
+
+Self Check Exercise 10.7
+Glycerol (C3H8O3) is a syrupy, sweet tasting liquid used in cosmetics and candy. It is a non-volatile and non-electrolyte compound. What is the freezing point of an aqueous solution that is 0.25m glycerol? (Ans: -0.465°C)
+
+DEPRESSION IN FREEZING POINT
+
+The freezing point of a substance is the temperature at which liquid and solid phases of a substance co-exist in equilibrium. At this temperature liquid and solid phases of the substance have the same vapour pressure.
+But when a non-volatile and non-electrolyte solute is added to a solvent, its vapour pressure is decreased (see section 10.3.1). This decrease in vapour pressure of a pure solvent will decrease the freezing point of the solution. The solution will freeze at a temperature at which vapour pressure of both solution and solid solvent are the same. This means solution will freeze at a lower temperature than that of the pure solvent.
+The difference in the freezing points of pure solvent and solution is called the depression of freezing point.
+Quantitative Aspects of Freezing Point Depression
+The vapour pressure influences the freezing point as shown by Figure 10.8. Curve ABC is for the pure solvent. The solvent freezes at temperature T1 corresponding to the point B when its vapour pressure is P°. The portion of the curve BC is for the solid solvent. Greater slope of curve BC indicates a rapid change of vapour pressure with temperature.
+The curve DEC is for the solution. It cuts curve BC at point E which is freezing point of solution T2 when its vapour pressure is P which is lower than P°. This is because vapour pressure of solution is always less than that of the pure solvent.
+The difference between the two freezing points gives the depression of the freezing point ΔTf.
+ΔTf = T1 – T2
+Experimentally ΔTf ∝ m
+ΔTf = Kf m (1)
+Kf is constant called molal freezing point depression constant or the cryoscopic constant. For one molal solution ΔTf = Kf.
+Thus the depression of freezing point when 1 mole non-volatile, non-electrolyte solute is dissolved in 1 kg of solvent is called molal freezing point depression constant.
+The value of Kf depends upon the nature of the solvent and is independent of the solute used. The nature of solute does not affect the freezing point depression as long as the solute doesn’t ionize.
+The molality m of the solution containing W2 g of solute of molecular mass M2 dissolved in W1 g of the solvent is given by
+m = (W2 / M2) x (1000 / W1)
+Substituting the value of m in eq (1)
+We have ΔTf = Kf x (W2 / M2) x (1000 / W1)
+Rearranging M2 = (Kf x W2 x 1000) / (ΔTf x W1)
+This equation is used to determine the molecular mass of solute.
+
+Example 10.15
+In large quantities, the nicotine is a deadly poison. If 3.62g of nicotine is added in 73.4 g of pure water (solvent) the freezing point of solution is -0.563°C. Determine molecular mass of nicotine. (Kf=1.86)
+Solution
+Mass of Nicotine = W2 = 3.62g
+Mass of water = W1 = 73.4g
+Kf for water = 1.86
+Freezing point of water = T1 = 0°C
+Freezing point of solution = T2 = -0.563°C
+Molecular mass of nicotine = M2 = ?
+ΔTf = T1 – T2 = 0 – (-0.563) = 0.563°C
+Now, M2 = (Kf x W2 x 1000) / (ΔTf x W1)
+M2 = (1.86 x 3.62 x 1000) / (0.563 x 73.4) = 162.93 g mole-1
+Thus molecular mass of nicotine is 162.93g mole-1
+
+Self Check Exercise 10.8
+1. Vitamin K is a substance found in green leafy vegetables. It is needed by the body to produce blood clotting factor. A solution of 55.8 mg of vitamin K in 1.048g of Benzene (freezing point of benzene is 5.455°C) has a freezing point of 4.850 °C. Kf for benzene is 5.12. What is the molecular weight of Vitamin K? (Ans: 450.596 g.mole-1)
+2. Antifreeze, ethylene glycol C2H6O2, is added to automobile radiator to prevent cooling water from freezing. Calculate the freezing point of ethylene glycol solution that contains 2kg ethylene glycol and 8kg water. (Kf = 1.86°C/m). Also calculate the boiling point of this solution. (Kb = 0.52°C/m) (Ans: F.P = -11.99°C, B.P = 103.35°C)
+
+Daily Life Applications of Depression of Freezing Point and Elevation of Boiling Point
+
+Ethylene glycol is used as an antifreeze. It is nonvolatile in character and completely miscible with water. When mixed with water it not only lowers the freezing point but also raises the boiling point. In winter it protects a car by preventing the liquid from freezing whereas in hot summer it protects the radiator from over heating.
+The principle of freezing point depression is also used to prepare a freezing mixture for use in an ice cream machine. For this purpose NaCl or NaNO3 is used to lower melting point of ice.
+Ice on frozen roads and sidewalks melts when sprinkled with salts such as NaCl and CaCl2. This is because it depresses the freezing point of the water. De-icing of aeroplane is based on freezing point depression.
+
+OSMOTIC PRESSURE
+
+Osmotic pressure is the pressure which needs to be applied to a solution to prevent the inward flow of water across a semipermeable membrane. It is also defined as the minimum pressure needed to nullify osmosis.
+The osmotic pressure of an ideal solution with low concentration can be approximated using the Morse equation (named after Harmon Northrop Morse).
+π = MRT
+Where π is osmotic pressure
+M is the molarity
+R = 0.0821 dm3 atm K-1 mol-1 is the gas constant
+T is the thermodynamic (absolute) temperature.
+Certain animal membranes such as the bladder or outer covering of intestines are semipermeable. They allow the passage of water but not any solute dissolved in the water. A man made material such as cellophane can be used as semipermeable membrane.
+A solution inside the bulb is separated from pure solvent in the beaker by a semipermeable membrane as shown in figure 10.10. As solvent passes the volume of solution increases and the volume of solvent decreases. The process continues until the hydrostatic pressure due to the extra height of the solution prevents further osmosis. Therefore the osmotic pressure of a solution is the extra pressure, which must be applied above the solution to prevent passage of solvent through a semipermeable membrane into the solution.
+Most important applications of osmosis are found in living organisms. If red blood cells are placed in pure water, the cells expand and ultimately rupture as a result of water entering the cells through osmosis. The osmotic pressure of the fluid inside the cell is equivalent to that of 0.95% NaCl solution. Thus if cells are placed in 0.95% solution of NaCl, there is no net flow of water through the cell walls and the cell remain stable, this solution is said to be isotonic. Solutions having same osmotic pressures are called isotonic solution. If concentration of NaCl solution is greater than 0.95%, water flows out of the cell walls and the cell shrinks. This NaCl solution is hypertonic. If concentration of NaCl solution is less than 0.95%, water flows into the cell and the solution is called hypotonic.
+
+Daily Life Applications of Osmosis
+
+The osmosis phenomenon manifests itself in many interesting daily life applications.
+1. Biochemists use a technique called haemolysis to study the contents of red blood cells. These cells are protected from the external environment by a semi permeable membrane. Red blood cells are placed in a hypotonic solution. Since hypotonic solution is less concentrated than the interior of the cell, water moves into the cells. The cells swell and eventually burst releasing haemoglobin and other molecules.
+2. Osmosis is the major mechanism for transporting water upward in plants. Because leaves constantly loose water to the air by a process called transpiration. As a result, leaf fluids become more concentrated than the ground water. Thus water enters membranes in the roots and rises into the tree. It can create an osmotic pressure that can exceed 20 atm in the tallest trees.
+3. A large quantity of sugar is essential to preserve jam and jelly. This is because the sugar helps to kill bacteria that may cause botulism. When a bacterial cell is in a hypertonic solution, the intracellular water tends to move out of the bacterial cell to the more concentrated sugar solution by osmosis. This causes the bacterial cell to shrink and eventually to cease functioning.
+4. Food is preserved by coating with salt, which produces hypertonic solution. Thus food coated with salt causes microbes on the surface to shrivel and die from loss of cell water.
+
+REVERSE OSMOSIS
+
+If a solution in contact with pure solvent across a semipermeable membrane is subjected to an external pressure equal to osmotic pressure, it stops osmosis. If external pressure is greater than solution’s osmotic pressure, it will force solvent to flow from solution to the solvent. This process is called reverse osmosis.
+
+Daily Life Application of Reverse Osmosis
+
+Sea water is highly hypertonic to body fluids and is not drinkable. By reverse osmosis process it is subjected to desalination to make it drinkable. Desalination plants (as shown in figure 10.11), remove large amounts of dissolved salts from sea water. The sea water is pumped under high pressure (>30 atm) through the semipermeable membrane, which allow water molecules to pass and stop ions.
+
+Self Check Exercise 10.9
+Rank the following aqueous solutions in order of decreasing
+(a) boiling point (b) freezing point (c) Vapour pressure (d) osmotic pressure
+i) 0.02m urea ii) 0.02m glucose
+
+COLLOIDS
+
+A heterogeneous mixture of tiny particles of a substance dispersed through a medium is called colloidal dispersion or a colloid. The particles are called colloidal particles or the dispersed phase and the medium is called the dispersion medium or continuous phase (solvent). In a colloid dispersed phase is like solute in a true solution and dispersion medium corresponds to the solvent in the true solution. The dispersed or suspended particles are single large molecules or aggregates of molecules or ions ranging in size from 1 to 103 nm. This means these particles are bigger in size than those of true solutions. These particles are visible in electron microscope but invisible in ordinary microscope. For example, Milk, mayonnaise, smoke, rubber, cream, soap, fog, mist gem stones like black diamond, opal etc are colloids.
+When a protein crystal is dropped into water. The polymer molecules disperse to form a colloidal dispersion. Such colloidal dispersions in which the molecules of dispersed phase show an affinity for the dispersion medium are called lyophilic (means solvent loving). The molecules of dispersed phase are called lyophilic molecules. Examples of lyophilic molecules are proteins, gum, gelatin, starch etc. in water.
+When solid AgCl is brought in contact with water, it does not disperse to form a colloid. Such a colloid in which the molecules of dispersed phase have little or no attraction for the dispersion medium is called lyophobic (means solvent hating). The molecules or particles of dispersed phase, which have little or no attraction for the dispersing medium, are called lyophobic molecules or particles.
+Examples of lyophobic colloids are Ag2S, sulphur, gold, Iron (III) hydroxide in water.
+
+SUSPENSIONS
+
+A dispersion in which particles of the dispersed substance are visible to the naked eye is called suspension. Sizes of these particles are greater than 103 nm. This means these particles are bigger than those of colloids. These particles cannot pass through ordinary filter paper. They settle down under the influence of gravity. Suspensions scatter and reflect light. For example, Mud or sand in water are suspensions.
+
+PROPERTIES OF COLLOIDS
+
+General properties of colloids are as follows:
+1. Most colloids are cloudy or opaque but some are transparent.
+2. When light passes through a colloid, it is scattered by the dispersed particles because their sizes are similar to the wavelength of visible light. When viewed from the side, the scattered beam is visible and broader than that of a true solution. This phenomenon is known as Tyndall effect (see Fig 10.12).
+3. Colloidal particles exhibit Brownian motion. This can be seen under low magnification. This is because colloidal particles are pushed this way and that way by molecules of dispersing medium.
+4. Colloidal particles do not coagulate into larger particles and settle out. This is due to the fact that particles have charged surfaces. These surfaces interact with the molecules of dispersing medium. For example, aqueous protein has charged amino acid groups facing the water and uncharged groups buried within the molecule.
+5. Temperature changes affect colloids. Increase in temperature makes the colloidal particles move faster and collide more often and convert little particles into a lump. This means increase in temperature causes coagulation. For example, heating causes coagulation of casein in milk.
+6. Colloidal particles have little power of diffusion. This is because the colloidal particles have very large size as compared to ordinary solute particles (see table 10.4).
+7. Colloidal particles can pass through ordinary filter paper but cannot pass through ultra filter papers.
+8. Colloidal particles have high surface area to volume ratio as compared to the particles of true solutions.
+9. Colloidal particles do not settle under the influence of gravity.
+
+TYPES OF COLLOIDS
+
+Colloids are classified according to whether the dispersed and dispersing substances are gases, liquids or solids. Table 10.3 lists some common types of colloids and their examples.
+
+COMPARISON OF COLLOIDS, SUSPENSIONS AND TRUE SOLUTIONS
+
+The properties of a colloid depend mainly on the size, shape and charge of dispersed particles. Table 10.4 shows some of the distinctive properties of colloids, suspensions and true solutions.

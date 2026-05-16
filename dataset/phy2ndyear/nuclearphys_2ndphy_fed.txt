@@ -1,0 +1,444 @@
+nuclearphys_2ndphy_fed
+
+After studying this chapter students will be able to:
+1. Describe a simple model for the atom to include protons, neutrons and electrons.
+2. Determine the number of protons, neutrons and nucleons it contains for the specification of a nucleus in the form \(_Z^A X\).
+3. Explain that an element can exist in various isotopic forms each with a different number of neutrons.
+4. Explain the use of mass spectrograph to demonstrate the existence of isotopes and to measure their relative abundance.
+5. Define the terms unified mass scale, mass defect and calculate binding energy using Einstein's equation.
+6. Plot and explain the variation of binding energy per nucleon with the mass number.
+7. Understand the significance of binding energy per nucleon to nuclear fusion and nuclear fission.
+8. Explain why some nuclei are unstable, give out radiation to get rid of excess energy and are said to be radioactive.
+9. Explain that an element may change into another element when its nucleus decays.
+10. Understand the random and spontaneous nature of nuclear decay.
+11. Solve problems using the equations of radioactive decay.
+12. Show that the atomic number and mass number are conserved in nuclear decay.
+13. Describe energy and mass conservation in simple reactions and in radioactive decay.
+14. Describe the phenomena of nuclear fission and fusion.
+15. Describe the fission chain reaction.
+16. Describe the function of various components of a nuclear reactor.
+17. Describe the interaction of nuclear radiation with matter.
+18. Describe the use of Geiger Muller counter and solid state detectors to detect the radiations.
+19. Describe the basic forces of nature.
+20. Describe the key features and components of the standard model of matter including hadrons, leptons and quarks.
+
+For your Information:
+The goals of Nuclear Physics are to discover, explore, and understand all forms of nuclear matter. Every star in the sky, including our sun, shines because of the energy provided by nuclear reactions that take place inside it. It is from such reactions that a particular stellar atom by absorbing the energy becomes heavier which creates new chemical elements.
+
+THE NUCLEUS
+
+Let us begin by reviewing a few fundamental facts that are already familiar. The nucleus is made up of neutrons and protons, two types of particles which are about 1840 times more massive than electrons. They are collectively called nucleons (Fig 20.1).
+
+The number of protons in a nucleus is equal to its atomic number Z. The total number of nucleons A is the integer closest to its mass number. Hence, the number of neutrons is A – Z. Thus the nucleus of sodium, \(_{11}^{23} \text{Na}\), which has atomic number 11 and mass number 23, contains 11 protons and 12 neutrons. This is a relatively light nucleus; a heavy nucleus like \(_{92}^{235} \text{U}\) contains 92 protons and 143 neutrons. The mass of the nucleus is approximately equal to the mass of the atom; in kilograms it is the atomic weight divided by Avogadro’s number, \(6.023 \times 10^{26}\).
+
+A particular nucleus with a specified number of protons and neutrons is called a nuclide. A nuclide can be represented by its mass number A and atomic number Z. For any element X, its nuclide is written as \(_Z^A X\). For example, \(_1^1 \text{H}\) has Z=1 and A=1; \(_6^{12} \text{C}\) has Z=6 and A=12.
+
+The nucleus was first discovered in 1911 in experiments conducted by Rutherford, guided by Geiger and Marsden on scattering of alpha particles by thin metal foils.
+
+ISOTOPES
+
+All atoms of the same element contain the same number of protons in the nucleus of each atom. The number of neutrons in each atom of an element can differ. Atoms of an element which have the same atomic number Z, but have different mass number A, are referred to as isotopes. For example, natural uranium mostly consists of the isotopes \(_{92}^{235} \text{U}\) and a small proportion of the isotope \(_{92}^{238} \text{U}\). Both types of atoms are uranium atoms, each nucleus containing 92 protons. However, the isotope \(_{92}^{238} \text{U}\) contains three more neutrons than the isotope \(_{92}^{235} \text{U}\). Other examples: \(_6^{12} \text{C}\), \(_6^{13} \text{C}\), \(_6^{14} \text{C}\) are isotopes of carbon; \(_1^1 \text{H}\), \(_1^2 \text{H}\), \(_1^3 \text{H}\) are isotopes of hydrogen, etc.
+
+Note that the number of electrons in an uncharged atom is equal to the number of protons in the nucleus. The chemical properties of an element are the same for all the isotopes of the element. This is because chemical reactions are determined by the electrons in an atom. Atoms of the same element undergo the same chemical reactions because each atom has the same electron arrangement even if the atoms are different isotopes of the same element.
+
+MASS SPECTROGRAPH
+
+A mass spectrograph is an instrument with the help of which not only the isotopes of any element can be separated from one another but their masses can also be determined quite accurately. Its operation is based upon the principle that a charged particle moving in electric and magnetic fields suffers a deflection that depends on its mass. Hence, ions of various masses are deflected differently. A spectrometer of this type sorts ions into a spectrum of atoms having different masses.
+
+A mass spectrograph is shown in Fig 20.1(b). The atoms or molecules of the element under study, in vapour form, are introduced into the ion source S. As a result of ionization, one electron is removed from the particles, leaving them with a positive charge +e. The ions escaping the slit S₁ are accelerated through a potential difference V applied between two electrodes. After passing through slit S₂, they enter a region where they are subjected to a perpendicular and uniform magnetic field B in which they are deflected in semi-circular paths towards a photographic plate. The detector records the number of ions arriving per second.
+
+The kinetic energy gained by an ion of charge q and mass m due to the potential V is:
+
+\[
+\frac{1}{2} m v^2 = q V
+\]
+
+The deflection produced by magnetic fields is given by:
+
+\[
+q v B = \frac{m v^2}{r}
+\]
+
+where r is the radius of the circular path. Solving these equations, we get:
+
+\[
+r = \frac{1}{B} \sqrt{\frac{2 m V}{q}}
+\]
+
+This relation shows that if V, B, and q are constant, r depends upon the mass m of the ion. Thus, ions of different masses will strike the photographic plate at different places, so different isotopes can be separated from one another.
+
+NUCLEAR MASSES
+
+It is known that a kilogram-mole of any element contains Avogadro’s number of atoms: \(6.023 \times 10^{26}\) atoms/kg-mole. Thus the mass of an atom or nucleus is of the order of \(10^{-26}\) kg. Since it is a small number, atomic and nuclear masses are expressed in terms of the unified (u) mass scale. The unified mass scale is based on assigning a mass exactly 12 u to the mass of an atom of \(_6^{12} \text{C}\). On this scale, one mass unit, called an atomic mass unit (u), is equal to \(1/12\) of the mass of the carbon atom \(_6^{12} \text{C}\). All other masses are measured in this unit by comparison.
+
+The relation of u to kg is found as follows:
+
+Mass of \(6.023 \times 10^{26}\) atoms of \(_6^{12} \text{C}\) = 12 kg
+
+Mass of 1 atom of \(_6^{12} \text{C}\) = \(\frac{12}{6.023 \times 10^{26}} = 1.660 \times 10^{-27}\) kg
+
+Thus, 1 u = \(1.660 \times 10^{-27}\) kg.
+
+Using Einstein’s equation, the energy equivalent of 1 u is:
+
+\[
+E = m c^2 = (1.660 \times 10^{-27} \text{ kg})(3 \times 10^8 \text{ m/s})^2 = 1.494 \times 10^{-10} \text{ J}
+\]
+
+Since 1 eV = \(1.60 \times 10^{-19}\) J,
+
+\[
+1 \text{ u} = \frac{1.494 \times 10^{-10}}{1.60 \times 10^{-19}} = 9.31 \times 10^8 \text{ eV} = 931 \text{ MeV}
+\]
+
+Masses of electron, proton and neutron on u-scale are:
+
+\[
+m_e = 9.109 \times 10^{-31} \text{ kg} = 5.485 \times 10^{-4} \text{ u} = 0.51 \text{ MeV}
+\]
+\[
+m_p = 1.673 \times 10^{-27} \text{ kg} = 1.007 \text{ u} = 937 \text{ MeV}
+\]
+\[
+m_n = 1.675 \times 10^{-27} \text{ kg} = 1.008 \text{ u} = 938 \text{ MeV}
+\]
+
+MASS DEFECT AND BINDING ENERGY
+
+Why should a large unstable nucleus release energy when it decays? The potential energy of a system depends on the position of the particles in the system relative to each other. A stable system is one in which the potential energy is at its lowest. When an unstable system becomes more stable, it changes to a state of lower potential energy.
+
+The protons and neutrons in a nucleus are held together by a strong nuclear force. To separate the protons and neutrons from one another, work would need to be done to overcome the strong nuclear force. The work needed to separate the neutrons and protons is referred to as the binding energy of the nucleus (Fig 20.2). The greater the binding energy of a nucleus, the greater the energy needed to separate the nucleons.
+
+For example, the mass of a helium nucleus is 0.8% less than the mass of two protons and two neutrons separated from each other. This difference is called the mass defect of the nucleus and is due to the protons and neutrons binding together when the nucleus is formed. The binding energy of the nucleus can be calculated from the mass defect using Einstein’s equation \(E = m c^2\).
+
+Binding energy = mass defect × \(c^2\)
+
+Nuclear masses are usually expressed in atomic mass units (u). The binding energy per nucleon is a measure of the stability of a nucleus. It can be calculated for a nucleus \(_Z^A X\) of known mass M by following the steps below:
+
+1. Find the mass defect (in atomic mass unit) of the nucleus:
+
+\[
+\Delta m = Z m_p + (A - Z) m_n - M_{\text{nuc}}
+\]
+
+where \(m_p\) is the mass of a proton, \(m_n\) is the mass of a neutron, and \(M_{\text{nuc}}\) is the mass of the nucleus.
+
+2. The binding energy \(E_b\) (in MeV) = 931 × \(\Delta m\)
+
+3. The binding energy per nucleon = \(E_b / A\)
+
+Note: Z = number of protons, A = number of nucleons, so A – Z is the number of neutrons.
+
+Example: The mass of a \(_{92}^{235} \text{U}\) nucleus is 234.99333 u. The mass of a proton = 1.00728 u, and the mass of a neutron = 1.00867 u. Calculate the binding energy per nucleon.
+
+Solution:
+Z = 92, A = 235, number of neutrons = A – Z = 143
+\(\Delta m = (92 × 1.00728) + (143 × 1.00867) – 234.99333 = 1.91624 \text{ u}\)
+Binding energy = 1.91624 × 931 = 1784 MeV
+Binding energy per nucleon = 1784 / 235 = 7.59 MeV/nucleon
+
+The variation of binding energy per nucleon with mass number A is shown in Fig 20.3. The binding energy per nucleon is greatest for nuclei with A = 50 to 60 (about 8.8 MeV/nucleon). This indicates that these nuclei are most stable. For heavy nuclei (A > 200), the binding energy per nucleon is about 7.5 MeV/nucleon. For light nuclei (A < 20), the binding energy per nucleon is lower.
+
+The binding energy per nucleon increases when nuclear fission of a heavy nucleus like uranium occurs. When a \(_{92}^{235} \text{U}\) nucleus undergoes fission, the two fragment nuclei each comprise about half the number of nucleons. The binding energy per nucleon increases from about 7.5 MeV/nucleon for \(_{92}^{235} \text{U}\) to about 8.8 MeV/nucleon for the fragments. Thus, energy is released.
+
+The binding energy per nucleon also increases when light nuclei are fused together. For example, in the fusion of hydrogen to form helium, the binding energy per nucleon increases, releasing energy.
+
+RADIOACTIVITY
+
+Radioactivity was discovered accidentally in Paris by Henri Becquerel in 1896 when he was conducting research into the effects of X-rays on uranium compounds. He discovered that certain substances exposed to X-rays continued to glow when the X-ray machine was switched off. Becquerel wanted to know if the reverse effect was possible, namely emission of X-rays by substances that had been exposed to sunlight. He wrapped a photographic plate with a small quantity of uranium compound on it and left it in sunlight. He was very surprised when he found a very strong image on the plate even when the uranium compound had not been exposed to sunlight. Further tests showed that the substance emits this radiation continuously even when stored in darkness for a long period and that the radiation passes through glass but not through metal. The substance was described as “radioactive” because it seemed to be emitting radiation actively without being supplied with energy.
+
+Becquerel continued his research on X-rays and passed the investigation of radioactivity to his research student, Marie Curie. Within two years, Marie Curie and her husband Pierre had discovered other substances which are radioactive, including two new elements, radium and polonium. Becquerel and the Curies were awarded the Nobel Prize in Physics in 1903 for their discoveries.
+
+TYPES OF RADIATIONS
+
+Three types of radiations are known as α-particles, β-particles, and γ-rays. A substance which possesses this property is called radioactive substance.
+
+α-particles: An α-particle consists of two protons and two neutrons, i.e., it is a positively charged helium nucleus. An α-particle is emitted by a very heavy unstable nucleus. Alpha radiation:
+- Is easily stopped by cardboard or thin metal.
+- Has a range in air of no more than a few centimeters.
+- Ionizes air molecules much more strongly than the other two types.
+
+β-particles: β-particles consist of electrons, each emitted when a nucleus with excess neutrons disintegrates. A neutron in such a nucleus suddenly changes to a proton; in the process, an electron is emitted. Beta radiation:
+- Is stopped by 5–10 mm of metal.
+- Has a range in air of about 1 m.
+- Ionizes less strongly than α-particles.
+
+γ-rays: γ-rays consist of high energy photons. A photon is emitted by a nucleus after it has emitted α or β radiation. Gamma radiation:
+- Is stopped only by several cm of lead.
+- Has an infinite range in air.
+- Ionizes air molecules very weakly.
+
+RADIOACTIVE DECAY
+
+Whenever an atom \(_Z^A X\) disintegrates by α-emission, its atomic number reduces by 2 and the mass number reduces by 4 units. The disintegration is written as:
+
+\[
+_Z^A X \rightarrow _{Z-2}^{A-4} Y + _2^4 \text{He} + Q
+\]
+
+Q is the disintegration energy, which is always positive, as the decay is spontaneous. The decay product \(_{Z-2}^{A-4} Y\) is called the daughter nucleus of the parent nucleus \(_Z^A X\). The α-particle is often written as \(_2^4 \text{He}\). The daughter nucleus may also remain unstable and undergo further disintegration until it attains stability. Examples of α decay:
+
+\[
+_{92}^{238} \text{U} \rightarrow _{90}^{234} \text{Th} + _2^4 \text{He} + Q
+\]
+\[
+_{86}^{222} \text{Rn} \rightarrow _{84}^{218} \text{Po} + _2^4 \text{He} + Q
+\]
+
+β-emission involves no change in mass number A. It does, however, change the atomic number Z by –1 or +1 depending upon whether the emitted particle is a negative β-particle (electron) or a positive β-particle (positron). β-decay may lead to either of the following disintegrations:
+
+\[
+_Z^A X \rightarrow _{Z+1}^{A} Y + _{-1}^0 \beta + \text{antineutrino} + Q
+\]
+\[
+_Z^A X \rightarrow _{Z-1}^{A} Y + _{+1}^0 \beta + \text{neutrino} + Q
+\]
+
+An example of β⁻ decay is from the naturally occurring isotope of carbon:
+
+\[
+_6^{14} \text{C} \rightarrow _7^{14} \text{N} + _{-1}^0 \beta + \text{antineutrino}
+\]
+
+An example of a positron emitter is carbon-11:
+
+\[
+_6^{11} \text{C} \rightarrow _5^{11} \text{B} + _{+1}^0 \beta + \text{neutrino}
+\]
+
+γ-EMISSION
+
+Most frequently, the alpha or beta emission leaves the daughter nucleus in an excited state. Such a nuclide may go back to a more stable configuration and eventually to its ground state by emitting one or more γ-rays. Since γ-rays are massless photons, their emission will cause no change either in A or Z of the parent nuclide. The γ-decay process is written as:
+
+\[
+( _Z^A X)^* \rightarrow _Z^A X + \gamma
+\]
+
+where \(( _Z^A X)^*\) represents an excited state of the nucleus.
+
+RANDOM NATURE OF NUCLEAR DECAY
+
+Radioactive elements disintegrate and emit α, β and γ radiations. This process is called transmutation by spontaneous radioactive decay. Each of the nuclei of a radioactive sample has a certain probability of decaying into a daughter nucleus. The probability per unit time of disintegration of a particular nucleus is fixed and has a fixed value, characteristic of the radioisotope. However, the exact time of decay of one nucleus is quite independent of the decay of other nuclei. Spontaneous disintegrations of atoms occur at random; atoms decay at different times. The process of disintegration takes place randomly. When a nucleus disintegrates, nobody knows. However, it is observed that, on the average, the actual number of atoms that decay at any instant is proportional to the number of atoms present. As time goes on, some atoms disintegrate and others survive. So the activity continues but with ever decreasing intensity.
+
+HALF-LIFE AND RATE OF DECAY
+
+The half-life of a radioactive isotope is the time taken for half the number of atoms of the isotope to disintegrate. Suppose 10,000 atoms of a certain radioactive isotope “X” are present initially. The number of atoms decreases from 10,000 to 5,000 after the first half-life, then from 5,000 to 2,500 after a further half-life, then from 2,500 to 1,250 after another half-life, etc. The amount of the radioactive isotope therefore decreases with time as shown in Fig 20.4, which is an exponential decay curve.
+
+Half-life values vary from fractions of a second to billions of years. For example, the half-life of polonium-212 is 3×10⁻⁷ s, and that of uranium-238 is 4.5×10⁹ years.
+
+The number of nuclei that disintegrate per second is constant. This follows from the random nature of radioactive disintegration. If a sample contains N radioactive nuclei at some instant, one finds that the number of nuclei ΔN that decay in a time Δt is proportional to N:
+
+\[
+\frac{\Delta N}{\Delta t} \propto -N
+\]
+\[
+\frac{\Delta N}{\Delta t} = -\lambda N
+\]
+
+where λ is a constant of proportionality which depends on the nature of the element and is called the decay constant; the negative sign signifies that N decreases with time. The value of λ for any isotope determines the rate at which that isotope will decay.
+
+The decay rate, or activity R, of a sample is defined as the number of decays per second. From the above equation, the decay rate is:
+
+\[
+R = -\frac{\Delta N}{\Delta t} = \lambda N
+\]
+
+Thus, isotopes with a large value of λ decay at a rapid rate and those with a small λ decay slowly.
+
+From the decay curve for a radioactive sample shown in Fig 20.4, we can derive (using calculus) that the number of nuclei varies with time according to the expression:
+
+\[
+N = N_0 e^{-\lambda t}
+\]
+
+where \(N_0\) is the number of radioactive nuclei present at time t=0. Equations of this form are sometimes said to obey an exponential decay law.
+
+The SI unit of activity is the becquerel (Bq): 1 Bq = 1 decay per second. An older unit is the curie (Ci): 1 Ci = 3.70×10¹⁰ Bq.
+
+Half-life \(T_{1/2}\) is related to the decay constant λ. Substituting \(N = \frac{1}{2} N_0\) and \(t = T_{1/2}\) into the equation \(N = N_0 e^{-\lambda t}\), we get:
+
+\[
+\frac{1}{2} = e^{-\lambda T_{1/2}}
+\]
+
+Taking natural logarithm of both sides:
+
+\[
+\ln 2 = \lambda T_{1/2}
+\]
+\[
+T_{1/2} = \frac{\ln 2}{\lambda} = \frac{0.693}{\lambda}
+\]
+
+Example: The half-life of radioactive nucleus \(_{88}^{226} \text{Ra}\) is 1.6×10³ years. Calculate its decay constant.
+
+Solution:
+\[
+\lambda = \frac{0.693}{T_{1/2}} = \frac{0.693}{(1.6×10^3 \text{ years})(3.15×10^7 \text{ s/year})} = 1.37×10^{-11} \text{ s}^{-1}
+\]
+
+Example: Determine the activity of a 1 g sample of \(_{38}^{90} \text{Sr}\) whose half-life is 28 years.
+
+Solution:
+First, find the decay constant:
+\[
+\lambda = \frac{0.693}{28 \text{ years}} = 0.02475 \text{ year}^{-1} = 7.83×10^{-10} \text{ s}^{-1}
+\]
+Number of atoms in 1 g:
+Molar mass of \(_{38}^{90} \text{Sr}\) is 90 g/mol. Number of moles = 1/90 = 0.01111 mol.
+Number of atoms = 0.01111 × 6.022×10²³ = 6.69×10²¹ atoms.
+Activity \(R = \lambda N = (7.83×10^{-10})(6.69×10^{21}) = 5.23×10^{12} \text{ decays/s} = 141 \text{ Ci}\).
+
+INTERACTION OF RADIATION WITH MATTER
+
+1. Interaction of α-particles with matter:
+   When an α-particle travels through a medium, it loses energy due to excitation and ionization of atoms. The distance it travels before stopping is called its range. The range depends on the energy, mass, and charge of the particle and the density of the medium. α-particles are about 7000 times more massive than electrons, so they undergo little deflection and travel in nearly straight lines. They ionize strongly and have a short range (a few cm in air).
+
+2. Interaction of β-particles with matter:
+   β-particles also lose energy by ionization, but their ionizing ability is about 100 times less than that of α-particles. Their range is about 100 times greater. β-particles are easily deflected, so their path is not straight but shows much scattering. The range is measured by penetration depth.
+
+3. Interaction of γ-rays with matter:
+   γ-rays are uncharged photons and cause very little ionization. They are removed from a beam by scattering or absorption. They interact via photoelectric effect (low energies), Compton scattering (intermediate energies), and pair production (high energies). The intensity of γ-rays decreases exponentially with distance: \(I = I_0 e^{-\mu x}\), where μ is the linear absorption coefficient.
+
+4. Interaction of neutrons with matter:
+   Neutrons, being neutral, are extremely penetrating. To be stopped or slowed, a neutron must undergo a direct collision with a nucleus. Materials with low atomic mass nuclei (like water or plastic) are used to slow neutrons. Neutrons produce indirect ionization by knocking out protons from hydrogen-containing materials.
+
+DETECTION OF RADIATION
+
+Various devices have been developed for detecting radiations. Two common ones are:
+
+1. Geiger-Muller Counter (Fig 20.5):
+   A Geiger tube contains a gas at low pressure. When a charged particle enters through a thin window, it ionizes the gas. The electrons are accelerated toward a central wire (anode), causing an avalanche of electrons that produces a current pulse. The pulse is amplified and can be counted or heard as a click.
+
+2. Solid State Detector (Fig 20.6):
+   A solid state detector is essentially a reverse-biased p-n junction. When a charged particle passes through the junction, electron-hole pairs are created. The internal electric field sweeps the electrons to the n-side and holes to the p-side, creating a pulse of current that can be counted.
+
+NUCLEAR REACTIONS
+
+It is possible to change the structure of nuclei by bombarding them with energetic particles. Such collisions, which change the identity or properties of nuclei, are called nuclear reactions.
+
+When a nucleus “X” is bombarded with some light particle “a”, a reaction takes place, producing nucleus “Y” and a light particle “b”. This is represented by:
+
+\[
+X + a \rightarrow Y + b
+\]
+
+Rutherford was the first to observe a nuclear reaction in 1919, using α-particles from a radioactive source to bombard nitrogen. He observed that as a result of this reaction, a proton is emitted:
+
+\[
+_7^{14} \text{N} + _2^4 \text{He} \rightarrow _8^{17} \text{O} + _1^1 \text{H} + Q
+\]
+
+where Q is the energy equivalent of the difference between the rest masses of the reactants and products. If Q is positive, energy is released; if negative, energy is absorbed.
+
+In any nuclear reaction, the following conservation laws must be satisfied:
+- Conservation of nucleon number (total number of protons and neutrons).
+- Conservation of charge (total atomic number).
+- Conservation of mass-energy.
+
+Example: For the reaction \(_7^{14} \text{N} + _2^4 \text{He} \rightarrow _8^{17} \text{O} + _1^1 \text{H}\), calculate Q.
+Masses: \(_7^{14} \text{N} = 14.003074 \text{ u}\), \(_2^4 \text{He} = 4.002603 \text{ u}\), \(_8^{17} \text{O} = 16.999139 \text{ u}\), \(_1^1 \text{H} = 1.007825 \text{ u}\).
+Total mass before = 14.003074 + 4.002603 = 18.005677 u.
+Total mass after = 16.999139 + 1.007825 = 18.006964 u.
+Mass difference Δm = 18.005677 – 18.006964 = –0.001287 u.
+Q = (–0.001287) × 931 = –1.20 MeV.
+Since Q is negative, the α-particle must have at least 1.20 MeV of kinetic energy for the reaction to occur.
+
+NUCLEAR FISSION
+
+In 1939, Hahn and Strassmann discovered that when uranium is bombarded with neutrons, it splits into two nuclei of moderate and comparable size. This process is called nuclear fission. They found that the reaction is much more pronounced with \(_{92}^{235} \text{U}\) than with \(_{92}^{238} \text{U}\). Natural uranium contains 99.3% \(_{92}^{238} \text{U}\) and 0.7% \(_{92}^{235} \text{U}\).
+
+In the fission of \(_{92}^{235} \text{U}\), three neutrons are emitted. One observed reaction is:
+
+\[
+_{92}^{235} \text{U} + _0^1 n \rightarrow _{56}^{141} \text{Ba} + _{36}^{92} \text{Kr} + 3 _0^1 n + Q
+\]
+
+where Q is the energy released. The energy released per fission is about 200 MeV. When 1 kg of \(_{92}^{235} \text{U}\) undergoes fission, the energy released is equivalent to about 20,000 tons of TNT.
+
+In a fission reaction, each uranium atom releases 2 or 3 neutrons. If at least one of these neutrons causes fission in another uranium nucleus, a chain reaction can occur (Fig 20.7b). The number of neutrons increases rapidly, producing an ever-increasing rate of fission. If uncontrolled, this leads to a violent explosion (atomic bomb). For a chain reaction to start, the amount of uranium must be greater than a minimum mass called the critical mass.
+
+NUCLEAR REACTOR
+
+The energy released in nuclear fission can be used for many purposes if the reaction is carried out under controlled conditions. A nuclear reactor is a device in which the fission chain reaction is controlled and the energy released can be used to produce electricity, neutrons, radioisotopes, etc.
+
+A reactor consists of five parts:
+1. Core of nuclear fuel (e.g., enriched uranium).
+2. Moderator (e.g., graphite, heavy water) to slow down fast neutrons to thermal energies.
+3. Control rods (e.g., cadmium, boron) to absorb neutrons and regulate the reaction.
+4. Coolant (e.g., water, liquid sodium) to remove heat from the core.
+5. Radiation shielding to protect personnel.
+
+In a reactor, fuel rods are placed in the moderator. When a thermal neutron causes fission, fast neutrons are produced. The moderator slows them down to thermal energies so they can cause further fission. Control rods are inserted or withdrawn to control the rate of reaction. The heat generated is used to produce steam, which drives turbines to generate electricity.
+
+There are two main types of reactors:
+- Thermal reactors: Use thermal neutrons; fuel is natural or slightly enriched uranium.
+- Fast reactors: Use fast neutrons; can use \(_{92}^{238} \text{U}\) to produce plutonium (\(_{94}^{239} \text{Pu}\)).
+
+NUCLEAR FUSION
+
+When two light nuclei combine to form a heavier nucleus, the process is called nuclear fusion. The mass of the final nucleus is less than the rest masses of the original nuclei, resulting in a release of energy. Fusion is the source of energy in stars, including our sun.
+
+In the sun, the primary fusion reaction is the proton-proton cycle:
+
+\[
+_1^1 \text{H} + _1^1 \text{H} \rightarrow _1^2 \text{H} + e^+ + \nu
+\]
+\[
+_1^1 \text{H} + _1^2 \text{H} \rightarrow _2^3 \text{He} + \gamma
+\]
+\[
+_2^3 \text{He} + _2^3 \text{He} \rightarrow _2^4 \text{He} + 2 _1^1 \text{H}
+\]
+
+Overall, four protons fuse to form one helium nucleus, releasing about 26.7 MeV.
+
+Fusion reactions require extremely high temperature and pressure to overcome the electrostatic repulsion between nuclei. On Earth, controlled fusion for energy production is still under development.
+
+RADIATION IN THE ENVIRONMENT
+
+Background radiation is present everywhere due to cosmic rays and naturally occurring radioactive materials in the Earth. Cosmic rays consist of high-energy charged particles and electromagnetic radiation. The atmosphere absorbs some of this radiation. Depletion of the ozone layer may increase ultraviolet radiation reaching the Earth.
+
+Human activities add to radiation exposure, such as medical X-rays, nuclear waste, and industrial sources. Excessive exposure to radiation can damage living tissues, causing somatic effects (e.g., burns, cancer) or genetic effects (mutations).
+
+BIOLOGICAL AND MEDICAL USES OF RADIATION
+
+Radioisotopes are used in medicine for diagnosis and treatment. Tracer techniques involve introducing a radioactive isotope into the body and tracking its distribution. For example, iodine-131 is used to study the thyroid gland. Radiation therapy uses high-energy radiation to destroy cancerous tissues.
+
+In agriculture, radioisotopes are used to study plant metabolism and fertilizer uptake.
+
+BASIC FORCES IN NATURE
+
+All particles in nature are subjected to four fundamental forces: strong, electromagnetic, weak, and gravitational.
+
+1. Strong force: Short-range; binds nucleons in nuclei; strongest force.
+2. Electromagnetic force: Long-range; binds atoms and molecules; about \(10^{-2}\) times strong force.
+3. Weak force: Short-range; responsible for beta decay; about \(10^{-6}\) times strong force.
+4. Gravitational force: Long-range; weakest force; about \(10^{-39}\) times strong force.
+
+In modern physics, forces are described by exchange of field particles (quanta). Electromagnetic force is mediated by photons, strong force by gluons, weak force by W and Z bosons, and gravitational force by gravitons.
+
+BUILDING BLOCKS OF MATTER
+
+The word “atom” comes from Greek “atomos,” meaning indivisible. However, atoms are composed of protons, neutrons, and electrons. In the 1960s, physicists proposed that protons and neutrons are made of smaller particles called quarks.
+
+According to the standard model, matter is composed of two types of particles: hadrons and leptons.
+
+Hadrons: Particles that interact through the strong force. They include mesons (e.g., pions) and baryons (e.g., protons, neutrons). Hadrons are composed of quarks.
+
+Leptons: Particles that participate in weak interaction. They include electrons, muons, and neutrinos. Leptons appear to be truly elementary.
+
+Quarks: There are six types of quarks: up (u), down (d), strange (s), charmed (c), bottom (b), top (t). Each quark has an antiquark. Quarks combine to form hadrons. For example, a proton is composed of two up quarks and one down quark (uud); a neutron is composed of one up quark and two down quarks (udd). Quarks have fractional electric charges: +2/3 e for up-type quarks, –1/3 e for down-type quarks.
+
+KEY POINTS
+
+- The combined number of all the protons and neutrons present in the nucleus are called nucleons.
+- The number of neutrons present in a nucleus is called its neutron number, denoted by N.
+- The number of protons inside a nucleus is called the atomic number, denoted by Z.
+- Isotopes are nuclei of an element that have the same Z but different A.
+- The mass of the nucleus is always less than the total mass of the protons and neutrons that make up the nucleus. The difference is called mass defect. The missing mass is converted to binding energy.
+- The emission of rays (α, β, γ) from elements having Z > 82 is called radioactivity.
+- The change of an element into a new element due to emission of radiations is called radioactive decay.
+- A nuclear reaction in which a heavy nucleus splits into two fragments of equal size is called nuclear fission.
+- The time period in which half of the atoms of a radioactive element decay into daughter element is called half-life.
+- A nuclear reaction in which two light nuclei merge to form a heavier nucleus with the release of energy is called nuclear fusion.

@@ -1,0 +1,368 @@
+CHROMOSOMES AND DNA
+
+
+Chromosomes are thread-like structures that appear inside the nucleus at the time
+of cell division. They were first observed by the German embryologist Walther Flemming
+in 1882, when he was examining the rapidly dividing cells of salamander larvae. Since
+their discovery, chromosomes have been found in the cells of all eukaryotes. Their
+number, however, varies from species to species. Penicillium, a fungus, has only one pair
+of chromosomes, while some ferns have more than 500 pairs. A mosquito has 6,
+honeybee 32, corn 20, sugarcane 80, frog 26 and a mouse has 40 chromosomes.
+Human cells have 46 chromosomes, consisting of 23 pairs (Fig. 20.1). Each of these 46
+chromosomes contains hundreds or thousands of genes that play important roles in
+determining how a person’s body develops and functions. The possession of all these
+chromosomes is therefore essential for survival. Missing a part or whole of a
+chromosome leads to serious consequences, usually death. (Fig. 20.1 Human chromosomes)
+
+TYPES OF CHROMOSOMES
+
+Typically a chromosome is made of chromatids, centromere (primary
+constriction) and a secondary constriction (Fig. 20.2).
+
+Chromosomes may widely differ in appearance. They vary in size, staining properties,
+the location of centromere, relative lengths of the two arms on either side of centromere,
+and the position of constricted regions along the arms. The particular array of chromosomes that an individual possesses is called its karyotype (Fig. 20.3).
+
+Karyotypes show marked differences among species and sometimes even among individuals of the same species.
+
+The chromosomes are called telocentric, acrocentric, submetacentric and metacentric depending upon the location of centromere between the middle and tip of the chromosomes. (Fig. 20.4 Shapes of chromosomes depends upon the location of centromere)
+
+These chromosomes acquire different shapes at the time of anaphase during cell
+division. The usual shapes are I, J and V.
+
+COMPOSITION OF CHROMOSOME
+
+Chromosomes are composed of DNA and protein. Most are about 40% DNA
+and 60% protein. A significant amount of RNA is also associated with chromosomes,
+because these are the sites of RNA synthesis. The DNA of a chromosome is one very
+long, double-stranded fiber that extends unbroken through the entire length of the
+chromosome. A typical human chromosome contains about 140 million (1.4 × 10^8)
+nucleotides in its DNA. The amount of information one chromosome contains would fill
+about 280 printed books of 1000 pages each, if each nucleotide corresponds to a word
+and each page had about 500 words on it. Furthermore, if the strand of DNA from a
+single chromosome were laid out in a straight line, it would be about 5 centimetres long.
+Fitting such a strand into a small space of nucleus is nature’s marvel — and that’s only 1
+of 46 chromosomes. In the cell, however, the DNA is coiled allowing it to fit into a much
+smaller space than would otherwise be possible.
+
+If we gently disrupt a eukaryotic nucleus and examine the DNA with an electron microscope, we find that it resembles a string of beads (Fig. 20.5). Every ~200 nucleotides, the DNA duplex is coiled around a core of eight histone proteins forming a complex known as a nucleosome. Unlike most proteins, which have an overall negative charge, histones are positively charged due to an abundance of the basic amino acids arginine and lysine. They are thus strongly attracted to the negatively charged phosphate groups of the DNA. The histone cores thus act as magnetic forms that promote and guide the coiling of the DNA. Further coiling occurs when the string of nucleosomes wraps up into higher order coils called supercoils.
+
+Portions of the chromatin are called heterochromatin. Some portions are permanently condensed, so that their DNA is never expressed. The remainder of the chromosome called euchromatin is condensed only during cell division; in its unpackaged form the genes can be expressed. The way chromatin is packaged when the cell is not dividing is not well understood beyond the level of nucleosomes and is a topic of intensive research.
+
+THE CHROMOSOMAL THEORY OF INHERITANCE
+
+A central role for chromosomes in heredity was first suggested in 1900 by the
+German geneticist Karl Correns, in one of the papers announcing the rediscovery of
+Mendel’s work. Soon after, observations that similar chromosomes paired with one
+another during meiosis led directly to the chromosomal theory of inheritance, first
+formulated by the American Walter Sutton in 1902.
+
+Several pieces of evidence supported Sutton’s theory. One was that reproduction
+involves the initial union of only two cells, egg and sperm. If Mendel’s model was
+correct, then these two gametes must make equal hereditary contributions. Sperm,
+however, contain little cytoplasm, suggesting that the hereditary material must reside
+within the nuclei of the gametes. Furthermore, while diploid individuals have two copies
+of each pair of homologous chromosomes, gametes have only one. This observation was
+consistent with Mendel’s model, in which diploid individuals have two copies of each
+heritable gene and gametes have one. Finally, chromosomes segregate during meiosis,
+and each pair of homologues orientates on the metaphase plate independently of every
+other pair.
+
+There is, however, one problem with this theory. If Mendelian characters are
+determined by genes located on the chromosomes, and if the independent assortment of
+Mendelian traits reflects the independent assortment of chromosomes in meiosis, why
+does the number of characters that assort independently in a given kind of organism often
+greatly exceed the number of chromosome pairs the organism possesses? This led many early researchers to have serious reservations about Sutton’s theory.
+
+In 1910 Thomas Hunt Morgan, studying the fruit fly, Drosophila melanogaster,
+detected a mutant male fly, one that differed strikingly from normal flies of the same
+species — its eyes were white instead of red.
+
+Morgan crossed the mutant male to a normal female. All F1 progeny had red eyes.
+He then crossed red-eyed flies from F1 generation with each other. Of the 4252 F2
+progeny Morgan examined, 782 (18%) had white eyes. Although the ratio of red eyes to
+white eyes in the F2 progeny was greater than 3:1, the results of the cross nevertheless
+provided clear evidence that eye colour segregates. However, there was something about
+the outcome that was strange and totally unpredicted by Mendel’s theory — all of the
+white-eyed F2 flies were male!
+
+How could this result be explained? Perhaps it was impossible for a white-eyed
+female fly to exist; such individuals might not be viable for some unknown reason. To
+test this idea, Morgan test-crossed the female F1 progeny with the original white-eyed
+male. He obtained both white-eyed and red-eyed males and females in the expected Mendelian ratio.
+The solution to this puzzle involved sex. The gene causing the white-eye trait in
+Drosophila resides only on the X chromosome. It is absent from the Y chromosome. A
+trait determined by a gene on the X chromosome is said to be sex linked. Knowing that
+the white eye trait is recessive to the red eye trait, Morgan’s result was a natural
+consequence of the Mendelian assortment of chromosomes (Fig. 20.6).
+
+Morgan’s experiment was one of the most important in the history of genetics as it
+presented the first clear evidence that the genes determining Mendelian traits are located on chromosomes, as Sutton proposed. The chromosome theory of inheritance therefore propounds that genes are located on chromosomes. The segregation of the white-eye trait has one-to-one correspondence with the segregation of the X chromosome. In other words, Mendelian traits such as eye colour in Drosophila assort independently because chromosomes do.
+
+DNA AS HEREDITARY MATERIAL
+
+The first evidence of the hereditary nature of DNA was provided by a British
+microbiologist Frederick Griffith who made some unexpected observations while
+experimenting with pathogenic bacteria. When he infected mice with a virulent strain of
+Streptococcus pneumoniae bacteria (then known as Pneumococcus), the mice died of
+blood poisoning. However, when he infected similar mice with a mutant strain of
+S. pneumoniae that lacked the virulent strain’s polysaccharide coat, the mice showed no ill
+effects. The coat was apparently necessary for virulence. The normal pathogenic form of
+this bacterium is referred to as the S form because it forms smooth colonies on a culture
+dish. The mutant forms, which lack the enzyme needed to manufacture the
+polysaccharide coat, are called the R form because they form rough colonies.
+
+To determine whether the polysaccharide coat itself had a toxic effect, Griffith
+injected dead bacteria of the virulent S strain into mice; the mice remained perfectly
+healthy. As a control, he injected mice with a mixture containing dead S bacteria of the
+virulent strain and live coatless R bacteria, each of which by itself did not harm the mice
+(Fig. 20.7). Unexpectedly, the mice developed the disease symptoms and many of them
+died. The blood of the dead mice was found to contain high levels of live, virulent
+streptococcus type S bacteria, which had surface proteins characteristic of the previously R strain. Somehow, the information specifying the polysaccharide coat had
+passed from the dead, virulent S bacteria to the live, coatless R bacteria in the mixture,
+permanently transforming the coatless R bacteria into the virulent S variety.
+Transformation is the transfer of genetic material from one cell to another and can alter
+the genetic make-up of the recipient cell.
+
+The agent responsible for transforming Streptococcus went undiscovered until
+1944. In a classic series of experiments, Oswald Avery along with Colin MacLeod and
+Maclyn McCarty characterized what they referred to as the “transforming principle”.
+They first prepared a mixture of dead S Streptococcus and live R Streptococcus that
+Griffith had used. Then they removed as much of the protein as they could from their
+preparation, eventually achieving 99.98% purity. Despite removal of nearly all the
+protein, the transforming activity was not reduced. Moreover, the properties of
+transforming principle resembled those of DNA. The protein-digesting enzymes or RNA-
+digesting enzymes did not affect the principle’s activity, but the DNA-digesting enzyme
+DNase destroyed all the transforming activity.
+
+Additional evidence supporting Avery’s conclusion was provided in 1952 by
+Alfred Hershey and Martha Chase who experimented with bacteriophages T2. In some
+experiments they labelled viruses with radioactive phosphorus (32P) which was incorporated into the newly synthesized DNA of growing phage. In other experiments, the viruses were grown on a medium containing 35S, an isotope of sulphur which is incorporated into the protein coats. After the labelled phages infected bacteria, the bacterial cells were agitated violently to remove the protein coats. The radioactive label that entered the bacterial cells was found to be the 32P (DNA) label, demonstrating that DNA, not protein, carried the genetic information (Fig. 20.8).
+
+CHEMICAL NATURE OF DNA
+
+A German chemist, Friedrich Miescher, discovered DNA in 1869, only four
+years after Mendel’s work was published. Miescher extracted a white substance from the
+nuclei of human cells and fish sperm. He called this substance “nuclein” because it
+seemed to be specifically associated with the nucleus.
+
+Since nuclein was acidic, it came to be known as nucleic acid. For 50 years
+biologists did little research on the substance, because nothing was known of its function
+in cells. In 1920s, the basic structure of nucleic acids was determined by the biochemist
+P. A. Levene, who found that DNA contains three main components (Fig. 20.9): (1)
+phosphate (PO4) groups, (2) five-carbon sugars, and (3) nitrogen-containing bases called
+purines (adenine, A, and guanine, G) and pyrimidines (thymine, T and cytosine, C; RNA
+contains uracil, U instead of T). Levene concluded that DNA and RNA molecules are
+made of repeating units called nucleotides. In a nucleotide a nitrogen base is attached to
+carbon number 1 of a pentose sugar and a phosphate group is attached to carbon number 5
+of the sugar. In addition a free hydroxyl (-OH) group is attached to the 3’ carbon atom
+(Fig. 20.10). The 5’ phosphate and 3’ hydroxyl groups allow DNA and RNA to form
+long chains of nucleotides, because these two groups can react chemically with each
+other. The reaction between the phosphate group of one nucleotide and the hydroxyl
+group of another is a dehydration synthesis, eliminating a water molecule and forming a
+covalent bond that links the two groups (Fig. 20.11). The linkage is called a
+phosphodiester bond because the phosphate group is now linked to the two sugars by
+means of a pair of ester (P-O-C) bonds. The polymer resulting from this
+reaction still has a free 5’ phosphate group at one end and a free 3’ hydroxyl group at
+the other, so that it can link to other nucleotides. In this way, many thousands of
+nucleotides can join together in long chains. Linear strands of DNA or RNA no matter
+how long, will almost always have a free 5’ phosphate group at one end and a free 3’
+hydroxyl group at the other.
+
+Erwin Chargaff later showed that the amount of adenine in DNA always equals
+the amount of thymine, and the amount of guanine always equals the amount of cytosine;
+it also implies that there is always equal proportion of purines (A+G) and pyrimidines (T+C).
+
+Rosalind Franklin carried on an X-ray diffraction analysis of DNA in the laboratory of British biochemist Maurice Wilkins, who prepared DNA fibers. The diffraction pattern suggested that the DNA molecule had a shape of a helix with a diameter of 2 nm and a complete helical turn every 3.4 nm (Fig. 20.12).
+
+DOUBLE HELICAL STRUCTURE OF DNA (WATSON AND CRICK’S MODEL)
+
+Learning informally of Franklin’s results, before they were published in 1953,
+James Watson and Francis Crick, two young researchers at the University of
+Cambridge, quickly worked out a likely structure of the DNA molecule which we now know was substantially correct. They proposed that the molecule is a simple double helix, with the bases of two strands pointed inward toward each other, forming base-pairs. In their model, base pairs always consist of a purine (large) paired with a pyrimidine (small), keeping the diameter of the molecule a constant 2 nm. Hydrogen bonds exist between the bases in a base pair, stabilizing the double helix. The duplex DNA molecule is composed of two antiparallel strands, one chain running 3’ to 5’ and the other 5’ to 3’. The base pairs are planar (flat) and stack 0.34 nm apart as a result of hydrophobic interactions contributing to the overall stability of the molecule (Fig. 20.13). In the double helix, adenine forms two hydrogen bonds with thymine, while guanine forms three hydrogen bonds with cytosine. Adenine will not form proper hydrogen bonds with cytosine, and guanine will not form proper hydrogen bonds with thymine. Consequently adenine and thymine will always occur in the same proportion in any DNA molecule, as will guanine and cytosine, because of this base pairing.
+
+Watson and Crick’s model immediately suggested that the basis for copying the genetic store is complementarity. If one were to unzip the molecule, one would need only to assemble the appropriate complementary nucleotides on the exposed single strands to form two daughter complexes with the same sequences. This form of DNA replication is called semi-conservative, because while the sequence of the original duplex is conserved in the daughters, each daughter duplex consists of one old strand and one newly synthesized strand.
+
+Other hypotheses of DNA replication were the conservative model (parental double helix remains intact and generates entirely new duplexes) and the dispersive model (parental DNA is dispersed and each daughter strand is a mixture of old and new DNA).
+
+THE MESELESON–STAHL EXPERIMENT
+
+The three hypotheses of DNA replication were evaluated by Matthew Meselson and Franklin Stahl in 1958. They grew bacteria in a medium containing the heavy isotope of nitrogen, 15N, which became incorporated into the bases of the bacterial DNA. After several generations, the DNA of these bacteria was denser than that of bacteria grown in a medium containing the lighter isotope 14N. Meselson and Stahl then transferred the bacteria from the 15N medium to the 14N medium and collected the DNA at various intervals.
+
+They dissolved the DNA in cesium chloride and then spun it at a very high speed in an ultracentrifuge. DNA strands of different densities separated in the density gradient. The DNA collected immediately after the transfer was all dense. However, after the bacteria completed their first round of DNA replication in the 14N medium, the density of their DNA had decreased to a value intermediate between 15N DNA and 14N DNA. After the second round of replication, two density classes of DNA were observed — one intermediate and one equal to that of 14N DNA (Fig. 20.14).
+
+Meselson and Stahl interpreted their results as follows: after the first round of replication, each daughter DNA duplex was a hybrid possessing one heavy parental strand and one light newly synthesized strand. When this hybrid duplex replicated, it contributed one heavy strand to form another hybrid duplex and one light strand to form a light duplex (Fig. 20.15). Thus, this experiment clearly confirmed the prediction of the Watson–Crick model that DNA replicates in a semi-conservative manner.
+
+THE REPLICATION PROCESS
+
+DNA replication begins at one or more sites on the DNA molecule, where there is a specific sequence of nucleotides called an origin of replication (Fig. 20.16). DNA polymerase III and other enzymes begin a complex process that catalyzes the addition of nucleotides to the growing complementary strands of DNA (Fig. 20.17). Free nucleotides are added to the growing DNA strand.
+
+There are three DNA polymerases in bacteria: I, II and III. DNA polymerase I is a relatively small enzyme that plays a supporting role in DNA replication. The main replicating enzyme is DNA polymerase III which is far more complex in structure. The enzyme is a dimer and catalyzes replication of one DNA strand. Polymerase III progressively threads the DNA through the enzyme complex at a rapid rate, some 1000 nucleotides per second.
+
+One feature of DNA polymerase III is that it can add nucleotides only to a chain of nucleotides that is already paired with the parental strand. Hence DNA polymerase cannot initiate synthesis on its own. Instead another enzyme, primase, constructs an RNA primer, a sequence of about 10 RNA nucleotides complementary to the parent DNA template. DNA polymerase III recognizes the primer and adds DNA nucleotides to it to construct the DNA strands. The RNA nucleotides in the primers are then replaced by DNA nucleotides.
+
+Another feature of DNA polymerase III is that it can add nucleotides only to the 3’ end of a DNA strand. This means that replication always proceeds in the 5’→3’ direction on a growing DNA strand. Because the two parent strands of a DNA molecule are antiparallel, the new strands are oriented in opposite directions. Therefore, the new strands must be elongated by different mechanisms. The leading strand, which elongates toward the replication fork, is built up simply by adding nucleotides continuously to its growing 3’ end. In contrast the lagging strand, which elongates away from the replication fork, is synthesized discontinuously as a series of short segments that are later connected. These segments, called Okazaki fragments, are about 100–200 nucleotides long in eukaryotes and 1000–2000 nucleotides long in prokaryotes. Each Okazaki fragment is synthesized by DNA polymerase III in 5’→3’ direction, beginning at the replication fork and moving away from it. When the polymerase reaches the 5’ end of the previous fragment, another enzyme, DNA ligase, attaches the fragment to the lagging strand. The DNA is further unwound, new RNA primers are constructed, and DNA polymerase III then jumps ahead to begin constructing another Okazaki fragment.
+
+WHAT IS A GENE?
+
+Archibald Garrod and William Bateson concluded in 1902 that certain diseases
+among their patients were more prevalent in particular families. By examining several
+generations of these families, Garrod found that some of the diseases behaved as if they
+were the product of simple recessive alleles. He concluded that these disorders were
+Mendelian traits and that they had resulted from changes in the hereditary information in
+an ancestor of the affected families.
+
+Garrod investigated several of these disorders in detail. In alkaptonuria the
+patients produced urine that contained homogentisic acid. This substance oxidized
+rapidly when exposed to air, turning the urine black. In normal individuals, homogentisic
+acid is broken down into simpler substances. With considerable insight Garrod concluded
+that patients suffering from alkaptonuria lacked the enzyme necessary to catalyze this
+breakdown. He speculated that many other inherited diseases might also reflect enzyme
+deficiencies.
+
+From Garrod’s finding, it could be inferred that the information encoded within
+the DNA of chromosomes acts to specify particular enzymes. This point was not actually
+established, however, until 1941, when a series of experiments by Stanford University
+geneticists George Beadle and Edward Tatum provided definitive evidence on this point.
+Beadle and Tatum deliberately set out to create Mendelian mutations in chromosomes
+and then studied the effect of these mutations on the organisms (Fig. 20.20).
+
+Beadle and Tatum exposed Neurospora spores to X-rays, expecting that DNA in
+some of these spores would experience damage in the regions encoding the ability to
+make compounds needed for normal growth (Fig. 20.20). DNA changes of this kind are
+called mutations and the organisms that have undergone such changes are called mutants.
+Initially, they allowed the progeny of the irradiated spores to grow on a defined medium
+containing all of the nutrients necessary for growth, so that any growth-deficient mutants
+resulting from the irradiation would be kept alive.
+
+To determine whether any of the progeny of the irradiated spores had mutations
+causing metabolic deficiencies, Beadle and Tatum placed subcultures of individual fungal
+cells on a “minimal” medium that contained only sugar, ammonia, salts, a few vitamins
+and water. Cells that had lost the ability to make other compounds necessary for growth
+would not survive on such a medium. Using this approach, Beadle and Tatum succeeded
+in identifying and isolating many growth-deficient mutants.
+
+Next the researchers added various chemicals to the minimal medium in an
+attempt to find one that would enable a given mutant strain to grow. This procedure
+allowed them to pinpoint the nature of the biochemical deficiency that strain had. The
+addition of arginine, for example, permitted several mutant strains, dubbed arg mutants,
+to grow. When their chromosomal positions were located, the arg mutations were found
+to cluster in three areas.
+
+For each enzyme in the arginine biosynthetic pathway, Beadle and Tatum were
+able to isolate a mutant strain with a defective form of that enzyme, and the mutation was
+always located at a specific chromosomal site. Most importantly, they found
+there was a different site for each enzyme. Thus, each of the mutants they examined had a
+defect in a single enzyme, caused by a mutation at a single site on one chromosome.
+Beadle and Tatum concluded that genes produce their effects by specifying the structure
+of enzymes and that each gene encodes the structure of one enzyme. This is the “one gene / one enzyme” hypothesis. Because many enzymes are proteins made of polypeptide subunits, each encoded by a separate gene, the statement is today more commonly referred to as “one gene / one polypeptide”.
+
+Enzymes are responsible for catalyzing the synthesis of all the parts of an
+organism. They are also responsible for the assembly of nucleic acids, proteins,
+carbohydrates and lipids. Therefore, by encoding the structure of enzymes and other
+proteins, DNA specifies the structure of the organism itself.
+
+HOW DNA ENCODES PROTEIN STRUCTURE
+
+In 1953, an English biochemist Frederick Sanger described the complete
+sequence of amino acids of insulin. Sanger’s achievement was significant, as it demonstrated for the first time that proteins consisted of definable sequences of amino acids. Soon it was revealed that all enzymes and other proteins are strings of amino acids arranged in a certain definite order.
+
+Following Sanger’s pioneering work, Vernon Ingram in 1956 discovered the
+molecular basis of sickle cell anemia, a protein defect inherited as a Mendelian disorder.
+By analyzing the structure of normal and sickle cell haemoglobin, Ingram showed that sickle cell anemia is caused by a change from glutamic acid to valine at a single position in the protein. The alleles of the gene encoding hemoglobin differed only in their specification of this one amino acid in the hemoglobin amino acid chain.
+
+These experiments and other related ones have finally brought us to a clear
+understanding of the unit of heredity. The characteristics of sickle cell anemia and most
+other hereditary traits are defined by changes in protein structure brought about by an
+alteration in the sequence of amino acids that make up the protein. This sequence in turn
+is dictated by the order of nucleotides in a particular region of chromosome. For example,
+the critical change leading to sickle cell disease is a mutation that replaces a single
+thymine with an adenine at the position that codes for glutamic acid converting the codon to valine. The sequence of nucleotides that determines the amino acid sequence
+of a protein is called a gene.
+
+CELLS USE RNA TO MAKE PROTEIN
+
+All organisms use the same basic mechanism of reading and expressing genes, which is
+often referred to as the central dogma. The genetic information resides in DNA.
+The genetic information flows down into RNA, which is then converted into protein
+(Fig. 20.23). The first step of the central dogma is the transfer of information from DNA to RNA, which occurs when an mRNA copy of the gene is produced. This process is called transcription.
+
+Transcription is initiated when RNA polymerase binds to a particular binding site
+called a promoter located on the DNA template strand. The enzyme then synthesizes a complementary transcript of the gene from which it was copied.
+
+TYPES OF RNA
+
+The class of RNA found in the ribosome is called ribosomal RNA (rRNA). During translation, rRNA provides the site where polypeptides are assembled. In addition to rRNA, there are two other major classes of RNA in the cells: transfer RNA (tRNA) and messenger RNA (mRNA). Transfer RNA molecules transport the amino acids to the ribosomes for use in building the polypeptides and also position each amino acid at the correct place on the elongating polypeptide chain (Fig. 20.24). Human cells contain about 45 different kinds of tRNA molecules. Messenger RNAs are long strands of RNA that are transcribed from DNA and that travel to the ribosomes to direct precisely which amino acids are assembled into polypeptides.
+
+TRANSCRIPTION
+
+This is the process in which an RNA copy of the DNA sequence encoding the
+gene is produced with the help of an enzyme, RNA polymerase. Only one of the two
+strands of DNA is transcribed. This strand is called template strand or the antisense strand. The opposite strand is called coding strand or the sense strand. The RNA polymerase enzymes synthesize RNA in the 5’→3’ direction. There is only one type of RNA polymerase in prokaryotes which is responsible for the synthesis of all the three types of RNAs viz, rRNA, mRNA and tRNA. In eukaryotes there are three types of RNA polymerases namely RNA polymerase I, which synthesizes rRNA, RNA polymerase II, which synthesizes mRNA and RNA polymerase III which synthesizes tRNA.
+
+Transcription starts at the RNA polymerase binding site called promoter on the DNA template strand. In prokaryotes within promoter there are two binding sites called -35 sequence (TTGACA) and -10 sequence (TATAAT), which have affinity for the RNA polymerase. In eukaryotes analogous promoter elements are located at -75 and -25 sites, respectively.
+
+The binding of RNA polymerase to the promoter is the first step in gene transcription. One of the subunits of RNA polymerase, the sigma factor, is responsible for correct initiation of transcription. Once transcription has started the sigma factor is released and the remaining part of the enzyme moves on the template strand and completes the transcription of the gene. The DNA strands open up at the place where the enzyme is attached to the template strand forming a transcription bubble. The transcription bubble moves down the DNA, leaving the growing strand protruding from the bubble (Fig. 20.25). The stop sequences at the end of the gene terminate the synthesis of mRNA. The simplest stop signal is a series of GC base pairs followed by a series of AT base pairs. The RNA formed in this region forms a GC hairpin followed by four or more U ribonucleotides. The hairpin causes RNA polymerase to stop synthesis.
+
+In bacteria the newly synthesized mRNA is directly released into the cytoplasm where it is translated into polypeptide chain. In eukaryotes however, it must travel from inside the nucleus to ribosomes in the cytoplasm. The eukaryotic RNA is therefore modified in several ways to aid this journey. A cap and a tail are added so that the molecule may remain stable during the long journey to the ribosome. The cap is in the form of 7-methyl GTP, which is linked 5’→5’ with the first nucleotide, whereas the tail is in the form of a poly(A) tail linked to the 3’ end of the RNA. These caps and tails protect the mRNA from nucleases and phosphatases.
+
+THE GENETIC CODE
+
+The genetic code is a combination of three nucleotides, which specify a particular amino acid. There are 64 different three-nucleotide combinations (4^3 = 64) which code for the 20 different amino acids that commonly occur in proteins. The genetic code is a triplet code and the reading occurs consecutively without punctuation between the three-nucleotide units.
+
+Marshall Nirenberg, Philip Leder and Har Gobind Khorana tested all the 64 codons by making artificial mRNAs and using them to synthesize proteins in cell-free systems. The full genetic code was determined during the mid-1960s (Table 20.1). Out of 64 codons, three codons UAA, UAG and UGA do not code for any amino acid and hence are known as nonsense or stop codons. Every gene starts with the initiation codon AUG, which encodes the amino acid methionine.
+
+The genetic code is nearly universal. It is the same in almost all organisms. Because of the universality of codons, genes can be transferred from one organism to another and be successfully expressed in their new host. The study of the genetic code of mitochondrial DNA revealed that the genetic code is not completely universal. For example, UGA which is normally a stop codon in the nuclear code, reads as tryptophan in mitochondria. Likewise, AUA codes for methionine instead of isoleucine, and AGA and AGG serve as termination codons instead of arginine in some mitochondrial genomes.
+
+TRANSLATION
+
+In prokaryotes, translation begins when the initial portion of an mRNA molecule
+binds to rRNA in a ribosome. The mRNA lies on the ribosome in such a way that only one of its codons is exposed at the peptidyl site at any time.
+
+A tRNA molecule possessing the complementary three-nucleotide sequence
+(anticodon) binds to the exposed codon on the mRNA. As the ribosome moves along the messenger RNA, successive codons on the mRNA are exposed and the series of tRNA molecules bind one after another to the exposed codons. Each of these tRNA molecules carries an attached amino acid, which is added to the end of the growing polypeptide chain.
+
+Particular tRNA molecules become attached to specific amino acids through the
+action of activating enzymes called aminoacyl-tRNA synthetases, one of which exists for
+each of the 20 common amino acids (Fig. 20.26).
+
+In prokaryotes, polypeptide synthesis begins with the formation of an initiation complex. First a tRNA molecule carrying a chemically modified methionine (formyl-methionine) binds to the small ribosomal subunit. Proteins called initiation factors position the tRNA on the ribosomal surface at the P site (peptidyl site) where peptide bonds will form. Nearby two other sites exist: the A site (for aminoacyl site where amino acid-bearing tRNAs bind) and the E site (exit site) from which spent tRNAs will exit the ribosome (Fig. 20.27). This initiation complex binds to AUG on the mRNA.
+
+After the initiation complex has formed, the large ribosomal subunit binds. A tRNA molecule with the appropriate anticodon appears and, with the help of elongation factors, binds to the exposed mRNA codon at the A site. The two amino acids which now lie adjacent to each other undergo a chemical reaction, catalyzed by the large ribosomal subunit, which releases the initial methionine from its tRNA and attaches it by a peptide bond to the second amino acid (Fig. 20.28).
+
+The ribosome now moves (translocates) three nucleotides along the mRNA molecule in the 5’→3’ direction, guided by elongation factors. This movement translocates the initial tRNA to the E site and ejects it from the ribosome, repositions the growing polypeptide chain to the P site, and exposes the next codon on the mRNA at the A site. When a tRNA recognizing that codon appears, it binds to the codon at the A site, placing its amino acid adjacent to the growing chain. The chain is then transferred to the new amino acid, and the entire process is repeated.
+
+Elongation continues in this fashion until a terminating or stop codon is
+exposed (for example UAA). Nonsense codons are not recognized by tRNA; they are recognized by release factors, proteins that release the newly made polypeptide from the ribosomes (Fig. 20.29).
+
+MUTATIONS
+
+The cells of eukaryotes contain an enormous amount of DNA. If the DNA in all of
+the cells of an adult human were lined up end to end, it would stretch nearly 100 billion
+kilometres — about 60 times the distance from Earth to Jupiter.
+
+Changes in the DNA occur either due to mistakes in replication or damage to the
+genetic message causing mutations. Mutations in somatic cells do not pass on to
+offspring and so have little evolutionary consequence compared to germ-line changes. A
+mutation in a germ-line cell is passed to subsequent generations thus providing the raw material from which natural selection produces evolutionary change.
+
+Mutations can broadly be classified as (i) chromosomal aberrations and (ii) point
+mutations. Chromosomal aberrations are large-scale changes which involve presence of an extra chromosome or loss of a chromosome from the diploid number, or changes like deletions, insertions, inversions etc. Such chromosomal aberrations lead to syndromes like Down’s syndrome, Klinefelter’s syndrome, etc.
+
+Point mutations are mutational changes which affect the message itself, producing
+alterations in the sequence of DNA nucleotides (Table 20.2). If alterations involve only one or a few base pairs in the coding sequence they are called point mutations. While some point mutations occur due to spontaneous pairing errors that happen during DNA replication, others result from damage to the DNA caused by mutagens, usually radiations or chemicals. The latter class of mutations is of particular practical importance because modern industrial societies often release many chemical mutagens into the environment. Sickle cell anemia and phenylketonuria are well-known examples of point mutations. In sickle-cell anemia a point mutation leads to the change of glutamic acid into valine at position 6 from the N-terminal end in hemoglobin β chain; this mutation fundamentally alters the tertiary structure of the hemoglobin molecule, reducing its function.
+
+Table 20.2 Types of mutation
+
+POINT MUTATION
+
+ Base substitution: Substitution of one or a few bases in the coding sequence; may alter protein function.
+ Insertion: Addition of one or a few bases; may disrupt reading frame and produce inactive protein.
+ Deletion: Loss of one or a few bases; may cause nonfunctional protein.
+
+CHANGES IN GENE POSITION
+
+ Transposition: Change in gene position; gene may be regulated differently.
+ Chromosomal rearrangement: Gene may be moved to a different location affecting expression.
+
+In phenylketonuria, phenylalanine is not degraded because of defective enzyme phenylalanine hydroxylase. Phenylalanine consequently accumulates in the cells leading to mental retardation, as the brain fails to develop in infancy. This disorder is caused by a point mutation.

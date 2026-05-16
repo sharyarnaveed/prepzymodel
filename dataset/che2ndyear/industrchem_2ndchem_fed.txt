@@ -1,0 +1,283 @@
+industrchem_2ndchem_fed.txt
+
+After completing this lesson, you will be able to:
+Discuss the importance of the chemical industries in the economy of Pakistan.
+Describe the raw materials available in Pakistan for various chemical industries.
+Describe the chemical processes of addition and condensation polymerization.
+Interpret difference between petrochemicals and chemicals derived from them.
+Describe the fractional distillation and refining of petroleum.
+List the various raw materials for petrochemical industry.
+Identify the important fractions.
+Describe the basic building block processes in petrochemical technology.
+Describe the petrochemical process technology.
+List some major petrochemicals.
+Describe the formation and use of PVC and Nylon.
+Describe preparation and application of various cosmetics like nail varnish, nail polish remover and lipsticks.
+Describe types and application of synthetic adhesives.
+
+Industrial chemistry is the branch of chemistry which applies physical and chemical procedures towards the transformation of natural raw materials and their derivatives to products that are of beneficial to humanity.
+The scope of industrial chemistry includes:
+The usage of materials and energy on appropriate scale.
+Application of science and technology to make humans to experience the benefits of chemistry in areas such as food production, health and hygiene, shelter, protection, decoration, recreation and entertainment.
+
+22.1(A) INTRODUCTION TO THE CHEMICAL INDUSTRY
+The chemical industry can be classified according to the type of main raw materials used or type of products made.
+Inorganic chemical Industries which extract inorganic chemical substances, composites of the same and also synthesize inorganic chemicals.
+Organic chemical industries produce petroleum fuels, polymers, petrochemicals which include pharmaceuticals, dyes, pigments and paints, pesticides, soaps and detergents, cosmetic products and miscellaneous products. Light organic industries produce petrochemicals from petroleum.
+
+22.1 (B) Raw Materials for the Chemical Industry
+All chemicals are derived from raw materials available in nature. The price of chemicals depends on the availability of their raw materials. Major chemical industries have developed around the most plentiful raw materials. The natural environment is the source of raw materials for the chemical industry.
+
+Raw materials from the atmosphere:
+The atmosphere is the field above ground level. It is the source of air from which six industrial gases, namely N2, O2, Ne, Ar, Kr and Xe are manufactured. The mass of the earth’s atmosphere is approximately 5 x 10^15 tons and therefore the supply of the gases is virtually unlimited.
+
+Raw materials from the hydrosphere:
+Ocean water which amounts to about 1.5 x 10^21 litres contains about 3.5 percent by mass, dissolved material. Seawater is a good source of sodium chloride, magnesium, and bromine.
+
+Raw materials from the lithosphere:
+The vast majority of elements are obtained from the earth’s crust in the form of mineral ores, carbon and hydrocarbons. Coal, natural gas and crude petroleum besides being energy sources are also converted to thousands of chemicals.
+
+Raw materials from the biosphere:
+Vegetation and animals contribute raw materials to the so-called agro-based industries. Oils, fats, waxes, resins, sugar, natural fibres and leather are examples of thousands of natural products.
+
+Quick Quiz 1
+1. Define industrial chemistry.
+2. What is the difference between organic and inorganic chemical industries?
+3. What type of products are obtained from organic and light organic industries?
+4. Which raw materials are obtained from hydrosphere?
+
+22.2. SAFETY CONSIDERATIONS IN PROCESS INDUSTRIES
+Safety Management Requirements:
+Safety management is an integral part of the overall chemical processing facility safety programme. An effective safety management programme requires the following basic requirements:
+Process safety information: Process safety information includes all available information concerning process technology, equipment, raw materials and products and chemical hazards before conducting process.
+Process hazard analysis.
+Employee involvement: Management programmes should include employee participation in the development and conduct of process safety analyses and other elements of the programme.
+Process hazard analysis: A process hazard analysis is a thorough and systematic multi-disciplinary process, conducted in order to identify, evaluate and control the hazards of the process.
+Management of change: Chemical process facilities should develop a change programme of safety when changes occur in procedures and practices. Such programmes include a system of management authorization and written documentation for changes to materials, chemicals, technology, equipment, procedures, personnel and facilities that affect each process.
+Operating procedures: Chemical processing facilities must develop and provide operating instructions and detailed procedures to workers which should be regularly reviewed for completeness and accuracy.
+Safe work practices: Chemical process facilities should implement hot-work and safe work permit and work order programmes to control work conducted in or near process areas.
+Employee information and training: Chemical process facilities should use formal process safety training programmes to train and educate the incumbent and reassign new supervisors and workers.
+
+Quick Quiz 2
+1. What are requirements of process safety management?
+2. How employees should be involved in safety management programme?
+
+22.3. DYES
+A dye is a coloured compound, normally used in solution, which is capable of being fixed to a fabric. The dye must be ‘fast’ or not be liable so that the colour will not wash with soap and water, or fade on exposure to sunlight (ultraviolet light).
+A dye owes its colour to the presence of a chromophore and its fixing property to the acidic or basic auxochromic groups such as OH, SO3H, NH2, NR2, etc.
+
+22.3.1 Classification of Dyes by Chromophores:
+Dyes may be classified according to the type of chromophores present in their structures. This method of classification includes the following main types:
+Nitro and Nitroso Dyes: The NO2 and NO groups are chromophores in this class of dyes. Examples are Naphthol Yellow S and Mordant green 4.
+Azo Dyes: The azo dyes contain one or more azo groups, -N=N- as the primary chromophore. The common auxochromes are NH2, NR2, OH, SO3H. Examples are Para Red, Congo Red and Bismarck brown (Bismarck brown is a brown dye used in boot polishes and for dyeing wood).
+Triarylmethane Dyes: In triarylmethane dyes, a central carbon is bonded to three aromatic rings one of which is in the quinoid form (the chromophore). The auxochromes are -NH2, -NR2 and -OH. Examples are Malachite Green (Malachite green has a deep green-blue colour, it is used as a direct dye for wool and silk).
+Anthraquinone dyes: The anthraquinone chromophore is present in these anthracene-type dyes. Alizarin is a typical anthraquinone dye. It is used to dye wool and cotton.
+Indigo dyes: Indigo is an example of the type of dyes which contain carbonyl chromophore. It is used for dyeing cotton by the Vat Process.
+
+22.3.2 Classification of Dyes by Methods of Application:
+The dyes are often classified on the basis of technique employed for their application.
+Direct Dyes: These can be applied to a fabric by direct immersion in a water solution of the dye. A direct dye contains acidic or basic auxochrome which combines with the opposite polar group present in the chemical structure of the fiber. Wool and silk are readily dyed by this method. Martius Yellow, a typical direct dye, has the acidic auxochrome -OH which interacts with the basic -NH2 group of wool or silk.
+Vat Dyes: These dyes are insoluble in water but on reduction with sodium hydrosulphide in a vat form a colourless soluble compound which has a great affinity for cotton and other cellulose fibers. The cloth is soaked in the solution of a reduced dye and then hung in air, or treated with oxidants. As a result, the colourless compound is oxidized back to the insoluble dye which is now bound to the fabric. Indigo is a good example of vat dye.
+Mordant Dyes: This type of dyes has no natural affinity for the fabric and is applied to it with the help of salts e.g., aluminium or chromium. These salts are called Mordants. A fabric such as cotton is first treated with the mordant and then with the dye solution. The mordant forms an insoluble coordination complex between the dye and the fiber and binds the two. The insoluble complex appears in the form of lakes. The dyed fabric is fast to light and washing. The mordant dyeing is suitable for wool and nylon. Alizarin is an example of mordant dye.
+Azoic Dyes (Ingrain Dyes): In this method of dyeing the water insoluble azo dye is produced in the fabric itself. The cloth is first soaked in the solution of a coupling reagent usually a phenol or naphthol. Then it is immersed in the solution of a diazonium salt. The azoic dyeing is particularly suitable for cotton and other cellulosic fiber but may also be used for nylon.
+Disperse Dyes: These dyes are insoluble in water but can be dispersed in a colloidal form in water. The fabric is immersed in the colloidal dispersion of the dye. The fine dye particles are absorbed into the crystal structure of the fabric. Disperse dyes are used with modern synthetic fabrics such as nylon, orlon, polyester and cellulose acetate.
+
+22.3.3 Hair dye:
+Raw Materials: In general, hair dyes include:
+Dyes e.g. 4-amino-2-hydroxytoluene.
+Modifiers e.g. resorcinol.
+Antioxidants e.g. sodium sulfite.
+Alkalizers e.g. ammonium hydroxide.
+Beyond these basic chemicals, many different chemicals are used to impart special qualities. They may be shampoos, fragrances, chemicals that make the formula creamy, foamy, or thick, or contribute to the overall action of the formula.
+
+Different types of hair dye: There are three types of hair dyes.
+Permanent: causes some lightening of hair, contains 3-6% hydrogen peroxide, contains oxidative dyes that form during application, does not wash out significantly but may fade.
+Demi-permanent: causes mild lightening of hair, contains 1-2% hydrogen peroxide, contains oxidative dyes that form during application, lasts around 6 weeks.
+Temporary or semi-permanent dye (direct dye): no lightening of hair, does not contain peroxide, contain dyes that are already formed before application, washes out in a few washes.
+
+Quick Quiz 3
+1. What is a hair dye?
+2. What are different types of hair dyes?
+
+22.4. PESTICIDES
+A pesticide is a substance used to control or kill the pests. The pests may be insects, plant diseases, fungi, weeds, nematodes, snails, slugs, etc. Therefore, insecticides, fungicides, herbicides, etc., are all types of pesticides.
+
+Types of Pesticides:
+Insecticides: Insecticides are chemicals used to control insects. Insecticides called Systemics may be absorbed, injected, or fed into the plant or animal to be protected. When the insect feeds on this plant or animal, it ingests the systemic chemical and is killed.
+Miticides (or Acaricides): are chemicals used to control mites (tiny insect-like spider-like animals) and ticks. Miticides are very similar in action to insecticides and often the same chemical kills both insects and mites.
+Fungicides: Fungicides are chemicals used to control the fungi which cause molds, rots, and plant diseases. All fungicides work by coming in contact with the fungus, because fungi do not swallow in the normal sense.
+Herbicides: Herbicides are chemicals used to control unwanted plants. These chemicals are a bit different from other pesticides because they are used to kill or slow down the growth of some plants, rather than to protect them. Some herbicides kill every plant in contact, while others kill only certain plants. Herbicides are of two types: i) Nonselective herbicides are toxic to all plants. ii) Selective herbicides kill some plants with little or no injury to other plants.
+Rodenticides: Rodenticides are chemicals used to control rats, mice, bats and other rodents.
+Nematicides: Nematicides are chemicals used to control nematodes. Nematodes are tiny hair-like worms, many of which live in the soil and feed on plant roots.
+Molluscicides: Molluscicides are chemicals used to control snails and slugs. Usually the chemicals must be eaten by the pest to work.
+Repellent: A repellent is a pesticide that makes a site or food unattractive to a target pest. Insect repellents are available as aerosols and lotions and can be applied to skin, clothing, or plants to repel biting and nuisance insects.
+
+Quick Quiz 4
+1. Differentiate between (i) Pesticides and Insecticides (ii) Fungicides and herbicides.
+2. What do you understand by systemics?
+3. How do herbicides differ from other pesticides?
+4. What are the uses of repellents?
+5. What are molluscicides?
+
+22.5. PETROCHEMICAL
+The term "petrochemical" is an abbreviation of "petroleum chemicals"; since "petro-" is Ancient Greek for "rock" and "oleum" means "oil". Therefore, the term petrochemical is used to describe chemicals derived from petroleum. Some chemical compounds made from petroleum are also obtained from other fossil fuels such as coal or natural gas, or renewable sources such as corn or sugar cane.
+
+Types/Classes of Petrochemical Raw materials (Building Blocks):
+Petrochemical classes are:
+a) Olefins including ethylene and propylene.
+b) Aromatics.
+c) Synthesis Gas.
+a) Olefins include ethylene, propylene, and butadiene. Ethylene and propylene are important sources of industrial chemicals and plastic products. Butadiene is used in making synthetic rubber.
+b) Aromatics include benzene, toluene, and xylenes. At oil refineries, aromatic hydrocarbons are mainly produced by catalytic reforming or similar processes.
+c) Synthetic gas is a mixture of carbon monoxide and hydrogen used to make ammonia and methanol. Ammonia is used to make the fertilizer urea and methanol is used as a solvent and chemical intermediate.
+
+List of significant petrochemicals and their derivatives:
+Following is a partial list of the major commercial petrochemicals and their derivatives:
+Chemicals produced from Ethylene: polyethylene, ethanol, ethylene oxide, vinyl acetate, 1,2-dichloroethane.
+Chemicals produced from benzene: ethylbenzene, cumene, cyclohexane, nitrobenzene, alkylbenzene.
+
+Refining of Petroleum/ Fractional Distillation:
+The refining process is the separation of crude oil mixture into various useful products (fractions).
+The process with the help of which a mixture of miscible liquids is separated on the basis of difference of boiling point by evaporation and condensation is called fractional distillation.
+
+Principle of Fractional Distillation:
+The principle of fractional distillation is based on separation of substances depending upon their boiling points. Substances having low boiling points and highly volatile boil out first, while the fraction that has slightly higher boiling point and low volatile boil out next. This process is continued until residue is left behind. Vapours of each fraction are collected and condensed separately.
+
+Method of fractional Distillation:
+Refining of crude oil is carried out in a tall fractionating tower. This process consists of following steps:
+Crude oil is heated in a furnace under high pressure in the presence of 400°C.
+Vapours are passed through a fractionating column from near its bottom.
+Hot vapours rise up in the column and gradually cool down and condense.
+Vapours having high boiling point i.e. 350-400°C condense first in the lower part of the tower.
+Vapours having lower and medium boiling point fractions rise upwards in the tower and condense gradually with respect to their boiling points at different levels. In this way, crude oil is separated into six hydrocarbon fractions.
+Each fraction has a specific boiling point range, composition and uses.
+
+Names of fractions, approximate number of C atoms in the hydrocarbon molecule, the approximate boiling range and uses of the fraction:
+
+Gases (1-5%): C1 to C4, Boiling range: below 40°C. Uses: methane CH4 (domestic heating), ethane, propane and butane. Gaseous fuels which can be compressed or liquefied. Liquefied petroleum gas, a portable energy source e.g. bottled gas for heating and cooking pressure cylinders (propane), feedstock.
+
+Petrol (20-40%): C5 to C10, Boiling range: 40 to 170°C. Uses: easily vaporised, highly flammable, no good as a fuel, but valuable material source of organic chemical, make other things, crack to make more petrol and alkenes.
+
+Naphtha (20-40%): C6 to C10, Boiling range: 75 to 190°C. Uses: source of organic chemical, make other things, crack to make more petrol and alkenes.
+
+Paraffin, Kerosene (10-15%): C10 to C16, Boiling range: 170 to 250°C. Uses: domestic central heating fuel, aircraft jet fuel (kerosene).
+
+Diesel oil, gas oil (15-20%): C14 to C20, Boiling range: 250 to 350°C. Uses: less volatile than petrol, diesel fuel for some cars and larger vehicles like haulage trucks, trains, central heating fuel, also cracked to make more petrol and alkenes.
+
+Heavy fuel oil, heating oil, lubricating oil, greases (40-50%): C >20 to ~30, Boiling range: >350°C. Uses: not so easily evaporated, not as flammable, safe to store, liquid fuel oil for power stations and ships, quite viscous (sticky), can also be used for lubricating oils (lubricants, mineral oils) and greases.
+
+Residue: C >30, maybe up to several hundred, high boiling liquids or low melting solids. Uses: used as candle wax, waxes and polishes (can be dyed) and the biggest molecules make bitumen. Bitumen/asphalt - low melting solid used on roads as it forms a thick, black, tough and resistant adhesive surface on cooling, used as a roofing waterproofing material (it sticks rock chips on roofs or road surfaces).
+
+Quick Quiz 5
+1. What do you mean by petrochemicals?
+2. What are classes of petrochemical raw materials?
+3. What are important fractions of petroleum?
+
+22.6. SYNTHETIC POLYMERS
+Polymers are high molecular weight compounds whose structures are made up of a large number of simple repeating units. The repeating units are usually obtained from low molecular weight compounds referred to as monomers. The reaction by which monomers are converted into polymer is known as polymerization. Formation of polyethylene from ethylene is an example of polymerisation reaction.
+Polymerisation: n CH2=CH2 -> -[CH2-CH2]n-.
+Ethylene (Monomer) -> Polyethylene (Polymer).
+Polymers which are synthesized from only one kind of monomer are called homopolymers. Polymers which are prepared from more than one kind of monomer are called copolymers.
+
+Classification of Polymers:
+There are two main types of polymers: Addition polymers and Condensation polymers.
+Addition Polymers (Chain-Growth Polymers): Addition polymers are formed by combination of alkenes monomers to produce a single huge molecule only. These reactions are catalyzed by peroxides or acids. The reactions require pressures of 1000 atmospheres at 200°C. Much lower temperatures and pressures can be used with so called Ziegler Catalysts which consist of a trialkyl aluminum Al(R)3, and titanium tetrachloride TiCl4 in an inert solvent. The backbone of the polymer consists of the carbon atoms that originally formed the double bonds. Nothing is lost. The monomers simply add to each other.
+Polyvinyl Chloride (PVC): It is obtained by polymerizing vinyl chloride. PVC is used in the manufacture of imitation leather, floor covering, corrugated roofing material and gramophone records.
+Vinyl chloride is obtained from acetylene by treatment with HCl in the presence of HgCl2.
+HC≡CH + HCl -> CH2=CH-Cl.
+Acetylene -> Vinyl chloride.
+
+Condensation Polymers (step-growth polymers): Condensation polymers are formed by combination of monomers with the elimination of small molecules such as H2O or CH3OH. There are two main types of condensation polymers: Polyesters and Polyamides. The most common example is Nylon-6,6. It is obtained by heating adipic acid with hexamethylene diamine.
+HOOC-(CH2)4-COOH + H2N-(CH2)6-NH2 -> -[OC-(CH2)4-CO-NH-(CH2)6-NH]n- + H2O.
+Adipic acid + Hexamethylene diamine -> Nylon-6,6.
+Nylon-6,6 derives its name from its starting materials adipic acid and hexamethylene diamine, both of which have six carbons. Nylon-6,6 was developed as a fiber for the production of wearing apparel. It was introduced to the public at the New York World’s Fair in 1939. It is used to make fibers for clothing and carpeting, filaments for fishing lines and ropes, bristles for brushes, and molded objects such as gears and bearings.
+
+Thermoplastic and Thermosetting Polymers:
+A thermoplastic polymer is one which softens on heating and becomes hard on cooling.
+A thermosetting polymer is one which becomes hard on heating. It can not be softened by heating.
+
+Quick Quiz 6
+1. What are uses of (i) PVC (ii) Nylon-6,6?
+2. What is difference between addition and condensation polymers?
+3. Give the difference between thermoplastic and thermosetting plastic.
+4. How vinyl chloride is prepared from acetylene?
+5. Write formulae of (i) adipic acid (ii) hexamethylene diamine.
+
+22.7. COSMETIC CHEMISTRY
+Introduction:
+The global market for skincare and color cosmetics exceeded 53 billion dollars in 2002. The number of new products brought to market continues to expand exponentially. Cosmetic chemists are always looking for interesting and exotic ingredients that improve skin's appearance and health.
+This particular topic is very vast but we will restrict ourselves in the following topics and discuss them one by one with a sufficient detail in each case:
+Nail Polish.
+Nail Polish Remover.
+Lipstick.
+Hair dyes.
+
+22.7.1. Nail Polish:
+Raw Materials: There is no single formula for nail polish. There are, however, a number of ingredients used. The basic components include:
+Film forming agents e.g. Nitrocellulose.
+Resins and plasticizers e.g. Castor oil, amyl and butyl stearate, glycerol, fatty acids.
+Solvents e.g. Butyl stearate and acetate compounds.
+Coloring agents e.g. "pearl" or "fish scale".
+
+Manufacturing process:
+The pigments, nitrocellulose and plasticizer are mixed and ground in a "two-roll" differential speed mill to produce fine dispersion of the color.
+When properly and fully milled, the mixture is removed from the mill in sheet form and then broken up into small chips for mixing with the solvent. The mixing is performed in stainless steel kettles.
+At the end, the mixture is cooled slightly before the addition of such other materials as perfumes, moisturizers and cooling agents.
+The mixture is then pumped into smaller, 55-gallon drums, and then trucked to a production line. The finished nail polish is pumped into explosion proof pumps, and then into smaller bottles suitable for the retail market.
+
+22.7.2. Nail Polish Remover:
+Nail polish remover base commonly contains a mixture of two organic solvents acetone and ethyl acetate or butyl acetate.
+
+Quick Quiz 7
+1. Give composition of nail polish.
+2. What is use of plasticizers in nail polish?
+3. How can raw material of nail polish be mixed?
+4. What is nail polish remover?
+5. Give composition of nail polish remover.
+
+22.7.3. Lipstick:
+Chemical Composition: Lipsticks are simple in chemical composition, however complicated their application or effects. They are made up of three ingredients—a waxy or fatty base, a dye and a perfume.
+Raw Materials: The primary ingredients found in lipstick are wax (beeswax, candelilla wax, or the more expensive carnauba) oil (caster, lanolin, or vegetable oil) alcohol, fragrance, pigment, preservatives and antioxidants.
+The Manufacturing Process:
+Melting and mixing: First, the raw ingredients for the lipstick are melted and mixed separately because of different types of ingredients used. One mixture contains the solvents, a second contains the oil, and a third contains the fats and waxy materials. The solvent solution and liquid oil are then mixed with the color pigments. After the pigment mass is ground and mixed, it is added to the hot wax mass until a uniform color and consistency is obtained.
+Molding: Since the lipstick mass is mixed and free of air, it is ready to be poured into the tube. A variety of machine setups are used, depending on the equipment that the manufacturer has. The melted mass is dispensed into a mold, "up-side down" so that the bottom of the tube is at the top of the mold. The lipstick is cooled and separated from the mold and the bottom of the tube is sealed. The lipstick then passes through a flaming tunnel (or is flamed by hand) to seal pinholes and improve the finish.
+Labeling and packaging: After the lipstick is retracted and the tube is capped, the lipstick is ready for labeling and packaging.
+
+Quick Quiz 8
+1. Give composition of lipstick.
+2. What type of wax is used as raw material of lipstick?
+3. How many steps are involved in manufacturing of lipstick?
+4. Give percentage of alcohol and pigments in lipstick.
+
+22.8. ADHESIVES
+Meanings:
+Adhesives are meant to stick things together. An adhesive is a compound that adheres or bonds two items together. Adhesives may come from either natural or synthetic sources. Adhesives are a natural product; it is also manufactured in factories. Some modern adhesives are extremely strong, and are becoming increasingly important in modern construction and industry.
+
+Types:
+Natural adhesives: They are made from inorganic mineral sources, or biological sources such as vegetable matter, starch (dextrin), natural resins, animal skin. They are often referred to as bio adhesives.
+Synthetic adhesives: Elastomers, thermoplastic, and thermosetting adhesives are examples of synthetic adhesives.
+Drying adhesives: These adhesives are a combination of ingredients suspended in a solvent. White glue and rubber cements are members of the drying adhesive family. As the solvent evaporates, the adhesive hardens.
+Contact adhesives: Contact adhesives must be applied to both surfaces and allowed for some time to dry before the two surfaces are pushed together. Some contact adhesives require as long as 24 hours to dry before the surfaces are to be held together.
+Hot Glue: Also known as "hot melt" adhesives. These adhesives are thermoplastics; they are applied hot and simply allowed to harden as they cool. These adhesives have become popular because of their ease of use and the wide range of common materials to which they can be applied. The glue gun melts the solid adhesive and then allows the liquid to pass through the "barrel" of the gun onto the material where it solidifies.
+UV and light curing adhesives: UV and light curing adhesives consist essentially of low molecular weight resins.
+
+Quick Quiz 9
+1. Define adhesives.
+2. Give few examples of natural adhesives.
+3. Why and when drying adhesives harden?
+4. How are adhesives used/applied?
+5. How is hot glue applied?
+
+Society, Technology and Science:
+Development of synthetic fibers: Nylon is the first synthetic fiber.
+Synthetic fibers are made from synthesized polymers or small molecules. Different chemical compounds are used to produce different types of fibers.
+There are several methods of manufacturing synthetic fibers but the most common is the Melt-Spinning Process. It involves heating the fiber until it begins to melt, then drawing out the molten material with tweezers as quickly as possible. The next step is to draw the molecules by aligning them in a parallel arrangement. This brings the fibers closer together and allows them to crystallize and orient. Lastly, is Heat-Setting. This utilizes heat to permeate the shape and dimensions of the fabrics made from heat-sensitive fibers.
+Uses of synthetic fibres: Synthetic fibres are used for making Clothes, Ropes, parachutes and other military equipment, Fish nets, Carpets, Tents.
+Glass fiber is used for: industrial, automotive, and home insulation (glass wool), reinforcement of composite materials (glass-reinforced plastic, glass fiber reinforced concrete), specialty papers in battery separators and filtration.
+Metallic fiber is used for: adding metallic properties to clothing for the purpose of fashion (usually made with composite plastic and metal foils), elimination and prevention of static charge build-up, conducting electricity to transmit information, conduction of heat.
+Plastic shrinkage cracks may occur even when standard precautions have been taken, which may impair the durability and serviceability of concrete structures. One way to prevent such cracks is by adding short fibers to the concrete mixture. The aim of this work is to evaluate the effect of the addition of synthetic fibers, such as polypropylene, glass, nylon and PET fibers in concrete cracking control. An experimental program was conducted to investigate plastic shrinkage cracking in small thin slabs, by varying the fiber volume fraction of fibers in the mixtures.
+Capital intensive industries are classified as heavy while labour intensive industries are classified as light industries.
+Light industries are easier to relocate than heavy industries and require less capital investment to build.
+Specialty chemicals are mainly used in the form of formulations. Purity is of vital importance in their formulation. This calls for organic synthesis of highly valued pure chemicals known as fine chemicals.
+The polar auxochrome makes the dye water-soluble and binds the dye to the fabric by interaction with the oppositely charged groups of the fabric structure.
+

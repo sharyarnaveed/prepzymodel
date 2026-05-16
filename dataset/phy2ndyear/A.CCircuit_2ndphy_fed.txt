@@ -1,0 +1,246 @@
+A.CCircuit_2ndphy_fed
+
+
+Studying this chapter the students will be able to:
+
+Define the terms time period, frequency, peak value and root mean square value of an alternating current and voltage.
+
+Represent a sinusoidally alternating current or voltage by an equation of the form: x = X₀ sin ωt.
+
+Understand the phase of A.C and how phase lags and leads in A.C circuits.
+
+Identify inductors as important components of A.C circuits termed as chokes (devices which present a high resistance to alternating current).
+
+Explain the flow of A.C through resistors, capacitors and inductors.
+
+Apply the knowledge to calculate the reactances of capacitors and inductors.
+
+Define impedance as vector summation of resistances and reactances.
+
+Construct phasor diagrams and carry out calculations on circuits including resistive and reactive components in series.
+
+Solve problems using the formulae of A.C power.
+
+Understand resonance in an A.C circuit and carry out calculations using the resonance frequency formulae.
+
+State that maximum power is transferred when the impedances of source and load match to each other.
+
+Understand the qualitative treatment of Maxwell’s equations and production of electromagnetic waves.
+
+Be familiar with electromagnetic spectrum (ranging from radio waves to gamma rays).
+
+Visible light is a part of a continuous spectrum of electromagnetic radiation. All electromagnetic radiations travel in vacuum with same speed.
+
+Information can be transmitted by radio waves. Microwaves of a certain frequency cause heating when absorbed by water and cause burns when absorbed by body tissues. Ultraviolet radiation can be produced by special lamps. Prolonged exposure to the Sun may cause skin cancer from ultraviolet rays.
+
+The electricity produced by most generators is in the form of alternating current. AC generators, motors and other electrical equipments are simpler and more reliable than their DC counterparts.
+
+The study of the behaviour of resistance, inductance and capacitance in AC circuits enables us to look into the many uses of these circuit elements. A theory describing relation between accelerating charges, and electric and magnetic fields was given by James Clerk Maxwell in electromagnetic theory. The theory predicts that accelerating electric charges radiate electromagnetic waves, which propagate at the speed of light. When the oscillation is in the form of a continuous oscillation, the frequency of electromagnetic waves is the frequency of the oscillating charges.
+
+Metal detectors are used at airports and other sensitive areas for security purposes. Metal objects cause changes in an electromagnetic field when they pass through a doorway. A circuit detects the changes and sets off an alarm.
+
+The current for electrical devices may come from a direct current source (DC), or an alternating current source (AC). In direct current, electrons flow continuously in one direction from the source of power through a load and back to the source of power. The voltage in a DC source remains constant. DC power sources include batteries and DC generators. In alternating current, an AC generator is used to make electrons flow in one direction then in another. A source which produces potential difference changing polarity with time is called an alternating source. An alternating source which changes its polarity at regular interval of time is called an alternating voltage source. When an alternating voltage is applied in a circuit, the current flows first in one direction and then in the opposite direction; the direction of current at any instant is the same as the polarity of the voltage.
+
+Figure 15.1 shows an alternating voltage connected to a resistor R. In Fig (i) the upper terminal of alternating voltage is positive and lower terminal negative so that current flows in the circuit from left to right. In Fig (ii) the polarities of the voltage source are reversed, so current flows in opposite direction. This is called alternating current because the current changes its direction in the circuit.
+
+When a coil rotates with a constant angular velocity in a magnetic field, AC voltage switches polarity over time. The waveform traced by this voltage of alternating polarity from an AC generator has a distinct shape, known as a sine wave. The sinusoidal alternating voltage can be expressed by the equation:
+V = V₀ sin ωt ... (15.1)
+Here V is the instantaneous value of alternating voltage, V₀ is the peak value of alternating voltage and ω is angular velocity of the coil. Figure 15.2 (i) shows the waveform of sinusoidal voltage whereas Figure 15.2 (ii) shows the waveform of sinusoidal current. The sinusoidal voltage or current not only changes direction at regular intervals but the magnitude is also changing continuously. The change from one polarity to the other is a smooth one, the voltage level changing most rapidly at the zero ("crossover") point and most slowly at its peak.
+
+Alternating current changes continuously in magnitude and direction. It rises to maximum positive value, falls to zero, reverses its direction and rises to maximum negative value and falls back to zero again and so on.
+
+AC terminology is defined below:
+
+Instantaneous value: The value of an alternating quantity at any instant is called instantaneous value. The instantaneous values of alternating voltage and current are represented by v and i respectively. For example, the instantaneous values of voltage at 0°, 90° and 270° are 0, V₀ and -V₀ respectively.
+
+Cycle: One complete set of positive and negative values of an alternating quantity is known as a cycle. One cycle can also be defined in terms of angular measure. One cycle corresponds to 360° electrical or 2π radians.
+
+Time period: The time taken in seconds to complete one cycle of an alternating quantity is called its time period. It is generally represented by T.
+
+Frequency: The number of cycles that occurs in one second is called the frequency of the alternating quantity. It is denoted by f. Its SI unit is hertz (Hz). f = 1/T.
+
+The frequency of power system in Pakistan is 50 Hz. It means alternating voltage or current completes 50 cycles in one second. This frequency is the most popular because it gives the best running results for both lights and machinery.
+
+The preference of sine waveform: Alternating voltages and currents can be produced in a variety of shapes (square waves, triangular waves, rectangular waves etc.), but it is preferable to adopt sine waveform. It has following advantages:
+- The sine waveform produces the least disturbance in the electrical circuit and is the smoothest and efficient waveform. For example, when current in a capacitor, in an inductor or in a transformer is sinusoidal, the voltage across the element is also sinusoidal. This is not true of any other waveform.
+- The mathematical computations, connected with alternating current work, are much simpler with this waveform.
+
+Peak value of alternating voltage and current:
+The average value of an AC waveform is not the same value as that for DC because the AC waveform is constantly changing with time. It can be expressed as peak value, average value or effective value.
+Peak value: The maximum value reached by an AC waveform is called its peak value. This peak value is reached twice each cycle, once at the positive maximum value and once at the negative maximum value. The peak value is also called amplitude.
+Average value: The average value of a waveform is the average of all its values over a period of time. For a sinusoidal waveform, the average value over one complete cycle is zero because positive area equals negative area.
+Effective or RMS value: In order to specify a sinusoidal voltage or current we do not use average value because its value over a complete cycle is zero and cannot be used for power calculations. Therefore we use effective value. The equivalent DC value of an alternating current which would produce the same power in a resistor is called its effective value or root mean square (rms) value.
+The rms value of an alternating current is that steady DC current which when flowing through a resistor produce the same amount of heat as produced by the alternating current when flowing through the same resistor for the same time.
+For a sinusoidal current i = I₀ sin ωt flowing through a resistor R, the power delivered is i²R = (I₀ sin ωt)² R. Average power over a cycle is (I₀²R)/2.
+The DC power for a current I_rms is I_rms² R.
+Equating: I_rms² R = (I₀² R)/2 => I_rms = I₀/√2 = 0.707 I₀.
+Similarly, V_rms = V₀/√2 = 0.707 V₀.
+Thus for a sinusoidal waveform:
+I_rms = 0.707 I₀ ... (15.6)
+V_rms = 0.707 V₀.
+
+Phase:
+In electrical engineering, we are often concerned with relative phases of alternating voltages and currents rather than with absolute phases.
+The term "phase" is short for "phase angle." It is a way of measuring how far a periodic waveform has advanced from a reference point.
+For a sine wave, the phase at any point is the angle (in degrees or radians) that the waveform has advanced from the zero point. For example, the positive peak occurs at π/2 radians (90°) and the negative peak at 3π/2 radians (270°).
+When two alternating quantities of the same frequency have different zero points, they are said to have a phase difference. The angle between zero points is the angle of phase difference φ. The quantity which passes through its zero point earlier is said to be leading while the other is said to be lagging. Since the alternating quantities have the same frequency, the phase difference between them remains constant.
+For example, if voltage and current are:
+v = V₀ sin ωt
+i = I₀ sin (ωt - φ)
+then current lags voltage by φ.
+
+Phasor:
+A rotating voltage or current is represented by a line of constant length rotating in counter clockwise direction at a constant angular speed. Such a rotating line is called a phasor. The length of the phasor represents the peak value of the alternating quantity. The angle of the phasor with the x-axis indicates the phase of the quantity.
+
+AC Through Pure Resistance:
+Consider a circuit containing a pure resistance R connected to an alternating voltage source as shown in figure 15.11 (a). The alternating voltage causes an alternating current to flow through the resistance. In the first half-cycle of the supply voltage, current flows in one direction and in the next half-cycle, it flows in the opposite direction, thus constituting alternating current.
+Both voltage and current pass through their zero values at the same time and reach their positive and negative peaks at the same time. Thus voltage and current are in phase with each other.
+If applied voltage is v = V₀ sin ωt, then current i = (V₀/R) sin ωt = I₀ sin ωt, where I₀ = V₀/R.
+In rms values: V_rms = I_rms R.
+Power: Instantaneous power p = v i = V₀ I₀ sin² ωt.
+Average power over a cycle: P = V_rms I_rms = I_rms² R = V_rms² / R.
+Thus in a pure resistive circuit, power is always positive, meaning power is constantly delivered by the source and consumed by the resistor.
+
+Example 15.1: A circuit consists of a pure resistance of 20 Ω and is connected to a 220 V, 50 Hz supply. Calculate (a) current, (b) power dissipated, (c) maximum current, (d) equations for voltage and current.
+Solution: R = 20 Ω, V_rms = 220 V, f = 50 Hz.
+(a) I_rms = V_rms / R = 220/20 = 11 A.
+(b) Power P = V_rms I_rms = 220 × 11 = 2420 W.
+(c) I₀ = √2 I_rms = 1.414 × 11 = 15.55 A.
+(d) ω = 2πf = 314 rad/s.
+v = 311.1 sin(314t) V, i = 15.55 sin(314t) A.
+
+AC Through Pure Inductance:
+An inductor is a two-terminal electrical component which resists changes in electric current passing through it. Consider an alternating voltage applied to a pure inductance L as shown in figure 15.13. When a sinusoidal current flows through the inductor, a back emf is induced due to the inductance of the coil. This back emf opposes the change in current. The applied voltage has to overcome this back emf. The applied voltage is equal and opposite to the induced emf: v = L di/dt.
+If current i = I₀ sin ωt, then v = L d/dt (I₀ sin ωt) = ωL I₀ cos ωt = V₀ sin (ωt + π/2), where V₀ = ωL I₀.
+Thus voltage leads current by π/2 (90°). The opposition offered by an inductor to AC is called inductive reactance, denoted by X_L.
+X_L = V₀ / I₀ = ωL = 2πf L ... (15.13)
+Unit of X_L is ohm.
+Power: Instantaneous power p = v i = V₀ I₀ sin ωt cos ωt = (V₀ I₀/2) sin 2ωt.
+Average power over a cycle is zero. Thus a pure inductor does not consume any power. Energy is stored in the magnetic field during one half-cycle and returned to the source during the next half-cycle.
+
+Example 15.2: A pure inductive coil allows a current of 20 A to flow from a 220 V, 50 Hz supply. Find (a) inductive reactance, (b) inductance of the coil, (c) equations for voltage and current, (d) power absorbed.
+Solution: I_rms = 20 A, V_rms = 220 V, f = 50 Hz.
+(a) X_L = V_rms / I_rms = 220/20 = 11 Ω.
+(b) L = X_L / (2πf) = 11/(2π×50) = 0.035 H = 35 mH.
+(c) V₀ = √2 × 220 = 311.1 V, I₀ = √2 × 20 = 28.28 A, ω = 314 rad/s.
+Voltage leads current by 90°: v = 311.1 sin(314t) V, i = 28.28 sin(314t - π/2) A.
+(d) Power absorbed = 0.
+
+Example 15.3: The current through a 60 mH inductor is 0.2 sin (377t - 25°) A. Write the expression for the voltage across it.
+Solution: i = 0.2 sin (377t - 25°) A, L = 60 mH = 0.06 H.
+Inductive reactance X_L = ωL = 377 × 0.06 = 22.62 Ω.
+Peak voltage V₀ = I₀ X_L = 0.2 × 22.62 = 4.524 V.
+Voltage leads current by 90°: v = 4.524 sin (377t - 25° + 90°) = 4.524 sin (377t + 65°) V.
+
+AC Through Pure Capacitance:
+Consider an alternating voltage applied to a capacitor of capacitance C as shown in figure 15.15. When an alternating voltage is applied to a capacitor, the capacitor is charged in one direction during the first half-cycle and in the other during the next half-cycle. As a result, electrons move back and forth in the circuit, constituting alternating current.
+The relation between charge q and voltage v across the capacitor is q = C v.
+If applied voltage v = V₀ sin ωt, then q = C V₀ sin ωt.
+Current i = dq/dt = ωC V₀ cos ωt = I₀ sin (ωt + π/2), where I₀ = ωC V₀.
+Thus current leads voltage by π/2 (90°). The opposition offered by a capacitor to AC is called capacitive reactance, denoted by X_C.
+X_C = V₀ / I₀ = 1/(ωC) = 1/(2πf C) ... (15.17)
+Unit of X_C is ohm.
+Power: Instantaneous power p = v i = V₀ I₀ sin ωt cos ωt = (V₀ I₀/2) sin 2ωt.
+Average power over a cycle is zero. Thus a pure capacitor does not consume any power. Energy is stored in the electric field during one half-cycle and returned to the source during the next half-cycle.
+
+Example 15.4: A 318 μF capacitor is connected across a 220 V, 50 Hz system. Determine (a) capacitive reactance, (b) rms value of current, (c) equations for voltage and current.
+Solution: C = 318 μF = 318 × 10⁻⁶ F, V_rms = 220 V, f = 50 Hz.
+(a) X_C = 1/(2πf C) = 1/(2π×50×318×10⁻⁶) = 10 Ω.
+(b) I_rms = V_rms / X_C = 220/10 = 22 A.
+(c) V₀ = √2 × 220 = 311.1 V, I₀ = √2 × 22 = 31.11 A, ω = 314 rad/s.
+Current leads voltage by 90°: v = 311.1 sin(314t) V, i = 31.11 sin(314t + π/2) A.
+
+R-L Series AC Circuit:
+A circuit that contains both inductance L and resistance R in series. The total voltage will be the phasor sum of the voltage drops across R and L. The current will lag the applied voltage by an angle φ less than 90°, depending on the values of V_R and V_L.
+Figure 15.17 (a) shows an R-L series circuit. Let applied voltage v = V₀ sin ωt.
+Voltage drop across R: v_R = i R (in phase with i).
+Voltage drop across L: v_L = i X_L (leads i by 90°).
+The phasor sum: V = √(V_R² + V_L²) = I √(R² + X_L²).
+Impedance Z = √(R² + X_L²) ... (15.20)
+Thus I = V / Z.
+Phase angle φ: tan φ = V_L / V_R = X_L / R ... (15.21)
+Power factor: cos φ = R / Z ... (15.23)
+Average power: P = V_rms I_rms cos φ.
+
+Impedance triangle: For R-L series circuit, impedance triangle is a right triangle with sides R, X_L and Z, where Z is the hypotenuse. The angle between R and Z is φ.
+
+Example 15.5: A coil having a resistance of 7 Ω and an inductance of 31.8 mH is connected to a 220 V, 50 Hz supply. Calculate (a) circuit current, (b) phase angle, (c) power factor, (d) power consumed.
+Solution: R = 7 Ω, L = 31.8 mH = 0.0318 H, V = 220 V, f = 50 Hz.
+X_L = 2πf L = 2π×50×0.0318 = 10 Ω.
+Z = √(R² + X_L²) = √(7² + 10²) = √149 = 12.2 Ω.
+(a) I = V / Z = 220/12.2 = 18.03 A.
+(b) tan φ = X_L / R = 10/7 = 1.4286 => φ = 55° lag (current lags voltage).
+(c) cos φ = R / Z = 7/12.2 = 0.5738.
+(d) P = V I cos φ = 220 × 18.03 × 0.5738 = 2272.8 W.
+
+R-C Series AC Circuit:
+A circuit containing resistance R and capacitance C in series. The current leads the applied voltage by an angle φ less than 90°.
+Voltage drop across R: v_R = i R (in phase with i).
+Voltage drop across C: v_C = i X_C (lags i by 90°).
+The phasor sum: V = √(V_R² + V_C²) = I √(R² + X_C²).
+Impedance Z = √(R² + X_C²) ... (15.25)
+Phase angle φ: tan φ = -V_C / V_R = -X_C / R ... (15.27) (negative indicates leading current).
+Power factor: cos φ = R / Z.
+Average power: P = V_rms I_rms cos φ.
+
+Example 15.6: A 100 V, 50 Hz AC supply is applied to a capacitor of capacitance 79.5 μF in series with a non-inductive resistance of 30 Ω. Find (1) impedance, (2) current, (3) phase angle, (4) equation for instantaneous current.
+Solution: R = 30 Ω, C = 79.5 μF = 79.5 × 10⁻⁶ F, V = 100 V, f = 50 Hz.
+X_C = 1/(2πf C) = 1/(2π×50×79.5×10⁻⁶) = 40 Ω.
+Z = √(R² + X_C²) = √(30² + 40²) = 50 Ω.
+I = V / Z = 100/50 = 2 A.
+tan φ = -X_C / R = -40/30 = -1.333 => φ = -53.13° (leading).
+I₀ = √2 I = 2.828 A, ω = 2πf = 314 rad/s.
+Equation: i = 2.828 sin (314t + 53.13°) A.
+
+R-L-C Series AC Circuit:
+A circuit containing resistance R, inductance L and capacitance C in series. The net reactance is X = X_L - X_C.
+Impedance Z = √[R² + (X_L - X_C)²] ... (15.29)
+Phase angle φ: tan φ = (X_L - X_C) / R ... (15.31)
+If X_L > X_C, circuit is inductive, current lags voltage.
+If X_C > X_L, circuit is capacitive, current leads voltage.
+If X_L = X_C, circuit is resistive, current in phase with voltage (resonance).
+Power factor: cos φ = R / Z.
+Average power: P = V_rms I_rms cos φ.
+
+Resonance in R-L-C Series Circuit:
+The circuit is said to be in resonance when the circuit power factor is unity, i.e., X_L = X_C. The frequency at which it occurs is called resonant frequency f_r.
+Condition: X_L = X_C => 2πf_r L = 1/(2πf_r C)
+=> f_r = 1/(2π√(LC)) ... (15.33)
+At resonance, impedance is minimum (Z = R), current is maximum, and voltage across L or C can be much larger than applied voltage (voltage magnification). The ratio of voltage across L or C to applied voltage at resonance is called Q-factor (quality factor).
+Q = X_L / R = X_C / R.
+Also, Q = f_r / Δf, where Δf is bandwidth.
+
+Maximum Power Transfer:
+In an AC circuit, maximum power is transferred from a source to a load when the load impedance equals the complex conjugate of the source impedance. For a simple case where source impedance is purely resistive (R_s), maximum power is transferred when load resistance R_L = R_s.
+For AC circuits with reactive components, maximum power transfer occurs when load impedance Z_L is the complex conjugate of source impedance Z_s.
+
+Maxwell's Equations and Electromagnetic Waves:
+Maxwell formulated a set of four equations that describe all electric and magnetic phenomena. These equations predict that accelerating electric charges radiate electromagnetic waves. The speed of electromagnetic waves in free space is given by:
+c = 1/√(μ₀ε₀) = 3 × 10⁸ m/s.
+Electromagnetic waves are transverse waves consisting of oscillating electric and magnetic fields perpendicular to each other and to the direction of propagation.
+
+Electromagnetic Spectrum:
+Electromagnetic waves form a continuous spectrum from radio waves to gamma rays. All travel at speed of light in vacuum. The spectrum includes (in order of increasing frequency / decreasing wavelength): radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays.
+
+Electrocardiogram (ECG):
+The electrocardiogram is a recording of the small electric waves generated during heart activity. Electrodes placed on the body detect these signals. The ECG waveform consists of P, QRS, and T waves corresponding to atrial depolarization, ventricular depolarization, and ventricular repolarization respectively. It is used to diagnose heart conditions.
+
+Key Points:
+- An alternating voltage changes its polarity at regular interval of time.
+- A sinusoidal alternating voltage can be expressed by the equation: v = V₀ sin ωt.
+- The curve obtained by plotting the instantaneous values of voltage or current against time is called its waveform.
+- One complete set of positive and negative values is called a cycle.
+- The time taken to complete one cycle is time period T.
+- Frequency f = 1/T.
+- The average value of a sinusoidal waveform over a complete cycle is zero.
+- The rms value of a sinusoidal current I_rms = I₀/√2.
+- Phase difference between two alternating quantities of same frequency is the angle between their zero points.
+- A phasor is a rotating line representing an alternating quantity.
+- In a pure resistor, voltage and current are in phase.
+- In a pure inductor, voltage leads current by 90°. Inductive reactance X_L = 2πf L.
+- In a pure capacitor, current leads voltage by 90°. Capacitive reactance X_C = 1/(2πf C).
+- In R-L series circuit, impedance Z = √(R² + X_L²), current lags voltage by φ where tan φ = X_L/R.
+- In R-C series circuit, impedance Z = √(R² + X_C²), current leads voltage by φ where tan φ = -X_C/R.
+- In R-L-C series circuit, impedance Z = √[R² + (X_L - X_C)²]. Resonance occurs when X_L = X_C at frequency f_r = 1/(2π√(LC)).
+- Maximum power is transferred when load impedance matches source impedance.
+- Maxwell's equations describe electromagnetic waves. Electromagnetic spectrum includes radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays.

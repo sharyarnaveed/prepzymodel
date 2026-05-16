@@ -1,0 +1,253 @@
+
+INTRODUCTION:
+It is observed that an iron factory, a fireworks manufacturer, an engineer to design a new car and a chemist to manufacture a chemical plant is the amount of materials they use. That amount is a key factor in each specific area of work.
+
+For example, a fireworks manufacturer is required to mix calculated amounts of chemicals. A wrong mixing amount could result in violent explosions.
+An automobile engineer must know the relative amounts of fuel and oxygen needed for efficient combustion.
+A chemist in a chemical plant adds calculated amounts of reactants to produce exact amount of products.
+All these professionals practice their professions through the Knowledge of Stoichiometry (Greek, Stoicheon = element; metron = measurement). The study of relative quantities of reactants and products in a chemical reaction is called stoichiometry.
+
+MOLE
+A mole is a counting unit for atoms, molecules, ions etc. It is represented by the symbol mol. A mole is the amount of a substance that contains as many elementary particles (atoms, molecules, ions etc.) as there are atoms in exactly 12 grams of carbon-12. The mass of a mole of a substance expressed in grams is called molar mass. It is numerically equal to atomic mass and molecular mass of a substance.
+
+Examples:
+One mole of O (atom) = 16g
+One mole of O2 (molecule) = 32 g
+One mole of H2O (molecule) = 18 g
+One mole of Na+ (ion) = 23 g
+One mole of NaCl (Formula unit) = 58.5 g
+
+AVOGADRO’S NUMBER
+The number of atoms, ions or molecules present in one mole of a substance is called 'Avogadro’s Number'. Its numerical value is 6.023*10^23. One mole of any gas at STP occupies 22.414 dm^3 and contains 6.02 x 10^23 particles.
+
+e.g., 2H2 + O2 -> 2H2O
+This reaction can also be expressed in terms of Avogadro's number. The equation states that 2 x 6.02 x 10^23 molecules of hydrogen react with 6.02 x 10^23 molecules of oxygen to produce 2 x 6.02 x 10^23 molecules of water.
+
+Mole Calculations:
+The relationship between moles and Avogadro’s number in different substances is as under:
+
+1 mole of O-atoms = 6.02 x 10^23 atoms
+1 mole of O2 = 6.02 x 10^23 molecules
+1 mole of H2O = 6.02 x 10^23 molecules
+1 mole of NaCl = 6.02 x 10^23 formula units
+
+In the case of ionic compounds, the explanation is somewhat different.
+For example, NaCl(s) -> Na+(aq) + Cl-(aq)
+It shows that 1 mole of NaCl when dissolves in water gives 1 mole of Na+ ions and 1 mole of Cl- ions. So According to Avogadro’s number we can say that when 6.02 x 10^23 formula units of NaCl are dissolved in water, they produce 6.02x10^23 Na+ and 6.02x10^23 Cl- ions.
+
+Mole Ratios in Stoichiometric Calculations:
+Mole ratio means the ratio of no. of moles of reactants taking part and the no. of moles of products formed. For example, combustion of propane:
+C3H8 + 5O2 -> 3CO2 + 4H2O
+The mole ratios of reactants and products: can be shown as:
+C3H8 : O2 : CO2 : H2O = 1 : 5 : 3 : 4
+
+Example:
+3.5 moles of methanol are burnt in oxygen, calculate:
+(a) How many moles of oxygen are used?
+(b) How many moles of water are produced?
+Given: Moles of methanol = 3.50 moles
+Moles of oxygen =?
+According to balanced chemical equation:
+2 moles of CH3OH = 3 moles of O2
+1 mole of CH3OH = 3/2 moles of O2
+3.5 moles of CH3OH = (3.5 x 3) / 2 moles of O2 = 5.25 moles of O2
+So the number of moles of O2 consumed = 5.25 moles
+(b) No. of Moles of CH3OH = 3.5 moles
+No. of Moles of H2O =?
+According to balanced chemical equation:
+2 moles of CH3OH = 4 moles of H2O
+1 mole of CH3OH = 4/2 moles of H2O
+3.5 moles of CH3OH = (3.5 x 4) / 2 moles of H2O = 7.00 moles of H2O
+So number of moles of H2O produced = 7.00 moles
+
+Self Check Exercise 1.1:
+Ammonia is an important material in the manufacture of fertilizers. It is obtained by the reaction between hydrogen and nitrogen as shown by the following balanced equation.
+N2 + 3H2 -> 2NH3
+How many moles of H2 are required to manufacture 5.0 moles of NH3?
+
+Self Check Exercise 1.2:
+Iron is obtained from ferric oxide ore according to the following equation.
+Fe2O3 + 3CO -> 2Fe + 3CO2
+If 425 g of ferric oxide is available for reaction then calculate mass of iron produced.
+
+Solution:
+Given mass of Fe2O3 = 425 g
+Molecular mass of Fe2O3 = 159.6 g mol-1
+No. of moles of Fe2O3 = Mass / molecular mass = 425 / 159.6 = 2.66 moles of Fe2O3
+According to balanced chemical equation:
+1 mole of Fe2O3 = 2 moles of Fe
+2.66 moles of Fe2O3 = 2.66 x 2 = 5.32 moles of Fe
+Mass of Fe produced = no. of moles of Fe x Molar mass of iron = 5.32 x 55.9 = 297.388 g
+Mass of iron produced = 297.388 g
+
+Self Check Exercise 1.3:
+The main engines of the U.S. space shuttle are powered by liquid hydrogen and liquid oxygen. If 1.02 x 10^5 kg of liquid hydrogen is carried for a particular launch, what mass of liquid oxygen is necessary for all the hydrogen to burn? The equation for the reaction is,
+2H2 + O2 -> 2H2O
+
+Self Check Exercise 1.4:
+Calculate the number of molecules of O2 produced by thermal decomposition of 490 grams of KClO3.
+Solution:
+Given mass of KClO3 = 490 g
+Molar mass of KClO3 = 122.5 g mol-1
+No. of moles of KClO3 = 490 / 122.5 = 4 moles
+The reaction: 2KClO3 -> 2KCl + 3O2
+According to equation: 2 moles of KClO3 = 3 moles of O2
+4 moles of KClO3 = (3/2) x 4 = 6 moles of O2
+1 mole of O2 = 6.02 x 10^23 molecules of O2
+6 moles of O2 = 6 x 6.02 x 10^23 = 3.612 x 10^24 molecules of O2
+
+Mass-Mass Relationships:
+Example: How many grams of oxygen are required to burn 90 g of ethane?
+The reaction is: 2C2H6 + 7O2 -> 4CO2 + 6H2O
+Molar mass of ethane (C2H6) = 30 g mol-1
+Given mass of ethane = 90 g
+No. of moles of ethane = 90 / 30 = 3 moles
+According to equation: 2 moles of C2H6 = 7 moles of O2
+3 moles of C2H6 = (7/2) x 3 = 10.5 moles of O2
+Molar mass of O2 = 32 g mol-1
+Mass of O2 required = 10.5 x 32 = 336 g
+
+Mass-Volume Relationship:
+One mole of any gas at STP (standard temperature and pressure) occupies a volume of 22.414 dm^3. This volume is called Molar volume. With the help of this relationship we can convert the mass of a gas at STP into its volume and vice versa. Hence volume of gases is also related with their density at STP.
+One mole of any gas at STP = 22.4 dm^3 = 6.02 x 10^23 molecules.
+e.g., one mole of H2 gas at STP = 2g = 6.02 x 10^23 molecules.
+e.g., one mole of NH3 gas at STP = 17g = 6.02 x 10^23 molecules.
+
+Self Check Exercise 1.5:
+(a) How many moles of oxygen molecule are there in 50.0 dm^3 of oxygen?
+(b) What volume does 0.80 mole of N2 gas occupy at S.T.P?
+(Ans: (a) 2.23 moles, (b) 17.93 dm^3)
+
+PERCENTAGE COMPOSITION
+The amounts of each element in a compound are expressed as the percentage composition. For example the percentage composition by mass in MgO is as follows,
+To determine the percentage composition of a known compound:
+Sum up the molar mass of compound.
+Divide the mass of each element in one mole of the compound by the molar mass multiplied by 100.
+
+Percentage of an element = (Mass of element in 1 mole of compound / Molar mass of compound) x 100
+
+Example: Calculate the percentage composition of water.
+Molar mass of H2O = 18 g mol-1
+Mass of H in H2O = 2 g
+Mass of O in H2O = 16 g
+Percentage of H = (2 / 18) x 100 = 11.11%
+Percentage of O = (16 / 18) x 100 = 88.89%
+
+LIMITING AND EXCESS REACTANTS
+The reactant that is consumed completely in a chemical reaction is called limiting reactant. It can also be defined as the reactant which produces the least number of moles of products in a chemical reaction. The reactant left un-used or un-reacted after completion of reaction is called reactant in excess or Non Limiting reactant.
+
+Identification of a Limiting Reactant in a Reaction:
+Limiting reactant can recognized by calculating the number of moles of products formed from the given amounts of the reactants, using a balanced chemical equation. The reactant which produces the least number of moles of products, is the limiting reactant.
+
+For example, 10 moles of H2 and 7 moles of O2 were reacted to produce H2O. Which reactant is the limiting reactant? We can calculate as follows:
+The reaction is: 2H2 + O2 -> 2H2O
+According to balanced chemical equation:
+2 moles of H2 = 2 moles of H2O
+10 moles of H2 = (2/2) x 10 = 10 moles of H2O
+1 mole of O2 = 2 moles of H2O
+7 moles of O2 = 2 x 7 = 14 moles of H2O
+Since H2 produces less moles of product, H2 is the limiting reactant.
+
+Example:
+200g of K2Cr2O7 were reacted with 200g conc. H2SO4. Calculate:
+(a) Mass of atomic oxygen produced
+(b) Mass of reactant left unreacted
+The reaction is: K2Cr2O7 + 4H2SO4 -> K2SO4 + Cr2(SO4)3 + 4H2O + 3[O]
+Mass of K2Cr2O7 = 200 g
+Formula Mass of K2Cr2O7 = 294 g mol-1
+No. of moles of K2Cr2O7 = 200 / 294 = 0.68 moles
+Mass of H2SO4 = 200 g
+Formula Mass of H2SO4 = 98 g mol-1
+No. of moles of H2SO4 = 200 / 98 = 2.04 moles
+According to balanced chemical equation:
+1 mole of K2Cr2O7 = 3 moles of [O]
+0.68 moles of K2Cr2O7 = 3 x 0.68 = 2.04 moles of [O]
+4 moles of H2SO4 = 3 moles of [O]
+2.04 moles of H2SO4 = (3/4) x 2.04 = 1.53 moles of [O]
+Since H2SO4 produces lesser moles of product, H2SO4 is the limiting reactant.
+Mass of oxygen = No. of moles of oxygen atom x atomic mass = 1.53 x 16 = 24.48 g
+Since H2SO4 is the limiting reactant and K2Cr2O7 is the reactant in excess.
+1 mole of K2Cr2O7 reacts with 4 moles of H2SO4
+0.68 moles of K2Cr2O7 react with 4 x 0.68 = 2.72 moles of H2SO4
+But we have only 2.04 moles of H2SO4.
+So, moles of K2Cr2O7 that react = (1/4) x 2.04 = 0.51 moles
+Moles of K2Cr2O7 left unreacted = 0.68 - 0.51 = 0.17 moles
+Mass of K2Cr2O7 left = 0.17 x 294 = 49.98 g
+
+Self Check Exercise 1.6:
+4.50g of Mg and 1.50g of S were reacted according to the equation: Mg + S -> MgS. Calculate:
+(a) Limiting reactant
+(b) Mass of product formed
+Solution:
+Mass of Mg = 4.50 g
+Molar mass of Mg = 24 g mol-1
+No. of moles of Mg = 4.50 / 24 = 0.1875 moles
+Mass of S = 1.50 g
+Molar mass of S = 32 g mol-1
+No. of moles of S = 1.50 / 32 = 0.0469 moles
+Reaction: Mg + S -> MgS
+1 mole of Mg = 1 mole of MgS
+0.1875 moles of Mg = 0.1875 moles of MgS
+1 mole of S = 1 mole of MgS
+0.0469 moles of S = 0.0469 moles of MgS
+Since S gives the least number of moles of product, S is the limiting reactant.
+Molar mass of MgS = 56 g mol-1
+Mass of MgS produced = 0.0469 x 56 = 2.6264 g
+
+Self Check Exercise 1.7:
+Zinc and Sulphur react to form Zinc Sulphide according to the following chemical equation: Zn + S -> ZnS. If 6.00g of Zinc and 6.00g of Sulphur are available for reaction, then determine:
+(a) The limiting reactant.
+(b) The mass of Zinc Sulphide produced.
+(Ans. (a) Zinc is the limiting reactant since the whole is consumed.
+(b) Mass of Zinc Sulphide produced = 8.95g)
+
+Self Check Exercise 1.8:
+Aluminium reacts with bromine to form Aluminium bromide, as shown by the balanced chemical equation, 2Al + 3Br2 -> 2AlBr3. If 25.0g of Al and 55.6g of Br2 are available for reaction, then determine:
+(a) The limiting reactant (b) The mass of AlBr3 produced.
+(Ans: (a) Bromine is the limiting reactant. (b) Mass of AlBr3 formed = 61.4g)
+
+Reactant Present in Excess in a Reaction:
+When two reactants are reacted sometimes one of them is present in excess and the other is completely consumed. The concept of excess may be more clear by studying the following example.
+
+Example:
+1.87 moles of ammonium chloride were reacted with 1.35 moles of calcium hydroxide. How many Grams of calcium hydroxide are left unreacted in this reactions?
+According to the reaction: Ca(OH)2 + 2NH4Cl -> CaCl2 + 2NH4OH
+Calculate the no. of moles of Ca(OH)2 that react completely.
+2 moles of NH4Cl = 1 mole of Ca(OH)2
+1.87 moles of NH4Cl = (1/2) x 1.87 = 0.935 moles of Ca(OH)2
+No. of moles of Ca(OH)2 consumed = 0.935 moles
+No. of moles of Ca(OH)2 initially present = 1.35 moles
+No. of moles of Ca(OH)2 unreacted = 1.35 - 0.935 = 0.415 moles
+Molar mass of Ca(OH)2 = 74 g mol-1
+Mass of Ca(OH)2 = No. of moles x Molar mass = 0.415 x 74 = 30.71 g
+The excess amount of Ca(OH)2 which is left unreacted is 30.71 g.
+
+THEORETICAL YIELD, ACTUAL YIELD AND PERCENT YIELD
+The quantity of a product calculated from a balanced chemical equation is called theoretical yield of the reaction. The quantity of a product that is actually produced in a reaction is called the actual yield.
+
+Percentage yield can be calculated as:
+Percentage Yield = (Actual Yield / Theoretical Yield) x 100
+
+Some reactions for which the actual yield is almost equal to the theoretical yield are called quantitative, i.e., they can be used in chemical analysis. On the other hand many reactions, particularly those involving organic compounds, the actual yield of a product is frequently less than theoretical yield and percent yield is less than 100 %.
+
+Actual yield may be less than the theoretical yield due to following reasons:
+Reactions are slow
+Reactions are reversible
+Side reactions produce by-products
+Losses occur during purification due to filtration, distillation, and separation.
+
+Example:
+1.274 g of pure copper sulphate was electrolyzed. The mass of copper deposited was 0.392 g. Calculate the percentage yield.
+Solution:
+First convert grams of CuSO4 into no. of moles.
+Molar mass of CuSO4 = 63.5 + 32 + 64 = 159.5 g mol-1
+No. of moles of CuSO4 = 1.274 / 159.5 = 0.00799 moles
+According to equation: CuSO4 -> Cu + S + 2O2
+1 mole of CuSO4 = 1 mole of Cu
+0.00799 moles of CuSO4 = 0.00799 moles of Cu
+1 mole of Cu = 63.5 g
+0.00799 moles of Cu = 63.5 x 0.00799 = 0.507 g of Cu.
+Hence, Theoretical yield = 0.507 g
+Actual yield = 0.392 g
+So, % yield = (Actual yield / Theoretical yield) x 100 = (0.392 / 0.507) x 100 = 77.3%
+

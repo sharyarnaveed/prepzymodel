@@ -1,0 +1,196 @@
+Prokaryotes
+
+TAXONOMY OF PROKARYOTES
+The Dutch scientist Antonie van Leeuwenhoek first discovered bacteria in 1674, using a single-lens microscope of his own design. He called them “animalcules”. Ehrenberg introduced the name bacterium in 1882.
+The taxonomic position of prokaryotes has been continuously changed since their discovery. There are two separate system of classification are followed in which the prokaryotes are accommodated in different ways.
+
+Taxonomic Position of Prokaryotes as “Kingdom Monera”
+In traditional two kingdom system of classification all microorganisms including prokaryotes were placed in plant kingdom. In 1861, John Hogg proposed kingdom Protista to accommodate microorganism so prokaryotes were also placed in this kingdom. In 1866, Ernst Haeckel made a separate group, the Monera for prokaryotes within the same kingdom Protista.
+In 1938, Herbert Copland elevated the status of Monera to kingdom level, so first time; prokaryotes were recognized as a separate kingdom “Monera”. In 1969, American biologist Robert H. Whittaker proposed five-kingdom system that incorporated the basic prokaryotic-eukaryotic distinction which has been modified by Lynn Margulis and Karlene V. Schwartz in 1988. They also assigned a separate kingdom “Monera” for all the prokaryotes.
+
+Taxonomic Position of Prokaryotes as “Domain Bacteria” and “Domain Archaea”
+The term “bacteria” was traditionally applied to all microscopic, single-celled prokaryotes. However, Molecular systematics studies, showed prokaryotic life to consist of two separate domains (group of kingdoms, i.e., a taxonomic category above the kingdom level) called Bacteria and Archaea that evolved independently from an ancient common ancestor. These two domains, along with Eukarya, are the basis of the three-domain system which is currently the most widely used classification system in bacteriology.
+
+Phylogenetic position of prokaryotes
+The study of evolutionary relatedness among various groups of organisms is called phylogeny. The first step forward in the study of phylogeny of bacteria was the fact that Archaea diverged on a separate line of evolutionary descent from bacteria. This was suggested by the discovery that the genes encoding ribosomal RNA are ancient.
+
+ARCHAEA
+Microorganisms Archaea were previously called archaeobacteria. Archaea share certain traits with bacteria and other traits with eukaryotes. However, archaea also have unique characteristics and are different enough from bacteria to be incorporated into a separate domain, Archaea.
+
+Unifying Features of Archaea
+The unifying features of archaea are: Composition of cell wall: The cell walls of archaea do not contain peptidoglycan. In some archaea the cell wall is composed of polysaccharides and in others, the wall is pure protein. In a few there is no cell wall. Composition of cell membrane: The membranes of archaea contain unusual lipids that allow them to function at high temperatures. Lipids of archaea contain glycerol linked to branched chain hydrocarbons in contrast to lipids of bacteria that contain glycerol linked to fatty acids. Methanogenesis: The ability to form methane is a type of metabolism that is performed only by archaea. Modes of nutrition: Archaea use various sources of energy to prepare food i.e. by using sunlight, by using inorganic compounds, by using organic compounds. The main difference between Archaea and eubacteria is in their ribosomal RNA sequences.
+
+Most Archaea Inhabit Extreme Environments
+The first prokaryotes that were classified in domain Archaea are species that live in extreme environments. Archaea includes (a) Methanogens, (b) Halophiles, (c) Thermoacidophiles.
+
+Methanogens
+The methanogens are methane gas producer and are found in anaerobic environments in swamps, marshes and in the intestinal tracts of human and other animals. This methane, is also called biogas.
+
+Halophiles
+The halophiles grow where nothing else can live, such as on fish and meat that have been heavily salted to keep most bacteria away. The halophiles require high salt concentrations for growth.
+
+Thermoacidophiles
+The thermoacidophiles are isolated from extremely hot, acidic environments such as hot springs, geysers, submarine thermal vent and around volcanoes.
+
+BACTERIAL ECOLOGY AND DIVERSITY
+Bacteria are found almost everywhere in environment and show great diversity.
+
+Occurrence of bacteria
+Bacteria occur in the widest range of habitats. Bacteria are found almost everywhere in air, water, food and in the bodies of plants and animals including human beings. In fact, about half of the bacterial species are extremophiles, which are adapted variously to extreme temperature, pressure, salinity and other abiotic factors.
+
+Types of bacteria
+Bacteria have been subdivided taxonomically into groups based on Gram reaction (Gram-positive or Gram-negative), presence of endospore, metabolism, shape, motility, morphological characteristics and other criteria.
+
+Cyanobacteria: Most Prominent Photosynthetic Bacteria
+The cyanobacteria have Gram-negative cell walls. They may be free-living, epiphytic or symbiotic forms. They may be unicellular and solitary or form of filaments which may be in linear row, the trichome which is surrounded by mucilaginous sheath. The common examples of cyanobacteria are Anabaena, Nostoc and Oscillatoria. Photosynthesis takes place in the extensive system of membrane (thylakoid) which is located in the outer zone of the cytoplasm. Like algae and plants they use water as source of hydrogen and release oxygen during photosynthesis. They use both photosystems (non-cyclic photophosphorylation) to harvest light energy. They are believed to be responsible for first introducing oxygen into the primitive atmosphere. About one third of cyanobacteria are able to fix atmospheric nitrogen. In most cases nitrogen fixation occurs in heterocysts, which are a specialized, thick walled cell found at intervals in the trichome. In Pakistan cyanobacteria are commonly cultivated to increase the soil fertility, because of nitrogen fixation by these organisms.
+
+SHAPE AND STRUCTURE OF BACTERIA
+Bacterial cell consists of cell wall, cell membrane, cytoplasm, genetic material, ribosomes and often flagella outside the cell wall. The structure of bacteria as model of prokaryotes is described below.
+
+Diversity in Sizes of Bacteria
+The size of bacteria ranges from 0.2 to 2.0 micrometer in diameter and from 2 to 8 micrometer in length. Spirochaetes are about 7 micrometer long and 1.8 micrometer in diameter. Some Spirochaetes may reach 500 micrometer in length. One of the largest bacteria belong to Epulopiscium. It is visible to naked eye (about 500 micrometer thick).
+
+Diversity in Shapes of Bacteria
+Bacteria have three main shapes: spherical, rod shaped and spiral. However it has actually been shown that certain bacteria are capable of dramatically changing shape, for example Helicobacter pylori exists as both a helix-shaped form and a spherical form. Such bacteria are called pleomorphic.
+
+Cocci: Cocci are spherical bacteria. Cocci generally appear in groups which can be distinguished on the basis of plane of cell division and number of cells. As a result of single (vertical) plane of cell division, bacteria appear in pairs, called diplococci or in chain of many cells, called streptococci. As a result of two plane of cell divisions (first vertical then again vertical but at right angle to the first), bacteria appear in a square of four cells, called tetrad. As a result of three plane of cell divisions (first vertical then again vertical but at right angle to the first and then horizontal), bacteria appear in a cubical arrangement of eight cells, called sarcinae. If plane of cell division becomes irregular and many bacteria are produced they are arranged like bunches of grapes, called staphylococci. The examples of cocci are: Streptococcus pneumoniae.
+
+Bacilli: Bacilli are straight or rod shaped bacteria. They always divide in vertical plane. They may be found either in pairs, called diplobacillus or in chain of many cells, called streptobacillus. Some rod shape bacteria are so short and oval that they appear like cocci; these are called coccobacillus.
+
+Spirilla: Spirilla are spiral shaped bacteria. They usually occur singly. Relatively, thick and rigid spiral shaped bacteria are called spirillum e.g., Helicobacter pylori. Whereas, flexible spiral shaped bacteria are called spirochetes e.g., Treponema pallidum. Curved or comma shaped bacteria which are intermediate to rod shape, are called vibrio e.g., Vibrio cholerae.
+
+Chemical Composition of Bacterial Envelope
+The detailed studies of bacterial structure by the electron microscope revealed that the bacterial envelope is the outer wrapping of bacterial cell which consist of glycocalyx, cell wall and cell membrane. However, cell membrane sometimes considered as the part of bacterial cytoplasm.
+
+Glycocalyx: Glycocalyx is an outer coating that covers the outside of bacterial cell wall. It has two forms i.e., capsule and slime. The capsule is a condensed layer that is closely associated with the underlying cell wall and gives sticky or gummy nature to the cell. The slime is loosely attached layer that gives slimy or slippery nature to the cell. Slime can be washed from the cell more easily. Generally, the glycocalyx is composed of polysaccharides but protein can also be present. One of the dominant functions of the capsule is to prevent the cells from desiccation. The second function of a bacterial capsule is to promote the adhesion of the bacteria to living and inert surfaces and the third function is to facilitate the formation of adherent, glycocalyx-enclosed populations that are called biofilms. Biofilm bacteria can become difficult to kill, partly due to the presence of the glycocalyx material.
+
+Bacterial cell wall: Cell wall is the part of bacterial envelope. It is situated outer to the cell membrane. It is composed of an inner layer of peptidoglycan and an outer lipoprotein membrane (found only in Gram negative bacteria). The peptidoglycan provides structural support and maintains the characteristic shape of the cell.
+The peptidoglycan layer is much thicker in Gram-positive than in Gram-negative bacteria. Some Gram-positive bacteria also have fibre of teichoic acid that protrudes outside the peptidoglycan, whereas Gram-negative bacteria do not have it. In contrast, the Gram-negative have a complex outer layer consisting of lipopolysaccharide and lipoprotein. The Gram-negative cell wall also contains a protein, the porins in outer membrane which act like pores for particular molecules. Lying between the peptidoglycan layer of cell wall and the cell membrane in Gram-negative bacteria is the periplasmic space which is the site of enzymes that degrade antibiotics. Pilus is present only in Gram negative bacteria. They allow bacterial cells to adhere to tissue and can help the bacterial cell resist attack from immune system cells in the human body.
+
+Bacterial cell membrane: The cell or plasma membrane lies beneath the cell wall which lacks cholesterols in lipid bilayer unlike eukaryotic plasma membrane. At certain points this membrane invaginates into the cytoplasm to form infolding, these are known as mesosomes. In addition to the control of transport of materials across the cell, bacterial plasma membrane also involves in cellular respiration, photosynthesis and DNA replication.
+
+Bacterial cytoplasm: The cytoplasm is a jelly like dense mass which lacks cytoskeleton. The ribosomes of bacteria are 70S. Bacterial cytoplasm may contain reserve food and waste products. Reserve food includes glycogen, fats, polyphosphate etc. Whereas, wastes may consist of alcohol, lactic acid, acetic acid etc.
+
+Bacterial genome: Nucleoid is the nuclear region of bacteria which is not separated from the cytoplasm by a nuclear membrane. It is seen in the electron microscope as an area lighter than the cytoplasmic contents. It consists of a large circular double stranded DNA molecule which is known as bacterial chromosome. Due to this single chromosome bacteria are considered as haploid organisms. A short duration of diploid state comes in their life cycle just before cell division when they replicate their DNA. Bacterial DNA differs from eukaryotic DNA as it is a circular molecule. The nuclear DNA controls growth and metabolic activities of bacteria. In addition to the nuclear DNA some bacteria also contain one or more extra nuclear small circular double stranded DNA molecules, the plasmids. They often contain genes for antibiotics or drug resistance and heavy metals resistance.
+
+Bacterial appendages: The structures that project from the surface of bacterial cell are called bacterial appendages that include flagella and pili or fimbriae. Flagella are long thread like structures which are used for locomotion. Bacterial flagella are composed of flagellin protein and lack microtubules. In this way they differ from eukaryotic flagella. Pili or fimbriae are tubular extensions of cell membrane and project through the cell wall. They are composed of pilin protein and can only be seen by electron microscope and are found only on certain species of Gram negative bacteria. Pili are used to transfer genetic material during conjugation. The other function of pili is attachment on the surface of tissues of an infected person.
+
+Structure of Bacterial Flagellum
+Bacterial flagellum is non-contractile, and lacks microtubules unlike eukaryotic flagellum. It is about 20 nm diameter and up to 20 micrometer in length. It consists of three parts: a basal body, a hook and a filament. The basal body originates from cytoplasm just beneath the cell membrane. Gram-positive bacteria have one pair of discs whereas Gram-negative bacteria have two pairs of discs which anchors the flagellum in cell envelope. Central rod connects the discs. The hook is a short curved structure which connects the basal body to the filament. The filament is a hollow tube like structure which originates from the hook. The mechanism of movement of bacterial flagellum is quite different from eukaryotic flagella. The 360° rotation of paired discs of basal body enables the flagellum to rotate which in turn causes the cell to spin and move forward.
+
+Bacterial Spores and Cysts
+During late stage of growth, when essential nutrients are lacking in the environment or other conditions such as temperature, pH of the medium and availability of oxygen become unfavorable certain bacteria form resistant and metabolically dormant bodies. Depending on the type of bacteria, these bodies are divided into endospores, exospores, and cysts. Especially endospores are characterized by a complex structure and resistance to high temperatures. That is why this dormant form is capable of surviving for periods more than thousand years. The spore develops within the vegetative cell inside the cell wall, so it has been named endospore. The original cell forms a copy of its chromosome and surrounds it with a tough wall, forming the endospore. Water is removed from the endospore. The metabolism inside it stops. The rest of the original cell then disintegrates. The endospores germinate when their environmental conditions become favourable.
+On the other hand the Actinomycetes, which are a large group of spore-forming, Gram positive bacteria that grow by forming long tubules called filaments. Under nutrient poor condition these filaments differentiate into round thick walled resting structures termed exospores. In contrast to endospores, these structures are part of the reproductive process. Azotobacter species and several others are known to produce cysts which are dormant cells with thickened cells walls. Encystment (cyst formation) occurs when cell cytoplasm contracts and the cell wall thicken. Cysts are resistant to desiccation and chemicals, but cannot withstand high temperatures.
+
+MOTILITY IN BACTERIA
+Movement is an important aspect of bacterial life in that the organism moves towards higher concentrations of nutrients and away from toxic substances. This type of movement in response to chemical stimuli is called chemotaxis, and movement in response to light is called phototaxis.
+
+Flagellar movement: Majority of bacilli and spirilla are motile by means of flagella while cocci are usually non-motile. The presence of flagella, their number and distribution on the cell surface are important characteristics for purposes of identification and classification of bacteria. When one or more flagella arise only from one or both ends of a rod or spiral shaped cell, the arrangement is termed polar. For example: if a bacterium possesses single flagellum at one end, called monopolar monotrichous; if the bacterium possesses single flagellum at both ends, is called bipolar monotrichous or amphitrichous. Similarly, if a bacterium possesses a pair of flagella at one end, called monopolar bitrichous; if the bacterium possesses a pair of flagella at both ends, is called bipolar bitrichous or amphibitrichous. But, if a tuft (more than two) of flagella is present at one end of a bacterium, called lophotrichous, and if a tuft of flagella is present at both ends of a bacterium, called amphilophotrichous. When, flagella arise randomly over the entire surface of the cell, the arrangement is termed peritrichous.
+
+Spirochaetal movement: A somewhat modified version of the bacterial flagellum is called axial filament. It is present in Spirochaete. The axial filament runs lengthwise between the bacterial inner membrane and outer membrane of the cell wall in periplasmic space. Spirochaetes can perform e.g., swimming, creeping or spinning type of movements with the help of axial filament.
+
+Gliding movement: Like spirochaetal movement, the gliding motility is also represented by some genera of cyanobacteria and myxobacteria. These organisms can move slowly over solid surfaces. They have filamentous structures either internally like axial filament of spirochetes or external like flagella of bacilli but they secrete a slimy substance like garden snails during movement.
+
+MODES OF NUTRITION IN BACTERIA
+Bacteria can be classified on the basis of method of obtaining energy and carbon. Broadly bacteria are either autotrophic or heterotrophic.
+
+Autotrophic bacteria: Autotrophic bacteria are generally called photosynthetic bacteria. Except cyanobacteria all the other photosynthetic bacteria contain unique type of chlorophyll called bacteriochlorophyll. The chlorophyll is incorporated in the membrane of cell. Unlike green plants, algae, and cyanobacteria they do not use water as reducing agent, and so do not produce oxygen. Instead they use hydrogen sulphide, which may be oxidized to produce granules of elemental sulphur. This sulphur may be oxidized to sulphuric acid. However, like green plants, the photosynthetic bacteria use the energy of sunlight to make carbohydrates from CO2.
+2H2S + CO2 ---> (CH2O)n + H2O + 2S
+The examples of photosynthetic bacteria are green sulphur bacteria, green non-sulphur bacteria and purple sulphur bacteria.
+
+Chemoautotrophs: The chemoautotrophic bacteria make carbohydrates from inorganic substance. They do not use light energy. They oxidize inorganic substance. The energy produced by this oxidation reaction is then used to make carbohydrates. Sulphur bacteria oxidize sulphur to produce energy. The energy thus produced is used by bacteria to make carbohydrate (CH2O)n. The examples of chemoautotrophic bacteria are nitrifying bacteria, sulphur bacteria.
+2H2S + O2 ---> 2S + H2O + Energy
+Energy
+2H2S + CO2 ---> (CH2O)n + H2O + 2S
+
+Heterotrophic bacteria: Heterotrophic bacteria cannot synthesize their organic compounds from simple inorganic substances. They depend on the organic compounds present in the environment. There are three categories of heterotrophic bacteria: Obligate aerobic bacteria: These bacteria require oxygen for growth and are called aerobic bacteria, e.g., Pseudomonas. Obligate anaerobic bacteria: These bacteria grow in the absence of oxygen and are called anaerobic bacteria, e.g., Spirochete. Some are facultative bacteria e.g., E.coli which grow either in the presence or absence of oxygen. The bacteria which require low concentration of oxygen for growth are known as microaerophilic e.g., Campylobacter. Saprophytic bacteria: The bacteria which feed on the complex dead organic matter are called saprophytic bacteria, e.g., Pseudomonas. Azotobacter species are saprophytic.
+
+GROWTH AND REPRODUCTION IN BACTERIA
+If bacteria are provided with nutrients and the required environmental factors, they become active and grow.
+
+Phases of Bacterial Growth
+Bacterial growth takes place on two levels. On one level, a cell builds up protoplasm and increases its size: on the other level, the cell increases the number of cells in the population.
+Bacterial growth occurs in four major phases which can be represented by bacterial growth curve.
+
+Lag phase: In this phase there is increase in cell size but not multiplication. Time is required for adaptation (synthesis of new enzymes) to new environment. During this phase vigorous metabolic activity occurs but cells do not divide. Enzymes and intermediates are formed and accumulate until they are present in concentration that permits growth to start.
+
+Log or Exponential phase: In log or exponential phase, the number of cells increases exponentially with respect to time, i.e., the number of cells doubles with each doubling time. The average time required for the population, or the biomass, to double is known as the generation time or doubling time. The cells multiply at the maximum rate in this exponential phase, i.e., there is linear relationship between time and logarithm of the number of cells. This continues until one of two things happens: either one or more nutrients in the medium become exhausted, or toxic metabolic products accumulate and inhibit growth. Oxygen becomes limited for aerobic microorganisms.
+
+Stationary phase: In this phase, due to exhaustion of nutrients or accumulation of toxic products death rate becomes equal to the growth rate and the growth cease completely. The count remains stationary as a result of balance between multiplication and death rate.
+
+Death or decline phase: In death phase, the death rate exceeds the rate of multiplication of cells. The rate of cell death may be exponential.
+
+Methods of reproduction in bacteria
+Bacteria reproduce by asexual method. In true sense sexual reproduction is absent. These methods of genetic recombination are misleadingly called sexual reproduction.
+
+Asexual reproduction: The commonest type of asexual reproduction in bacteria is binary fission. Some bacteria reproduce by budding.
+Binary fission: Binary fission is the commonest type of reproduction under favourable conditions in which a cell divides or splits into two similar daughter cells. During the process, the bacterial DNA gets attached to the cell membrane and undergoes replication. As the cell enlarges the two daughter DNA gets separated. A cross wall is formed between the separating daughter DNA. It divides the cell into two daughter cells. The daughter cells soon grow to maturity within 20 minutes and divide again.
+Budding: In case of budding, a protuberance, called bud, develops at one end of the cell. Genome replication occurs, and one copy of the genome gets into the bud. Then the bud enlarges, eventually becomes a daughter cell and finally gets separated from the parents cell.
+
+Genetic recombination (Parasexuality)
+In bacteria, there is no true sexual reproduction because there is no meiosis, fertilization and zygote. Instead, it involves transfer of a portion of genetic material from a donor cell to a recipient cell. This process is called genetic recombination or parasexuality. It occurs in three ways: conjugation, transduction and transformation.
+Conjugation: Conjugation is the transfer of genetic material from one bacterium to another bacterium by direct contact. The bacterium that transfer the DNA, is called donor and the bacterium that will receive the DNA, is called recipient. Usually a small ring of DNA, called plasmid rather than the main bacterial DNA is transferred.
+Transduction: The transfer of genetic material from one bacterium to another bacterium through a bacteriophage virus, is called transduction. Actually it occurs when a bacteriophage is replicated in a bacterial cell, at the time of assembly of its components a portion of host bacterium may be enclosed into the viral capsid. When such viruses cause infection to other bacterial cells the DNA fragment of the previous host bacterium is thus transferred to the new host bacterium.
+Transformation: When bacteria die or when they are reproducing very rapidly, they release fragments of their DNA into their immediate environment. Such DNA fragments may be up taken by other bacteria by means of diffusion in that environment. This process of absorption of DNA into a cell from its immediate environment is called transformation. As a result the cell is transformed into a new type of cell. These cells are called transformed cells.
+
+Mutations and Genetic Recombinations in Bacteria
+Offspring inherit identical copies of their parent's genes and are called clones. However, all bacteria can evolve by selection on changes to their genetic material that occur through mutation and genetic recombination. Mutation rates vary widely among different species of bacteria and even among different clones of a single species.
+Most heritable changes in bacterial genomes come from random mutation due to different errors in DNA replication.
+
+IMPORTANCE OF BACTERIA
+Bacteria are very important members of biodiversity from ecological and economic points of view.
+
+Ecological Importance of Bacteria
+The ecological importance refers to the role of bacteria in environment, such as decomposition of dead/complex organic matter, humus formation to increase the fertility of soil, nitrogen fixation, bioremediation etc.
+
+Role of bacteria in decomposition of dead organic matter: Bacteria serve as recyclers of nature as they are involved in decomposition of dead organic matter in the environment. If the dead bodies are not decomposed, the essential nutrients present in their bodies would not be released in the environment. The organic compounds present in dead bodies might diminish all the carbon dioxide from the atmosphere if there were no decomposers present on earth. Can you imagine the situation if there were no carbon dioxide in the atmosphere? There would have been no photosynthesis in the plants and in the result no food would have been produced by plants. Bacteria play a very crucial role in environment through the decomposition of dead organic matter. Bacteria use them as a source of nutrients, and in turn help in recycling the organic compounds trapped in the dead bodies. Through this process, other organisms also get benefited, who can use the simpler inorganic compounds/nutrients released from the dead matter by various bacteria.
+
+Role of bacteria to increase soil fertility by humus formation and nitrogen fixation: The decaying organic matter of dead organisms is called humus. It contains nutrients for the growth of plants. It also increases the water holding capacity of soil. Bacteria and fungi are the only organisms that decompose dead organic matter. Bacteria take part in humus formation.
+Nitrogen is the essential element for plants for their growth and metabolism. Atmospheric nitrogen cannot be used by plants as they cannot inhale nitrogen directly. Atmospheric nitrogen can be available to the plants through soil in the form of nitrates with the help of nitrogen fixing bacteria. Some plants (leguminous Plants) have a mutualistic association of bacteria (Rhizobium bacteria) living into their tissues for this purpose.
+
+Role of bacteria in removal or degradation of environmental pollutants: The removal or degradation of environmental pollutants by using living organisms is called bioremediation. It involves the use of many bacteria that either naturally love to eat certain toxins or have been genetically altered to give them the taste for toxins. Scientists are using microbes to clean sites of contaminants such as oil, radioactive waste and mercury.
+
+Economic Importance of Bacteria
+The economic importance of bacteria refers to the role of bacteria in research and technology, plant diseases and in human diseases.
+
+Role of bacteria in research and technology: When we think of bacteria, we usually think about the illness it can cause and our need to get rid of it. However, bacteria play a lot of positive roles in our lives which are unknown to many of us. Bacteria play an important role in many technological fields, mainly in biological research, mining, medicine, production of food products, plastics synthesis and sewage treatment. The overall commercial worth of bacteria in these operations is immense.
+Bacteria have been used and being continuously used in the study of genetics and genetic engineering. Bacteria were used as model organism in number of famous experiments such as the discovery of DNA as heredity material, discovery of semi conservative replication of DNA and etc. Many components of bacterial cell are also being used as tools in genetic engineering experiments.
+The miners can extract metal from low grade ores in an eco-friendly way by using certain bacteria.
+Bacteria are useful to mankind is in the production of complex organic molecules that are of use in small amounts as part of the normal process of living, these include antibiotics, vitamins, amino acids and enzymes. In addition to these compounds, the dairy products such as yogurt, cheese, butter etc. are also produced with the help of bacteria.
+Now a day biodegradable plastic is being made by using bacteria.
+Owing to their characteristics of degrading harmful chemicals and pollutants, bacteria are nowadays used for treatment of waste water.
+
+Role of bacteria in causation of diseases and spoilage of food: Despite a lot of benefits some bacteria are harmful for us. Parasitic bacteria attack organisms and cause various diseases. Many human diseases are caused by bacteria. Bacteria cause decay of leather, fabrics etc. Bacteria spoil the food materials by decomposition. Some bacterial diseases in man such as cholera, typhoid, tuberculosis and pneumonia are briefly described here.
+
+Cholera: Symptoms: The symptoms include severe diarrhoea, vomiting, dehydration, weight loss, loss of skin turgidity, hypotension and intense muscle cramps. Cause: The causative agent is Vibrio cholerae. Transmission: It is transmitted through contaminated water and food. Treatment: Rehydration, Doxycycline antibiotic is used. Prevention: Use of safe and boiled water, sanitary disposal of sewage, avoid contaminated water, maintain personal hygiene, hand washing, immunization, control flies, eat cooked food and use safe water.
+
+Typhoid: Symptoms: The symptoms include fever, tender abdomen and spleen occur. Causative agent: The causative agent is Salmonella typhi. Transmission: Through fecal-oral route and carrier. Treatment: Ciprofloxacin antibiotic should be used. Prevention: Proper sanitation, safe drinking water, immunization by public health and personal hygiene. Prevention: Vaccination is effective prevention of typhoid.
+
+Tuberculosis: Symptoms: The symptoms include mild fever, tiredness and weakness, dry hacking cough and chest pain which increases on coughing, night sweats, weight loss, anorexia, anemia and bloody stained sputum. Cause: The causative agent is Mycobacterium tuberculosis. Transmission: It spreads through droplets. Treatment: Multiple-drug therapy is used during the long 6 to 9 month duration of treatment. However a new effective technique of DOTS (directly observed treatment short course) of only two months durations is also being used. Prevention: BCG Vaccine (Bacillus Calmette-Guerin) can be used.
+
+Pneumonia: Symptoms: Pneumonia often begins with sudden chill, cough and pleuritic pain. Sputum is red brown “rusty” colour. Cause: The causative agent is Streptococcus pneumoniae. Transmission: It spreads through droplets. Treatment: Antibiotics are used.
+
+Bacterial diseases in plants: The important bacterial plant diseases are leaf spots, blights, soft rots, wilts and galls.
+Leaf spot disease: Symptoms: Brown to white spots on leaves. Cause: It is caused by Xanthomonas campestris on cabbage and Pepper. Prevention: Prevention of contact between pathogen and the host, use of disease free seeds.
+Blight disease: The blight is termed blight in maize, rice and oat etc. Cause: Xanthomonas oryzae Causes blight disease in rice. Prevention: Disease free seeds, eradication of diseased plant by physical method.
+Soft rots disease: Soft rots may involve removal of a part of the plant. Cause: Corynebacterium sepedonicum causes soft rot in potatoes. Prevention: Use disease free planting material.
+Wilt disease: It is widespread. Cause: Pseudomonas solanacearum causes wilt in potatoes and tomatoes. Prevention: Crop rotation, remove of diseased plants.
+Galls: Galls are outgrowth mostly small but may be very large in size. Cause: Rhizobium leguminosarum causes small galls called root nodules in leguminous plants. Prevention: Crop rotation, removal of diseased plants etc.
+
+THE BACTERIAL FLORA OF HUMANS
+There are approximately ten times as many bacterial cells as human cells in the human body, with large numbers of bacteria on the skin and in the digestive tract. Normal flora is the term used to describe the various bacteria (and fungi) that are permanent residents of certain body parts, especially the skin, oropharynx, colon and vagina.
+
+Benefits of the bacterial flora to humans
+The members of some normal flora play a role in the maintenance of health and the causation of disease in three ways: They can cause disease, especially in immunocompromised and weak, feeble individuals. They cause disease when they are introduced into unprotected areas; although they are nonpathogens in their usual anatomic location, they can be pathogens in other parts of the body. They constitute a protective host defense mechanism. The normal nonpathogenic resident bacteria occupy attachment sites on the skin and mucosa that can interfere with colonization by pathogens. The inhibition of the growth of pathogens is called colonization resistance. They may serve a nutritional function. The normal bacteria produce several B vitamins and vitamin K. Poorly nourished people who are treated with oral antibiotics can suffer vitamin deficiencies as a result of the reduction in the normal flora.
+
+CONTROL OF HARMFUL BACTERIA
+Bacteria can be controlled by chemical and physical methods.
+
+Chemical methods: Antiseptics, disinfectants and chemotherapeutic agents are used as chemical methods for microbial control.
+Antiseptics: The chemical substances used on living tissues that inhibit the growth of microorganisms are called antiseptics.
+Disinfectants: Oxidizing and reducing agents are important chemical agents for disinfection, e.g., disinfectants that is halogens and phenols, hydrogen peroxide, potassium permanganate, alcohol and formaldehyde etc. These chemicals inhibit the growth of vegetative cells and are used on nonliving material.
+Chemotherapeutic agents: Chemotherapeutic agents are chemicals and antibiotics that destroy the natural defence and stop the growth of bacteria and other microbes in the living tissue, e.g., sulphonamide, tetracycline, penicillin etc.
+
+Physical methods: Sterilization process is the process in which physical agents like steam, dry heat, gas, filtration and radiation are used to control bacteria. Sterilization is destructive to all life forms. This process is used to sterilize large scale products. It is also used to preserve food items on commercial scale and usually used in microbiological labs for control of microbes. High temperature is usually used for sterilization. Radiations below 300 nm are effective in killing microbes. Gamma rays are also used for sterilization. Heat sensitive compounds like antibiotics, serum, hormones, enzymes, etc., can be sterilized by means of membrane filters. Pasteurization is heating at temperature enough to kill non-spore forming pathogenic bacteria, e.g., milk is pasteurized at 71 °C for 16 seconds and then cooled.
+
+Food preservation: Food can be preserved for several weeks to several months, e.g., by drying, salting and freezing. In dry condition bacteria may not grow, e.g., dry fruits. Adding preservatives inhibit the growth of bacteria. Acid is added to many foods. Salt is added in high concentration. Contents of salt are increased so that water in the food is not enough for bacteria to grow. Some chemicals like potassium metabisulphite are added. Pickles, sauces, jams and breads are preserved by such methods.

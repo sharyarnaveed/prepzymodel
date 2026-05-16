@@ -1,0 +1,1355 @@
+COORDINATION AND CONTROL
+
+INTRODUCTION
+| An organism shows certain common characteristics - one of them is to respond to
+stimuli. These stimuli may be internal or external, at molecular, sub-cellular, cellular or
+organism level - to which the organisms respond. The activities of different body parts in
+| response to these stimuli must be coordinated. The coordination makes possible the
+integration of functions essential to organismic behaviour.
+
+: Coordination is must for any organism to survive. In the unicellular organisms
+coordination exists between various cellular processes, and they respond to changes in
+their environments such as temperature, light intensity, concentration of various
+chemicals and even to electric current.
+
+In multi-cellular organisms, although there is a division of labour among cells yet
+every cell can respond to changes in its immediate vicinity. It must be noted that even the
+most highly developed organisms, e.g. we humans are unable to detect and respond to
+: many changes or stimuli in our environment. We are unaware and not able to respond to
+| presence of bacteria on the surface of our body, because our sensory cells do not detect
+their presence - but some of our internal body cells do respond and produce chemicals or
+phagocytose them to destroy them. We are unable to see different radiations except for
+visible spectrum of light, but our body cells do respond to some of them.
+
+: | COORDINATION IN PLANTS :
+| CONTROL THROUGH HORMONES |
+: Plants, as compared to animals are far from being passive, and are complex
+: dynamic organisms that grow, change, react to external/internal stimuli, and show
+| response. It is no exaggeration to say that plants behave but their behavior is
+fundamentally different from that of animals. The difference is due to two ways of life —
+| sessile on one hand and motile on the other. Much of the behavior of plants depends on
+variations in growth rates, or changes in the turgidity of cells, when they show
+movements. The most obvious difference is in the slow speed of response shown by
+plants. | BC
+
+Animals have evolved tissues like muscles, specialized for production of rapid
+movements. Plants and animals employ different ways to respond and have evolved
+control systems accordingly. In plants the control is solely by the plant hormones while in
+animals much more variety of hormones and the nervous control, make them respond
+with greater speed to specific stimuli.
+
+
+Hormonal control in plants is relatively a slow process. Even after hormone is
+synthesized there is delay between the release, its arrival at the target cell and its
+action in the body. So, response to stimulus that induced the secretion of hormone is
+usually not immediate. Keeping in view the slowness of the mechanisms of plant
+movement, the delay involved in hormonal control is insignificant. All the activities of
+plants from growth to fruit production and ripening are under the control of plant
+hormones.
+
+Plants therefore, respond to the stimuli by:
+1. Regulating their growth and development in appropriate ways.
+2. Controlling their body functions through plant hormones or growth hormones.
+
+PLANT MOVEMENTS
+You have studied these in the previous chapter. Many plants do not show
+locomotion (movement of the whole organism). However, movements of plant organs are
+possible and are modified according to the nature and intensity of external stimuli. There
+are two kinds of plant movements, autonomic movements and paratonic movements.
+
+RESPONSES TO ENVIRONMENTAL STRESSES IN PLANTS
+All plants need water, light, carbon dioxide and a variety of nutrients from their
+environment for optimal development and growth. The absence or short supply of any of
+these factors in environment may exert environmental stresses on plants affecting their
+health and survival. If plants are grown without light, they become extremely long and
+fail to form chlorophyll. They are said to be etiolated.
+
+Many plants take on a yellowish hue when they fail to form sufficient
+chlorophyll. This condition known as chlorosis usually arises from short supplies
+of mineral nutrients in the soil.
+
+DEFENSE AGAINST PATHOGENS IN PLANTS
+Diseases of plants may arise from infections by viruses, bacteria, fungi or lichens
+in most cases. You have already studied different diseases caused by the above
+mentioned pathogens in class XI.
+
+Plants may also show developmental abnormalities. If plants are wounded, they
+often develop masses of amorphous material with very poor differentiation known as
+calluses. Plant tumors and even plant cancers may arise and spread through the plant as
+an amorphous invasion of surrounding well-differentiated tissues. Galls are growths on a
+plant that are induced by parasites and have usually highly organized growth e.g. The tumors
+caused by bacteria. They are usually less differentiated than other types of galls.
+
+BIOLOGICAL CLOCKS AND CIRCADIAN RHYTHMS
+In living things, the behaviour activities occur at regular intervals which are called
+biorhythms or biological rhythms. Biorhythms may occur showing periodicity of about
+24-hours. These are called circadian (Latin circa = about, dies = day) which means about
+one day, so they are also called diurnal rhythms.
+
+If the biorhythms are of about 365 days, these rhythms in activity are called
+circannual.
+
+The organisms come across environmental changes that are cyclical in nature
+such as days, tides, and seasons etc. Many organisms maintain internal rhythm or clock,
+| to predict the onset of the periodic changes and to keep them prepared for these changes.
+
+Biorhythms may be the result of the following:
+1. There may be direct response to various changes in the external (exogenous)
+stimuli.
+2. There may be an internal (endogenous) rhythm that progresses the organism’s
+behaviour in synchronicity with the exogenous temporal period, particularly a 24
+hour or a 365 day period.
+3. The synchronization mechanism may be a combination of 1 and 2.
+
+The rhythms are in one’s genes but the environment influences the rhythms to
+some extent. Thus timing of behaviour results from a combination of effects of rhythmic
+internal processes and timed events of the environment.
+
+PLANT HORMONES
+Some of the special substances produced by the plants which influence the
+growth and plant responses to various stimuli are given below.
+
+(a) Auxins: These are indole acetic acid (IAA) or its variants.
+• In stem, promote cell enlargement in region behind apex. Promote cell division in
+cambium.
+• In root, promote growth at very low concentrations. Inhibit growth at higher
+concentrations e.g. geotropism. Promote growth of roots from cuttings and
+calluses.
+• Promote bud initiation in shoots but sometimes antagonistic to cytokinins and is
+inhibitory.
+• Promote apical dominance and fruit growth. They can sometimes induce
+parthenocarpy.
+• Cause delay in leaf senescence (aging) in a few species.
+• Inhibit abscission.
+
+Commercial applications: Discovery of IAA led to the synthesis of wide range of
+compounds by chemists. The synthetic auxins are economical compared to IAA to produce and
+often more active because plants generally do not have necessary enzymes to break them
+down.
+
+NAA (Naphthalene acetic acid) — Stimulates fruiting, help natural fruit set. Sometimes
+causes fruit setting in absence of pollination (parthenocarpy).
+Indole propionic acid — parthenocarpy.
+2,4-D (2,4 Dichlorophenoxyacetic acid) — Selective weed killer: kills broad-leaved
+species (dicots). Used in cereal crops and lawns to eliminate weeds.
+• Inhibits sprouting of potatoes.
+• Prevents premature fruit drop (retards abscission).
+
+(b) Gibberellins: These are produced commercially from fungal cultures.
+• Promote cell enlargement in the presence of auxins. Also promote cell division in
+apical meristem and cambium.
+• Promote ‘bolting’ of some rosette plants.
+• Promote bud initiation in shoots of chrysanthemum callus.
+• Promote leaf growth and fruit growth. May induce parthenocarpy.
+• In apical dominance, enhance action of auxins.
+• Break bud and seed dormancy.
+• Sometimes may substitute for red light. Therefore, promote flowering in long-
+day plants, while inhibit in short-day plants.
+• Cause delay in leaf senescence in a few species.
+
+
+Commercial applications:
+• Increase the length of internodes of sugarcane.
+• Increase the size of grapes.
+• Malting of barley and other cereals.
+• Promote the formation of male flowers in cucurbits.
+
+(c) Cytokinins:
+• Promote cell division in presence of auxins.
+• Promote bud initiation in shoots. Sometimes antagonistic to auxins.
+• Promote leaf growth. Can delay senescence in leaves.
+• Enhance lateral bud growth.
+
+Commercial applications:
+• Tissue culture (promote shoot growth from callus).
+• Delay senescence in vegetables and cut flowers.
+• Improve shelf-life of green vegetables.
+
+(d) Abscisic acid (ABA):
+• Inhibitor of growth.
+• Promotes leaf fall (abscission).
+• Promotes dormancy in buds and seeds.
+• Antagonistic to gibberellins.
+• Promotes closing of stomata during water stress.
+
+(e) Ethylene:
+• Promotes fruit ripening.
+• Induces epinasty.
+• Promotes leaf fall and senescence.
+• Promotes root initiation.
+• Inhibits elongation of stem.
+
+Commercial applications:
+• Artificial ripening of fruits.
+• Break dormancy in some seeds.
+• Promote flowering in pineapple.
+
+TROPIC MOVEMENTS
+In tropic movements, plants respond to directional stimuli and show directional
+growth movements. The response is always towards (positive) or away from (negative)
+the source of stimulus.
+
+Types of tropisms:
+1. Phototropism — response to light.
+2. Geotropism — response to gravity.
+3. Thigmotropism — response to touch.
+4. Chemotropism — response to chemicals.
+5. Hydrotropism — response to water.
+
+
+**PHOTOTROPISM**
+Phototropism is growth movement in response to light. Stems are positively
+phototropic while roots are negatively phototropic.
+
+Experiments:
+Charles Darwin and his son Francis found that the tip of a coleoptile detects
+light. Boysen-Jensen showed that a chemical diffuses from the tip and causes bending.
+Later this chemical was identified as auxin.
+
+When light shines from one side:
+• Auxin diffuses towards the shaded side.
+• Cells on the shaded side elongate more.
+• Stem bends towards light.
+
+**GEOTROPISM**
+Growth movement in response to gravity.
+• Stem shows negative geotropism.
+• Roots show positive geotropism.
+
+Statolith theory: Specialized starch-filled organelles (statoliths) settle under gravity,
+helping cells perceive the direction of gravity. Auxin distribution then controls bending.
+
+**THIGMOTROPISM**
+Movement in response to touch.
+Examples:  
+• Tendrils of pea and grapevine coil around support.  
+• Climbing plants use this mechanism.
+
+**HYDROTROPISM**
+Growth movement towards water.
+• Roots grow towards moisture.
+• Overrides geotropism when water is lateral.
+
+**CHEMOTROPISM**
+Growth due to chemicals.
+Example:  
+• Growth of pollen tube towards ovule due to chemical attractants.
+
+**NASTIC MOVEMENTS**
+These movements do not depend on direction of stimulus. They depend only on
+intensity.
+
+Types:
+1. Photonasty — due to light intensity (opening and closing of petals).
+2. Thermonasty — due to temperature.
+3. Seismonasty — due to shock or touch.
+
+Example:
+*Sensitive plant (Mimosa pudica)* folds its leaflets on touch due to change in turgor
+pressure in pulvinus (a swollen structure at base of leaflet).
+
+**CONTROL SYSTEMS IN PLANTS**
+Plants lack nerves, muscles and a central nervous system. Their control is mainly
+through:
+• Plant hormones
+• Changes in turgor
+• Growth responses
+
+PLANT-WATER RELATIONS AND OSMOTIC CONTROL
+Plants absorb water mainly through osmosis. Xylem vessels conduct water from
+roots to leaves. Transpiration from leaves creates suction.
+
+During water stress:
+• Stomata close (ABA plays role).
+• Growth slows.
+• Wilting occurs due to loss of turgor.
+
+**SALT STRESS**
+High salt concentration causes plasmolysis.
+Plants adopt mechanisms:
+• Accumulate solutes (osmotic adjustment)
+• Exclude salts  
+• Store salts in vacuoles
+
+**TEMPERATURE STRESS**
+High temperature:
+• Denatures enzymes.
+• Disrupts membranes.
+• Plants produce heat-shock proteins (HSPs) to protect enzymes.
+
+Low temperature:
+• Causes chilling injury by increasing membrane rigidity.
+• Freezing produces ice crystals.
+• Some plants accumulate solutes to prevent freezing (supercooling).
+
+**PLANT DEFENSE AGAINST HERBIVORES**
+Plants defend themselves by:
+• Thorns and spines
+• Chemicals (alkaloids, tannins)
+• Latex
+• Tough leaves
+• Symbiotic relationships (e.g., ants in acacia)
+
+**HORMONAL COORDINATION SUMMARY**
+Auxins — elongation, apical dominance, root growth  
+Gibberellins — elongation, germination, bolting  
+Cytokinins — cell division, delayed senescence  
+Ethylene — ripening, abscission  
+ABA — dormancy, closing stomata, stress responses
+
+
+Working of Sensory Receptors with Special Reference to Skin
+In the skin there are at least 3 different types of sensory endings involved in
+
+touch stimulus reception. In skin, the receptors are concerned with at least five different
+
+senses: touch, pressure, heat, cold and pain.
+
+1. Situated at the base of hairs, hair end organs receive touch stimulus.
+
+2. Meissner’s corpuscles (encapsulated endings) which lie in papillae which extend
+into the ridges of the fingertips. The corpuscle consists of spiral and much
+twisted endings, each of which ends in a knob. These are touch receptors.
+
+3. Pacinian corpuscles - situated quite deep in the body. These are also encapsulated
+
+neuron endings and receive deep pressure stimulus. Those located in the limbs
+probably form a basis for vibration sense. The detection of
+vibrations of the ground
+by terrestrial vertebrates
+is probably achieved by
+receptors in the joints.
+
+The intensity of stimulus received would either be transmitted in the form of repeated
+impulses or by more fibres carrying the impulse to the CNS.
+
+The relative abundance of various types of receptors differs greatly e.g. pain
+receptors are nearly 27 times more abundant than cold receptors. The cold receptors are
+nearly 10 times more abundant than heat or temperature receptors. The receptors are not
+distributed evenly over the entire surface of the body e.g. touch receptors are much more
+numerous in the fingertips than in the skin of the back, as might be expected in view of
+the normal functions of those two parts of the body.
+
+The stimulus received by the receptors in the skin which are the endings of
+sensory neurons is passed to the motor neurons via inter or associative neurons which are
+present in the brain and via spinal cord impulse is sent by the motor neurons to the
+effectors, which are muscles and glands (Fig. 17.1).
+
+Free nerve _______________________________________________
+endings (pain)
+
+Muscles
+(touch)
+
+Fig. 17.1 Sensory receptors
+of the skin. Pacini
+
+The sensations of touch, pressure,
+pressure, heat, cold, and pain
+are detected by modified
+sensory neurons having naked
+nerve endings (touch and pain
+receptors) or specialized
+cellular corpuscles (pressure,
+hot and cold receptors).
+
+2. Neurons
+The chief structural and functional units of the nervous system are neurons, but
+there are other cells, in higher animals, and in humans called neuroglia, which make up
+as much as half of the nervous system. Neuroglia play a vital role in the nutrition of
+neurons and their protection by myelin sheath. There are three functional types of
+neurons — the sensory, associative (intermediate/relay) and motor neurons, in mammals
+(Fig. 17.2)
+
+Dendrite                Dendrite
+Cell body               Cell body
+
+Receptor cell           Dendrite
+                        Dendron
+                        Myelin sheath
+                        Axon
+                        Schwann cell
+                        Node
+
+Cell body
+Neuromuscular
+junction
+Muscle
+
+Fig. 17.2 A variety of neuron types in human beings
+(a) The dendrites, unlike the axon, often give a spiny look. (b) The dendrites of certain brain cells
+branch profusely, giving the cell a treelike appearance. (c) Motor neurons have long axons that
+run from the C. nervous system to the effector (muscle); those axons are frequently, but not always,
+myelinated. Note the presence of many granules in the cell body and dendrites and their absence
+from the axon. (d) Many sensory neurons have only one fiber, which branches a short distance
+from the cell body. The peripheral branch (running between the receptor site and the dorsal-root
+ganglion in which the cell-body is located) and the other branch (central) running from the
+ganglion into the spinal cord or brain. Except for its terminal portions, the entire fiber is
+structurally and functionally of the axon type, even though the peripheral branch conducts
+impulses toward the cell. A sensory neuron of this type thus has no true dendrites although
+the peripheral branch is often called a dendron because of the direction in which it conducts.
+
+The neuron has protoplasmic processes arising from its cell body containing
+nucleus and various organelles embedded in the cytoplasm. There are two main types of
+cytoplasmic processes or fibres. The one which carries impulse towards the cell body is
+called dendron, if it is a single fibre, but if smaller fibres, they are called dendrites (singular:
+dendrite). The processes conducting impulses away from the cell body are termed axons.
+These may be more than a meter long in some neurons. Nissl’s granules which are
+groups of ribosomes associated with rough E.R, and Golgi apparatus are present in the
+cell body. Microtubules, neurofibrils, rough endoplasmic reticulum and mitochondria
+are present throughout the axoplasm (cytoplasm of axon) of the neuron.
+
+The cell body or soma is the main nutritional part of the cell and is concerned
+with the biosynthesis of materials necessary for the growth and maintenance of the
+neuron. If the cell body of the neuron remains intact, it can regenerate axonal and
+dendrite fibres; but neurons once mature, do not divide any further.
+
+3. Effectors
+These are the structures which respond when they are stimulated by impulse
+coming via motor neuron. The principal effectors are glands, which respond by secreting;
+and muscles which respond by contracting.
+
+Flow of information through the nervous system is explained with the help of a
+reflex arc.
+
+Reflex Arc
+Flow of impulse through the nervous system involving receptors, neurons, and
+effectors will be clear if we study an example of a reflex arc. Reflex arc is the pathway
+of passage of impulse during a reflex action. Reflex action is a type of involuntary action.
+(Fig. 17.3). The direction of stimulus is from receptors to sensory neuron to associative
+(association/relay) neuron and then through motor neuron to the effectors.
+
+Effectors will be clear if we study an example of a reflex arc. Reflex arc is the pathway
+of passage of impulse during a reflex action. Reflex action is a type of involuntary action.
+(Fig. 17.3). The direction of stimulus is from receptors to sensory neuron to associative
+(association / relay) neuron and then through motor neuron to the effectors.
+
+Nerve Impulse
+
+Nerve impulse is a wave of electrochemical changes, which travels along the
+length of the neuron involving chemical reactions and movement of ions across the cell
+membrane. Electrical potential is a measure of the capacity to do electrical work. It
+represents a type of stored energy which is manifested during separation of charges
+across a barrier. In the case of neuron, the charges are positive and negative ions, and the
+charge-separating barrier is the plasma membrane. The electrical potential that exists
+across a cell membrane is known as membrane potential. A typical neuron at rest is
+more positive electrically outside than inside the cell membrane. This net difference in
+charge between the inner and the outer surface of a non-conducting neuron is called the
+resting membrane potential. The major factors which are involved in resting membrane
+potential are:
+
+1. Sodium and potassium ions: Of the many kinds of ions present in the nerve
+cells and the surrounding fluid, sodium (Na⁺) and potassium (K⁺) ions are the
+most important. Sodium ions are tenfold higher in concentration outside than
+inside the membrane surface, whereas potassium ions are twenty times more
+concentrated inside than outside. All the neurons have very active sodium and
+potassium pumps located in their cell membranes. Driven by the splitting of
+ATP, these pumps transport Na⁺ out and K⁺ into the cell, both against their
+respective concentration gradients. For every two K⁺ that are actively transported
+inward, three Na⁺ are pumped out. So inside becomes more negative than the
+outside of the cell membrane of neurons. (Fig. 17.4).
+
+2. Negative organic ions: The large negative organic ions (such as proteins,
+organic acids etc.) are much more inside the membrane than outside, where they
+are only in negligible concentration. This makes the inside of neuron membrane
+more negative.
+
+3. Leakage of K⁺ ions from neurons: The cell membrane is virtually
+impermeable to all ions except K⁺. Since the membrane is slightly permeable to
+K⁺, some of it leaks out of the cell. The loss of this positive ion from the neuron
+by diffusion accounts for more negative charges inside than outside the cell
+membrane of neuron.
+
+
+Relative ion
+concentration
+
+Outside neuron:
+K⁺
+Na⁺
+
+Active exchange
+100
+
+Inside neuron:
+K⁺
+Na⁺
+Organic ion
+(negatively charged)
+
+Fig. 17.4 Resting potential
+
+(a) In the unstimulated state, a neuron has a membrane potential of approximately -70 mV. The
+relative concentrations of the principal ions inside and outside the neuron are indicated by the
+sizes of the chemical symbols (Na⁺ = sodium ion, K⁺ = potassium ion). (b) Two of the major
+processes that contribute to the negative resting potential are the active exchange of Na⁺ for K⁺,
+and the outward diffusion of K⁺. The sodium-potassium pump actively transports Na⁺ out and
+K⁺ into the cell, and is powered by the splitting of ATP by an associated enzyme, ATPase.
+
+2. Charges are reversed: The inner side of the cell membrane has excess of
+positive ions (thus positive charges) at its internal surface, and the outer surface
+becomes more negative.
+
+Stimulus
++50
+
+Fig. 17.5 Active or action potential
+(a) When a neuron is stimulated, the cell membrane at the point of stimulation undergoes a
+momentary reversal in charge (dark color) called an action potential. Perhaps for a millisecond,
+the inside of the membrane becomes positive relative to the outside. (b) Sequence of membrane
+potential changes associated with an action potential: (1) resting potential (polarized state); (2)
+sodium gates open and Na⁺ diffuses into the cell, causing a depolarization of the membrane; (3)
+sodium gates close and potassium gates open; (4) K⁺ diffuses out, causing a repolarization of the
+membrane; (5) sodium-potassium pump restores original ion gradients and resting potential
+(recovery). Steps (2)–(5) take a mere 2–3 milliseconds.
+
+3. Passage of nerve impulse: During active membrane potential, the neuron
+conducts the impulse in the form of nerve impulse.
+
+4. Membrane potential: Active membrane potential of +0.05 volts (+50 mV) exists.
+These changes occur along the length of neuron till the impulse reaches synapse.
+
+After the passage of the impulse, the resting membrane potential is restored by the
+movement of a small number of ions especially K⁺ moving out. This neuron now is ready
+for the next stimulus.
+
+It may be added that in myelinated fibres, the normal speed of nerve impulse in
+humans is 100 meters per second but the maximum speed recorded is 120 meters
+per second.
+
+In myelinated fibres the impulse jumps from node to node (Node of Ranvier). This is called
+saltatory impulse.
+
+Synapse
+Consecutive neurons are so arranged that the axon endings of one neuron are
+connected to the dendrites of the next neuron. There is no cytoplasmic connection
+between the two neurons and microscopic gaps are left between them. Each of these
+contact points is known as synapse.
+
+A single neuron may form synapses with many incoming fibres of different
+neurons.
+
+A nerve impulse is passed from one neuron to the other through the synapse, but
+a single impulse does not necessarily get across the synapse. It may take two or three
+impulses arriving in rapid succession or perhaps simultaneously from two or more fibres
+to start an impulse in the next neuron.
+
+The action potential cannot jump from one neuron to the next in line; rather the
+message is transmitted across synapse in the form of chemical messenger called
+neurotransmitter.
+
+Presynaptic neuron
+Synaptic vesicles
+containing
+neurotransmitter
+molecules
+
+Presynaptic
+membrane
+
+Synaptic cleft
+
+Postsynaptic
+membrane
+
+Fig. 17.6 Communication across a synapse
+When an impulse reaches a synaptic knob, synaptic vesicles within fuse with the
+presynaptic membrane, causing the release of neurotransmitter molecules into the
+synaptic cleft. The neurotransmitter molecules bind to the receptors on the postsynaptic
+membrane, triggering an action potential in the postsynaptic neuron, by causing changes
+in its permeability to certain ions. (Fig. 17.6)
+
+Neurotransmitters are chemicals which are released at the axon ending of the
+neurons, at synapse. Many different types of neurotransmitters are known. These are:
+acetylcholine, adrenaline, nor-epinephrine, serotonin and dopamine.
+
+Acetylcholine is the main transmitter for synapses that lie outside the central
+nervous system. Others are mostly involved in synaptic transmission within the brain and
+spinal cord.
+
+Evolution of Nervous System
+
+There are two designs of nervous system in the animal kingdom.
+
+(i) A diffused nervous system, such as that of Cnidarians (Hydra, jellyfish and their
+relatives)
+
+(ii) A centralized nervous system, found to varying degrees in more complex
+organisms, from platyhelminthes to chordates including humans.
+
+To understand the organization of the above-mentioned types of nervous system,
+we would study them in Hydra, Planaria and humans. Nervous system design is highly
+co-related with the animal’s lifestyle. The first main type of nervous system is a diffused
+nervous system. Hydra shows this type of nervous system (Fig. 17.7a).
+
+Hydra, a cnidarian, is a small animal which is sedentary in its lifestyle and prey
+and other dangers are equally likely to come from any direction. Its nervous system
+consists of a network of neurons, which is present between the ectoderm and endoderm.
+There is no head in this animal and so there is no centralized nervous system i.e. no brain
+and nerve cords etc. However, a cluster of cell bodies of neurons forming ganglia can be
+seen here and there. It has been observed that neurons are so arranged in the network that
+it is not possible to distinguish them in connected functional types of neurons as in higher
+animals i.e. there are no sensory, associative (inter/relay) neurons, or motor neurons.
+
+There are no specialized sense organs in this animal. It has been observed and
+studied that when an appropriate stimulus is given, Hydra responds and almost the
+whole body of the animal responds as a unit. The tentacles are more responsive and react
+to the stimulus instantaneously (Fig. 17.7a).
+
+
+The second type of nervous system is present in Planaria (Fig. 17.7b) and
+humans. It is centralized nervous system. The nervous system of Planaria is better
+developed as compared with that of Hydra because in Planaria:
+
+(i) There is beginning of a centralized nervous system. In the anterior region of the
+body of planaria, there is a bilobed mass composed of two ganglia. This acts as a
+“brain” or a centralized collection of neurons. This receives and sends impulses
+from and to different parts of the body. There is no such concentration of neurons
+or a coordinating centre in Hydra — only a network of neurons is present.
+
+(ii) There is differentiation of neurons into sensory, associative and motor neurons. In
+Planaria, associative neurons are present in the brain and longitudinal nerves.
+Sensory neurons carry impulse to “brain” or nerves and motor neurons carry
+impulse from central nervous system to different parts of the body. In Hydra
+there is no differentiation of neurons.
+
+(iii) In Planaria at the anterior region, sense organs in the form of eyes and
+chemoreceptors are present. There are no specialized sensory organs in Hydra.
+
+(iv) The receptor cells sensitive to pressure and touch are present in Planaria. There are
+no specialized sensory cells in Hydra, but some nerve cells are more sensitive to a
+particular stimulus — chemical or mechanical — than others.
+
+(v) There are definite nerves, the longitudinal and lateral in Planaria. There are no
+nerves in Hydra.
+
+(vi) In Planaria in addition to a superficial nerve net just below epidermis, there
+is a deeper plexus embedded in the parenchyma. In Hydra only a superficial
+nerve net is present (Fig. 17.7a).
+
+Fig. 17.7 Nervous systems in Hydra and Planaria.
+
+Human nervous system is a type of centralized nervous system. Its classification
+in different subdivisions and different functions performed by these subdivisions are
+given in Fig 17.8.
+
+Central Nervous System (CNS)
+(receives and processes information;
+stores memories;
+generates thought)
+
+Brain
+Spinal Cord
+
+Peripheral Nervous System (PNS)
+(transmits signals between the CNS
+and the rest of the body)
+
+Sensory neurons
+(conduct signals from sensory organs to CNS)
+
+Motor neurons
+(conduct signals from CNS to effectors)
+
+Somatic nervous system
+(controls voluntary activities by activating
+skeletal muscles)
+
+Autonomic nervous system
+(controls involuntary activities)
+
+Sympathetic division
+Parasympathetic division
+
+Fig. 17.8 Classification of the human nervous system
+
+Central Nervous System (CNS)
+
+The CNS consists of brain (Fig. 17.9) and spinal cord, which are both protected
+in three ways. Cranium, which is a part of skull, protects the brain and neural arches of
+vertebrae of vertebral column protect the spinal cord. The brain and spinal cord are also
+protected by triple layers of meninges. The cerebrospinal fluid (CSF), similar in
+composition to blood plasma, bathes the neurons of brain and spinal cord and it
+cushions against the bumps and jolts. Both brain and spinal cord are hollow. The spinal cord
+has central canal and brain has many cavities (ventricles) filled by CSF, which is
+also present between the meninges.
+
+Brain: The brain can be divided into forebrain, midbrain and hindbrain. Forebrain is
+further divided into three functional parts, the thalamus, the limbic system (Fig. 17.10)
+and the cerebrum. Thalamus carries sensory information to the limbic system and
+cerebrum. The information includes sensory input from auditory and visual pathways,
+from the skin and from within the body.
+
+Cerebral Cortex
+Meninges
+Skull
+
+Hypothalamus
+Pituitary Gland
+Pineal
+
+Midbrain
+Hypothalamus
+Hippocampus
+Amygdala
+
+17.10 The limbic system and thalamus
+The limbic system extends through several
+brain regions. It seems to be the center of
+most unconscious emotional behaviors,
+such as love, hate, anger, hunger, sexual
+responses, and fear. The thalamus is a
+crucial relay center among the senses, the
+limbic system, and the cerebral cortex.
+
+
+The limbic system is located in an arc between the thalamus and cerebrum.
+Limbic system works together to produce our most basic and primitive emotions, drives,
+and behaviours, including fear, rage, tranquillity, hunger, thirst, pleasure and sexual
+responses. Portion of limbic system is also important in the formation of memories. The
+limbic system consists of hypothalamus, the amygdala, and hippocampus, as well as
+nearby regions of cerebrum. The hypothalamus through its hormone production and
+neural connections acts as a major co-ordinating centre controlling body temperature,
+water balance, the sleep-wake cycle etc.
+
+In the amygdala, clusters of neurons produce sensation of pleasure, punishment or
+sexual arousal when stimulated. It is also involved in the feelings of fear and rage.
+Hippocampus plays an important role in the formation of long-term memory, and
+thus is required for learning. Cerebrum is the largest part of the brain and is divided into
+two halves, called cerebral hemispheres. These halves communicate with each other by
+means of a large band of axons, called corpus callosum. Tens of billions of neurons are
+packed into this part. The outer region, the cerebral cortex, forms folds called
+convolutions, which greatly increase its surface area. This part receives sensory
+information, processes it, stores some in memory for future use, directs voluntary
+movements, and is responsible for the poorly understood process that we call thinking.
+
+The cerebral cortex contains primary sensory areas where signals originating in
+sensory organs such as eyes and ears are received and converted into subjective
+impressions, such as light and sound. Nearby association areas interpret this information.
+This area is also involved in speech and also receives and interprets sensations of touch
+from all parts of the body. This area is also a centre for sending impulses to voluntary
+muscles, controlling movements. This is also involved in intelligence, reasoning and
+judgement.
+
+The left cerebral hemisphere controls the right side of the body, and right
+cerebral hemisphere controls the left side of the body. Midbrain is reduced in humans,
+and it contains auditory relay centre and centre that controls reflex movements of eyes.
+Midbrain contains reticular formation, which is a relay centre connecting hindbrain with
+the forebrain. Reticular formation is very important in screening the input information,
+before they reach higher brain centres. Hindbrain includes the medulla, pons and
+cerebellum. Medulla controls several automatic functions, such as breathing, heart rate,
+blood pressure and swallowing. Certain neurons in pons, located above the medulla,
+appear to influence transitions between sleep and wakefulness, and the rate and pattern of
+breathing. The cerebellum is important in co-ordinating movements of the body. The
+cerebellum guides smooth and accurate motions and maintains body position. The
+cerebellum is also involved in the learning and memory storage for behaviours. It is best
+developed in birds which are engaged in the complex activity of flight.
+
+Spinal Cord: Medulla oblongata narrows down into an oval shaped hollow cylinder,
+the spinal cord, running through the vertebral column. It is made up of a very large
+number of neurons, the cell-fibres and bodies of which are arranged in a definite pattern.
+In cross section, the spinal cord shows an inner butterfly-shaped grey matter, containing a
+central canal and the outer portion composed of white matter. Gray matter, as in other
+parts of nervous system, consists of cell bodies and non-myelinated nerve fibres or tracts.
+White matter is made up of myelinated nerve fibres or tracts.
+
+The spinal cord is the centre for great many reflexes and
+it serves as a pathway for
+conduction of impulses to and
+from different parts of the body
+and brain (Fig 17.11).
+
+Peripheral Nervous
+System (PNS)
+
+It comprises sensory
+neurons and motor neurons,
+which may form ganglia and the
+nerves. Ganglia are the
+concentrations of cell bodies of
+neurons. The nerves are the
+bundles of axons or dendrites,
+bounded by connective tissue.
+They may be sensory, motor or
+mixed nerves depending upon the
+direction of impulse they
+conduct. In humans, there are 12
+pairs of nerves, which arise from
+the brain, or lead to the brain.
+These nerves are called cerebral
+or cranial nerves. Some of these
+nerves are sensory, some motor,
+and some are mixed. From the
+spinal cord 31 pairs of spinal nerves
+arise or lead to spinal cord. All these
+nerves are mixed having fibres of
+both sensory and motor neurons.
+
+Motor neurons form somatic nervous system, which controls voluntary
+movements, which are under the conscious control of the body, involving skeletal
+muscles. Motor neurons also form autonomic nervous system, which controls involuntary
+responses by influencing organs, glands and smooth muscles. The autonomic nervous
+system is further divided into sympathetic nervous system and parasympathetic nervous
+system (Fig 17.9).
+
+Autonomic Nervous System:
+
+The motor neurons of autonomic nervous system are divided into the sympathetic
+and parasympathetic system. Both of these systems function automatically, innervate all
+internal organs, utilise two neurons and one ganglion for each impulse.
+
+Sympathetic system: Most ganglion fibres of the sympathetic system arise from the
+middle portion of the spinal cord and almost terminate in ganglia that lie near the cord.
+This system is important during emergency situations and is associated with “fight or
+flight”. This system accelerates the heartbeat, dilates the pupil and inhibits the digestion
+of food etc.
+
+The limbic system is located in an arc between the thalamus and cerebrum.
+Limbic system works together to produce our most basic and primitive emotions, drives,
+and behaviours, including fear, rage, tranquillity, hunger, thirst, pleasure and sexual
+responses. Portion of limbic system is also important in the formation of memories. The
+limbic system consists of hypothalamus, the amygdala, and hippocampus, as well as
+nearby regions of cerebrum. The hypothalamus through its hormone production and
+neural connections acts as a major co-ordinating centre controlling body temperature,
+water balance, the sleep-wake cycle etc.
+
+In the amygdala, clusters of neurons produce sensation of pleasure, punishment or
+sexual arousal when stimulated. It is also involved in the feelings of fear and rage.
+Hippocampus plays an important role in the formation of long-term memory, and
+thus is required for learning. Cerebrum is the largest part of the brain and is divided into
+two halves, called cerebral hemispheres. These halves communicate with each other by
+means of a large band of axons, called corpus callosum. Tens of billions of neurons are
+packed into this part. The outer region, the cerebral cortex, forms folds called
+convolutions, which greatly increase its surface area. This part receives sensory
+information, processes it, stores some in memory for future use, directs voluntary
+movements, and is responsible for the poorly understood process that we call thinking.
+
+The cerebral cortex contains primary sensory areas where signals originating in
+sensory organs such as eyes and ears are received and converted into subjective
+impressions, such as light and sound. Nearby association areas interpret this information.
+This area is also involved in speech and also receives and interprets sensations of touch
+from all parts of the body. This area is also a centre for sending impulses to voluntary
+muscles, controlling movements. This is also involved in intelligence, reasoning and
+judgement.
+
+The left cerebral hemisphere controls the right side of the body, and right
+cerebral hemisphere controls the left side of the body. Midbrain is reduced in humans,
+and it contains auditory relay centre and centre that controls reflex movements of eyes.
+Midbrain contains reticular formation, which is a relay centre connecting hindbrain with
+the forebrain. Reticular formation is very important in screening the input information,
+before they reach higher brain centres. Hindbrain includes the medulla, pons and
+cerebellum. Medulla controls several automatic functions, such as breathing, heart rate,
+blood pressure and swallowing. Certain neurons in pons, located above the medulla,
+appear to influence transitions between sleep and wakefulness, and the rate and pattern of
+breathing. The cerebellum is important in co-ordinating movements of the body. The
+cerebellum guides smooth and accurate motions and maintains body position. The
+cerebellum is also involved in the learning and memory storage for behaviours. It is best
+developed in birds which are engaged in the complex activity of flight.
+
+Spinal Cord: Medulla oblongata narrows down into an oval shaped hollow cylinder,
+the spinal cord, running through the vertebral column. It is made up of a very large
+number of neurons, the cell-fibres and bodies of which are arranged in a definite pattern.
+In cross section, the spinal cord shows an inner butterfly-shaped grey matter, containing a
+central canal and the outer portion composed of white matter. Gray matter, as in other
+parts of nervous system, consists of cell bodies and non-myelinated nerve fibres or tracts.
+White matter is made up of myelinated nerve fibres or tracts.
+
+The spinal cord is the centre for great many reflexes and
+it serves as a pathway for
+conduction of impulses to and
+from different parts of the body
+and brain (Fig 17.11).
+
+Peripheral Nervous
+System (PNS)
+
+It comprises sensory
+neurons and motor neurons,
+which may form ganglia and the
+nerves. Ganglia are the
+concentrations of cell bodies of
+neurons. The nerves are the
+bundles of axons or dendrites,
+bounded by connective tissue.
+They may be sensory, motor or
+mixed nerves depending upon the
+direction of impulse they
+conduct. In humans, there are 12
+pairs of nerves, which arise from
+the brain, or lead to the brain.
+These nerves are called cerebral
+or cranial nerves. Some of these
+nerves are sensory, some motor,
+and some are mixed. From the
+spinal cord 31 pairs of spinal nerves
+arise or lead to spinal cord. All these
+nerves are mixed having fibres of
+both sensory and motor neurons.
+
+Motor neurons form somatic nervous system, which controls voluntary
+movements, which are under the conscious control of the body, involving skeletal
+muscles. Motor neurons also form autonomic nervous system, which controls involuntary
+responses by influencing organs, glands and smooth muscles. The autonomic nervous
+system is further divided into sympathetic nervous system and parasympathetic nervous
+system (Fig 17.9).
+
+Autonomic Nervous System:
+
+The motor neurons of autonomic nervous system are divided into the sympathetic
+and parasympathetic system. Both of these systems function automatically, innervate all
+internal organs, utilise two neurons and one ganglion for each impulse.
+
+Sympathetic system: Most ganglion fibres of the sympathetic system arise from the
+middle portion of the spinal cord and almost terminate in ganglia that lie near the cord.
+This system is important during emergency situations and is associated with “fight or
+flight”. This system accelerates the heartbeat, dilates the pupil and inhibits the digestion
+of food etc.
+
+The parasympathetic system promotes all the internal responses which are
+associated with a relaxed state. For example, it promotes digestion of food, retards
+heartbeat etc.
+
+Comparison of sympathetic and parasympathetic systems
+
+Sympathetic nervous system
+• Stimulates the body systems associated with flight and fight responses.
+• Heart rate speeds up.
+• Inhibits digestion.
+• Dilates bronchi.
+• Dilates pupil of the eye.
+• Stimulates release of glucose from liver (to provide energy).
+• Inhibits secretion of tears.
+• Stimulates sweating.
+• Inhibits urination.
+• Causes ejaculation.
+
+Parasympathetic nervous system
+• Promotes all the internal responses associated with a relaxed state.
+• Heart rate slows down.
+• Promotes digestion.
+• Constricts bronchi.
+• Constricts pupil of the eye.
+• Stimulates bile secretion (digestion).
+• Stimulates tear secretion.
+• Inhibits sweating.
+• Stimulates urination.
+• Causes erection of penis.
+
+
+Entire human body remains under constant control of the nervous system and
+endocrine system. Both these systems coordinate their activities to maintain normal
+working of the body.
+
+The nervous system is the body’s primary communication and control system. It
+uses electrical signals to rapidly transmit information. The body’s second great control
+system, the endocrine system, produces hormones that work with the nervous system and
+help regulate various functions.
+
+Hormones are secreted into the blood by the endocrine glands. Hormones produce
+their effect quite slowly either by producing long-lasting responses quite unlike the
+responses given by organs, which are stimulated through the nervous system.
+
+The endocrine system along with nervous system controls and co-ordinates all body’s
+functions such as responses to stress, body fluid and electrolytic balances, growth and
+reproduction. These are mediated by chemical co-ordinators called hormones.
+
+Hormones are organic compounds which are secreted in very minute quantities
+from the endocrine glands. They take part in the control and co-ordination of the body
+functions.
+
+Characteristics of Hormones
+
+• Hormones are secreted by glands, called endocrine glands. These ducts are not
+connected to any body system. These secrete hormones directly into the
+bloodstream.
+
+• Hormones are transmitted to different parts of the body by blood.
+
+• Only specific tissues respond to specific hormones because only those tissues
+contain hormone receptors. Thus the tissues affected by a hormone are called
+target tissues.
+
+• Hormones have specific chemical composition.
+
+• Hormones work in very small quantities.
+
+• They control and coordinate a large number of physiological activities in the
+body.
+
+
+Hormones generally have long-lasting effects, although some hormones may act
+quickly but at the same time their effect is long-lasting.
+
+Endocrinology
+
+The study of endocrine glands and hormones is called endocrinology.
+
+Types of Hormones
+
+According to chemical composition, hormones may be divided into three groups:
+
+(i) Steroid hormones: These are secreted by adrenal cortex, ovaries and testes.
+These are lipid-soluble. They easily pass through the cell membrane and act
+directly on DNA of the nucleus.
+
+(ii) Protein or peptide hormones: These are secreted by anterior pituitary, thyroid,
+parathyroid and pancreas etc. These hormones cannot pass through the cell
+membrane; they bind to specific receptors on the cell surface.
+
+(iii) Amine hormones: These are derived from amino acids and secreted by thyroid
+and adrenal medulla.
+
+
+Mechanism of Hormone Action
+
+Hormone-receptor interactions are very specific. A hormone recognizes its target
+tissue only because of specific receptors found on the surface or inside the cells of
+target tissue.
+
+Receptors are of two types:
+
+(i) Membrane-bound receptors:
+These receptors are present on the cell surface. Peptide and protein hormones
+(like insulin, glucagon) cannot pass through the plasma membrane. They bind
+with these receptors. This binding activates enzymes inside the cell through
+secondary messengers like cyclic AMP (cAMP).
+
+(ii) Intracellular receptors:
+These receptors are present inside the cytoplasm or nucleus. Steroid hormones
+and thyroid hormones are lipid-soluble so they pass through the cell membrane.
+They bind with intracellular receptors and directly activate genes present in DNA.
+
+Characteristics of Hormone Action:
+
+• Hormones act in very low concentration.
+• Hormones act only on target tissues.
+• The action of hormones is slow but long-lasting.
+• After their action, hormones are destroyed in liver or excreted by kidneys.
+
+
+Hormones generally have long-lasting effects, although some hormones may act
+quickly but at the same time their effect is long-lasting.
+
+Endocrinology
+
+The study of endocrine glands and hormones is called endocrinology.
+
+Types of Hormones
+
+According to chemical composition, hormones may be divided into three groups:
+
+(i) Steroid hormones: These are secreted by adrenal cortex, ovaries and testes.
+These are lipid-soluble. They easily pass through the cell membrane and act
+directly on DNA of the nucleus.
+
+(ii) Protein or peptide hormones: These are secreted by anterior pituitary, thyroid,
+parathyroid and pancreas etc. These hormones cannot pass through the cell
+membrane; they bind to specific receptors on the cell surface.
+
+(iii) Amine hormones: These are derived from amino acids and secreted by thyroid
+and adrenal medulla.
+
+
+
+Mechanism of Hormone Action
+
+Hormone-receptor interactions are very specific. A hormone recognizes its target
+tissue only because of specific receptors found on the surface or inside the cells of
+target tissue.
+
+Receptors are of two types:
+
+(i) Membrane-bound receptors:
+These receptors are present on the cell surface. Peptide and protein hormones
+(like insulin, glucagon) cannot pass through the plasma membrane. They bind
+with these receptors. This binding activates enzymes inside the cell through
+secondary messengers like cyclic AMP (cAMP).
+
+(ii) Intracellular receptors:
+These receptors are present inside the cytoplasm or nucleus. Steroid hormones
+and thyroid hormones are lipid-soluble so they pass through the cell membrane.
+They bind with intracellular receptors and directly activate genes present in DNA.
+
+Characteristics of Hormone Action:
+
+• Hormones act in very low concentration.
+• Hormones act only on target tissues.
+• The action of hormones is slow but long-lasting.
+• After their action, hormones are destroyed in liver or excreted by kidneys.
+
+Feedback Mechanism
+
+The secretion of many hormones is regulated by feedback mechanisms. The
+feedback system detects the amount of hormone in the blood and regulates further
+secretion.
+
+There are two types of feedback mechanisms:
+
+(i) Negative feedback mechanism:
+If the level of a particular hormone rises above the normal range, the endocrine
+gland is inhibited from secreting more of that hormone. This maintains the
+hormone level within normal limits.
+
+(ii) Positive feedback mechanism:
+In this mechanism, the presence of hormone stimulates the endocrine gland to
+secrete more of that hormone. This continues until a specific process is completed.
+A common example is the release of oxytocin during childbirth.
+
+Importance of Feedback Mechanism
+
+• Maintains internal balance.
+• Prevents overproduction of hormones.
+• Ensures proper coordination between endocrine glands.
+
+
+Endocrine Glands of Human Body
+
+The important endocrine glands in human beings are:
+
+• Pituitary gland  
+• Thyroid gland  
+• Parathyroid glands  
+• Adrenal glands  
+• Pancreas  
+• Gonads (Testes and Ovaries)  
+• Pineal gland  
+• Thymus gland  
+
+Pituitary Gland
+
+The pituitary gland is a small pea-sized endocrine gland located at the base of the
+brain. It is also called the “master gland” because it controls the activities of many other
+endocrine glands.
+
+The pituitary gland has two major parts:
+
+(i) Anterior pituitary  
+(ii) Posterior pituitary  
+
+Both parts secrete different hormones and perform different functions.
+
+Functions of Anterior Pituitary:
+
+• Growth Hormone (GH): Controls body growth.
+• Thyroid Stimulating Hormone (TSH): Stimulates thyroid gland.
+• Adrenocorticotropic Hormone (ACTH): Acts on adrenal cortex.
+• Follicle Stimulating Hormone (FSH): Stimulates gonads.
+• Luteinizing Hormone (LH): Stimulates ovaries and testes.
+• Prolactin: Stimulates milk production.
+
+Functions of Posterior Pituitary:
+
+• Oxytocin: Helps in childbirth and milk ejection.
+• ADH (Antidiuretic Hormone): Controls water balance in the body.
+
+Thyroid Gland
+
+The thyroid gland is a butterfly-shaped gland located in the neck region, just
+below the larynx. It consists of two lobes joined by a narrow band called isthmus.
+
+The thyroid gland secretes two major hormones:
+
+(i) Thyroxine (T4)  
+(ii) Triiodothyronine (T3)
+
+Both hormones contain iodine. These hormones regulate:
+
+• Metabolism  
+• Growth  
+• Development  
+• Body temperature  
+
+If iodine is absent in the diet, the thyroid gland enlarges, causing goiter.
+
+Parathyroid Glands
+
+There are four parathyroid glands located on the posterior surface of the thyroid
+gland. They secrete parathyroid hormone (PTH).
+
+Functions of PTH:
+
+• Regulates calcium level in blood  
+• Increases blood calcium by acting on bones, kidneys and intestines  
+
+
+Adrenal Glands
+
+There are two adrenal glands, one located on the top of each kidney. Each
+adrenal gland has two parts:
+
+(i) Adrenal cortex (outer part)  
+(ii) Adrenal medulla (inner part)  
+
+Hormones of Adrenal Cortex:
+
+• Aldosterone: Regulates sodium and potassium balance.  
+• Cortisol: Controls metabolism and helps the body cope with stress.  
+• Sex hormones: Small amounts of male and female hormones.
+
+Hormones of Adrenal Medulla:
+
+• Adrenaline (epinephrine)  
+• Noradrenaline (norepinephrine)  
+
+These hormones prepare the body for emergencies ("fight or flight response").
+
+Functions:
+
+• Increase heartbeat  
+• Raise blood pressure  
+• Increase breathing rate  
+• Raise blood glucose levels  
+
+Pancreas
+
+The pancreas is both an exocrine and endocrine gland. The endocrine part
+contains clusters of cells called Islets of Langerhans. These secrete:
+
+• Insulin  
+• Glucagon  
+
+Insulin decreases blood sugar while glucagon increases it.
+
+Pancreatic Hormones and Their Functions
+
+Insulin:
+• Secreted by beta cells of Islets of Langerhans.
+• Lowers blood glucose level.
+• Helps glucose enter cells.
+• Converts glucose into glycogen (in liver and muscles).
+
+Deficiency of insulin causes diabetes mellitus.
+
+Glucagon:
+• Secreted by alpha cells of Islets of Langerhans.
+• Raises blood glucose level.
+• Converts glycogen into glucose.
+
+Thus, insulin and glucagon maintain blood glucose balance.
+
+Gonads
+
+Testes:
+Testes are the male reproductive glands. They secrete the male hormone
+testosterone. Testosterone develops male secondary sexual characteristics such as:
+• Deep voice  
+• Beard and mustache  
+• Development of muscles  
+
+Ovaries:
+Ovaries are the female reproductive glands. They secrete two hormones:
+
+(i) Estrogen  
+(ii) Progesterone  
+
+Estrogen develops female secondary sexual characteristics. Progesterone maintains
+pregnancy.
+
+Pineal Gland
+
+The pineal gland is located in the brain. It secretes melatonin.
+
+Melatonin:
+• Controls sleep-wake cycle  
+• Influences reproductive functions  
+• Secreted more during darkness  
+
+Thymus Gland
+
+The thymus gland lies in the upper chest region behind the sternum. It is large in
+children but shrinks after puberty.
+
+It secretes thymosin.
+
+Functions of Thymosin:
+• Helps in the development of T-lymphocytes  
+• Strengthens immune system  
+
+Disorders of the Endocrine System
+
+1. Diabetes Mellitus:
+Caused by deficiency of insulin.
+• Symptoms: Excessive urination, thirst, weakness, high blood glucose.  
+• Treatment: Insulin injections, controlled diet.
+
+2. Goiter:
+Caused by iodine deficiency.
+• Thyroid gland becomes enlarged.  
+• Prevented by using iodized salt.
+
+3. Dwarfism:
+Caused by deficiency of growth hormone in childhood.
+• Results in very small height.
+
+4. Gigantism:
+Caused by excess growth hormone during childhood.
+• Results in abnormally large height.
+
+
+5. Acromegaly:
+Caused by excess growth hormone in adults.
+• Bones of hands, feet and face thicken.
+• Body becomes disproportioned.
+
+6. Cretinism:
+Caused by deficiency of thyroid hormones in infants.
+• Stunted growth  
+• Mental retardation  
+• Thick skin and protruding tongue  
+
+7. Myxedema:
+Caused by deficiency of thyroid hormones in adults.
+• Slow heart rate  
+• Low body temperature  
+• Weight gain  
+• Mental sluggishness  
+
+8. Hyperthyroidism:
+Caused by excessive secretion of thyroid hormones.
+• Increased heartbeat  
+• Weight loss  
+• Nervousness  
+• Bulging of eyes (exophthalmia)
+
+
+Coordination Between Nervous and Endocrine Systems
+
+Both systems work together to maintain homeostasis.
+
+• The nervous system provides rapid, short-term responses.
+• The endocrine system provides slow but long-lasting effects.
+• Many endocrine glands are controlled by the hypothalamus.
+• The hypothalamus links the nervous system with the endocrine system through the
+pituitary gland.
+
+Examples of Coordination:
+
+1. Stress Response:
+• During stress, hypothalamus stimulates adrenal medulla.
+• Adrenaline is released.
+• Heartbeat increases, breathing becomes faster, energy level rises.
+
+2. Blood Glucose Regulation:
+• Nervous system detects low blood sugar.
+• Signals pancreas to release glucagon.
+• Blood glucose rises to normal level.
+
+3. Water Balance:
+• Hypothalamus detects water level in blood.
+• Releases ADH through posterior pituitary.
+• Kidneys reabsorb more water.
+
+Importance of Coordination:
+
+• Maintains stable internal environment.
+• Regulates growth and development.
+• Controls metabolism.
+• Helps body respond to changes.
+
+
+
+
+
+
+
+

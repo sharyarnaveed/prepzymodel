@@ -1,0 +1,284 @@
+
+INTRODUCTION
+
+The characteristics of the solid state are that the substance has a definite shape. Due to the strongest intermolecular forces existing between the molecules, it is little affected by changes in temperature and pressure. Glasses and amorphous materials are the exceptions where there is no orderly arrangement of atoms. Such solids are called super-cooled liquids. Other solids have complete regularity of their atomic and molecular structures. Such solids are called crystals.
+
+It is observed that some kind of forces exist between the ions, atoms or molecules which keep them together in a crystalline solid. This gives a definite shape, rigidity and mechanical strength to the solids. Such forces are called inter-ionic, intermolecular and inter-atomic forces. These forces are of different types in different solids. As a result the solids have different physical properties.
+
+KINETIC MOLECULAR INTERPRETATION OF SOLIDS
+
+Kinetically the crystalline solids can be interpreted as follows:
+Attractive Forces:
+The attractive forces among the molecules are maximum due to the closest packing of the molecules.
+Rigidity:
+The molecules in solids are closely packed. Therefore their movement is restricted (limited). As a result they are rigid in nature. The molecules cannot move due to maximum attractive forces between them. However, molecules vibrate about their mean position.
+High density:
+The molecules of a crystalline solid are closely packed. As a result, molecules of solid occupy minimum volume. As density is inversely proportional to volume, therefore high density will be observed due to the minimum volume existing between the molecules.
+Collision:
+As there is no translational movement of particles in a solid, therefore, there are no collisions among the molecules.
+Kinetic Energy:
+There is negligible translational and rotational kinetic energy in solid molecules. However they can vibrate about their mean positions. So molecules of solid possess only vibrational K.E.
+Geometric Shape:
+The crystalline solids have definite distinctive geometrical shape. It is due to the definite and orderly arrangement of atoms, ions or molecules in three dimensional shape.
+
+Properties of Solids
+
+Some simple properties of solids are diffusion, compression, expansion, motion of molecules, spaces between them, intermolecular forces and kinetic energy based on Kinetic Molecular Theory.
+
+Explanation of Properties
+Diffusion:
+The diffusion depends upon velocity of molecules. As the movement of the molecules is very slow, therefore, the diffusion will be minimum. Had there been diffusion in solids, the centuries old buildings would have collapsed in no time.
+Compression (Effect of Pressure):
+There is practically no effect of pressure on solids as the molecules are very closely packed together.
+The effect of pressure on solids is expressed in terms of compressibility (β). This is defined as, “The decrease in volume per unit volume when the pressure is increased by one atmosphere.”
+Expansion:
+The solids expand when heated i.e. their volume increases. This is because the increase of temperature decreases the intermolecular attractive forces. As a result the volume increases.
+The co-efficient of expansion (α) is defined as “the increase in volume per unit volume when the temperature is increased by 1°C.” When a solid is heated, its shape changes until at a certain temperature, it changes into the liquid form. The temperature at which a solid changes into the liquid form is called Melting Point.
+Motion of Molecules:
+There is no translational and rotational motion due to presence of strong intermolecular forces in the crystalline solid, as the molecules are already closely packed together. However the molecules can vibrate about their mean positions.
+Intermolecular Forces:
+In solids, the intermolecular forces are maximum in between the particles. These are held together in fixed positions by strong attractive forces and can vibrate only about their fixed positions.
+Kinetic Energy Based Upon Kinetic Molecular Theory:
+According to the Kinetic Molecular Theory, the attractive forces between the solid particles are maximum. This is due to minimum distance between them and, therefore, molecules do not possess translational and rotational kinetic energies. However, they can vibrate about their mean positions. So they possess vibrational kinetic energy.
+
+TYPES OF SOLIDS
+
+There are two types of solids:
+Amorphous Solids:
+The solids which have no definite geometric shape are called amorphous solids e.g. glass, rubber, plastics etc. Some amorphous solids are composed of atomic or metallic dust alloys with disordered atomic structure.
+Crystalline Solids:
+The solids, which have a definite regular and three-dimensional geometric shape are called crystalline solids. Some crystalline solids have certain molecules of water of crystallization e.g. CaSO₄.2H₂O, Na₂SO₄.10H₂O.
+
+Differences between Amorphous and Crystalline Solids
+
+1) In the crystalline state, the crystals have definite geometrical structure e.g. NaCl crystal is cubic in nature. In the amorphous state, solids do not have definite geometric structure e.g. glass.
+2) There is a complete regularity of arrangement of atoms, ions or molecules in a crystalline solid whereas the atoms or molecules are not arranged in a regular manner in amorphous solids.
+3) A crystalline substance has a sharp Melting Point while the amorphous solid does not have sharp Melting Point and gradually softens on heating. They may be called as super-cooled liquids e.g. glass, plastic etc.
+4) In a crystalline substance, water molecules are a part of crystal e.g. FeSO₄.7H₂O, CuSO₄.5H₂O etc while the amorphous substances have no such water of crystallization.
+5) In some cases, the colour of a crystalline substance is due to water of crystallization e.g. CuSO₄.5H₂O is blue. The colour of crystals fades away in CuSO₄.5H₂O when it is heated.
+6) The amorphous solid is a solid which softens on heating and ultimately becomes mobile over a wide range of temperatures while the crystalline substances have no such property.
+
+PROPERTIES OF CRYSTALLINE SOLIDS
+
+Some important properties of crystalline solids are described here:
+Geometrical Shape:
+Almost all the crystalline solids have a definite, distinctive geometrical shape because the molecules have fixed positions. Therefore they cannot move appreciably. Moreover the solids have orderly arrangement of atoms, ions or molecules in three dimensional space e.g. NaCl is cubic in nature.
+Melting Point:
+Pure crystalline solids have sharp melting point. When a solid is heated, the atoms, ions or molecules present in a solid start vibrating at higher frequency and transfer their kinetic energy throughout the solid. At the melting point, their vibrational energies become so much that they leave their fixed positions simultaneously and become a liquid.
+Cleavage Planes:
+A crystalline solid contains atoms, ions or molecules closely packed to each other. When some external pressure is applied to it, it changes into small crystals of the same size and shape as that of the original one.
+The breaking up of larger crystals into smaller ones with identical size and shape is called cleavage. The plane which contains the direction of cleavage is called cleavage plane.
+(i) NiSO₄.6H₂O crystal can be cleaved easily provided cleavage is parallel to the surfaces.
+(ii) The cleavage of NaNO₃ and (CH₃COO)₂Ca is easy. It is parallel to the surface.
+(iii) Mica can be cut easily parallel to the layers.
+Habit of a Crystal:
+Almost all the solids have a particular number of faces under identical conditions e.g. NaCl is cubic with six faces. But if an impurity is present, the original material changes its structure because new faces are produced in addition to the original one.
+The shape of a crystal in which it usually grows is called habit of a crystal. For example cubic crystals of sodium chloride are obtained from its aqueous solution. If the conditions are changed, the shape of crystal also changes. If 10% urea is present in aqueous solution of sodium chloride, octahedral crystals of sodium chloride are obtained.
+Crystal Growth:
+The crystal growth takes place when the heated solution of a substance is allowed to cool in a slow manner. The outer appearance or shape of the crystals depends on how it is prepared and under what condition e.g. a crystal with cubic structure may develop into a cube, a flat plate or a long needle like structure, under different conditions. The size of a crystal is controlled by its rate of growth. A slowly growing crystal has large size.
+Anisotropy:
+A crystalline substance is a built up of small units all having the same geometrical form. But although a crystal is homogeneous, it possesses different properties in different directions. It is because crystal has different arrangements in different directions e.g. graphite exists in the form of layers, so it is a conductor in the direction parallel to layers but an insulator across the layers.
+A substance which shows different intensity of properties in different directions is called anisotropic and this property is anisotropy. e.g. Cleavage, refractive index, co-efficient of thermal expansion, electrical and thermal conductivities give different intensity of properties in different directions. e.g. Mica can be cut parallel to the layers but difficult to cut in some other plane.
+Symmetry:
+There are certain crystalline substances which after rotation to certain angles give similar edges, corners or faces. At definite distances in definite directions, the rotational operation which brings a crystal into its original appearance is called symmetry of element; e.g. if a regular cube is rotated about its axis at an angle of 90°, the identical face is obtained, on rotating to 180°, a second identical face and at 360°, four identical faces are observed. An axis containing four identical faces is called four-fold axis of rotation. The process through which the crystal was brought back to its identical position is called symmetry operation.
+An imaginary plane passing through a crystal that divides a crystal into two identical halves is called plane of symmetry. The symmetry elements that occur in a crystal are plane of symmetry, centre of symmetry, axis of symmetry and angle of symmetry.
+Isomorphism:
+There are certain substances which are similar in shape. Different crystalline substances having the same crystalline shapes are called isomorphs, and this phenomenon is called isomorphism; due to having same ratio of atoms.
+e.g. (i) ZnSO₄ and NiSO₄ are isomorphism because both have the same crystalline shape, i.e. orthorhombic. Isomorphs have same atomic ratio.
+(ii) Ag₂SO₄ and Na₂SO₄ are hexagonal. (Atomic ratio= 2:1:4)
+(iii) CaCO₃ and NaNO₃ are Rhombohedral. (Atomic ratio= 1:1:3)
+Polymorphism:
+The substance existing in more than one crystalline form is called polymorphous substance and the phenomenon is polymorphism.
+e.g.
+1. NaCl is found in cubic and octahedral forms.
+2. CaCO₃ is trigonal when present as calcite and orthorhombic when present as aragonite.
+3. HgI₂ is orthorhombic (yellow form) and tetragonal in red form.
+Allotropy (allotrope — Greek-allos (other), tropia (forms)):
+An element may exist in different crystalline forms. These forms are called Allotropes and this phenomenon is called allotropy.
+e.g. (i) C (as diamond) in cubic form.
+(ii) C (as graphite) in hexagonal form.
+Allotropes of Oxygen
+Dioxygen (O₂) and Trioxygen (O₃ or Ozone) are considered to be two forms of oxygen. Ozone is formed from oxygen by the absorption of certain amount of heat from atmosphere:
+3O₂ → 2O₃, ΔH=142 kJ mol⁻¹
+Allotropes of Sulphur
+Sulphur exists in four allotropic forms which are:
+Rhombic Sulphur (α-Sulphur): It is bright yellow in colour and stable below 96°C. It is crystalline in nature and made up of S₈ molecules.
+Monoclinic Sulphur (β-Sulphur): It is a crystalline solid and stable between 96°C and 119°C. It is converted to Rhombic Sulphur at room temperature.
+Plastic Sulphur (λ-Sulphur): It is a super cooled form of sulphur. If yellow sulphur is heated and poured into liquid water, it will roll up and produce a plastic like material. It is not considered to be a true allotrope of sulphur because it is soft and elastic in nature and insoluble in H₂S.
+Amorphous Sulphur (μ-Sulphur): It has irregular crystalline shape which may be called a crystalline solid. It is not found in the free state. It may be prepared by passing H₂S gas through sulphur water for a long time. The saturated solution of H₂S so obtained is exposed to air. Amorphous sulphur so produced has almost white colour.
+Transition Temperature:
+The temperature at which more than one forms of a substance can exist in equilibrium is called transition temperature. Above and below this temperature only one polymorph or allotrope can exist.
+
+CRYSTAL LATTICE
+
+The regular arrangement of the particles of a crystalline solid at the microscopic level produces characteristic shapes of crystals. The position of the particles in a crystalline solid is represented by a Lattice. An array of points representing the arrangement of particles (atoms, ions or molecules) in three dimensional space is called crystal lattice.
+The external shape of a crystal depends upon the conditions of crystallization. It may be different in one form or the other e.g. NaCl is cubic at ordinary conditions but octahedral in the presence of urea as impurity. But the internal structure is the same with basic structural unit. This unit describes the pattern by which the particles are arranged in a crystal. Primarily a crystal depends upon:
+Shape of the unit cell.
+Contents of the unit cell.
+The atoms, molecules or ions in a crystal are repeated in a systematic manner. The smallest unit of volume of a crystal, which shows all the properties of its pattern, is called a unit cell. It represents the unit of a crystal. The systematic arrangement of atoms in a crystal is called a lattice. It represents the structure of any substance.
+A lattice is of three types:
+Three dimensional lattice.
+Two dimensional lattice.
+One dimensional lattice.
+
+Unit Cell and Shape of NaCl
+
+We can explain the significance of the unit cell to the shape of the crystal using NaCl as an example. The unit cell is primarily concerned with the shape of the crystalline substance. Keeping in view the shape of the crystal, its structure can be identified. Let us take the example of NaCl.
+Location of ions: In NaCl, each Na⁺ ion is surrounded by 6 Cl⁻ ions and vice versa. The size of Cl⁻ ion is bigger than Na⁺ ion because Cl⁻ ion has 18 electrons and Na⁺ ion has 10 electrons.
+Co-ordination Number: The number of negative ions which surround a positive ion or vice versa is called co-ordination number. In NaCl each Na⁺ ion contacts with 6 Cl⁻ ions at the corner of a regular octahedron. So the co-ordination number of Na⁺ ion is 6. Similarly co-ordination number of Cl⁻ ion is also 6. The distance between Na⁺ ions and Cl⁻ ion is the same.
+No. of NaCl in Each Unit Cell: In NaCl there are 8 Cl⁻ ions at each corner of the cube. Each Cl⁻ ion is shared among eight unit cells. Each face shares with two unit cells. So the number of Cl⁻ ion in each unit cell can be calculated.
+Calculation of Cl⁻ ions:
+No of unit cells = 8.
+No of Cl⁻ ions at each corner of cube = 8.
+Number of Cl⁻ ions in one unit cell at the corner = 8 × 1/8 = 1
+Total number of Cl⁻ ions at 6 faces of a regular octahedron = 6
+No of unit cells containing each face = 2
+No of Cl⁻ ion in each unit cell at face centers = 6 × 1/2 = 3
+Total number of Cl⁻ ion in each unit cell = 1 + 3 = 4 Cl⁻
+Calculation of Na⁺ ions:
+No. of Na⁺ ions at each edge of a cube is 12.
+No of Na⁺ ions present at each edge = 12 × 1/4 = 3 Na⁺
+No. of Na⁺ ion present in the centre = 1 Na⁺
+Total number of Na⁺ ions = 3 + 1 = 4 Na⁺ ions
+So each unit cell consists of 4 Na⁺ and 4 Cl⁻ ions.
+
+Types of Packing Arrangements
+
+The structure of metals can be obtained when the atoms are packed together. The atoms in metals are considered as spheres of identical size and the closest-packing is the most effective use of available space. When spheres of identical size are packed together as closely as possible they will touch each other. This layer is shown in figure as the bottom layer (layer A).
+When we place spheres in the second layer (layer B) each added sphere will rest in the hollow above a void or hole in the bottom layer. The spheres of the second layer will produce two types of voids. (i) a tetrahedral hole which falls above a sphere in the bottom layer. (ii) an octahedral hole, it falls above a void in the bottom layer.
+In adding a third layer of spheres (layer C), there are two possibilities.
+(a) If tetrahedral holes are covered, the third layer is identical to the bottom layer. This arrangement is called hexagonal close-packing (hcp) arrangement. This pattern of arrangement is usually written as ABAB or 1212.
+(b) In contrast, if we cover the octahedral holes, the third layer is not identical with the bottom layer. This is called the cubic close packing (ccp) arrangement. It is usually written as ABCABC or 123123.
+
+The Factors that Affect the Shape of an Ionic Solid
+
+There are three factors which affect the shape of an ionic crystal.
+Electrostatic Forces of Attraction:
+The ionic solids are composed of cations and anions. They are held together through strong electrostatic forces of attraction forming a well defined geometric shape e.g. formation of NaCl.
+Sodium loses one electron to be converted to Na⁺ ion. Chlorine gains one electron to be converted to Cl⁻ ion.
+Na → Na⁺ + 1e⁻ (A cation is formed)
+Cl + 1e⁻ → Cl⁻ (An anion is formed)
+These ions combine together due to strong electrostatic force.
+Na⁺ + Cl⁻ → NaCl, ΔH=-787 kJ mol⁻¹
+It is an exothermic reaction. To form a crystal lattice of NaCl, each Na⁺ ion is surrounded by 6 Cl⁻ ions and each Cl⁻ ion is surrounded by 6 Na⁺ ions. As a result a cubic structure of ionic solid of NaCl is formed.
+Radius Ratio:
+The shape of an ionic crystal depends upon the radius ratio of cations and anions e.g. NaF and NaCl have different geometry because the radius ratio is different in both the cases.
+Radius ratio = radius of cation / radius of anion
+The structure and radius ratio of certain crystalline substances are given below:
+Shape of ionic solid Radius ratio
+Body centred cubic 0.732 and above
+Octahedral or Cubic 0.414 to 0.732
+Tetrahedral 0.22 to 0.414
+Thus knowledge of radius ratio consisting of cations and anions can give a good idea of the shape of crystal. An ionic compound with radius ratio greater than 0.732 will have body centered cubic structure.
+The radius ratio of an ionic compound with octahedral structure should be in between 0.414 and 0.732 e.g. NaCl. Similarly a tetrahedral structure is formed if the radius ratio is in between 0.22 to 0.414.
+The Radius Ratio of the following ionic crystals are:
+NaCl = 0.414 - Octahedral arrangement or cubic structure.
+CsCl = 0.93 – Body centred cubic arrangement.
+ZnS = 0.40 – Tetrahedral arrangement.
+Ionic crystals do not conduct electricity in the solid state. The shape of the crystals is maintained. However when a solvent (H₂O) is added to the ionic solid e.g. NaCl, the crystal lattice is broken and the ionic solid changes into cations and anions. This is because the crystal lattice is broken due to high dielectric constant of water. In other words the shape of the crystal is ruptured.
+NaCl + water → Na⁺(aq) + Cl⁻(aq)
+Thus the ions are separated.
+
+LATTICE ENERGY:
+
+Lattice energy can be explained on the basis of chemical reactions which may be exothermic or endothermic. The lattice energy can be defined in two ways.
+The amount of heat or energy released when gaseous ions of opposite charges combine to give one mole of a crystalline ionic compound is called lattice energy.
+Na⁺(g) + Cl⁻(g) → NaCl(s), ΔH = -787 kJ mol⁻¹
+The amount of energy required to break one mole crystal lattice into its constituent gaseous ions is also called lattice energy.
+The lattice energy of the ions depends upon their size and charge of the ions.
+Lattice energy decreases with the increase in the size of the ions, (whether cations or anions), the packing of oppositely charged ions become less and less tight.
+Lattice energy increases with increasing ionic charge.
+
+Comparison of Ionic and Covalent Crystals
+
+Difference Between Ionic Crystals (Solid) and Covalent Crystals
+1. An ionic crystal is formed due to the transference of electrons from one atom to another e.g. NaCl formation. The cations and anions formed are held together through strong electrostatic forces of attractions.
+2. Formation of NaCl
+Na → Na⁺ + e⁻ (cation)
+Cl + e⁻ → Cl⁻ (anion)
+Na⁺ + Cl⁻ → NaCl
+3. They are non-conductors of electricity in the solid state. However they conduct electricity in the molten or solution form.
+4. They have definite geometric shape.
+5. They are non-directional in nature.
+6. They do not exist in the form of molecules due to their ionic nature.
+1. The crystalline solids in which atoms of similar or dissimilar elements are bonded together in a network are known as covalent crystals e.g. diamond, graphite etc.
+2. Covalent crystals are of two types:
+(i) When covalent bonds give giant molecules e.g. diamond, SiC (Silicon carbide)
+(ii) When atoms join together by sharing of electrons. As a result separate layers are formed e.g. graphite.
+3. They are non-conductors of electricity except graphite which is a conductor of electricity.
+4. They have definite shape and oriented in three directions with a network structure.
+5. They have open structures due to the valency of atoms directed in definite directions.
+6. They may be called as macromolecules due to their giant covalent structure.
+
+Low Density and high Heat of Fusion of Ice
+
+Low density of ice
+When the temperature is decreased the molecules come close to each other. As a result the intermolecular attractive forces increase. However some empty spaces are developed in the ice. As a result about 8% more space than liquid water is produced. As d = m/v, that is density is inversely proportional to volume, the increase in the volume decreases the density. That is why ice floats over water.
+Application of Low Density in Real Life
+In cold countries when temperature is decreased to 0°C, water in ponds and lakes freezes. The ice formed stays on the top. This layer of ice acts as insulator for further heat loss. A thick layer of ice is formed at the top. Fish and plants can survive in the water for months under the thick blanket of ice.
+Keeping in view the above discussion, we are forced to believe that the pattern of life for plants and animals would have been totally different in the absence of Hydrogen bonding in water.
+High Heat of Fusion of ice
+The quantity of heat required to convert one mole of a solid into liquid is called molar heat of fusion.
+e.g. Ice → liquid water, ΔHf = 6.02 kJ mol⁻¹
+Applications in Real Life
+Ice absorbs 333 joules of energy for every gram of ice to melt. It means, if 33.3 kJ of energy from the surrounding is absorbed by each of the drink, the temperature of the drink without ice would rise from 0°C to 20°C. The drink containing 100g ice would remain at 0°C but 100 grams of ice would melt.
+
+Molecular and Metallic Solids
+
+Molecular Solids:
+Definition: The solid substances in which the particles forming the solids are polar or non-polar molecules are called molecular crystals.
+In solidified gases, these are non-polar atoms. Three types of intermolecular forces hold them together.
+1. Hydrogen Bonding
+2. Dipole-Dipole interactions.
+3. Van der Waal forces.
+Examples:
+Crystals with polar molecules e.g. ice, sugar.
+Crystals with non-polar molecules e.g. I₂, S₈, P₄, CO₂ etc.
+Properties:
+X-ray analysis indicates the regular arrangement of atoms. Thus we get the exact positions of all the atoms.
+Polar molecular crystals have high m.p. and b.p. as compared to non-polar molecular crystals.
+They are soft and easily compressible.
+They are volatile in nature.
+They are bad conductors of electricity.
+They have low densities due to weak attractive forces.
+They are transparent to light.
+Metallic Solids:
+Definition: The crystalline solids in which metal atoms are held together by metallic bonds are known as metallic solids e.g. Na, Cu etc.
+Explanation (Electron Sea or Electron Gas Theory):
+Metals are good conductors because the valence electrons are loosely bound. Therefore they can move from one atom to the other. Due to this mobility of electrons, they are considered to conduct electricity. The positively charged portion of the metallic atom is surrounded by electrons in such a way that these electrons serve as an atmosphere of distributed charges. The positively charged particles are immersed in it. Such an atmosphere is called an electron gas or sea. This is shown in figure.
+There are two forces responsible for the metallic bond.
+1) Force of attraction between the electron gas and the positive ions.
+2) Force of repulsion between positively charged ions.
+These forces are equal and opposite. Therefore they counterbalance each other. Thus, the metallic atom is neutral as a whole.
+Properties:
+They are best conductors of heat and electricity.
+They have lustrous surfaces.
+They are malleable and ductile.
+They have high melting points.
+Comparison of molecular crystals and metallic solids
+Molecular Crystals
+1. The solid substances in which the particles forming the solids are polar or non-polar molecules are called molecular crystals e.g. ice etc.
+2. Two types of intermolecular forces hold them together.
+(i) Dipole-Dipole interactions or hydrogen bonding (Polar) e.g. Ice, Sugar.
+(ii) London dispersion forces (Non-Polar) e.g. I₂, S₈, P₄ etc.
+3. They are bad conductors of electricity because they have no free electrons.
+4. They are not malleable and ductile.
+Metallic Solids
+1. The crystalline solid in which metal atoms are held together by metallic bonds are known as metallic solids e.g. Na, Cu etc.
+2. In metallic crystals, electron gas theory is involved.
+3. They are good conductors of electricity due to presence of free electrons.
+4. They are malleable and ductile.
+
+Hygroscopic Salts
+
+Some salts absorb moisture from atmosphere. Such salts are called hygroscopic salts. Calcium chloride (CaCl₂) has the property of absorption of moisture from the atmosphere. Thus it becomes hygroscopic. The absorption of moisture becomes maximum when there is humidity in air. The water molecules absorbed will become part of crystal of CaCl₂ and may be called as water of crystallization. Such substances are called Hydrates. CaCl₂ can absorb a maximum of 2H₂O. Therefore CaCl₂ becomes CaCl₂.2H₂O. The water of crystallization attached will increase the mass of calcium chloride.
+
+HOW TO GET SODIUM CHLORIDE FROM SALINE SOLUTION:
+
+Saline water (NaCl solution) contains water along with certain impurities. If saline water is allowed to freeze in a freezing mixture of water, the impurities come up to the surface in the form of ice at -3.4°C leaving behind NaCl. Ice and impurities are removed from the surface leaving behind pure NaCl.
+
+References for additional information
+
+Frank L. Pilar, Elementary Quantum Chemistry.
+Drew H. Wolfe, Introduction to College Chemistry.
+Olmsted Williams, Chemistry, The Molecular Science.

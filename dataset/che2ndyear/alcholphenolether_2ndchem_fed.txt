@@ -1,0 +1,405 @@
+alcholphenolether_2ndchem_fed.txt
+
+
+After completing this lesson, you will be able to:
+Explain nomenclature, structure and acidity of alcohols as exemplified by ethanol.
+Describe the preparation of alcohols by reduction of aldehydes.
+Explain reactivity of alcohols.
+Describe the chemistry of alcohols by preparation of ethers and esters, oxidative cleavage of 1,2-diols.
+Discuss thiols RSH.
+Explain the nomenclature, structure and acidity of phenols.
+Describe the preparation of phenols from benzene sulphonic acid, chlorobenzene, acidic oxidation of cumene and hydrolysis of diazonium salts.
+Discuss the reactivity of phenol and their chemistry by electrophilic aromatic substitution, reaction with Na metal and oxidation.
+Differentiate between alcohols and phenol.
+Describe isomerism in alcohols and phenols.
+Identify ethers from their formula.
+
+The structures of alcohols, phenols and ethers are much closer to water.
+Alcohols and phenols both contain hydroxyl (OH) group attached to alkyl and phenyl groups, respectively. In ether, both hydrogen atoms of water are replaced by alkyl or phenyl groups.
+
+Water
+Alcohol
+Phenol
+Ether
+
+18.1 ALCOHOLS
+Aliphatic organic compounds containing hydroxyl group OH, as functional group are called alcohols. Alcohols containing one OH group are called monohydric alcohols and those containing two or more hydroxyl groups are known as polyhydric alcohols.
+Monohydric alcohol
+Dihydric alcohol
+
+Classification of Monohydric Alcohols
+Monohydric alcohols are classified into the following three families:
+(1) Primary alcohols (2) Secondary alcohols and (3) Tertiary alcohols.
+
+Examples:
+Ethyl alcohol (Primary alcohol)
+Isopropyl alcohol (Secondary alcohol)
+tert-Butyl alcohol (Tertiary alcohol)
+
+18.1.1 Nomenclature:
+1. Common System of Naming
+In common system, alcohols are named by adding the word alcohol after the name of the alkyl group to which the OH group is attached.
+Ethyl alcohol
+Benzyl alcohol
+
+2. IUPAC System
+According to this system:
+(i) The longest chain of carbon atoms containing the hydroxyl group is selected as the parent hydrocarbon.
+(ii) The ending ‘e’ of the parent hydrocarbon (alkane) is replaced by ‘ol’.
+(iii) The position of OH group is indicated by placing the number of carbon to which OH is attached before the name of the alcohol.
+(iv) The carbon chain bearing OH group is numbered, beginning from that end which would assign the lowest possible number to the carbon atom linked to the OH group.
+(v) The presence of more than one OH groups is indicated by suffixes -diol, -triol, etc. and repeating the number of carbon atoms to which OH groups are attached.
+1,2-ethanediol (Glycol)
+1,2,3-propanetriol (Glycerol)
+(Common names are given in brackets)
+(vi) In unsaturated alcohol, the hydroxyl group gets lower number than the double bond.
+2-butene-1-ol
+
+18.1.2 Physical Properties
+Alcohols up to butanol are generally colorless liquids with characteristic sweet smell and burning taste. They are readily soluble in water. The solubility of alcohols in water is due to hydrogen bonding which is significant in lower alcohols but decreases in higher alcohols.
+Melting and boiling points of alcohols are higher than corresponding alkanes. This is due to hydrogen bonding which is present in alcohols but absent in alkanes.
+(Hydrogen bonding in alcohol)
+(Hydrogen bonding in water)
+
+18.1.3 Structure
+The carbon-oxygen (C-O) bond in alcohol is formed by sp3-sp3 overlap.
+The alcohol functional group consists of an O atom bonded to a C atom and an H atom via sigma bonds.
+Both the C-O and the O-H bonds are polar due to high electronegativity of the O atom.
+
+18.1.4 Acidity
+Due to the electronegativity of the O atoms, alcohols are slightly acidic.
+The anion derived by the deprotonation of an alcohol is the alkoxide, which is a Lewis base (Nucleophile).
+Alcohols react with Na (or K) like water to give the alkoxide:
+2R-OH + 2Na -> 2R-ONa + H2
+2Na + 2H-OH -> 2NaOH + H2
+
+18.1.5 Preparations of Alcohols
+1. Hydration of Alkenes
+Alkenes react with water in the presence of concentrated sulfuric acid to form alcohol. Alkenes on reaction with cold concentrated sulfuric acid form an alkyl hydrogen sulphate. These alkyl hydrogen sulphates on boiling with water decompose to give corresponding alcohols.
+Ethyl hydrogen sulphate
+Ethanol
+
+2. Hydrolysis of Alkyl halides
+When alkyl halides react with aqueous sodium or potassium hydroxide, alcohols are formed.
+CH3CH2Cl + NaOH -> CH3CH2OH + NaCl
+
+3. Reactions of Grignard’s reagent with Aldehydes and Ketones
+Primary, secondary and tertiary alcohols can be prepared by the reaction of Grignard’s reagent with carbonyl compounds. (As discussed in chapter 17)
+
+4. Reduction of Aldehydes and Ketones
+(a) Catalytic reduction
+Hydrogenation of aldehydes and ketones in the presence of Ni, Pd or Pt as a catalyst gives alcohols. Aldehyde reduces to primary alcohol and ketone reduces to secondary alcohol.
+Propanal + H2 -> Propan-1-ol
+Butan-2-one + H2 -> Butan-2-ol
+
+(b) Reduction with reducing agents
+Carbonyl compounds are also reduced to respective alcohols by using reducing agents such as NaBH4 or LiAlH4.
+Aldehyde + LiAlH4 -> Primary Alcohol
+Ketone + LiAlH4 -> Secondary Alcohol
+
+5. Reaction of RMgX with Esters
+Esters react with Grignard’s reagents to form carbonyl compounds. Alkyl methanoate produces an aldehyde while another ester produces a ketone. Aldehyde reacts with another molecule of Grignard reagent to form primary alcohol while ketone produces tertiary alcohol.
+Alkyl methanoate + CH3MgBr -> Aldehyde -> Secondary alcohol
+Ester + CH3MgBr -> Ketone -> Tertiary alcohol
+
+6. Reduction of Carboxylic Acids and Esters
+Carboxylic acids and esters can be reduced to alcohols with the help of reducing agents such as NaBH4 or LiAlH4.
+Propanoic acid + LiAlH4 -> Propan-1-ol
+Methyl propionate + LiAlH4 -> Propan-1-ol + Methanol
+
+18.1.6 Reactivity of Alcohols
+An alcohol reacts with other agents due to the breaking of C-O and O-H bonds. Breaking of these bonds depends upon the nature of the attacking reagent. If a nucleophile attacks, the C-O bond breaks and if an electrophile attacks the O-H bond breaks.
+Reactivity of alcohols with respect to the cleavage of C-O bond is:
+Tertiary alcohol > Secondary alcohol > Primary alcohol.
+Reactivity of alcohol with respect to O-H bond cleavage is:
+Primary alcohol > Secondary alcohol > Tertiary alcohol.
+
+18.1.7 Reactions of Alcohols
+The reactions of alcohols may be divided into four types:
+
+a) Reactions in which C-O bond is broken
+1. Reaction with HX to give Alkyl Halides
+In this substitution reaction, the OH group of alcohol is replaced by a halogen atom of hydrogen halide to produce alkyl halide.
+R-OH + H-Br -> R-Br + H2O
+
+Lucas Test: (Test used to distinguish primary, secondary and tertiary alcohols)
+Alcohols on reaction with Lucas reagent (ZnCl2 / HCl) gives an oily layer of haloalkanes.
+R-OH + H-Cl (ZnCl2) -> R-Cl + H2O
+Different alcohols react with Lucas reagent with different rates.
+
+Examples with Observations:
+i. Tertiary alcohols form an oily layer immediately.
+tert-Butyl alcohol + HCl -> tert-Butyl Chloride + H2O
+ii. Secondary alcohols form an oily layer in 5 to 10 minutes.
+Isopropyl alcohol + HCl -> Isopropyl Chloride + H2O
+iii. Primary alcohols form an oily layer on heating.
+Ethyl alcohol + HCl -> Ethyl Chloride + H2O
+
+2. Reaction with SOCl2, PX3 to give Alkyl Halides
+When alcohols react with Thionyl chloride in the presence of pyridine as a solvent it gives alkyl chloride.
+RCH2OH + SOCl2 -> RCH2Cl + SO2 + HCl
+Alcohols react with Phosphorus Tribromide and Triiodide (PBr3 and PI3) to form corresponding alkyl halides.
+3ROH + PI3 -> 3RI + H3PO3
+Alkyl bromides and iodides are best prepared by treating alcohols with PBr3 and PI3.
+
+3. Acid catalyzed Dehydration of alcohol
+When dehydration of alcohol takes place, two different types of products are formed under different set of conditions. Concentrated Sulphuric acid is used as a dehydrating agent.
+Ethanol (conc. H2SO4, 180°C) -> Ethene + H2O
+2 Ethanol (conc. H2SO4, 140°C) -> Diethyl ether + H2O
+
+MECHANISM FOR ALCOHOL CONDENSATION TO GIVE AN ETHER
+Step 1: An acid/base reaction. Protonation of the alcoholic oxygen to make a better leaving group. This step is very fast and reversible. The lone pair on oxygen atom attacks on proton to form an Oxonium ion.
+Step 2: The oxygen atom of the second alcohol molecule attacks on the Oxonium ion to form another Oxonium ion intermediate.
+Step 3: The lone pair of oxygen atom of water attacks on Oxonium ion to form an ether.
+
+b) Reactions in which O-H bond is broken and oxygen of an alcohol acts as a base
+1. Preparation of Esters (Reaction with Carboxylic Acid)
+When alcohols react with carboxylic acid in the presence of concentrated sulphuric acid as a catalyst, they give ester and water. This reaction is known as esterification.
+CH3COOH + C2H5OH <-> CH3COOC2H5 + H2O
+
+c) Oxidation of alcohols.
+Alcohols undergo oxidation easily by alkaline KMnO4 or K2Cr2O7 + H2SO4 solutions to give different products.
+(i) Primary Alcohol:
+A primary alcohol is first oxidized to an aldehyde, which is further oxidized to a carboxylic acid.
+CH3CH2OH -> CH3CHO -> CH3COOH
+(ii) Secondary Alcohol:
+A secondary alcohol is oxidized under similar condition to give a ketone which is not further oxidized.
+2-Propanol -> Acetone
+(iii) Tertiary Alcohol:
+A tertiary alcohol is not oxidized by alkaline KMnO4. When heated with a mixture of K2Cr2O7 and H2SO4, it is dehydrated to form an alkene in the presence of an acid.
+2-methyl-2-butanol -> 2-methyl-2-butene
+
+2. Cleavage of 1, 2-Diols (Oxidative Cleavage of Diols)
+1,2- or vicinal diols are cleaved by the periodic acid, HIO4, into two carbonyl compounds.
+The reaction is selective for 1,2-diols.
+This can be used as a functional group test for 1,2-diols.
+
+18.1.8 The Sulfur Analogues (Thiols, RSH)
+Nomenclature:
+Thiols are the sulfur analogues of alcohols. These are named by adding the suffix thiol to the name of corresponding alkanes. e.g. H3CSH (Thiomethanol)
+
+Physical Properties:
+Hydrogen bonding is much weaker than that in alcohols.
+Lower boiling points than similar alcohols.
+
+Structure:
+Generally similar to alcohols, but bonds to S are longer and weaker than those to O.
+The thiol functional group consists of an S atom bonded to a C atom and a H atom via sigma bonds.
+The S-H bond is less polar than that in alcohols since S is less electronegative than O.
+
+Reactivity:
+Thiols are much more acidic than similar alcohols, e.g. RSH (pKa = 10) versus ROH (pKa = 16 to 19).
+Thiols are also much more nucleophilic than similar alcohols, in fact RSH is about as nucleophilic as RO-.
+Thiols are readily oxidized to S-O systems rather than C=S systems.
+Thiols are commonly oxidized to disulfides, R-S-S-R, a biologically important reaction.
+
+Quick Quiz 1
+1. What are monohydric and polyhydric alcohols?
+2. Why are some alcohols readily soluble in water?
+3. Write general formulas of primary, secondary and tertiary alcohols.
+4. How Grignard’s reagent is used for the preparation of primary alcohols?
+
+18.2 PHENOLS
+Introduction
+First prepared by Runge in 1834.
+Melting point of phenol is 41°C.
+Boiling point of phenol is 182°C.
+Simplest example is phenol, also known as carbolic acid.
+"Aromatic compounds containing one or more OH groups, directly attached with carbon of benzene ring, are called phenols". The simplest example is phenol, which is also known as carbolic acid, i.e., C6H5OH; it was first obtained from coal tar by Runge in 1834.
+Phenol is derived from the old name of benzene (phene), to include the suffix indicating that it possesses a hydroxyl group.
+Phenols are acidic and important intermediates in the preparation of aryl ethers, C6H5-OR.
+
+18.2.1 Nomenclature
+In IUPAC system, OH group is represented by the name hydroxyl. It is used as a prefix. The benzene part of the molecule is used as a suffix. Some common names, and their IUPAC names are given below:
+Phenol
+1,2-Dihydroxybenzene (Catechol)
+1,3-Dihydroxybenzene (Resorcinol)
+1,4-Dihydroxybenzene (Hydroquinone)
+2-Nitrophenol
+4-Nitrophenol
+2,4,6-Trinitrophenol (Picric acid)
+
+18.2.2 Structure
+The -O-H group consists of an O atom bonded to a sp2-hybridized aromatic C atom and an H atom via sigma bonds.
+Both the C-O and the O-H bonds are polar due to high electronegativity of the O atom.
+Conjugation exists between an unshared electron pair on the oxygen and the aromatic ring.
+Phenol differs from alcohol as:
+It has shorter carbon-oxygen bond distance.
+It has more basic hydroxyl oxygen.
+It has more acidic hydroxyl proton (-OH)
+
+18.2.3 Physical Properties
+Phenol is a colorless, crystalline, poisonous, solid with characteristic phenolic odor; having melting point of 41°C and boiling point of 182°C.
+It is sparingly soluble in water forming pink solution, at room temperature, but completely soluble above 68.5°C.
+It is poisonous and causes blisters on the skin.
+It is used as disinfectant.
+It has a distinctive odour.
+
+18.2.4 Comparison of Acidity of Phenol, alcohol and Carboxylic acid:
+Phenols are more acidic (pKa ~10) than alcohols (pKa ~16 - 20), but less acidic than carboxylic acids (pKa ~5). The Acidic strength of alcohols, phenols, and carboxylic acid depends upon the stability of their conjugate bases alkoxide, phenoxide and carboxylate ion, respectively.
+Alcohol -> Alkoxide ion + H3O+
+Phenol -> Phenoxide ion + H3O+
+Carboxylic acid -> Carboxylate ion + H3O+
+Carboxylate ion is a more stable conjugate base than phenoxide ion and alkoxide ions because the negative charges spread from oxygen to oxygen.
+Phenols are stronger acids than alcohols. In phenoxide ion, the negative charge on oxygen atom is delocalized over the whole ring, which makes it stable.
+In alcohol the negative charge on oxygen atom of alkoxide ion is localized and is least stable and stronger base. The acidic strength of carboxylic acid, phenol and alcohol are in the order of:
+RCOOH > C6H5OH > ROH.
+
+Effect of substituents on the acidity of Phenols
+Electron attracting (withdrawing) substituents tend to disperse the negative charge of the phenoxide ion, thus stabilizing the ion and increasing the acidity of phenols. Electron releasing substituents tend to intensify the charge, destabilize the ion and decrease its acidity.
+For example, nitrophenol is more acidic than phenol. Methyl phenol is less acidic than phenol.
+
+18.2.5 Preparations of Phenols:
+1. Reaction of Sodium salt of Benzene Sulfonic Acid with Sodium Hydroxide
+Sodium benzene sulphonate on fusion with strong alkali like NaOH at 573 K gives sodium phenoxide. On further treatment with H2SO4 / HCl, it gives phenol.
+Sodium benzene sulphonate + NaOH -> Sodium phenoxide -> Phenol
+
+2. Base Hydrolysis of Chlorobenzene (Dow’s Method)
+Chlorobenzene is hydrolyzed by heating with 10% NaOH at 623K and under high pressure to form sodium phenoxide. On further treating with HCl, it gives phenol.
+Chlorobenzene + NaOH -> Sodium Phenoxide -> Phenol
+
+3. Acidic Oxidation of Cumene
+Cumene is oxidized by atmospheric oxygen in the presence of metal catalyst, into cumene hydroperoxide. The cumene hydroperoxide is converted into phenol through an acid catalyzed rearrangement.
+Cumene + O2 -> Cumene hydroperoxide -> Phenol + Acetone
+
+4. Hydrolysis of Benzene diazonium Chloride.
+Benzene diazonium chloride can be converted into phenols using H2O / H2SO4 / heat.
+Benzene diazonium chloride can be prepared by the reaction of aniline with nitrous acid (HNO2) in the presence of hydrochloric acid. If temperature is greater than 10 °C, hydrolysis of benzene diazonium chloride takes place and Phenol is formed.
+Aniline -> Benzene diazonium chloride -> Phenol
+
+18.2.6 Reactivity of phenol
+Reactivity of phenol is due to the OH group and the benzene ring. The presence of OH group on benzene ring increases electron density on ortho and para position because of its electron donating effect. Therefore, it is ortho, para directing group.
+
+18.2.7 Reactions of Phenol
+A. Reaction due to Benzene ring (Electrophilic Substitution reactions of Phenol)
+1. Halogenation
+Phenol on reaction with bromine in the presence of nonpolar solvents (CCl4 or CS2) gives a mixture of ortho and para bromophenol.
+Phenol + Br2 -> 2-bromophenol and 4-bromophenol
+Phenol on reaction with bromine water gives a white precipitate of 2,4,6 tribromophenol. (This is the test of phenol)
+Phenol + Br2 (aq) -> 2,4,6 tribromophenol (White ppt)
+
+2. Nitration
+Phenol reacts with dilute nitric acid to give a mixture of ortho and para nitrophenol.
+Phenol + HNO3 -> 2-nitrophenol and 4-nitrophenol
+With concentrated nitric acid, 2,4,6 trinitrophenol (Picric acid) is formed.
+Phenol + 3HNO3 -> 2,4,6 trinitrophenol (picric acid) + 3H2O
+
+3. Sulphonation
+Sulphonation of phenol with concentrated sulphuric acid results in the formation of ortho and para hydroxy benzene sulphonic acids. At low temperature (20°C) the ortho isomer is the major product whereas at high temperature (100°C) para isomer is formed.
+Phenol + H2SO4 (15-20°C) -> 2-hydroxy benzene sulphonic acid
+Phenol + H2SO4 (100°C) -> 4-hydroxy benzene sulphonic acid
+
+4. Nitrosation
+Phenol reacts with nitrous acid to form 4-nitrosophenol along with a small amount of 2-nitrosophenol.
+4-nitrosophenol exhibits tautomerism and forms yellow crystals of para benzoquinone monoxime.
+
+B. Reaction due to -OH group (Acidic Character of Phenol)
+1. Reaction with Sodium Metal (Formation of salts)
+Phenol is acidic and reacts with Sodium or sodium hydroxide to form salts.
+Phenol + 2Na -> Sodium Phenoxide + H2
+Phenol + NaOH -> Sodium Phenoxide + H2O
+Phenol is a weak acid. It has no action on litmus paper and cannot evolve carbon dioxide from carbonates and bicarbonates.
+
+2. Carboxylation (Kolbe-Schmitt reaction)
+The reaction of sodium salt of phenol with CO2 is called Kolbe reaction. It is the carbonation of phenol. At low temperature, sodium salicylate (sodium-o-hydroxy benzoate) and at high temperature sodium-p-hydroxy benzoate are formed.
+Phenol + NaOH + CO2 -> Sodium salicylate
+Sodium salicylate + acid -> Salicylic acid
+Carbon of CO2 acts as electrophilic centre in this reaction. Acidification of sodium salicylate gives corresponding hydroxy benzoic acids.
+
+C. Oxidation
+Phenols are reactive towards oxidizing agents. The oxidation takes place through several steps eventually destroying the ring.
+
+18.2.8 Differences between Alcohols and Phenol
+The main differences between alcohols and phenols are as follow;
+
+Alcohol
+Alcohols are hydroxyl derivatives of alkanes.
+The compounds in which one hydrogen of water is replaced by an alkyl group.
+The general formula of alcohol is R-OH.
+Lower alcohols are generally colorless liquids.
+Alcohols have a characteristic sweet smell and burning taste.
+They are readily soluble in water but solubility decreases in higher alcohols.
+Alcohol reacts with other reagents in two ways, either in which C-O bond breaks or in which O-H bond breaks.
+
+Phenol
+Phenols are derivatives of benzene.
+The compounds in which one hydrogen of water is replaced by an aryl group.
+The general formula of phenol is C6H5OH. It is also known as carbolic acid.
+They are colorless, crystalline, deliquescent solids.
+They have characteristic phenolic odor.
+Its melting point is 41°C.
+Phenols are more acidic (pKa ~10) than alcohols. (pKa = 16 - 20).
+It is sparingly soluble in water forming pink solution at room temperature but completely soluble above 68.5°C.
+Phenolate ions have resonance structures but alcohols do not have such type of structures.
+
+Quick Quiz 2
+1. What are phenols?
+2. What is the effect of substituents on acidity of phenols?
+3. How is phenol prepared from cumene?
+
+18.3 ETHERS
+18.3.1 Nomenclature
+Common Names
+In Common system of Naming:
+In common system of naming, simple and mixed (or unsymmetrical) ethers are named by naming the two groups bonded to oxygen followed by the word ether.
+Dimethyl ether
+Phenyl methyl ether (Anisole)
+Isopropyl ethyl ether
+
+IUPAC System
+In IUPAC system of naming, simple ethers are named by naming the two groups linked by oxygen atom followed by the word ether.
+Dimethyl ether (Methoxy methane)
+Diethyl ether (Ethoxy ethane)
+Mixed ethers are named as alkoxy derivatives of hydrocarbons.
+Methoxyethane
+2-Methoxy butane
+
+18.3.2 Preparation
+Ethers are prepared by the following methods:
+(i) Williamson synthesis (conversion of alcohols to ethers)
+The reaction of primary alcohol with sodium gives an alkoxide.
+2CH3CH2OH + 2Na -> 2CH3CH2ONa
+Alkoxide when treated with alkyl halide, forms ether.
+CH3CH2ONa + CH3CH2Cl -> CH3CH2-O-CH2CH3 + NaCl
+
+(ii) Dehydration of alcohols:
+Ether can be prepared by heating an excess of alcohol with conc. H2SO4 at 140°C. For example, ethanol with conc. H2SO4 at 140°C gives diethyl ether but at 180°C it gives alkene.
+2CH3CH2OH -> CH3CH2-O-CH2CH3 + H2O
+Different alcohols on dehydration give mixture of ethers. For example, when methanol and ethanol are mixed and heated with conc. H2SO4, it gives mixture of ethers.
+Ethanol + Methanol -> Diethyl ether + Dimethyl ether + Ethyl Methyl ether
+
+(iii) Reaction of alkyl halides with dry Ag2O:
+When alkyl halides are heated with dry silver oxide, ethers are produced.
+2R-X + Ag2O -> R-O-R + 2AgX
+Ethyl chloride + Ag2O -> Diethyl ether + 2AgCl
+
+18.3.3 Physical Properties
+Ethers are colorless, low boiling, highly inflammable compounds.
+Their chemical inactivity and ability to dissolve fats, oil, gum and other organic compounds make them very useful as a solvent.
+Lower ethers act as anaesthetics.
+
+18.3.4 Reactions of ether
+1. Reaction with H-Br
+The oxygen atom of an ether molecule possesses unshared electron pair which accepts a proton of H-Br to form oxonium ion. No further reaction takes place.
+
+2. Reaction with H-I
+The oxygen atom of an ether molecule possesses unshared electron pair, which accepts a proton of H-I to form oxonium, which reacts with iodide ion (I-) to form R-OH and RI. In this reaction ether acts as a Lewis base (electron donor).
+Diethyl ether reacts with HI to form C2H5-OH and C2H5I.
+C2H5-O-C2H5 + HI -> C2H5-OH + C2H5I
+
+Quick Quiz 3
+1. What are ethers?
+2. How is diethyl ether prepared from ethyl alcohol?
+3. Explain the reaction of diethyl ether with HI.
+
+Society, Technology and Science
+1. Antiseptics and Disinfectants
+Antiseptics and disinfectants are an essential part of infection control practices.
+
+Antiseptics
+An antiseptic is a substance which inhibits the growth and development of microorganisms. For practical purposes, antiseptics are thought of as topical agents for application to skin, mucous membrane and inanimate objects. Their uses include cleansing of skin and wound, surgical procedures and routine disinfection.
+
+Disinfectants are widely used in the health care, food and pharmaceutical sectors to prevent unwanted micro-organisms from causing disease. Disinfectant chemicals disrupt significant cellular structures or processes in order to kill or eliminate micro-organisms.
+
+2. An effective Anesthetic
+Three of the most important early anesthetics were nitrous oxide (dinitrogen oxide, N2O), ether (ethoxyethane, CH3CH2OCH2CH3) and chloroform (trichloromethane, CHCl3). Nitrous oxide is non-toxic and non-flammable, but it only produces light anesthesia. Chloroform produces deep anesthesia and is non-flammable, but it is toxic and carries the risk of liver damage.

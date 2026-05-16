@@ -1,0 +1,213 @@
+electmagnetism_2ndphy_fed
+
+Studying this chapter students will be able to:
+
+State that magnetic field is an example of a field of force produced by current-carrying conductors or by permanent magnets.
+
+Describe the magnetic effect of current.
+
+Describe and sketch field lines pattern due to a long straight wire.
+
+State that a force might act on a current-carrying conductor placed in a magnetic field.
+
+Investigate the factors affecting the force on a current carrying conductor placed in a magnetic field.
+
+Solve problems involving the use of F = BIL sinθ.
+
+Define magnetic flux density and its units.
+
+Describe the concept of magnetic flux (Φ) as scalar product of magnetic induction (B) and area (A) or relation Φ = B·A = BA cosθ.
+
+State Ampere’s law.
+
+Use Ampere’s law to find magnetic flux density around a wire and inside a solenoid.
+
+Describe qualitatively the path followed by a charged particle shot into a uniform magnetic field in a direction perpendicular to the field.
+
+State that a force may act on a charged particle in a uniform magnetic field.
+
+Describe the use of a magnetic field on a beam of electrons to measure the e/m of an electron.
+
+Derive an expression for torque on a current carrying coil in a magnetic field.
+
+Understand the construction and working of a moving coil galvanometer.
+
+Describe how a galvanometer can be converted into an ammeter and a voltmeter.
+
+A magnet (from Magnesian stone) is a material that produces magnetism. A magnetic field is invisible but is responsible for the most notable property of a magnet: a force that pulls on other ferromagnetic materials, such as iron, and attracts or repels other magnets. A permanent magnet is an object made from a material that is magnetized and creates its own persistent magnetic field. An everyday example is a refrigerator magnet used to hold notes on a refrigerator door.
+
+Magnetic recording media: VHS (Video Home System) tapes contain a reel of magnetic tape. The information that makes up the video and sound is encoded on the magnetic coating on the tape. Common audio cassettes also rely on magnetic tape. In computers, floppy disks and hard disks record data on a thin magnetic coating. Credit, debit, and ATM cards: All of these cards have a magnetic strip on one side. This strip encodes the information to contact an individual's financial institution and connect with their account(s).
+
+The study of magnetism started with the discovery of the mineral called lodestone, which was found to attract iron and other magnetic materials. Today, we know that lodestone, also called magnetic iron ore, or iron oxide. From that time great interest was developed in the study of the properties of magnets.
+
+A magnetic field is present around a magnet. Scientists had tested all the known substances for their magnetic properties. These were grouped into three categories, based on their magnetic behavior.
+
+The discovery of Oersted showed that a current through a wire creates a magnetic field around the wire as shown in figure 13.1. The direction of such a magnetic field can be determined by right hand rule. Grip the wire with the right hand such that the thumb shows the direction of current and the fingers show the direction of magnetic field lines around the wire.
+
+Figure 13.1: Magnetic field around a current-carrying wire.
+
+The direction of the magnetic field lines around a current-carrying wire can be determined by the right hand grip rule.
+
+When a current-carrying wire is placed at right angles to a uniform magnetic field, a force acts on the wire. This force depends on the current I in the wire, the length L of the wire that lies in the field, and the strength of the uniform field, which is called magnetic flux density (or magnetic induction B). If the wire is placed in the field B at some angle θ with it, then the force on the wire is given by:
+F = B I L sinθ ... (13.1)
+
+Experiment shows that the magnitude of the force F on the wire depends upon the following factors:
+- Magnitude of magnetic induction B
+- The amount of current I flowing in the wire
+- Length L of the wire lying in the field
+- Angle θ between B and L
+
+The force is maximum when θ is 90° and is minimum when θ is 0°.
+
+Force is a vector quantity so its direction should also be determined. The direction of F is determined by Fleming’s left hand rule as shown in figure 13.3. The thumb and the first two fingers of the left hand are set at right angles to each other. The first finger points in the direction of the field and the second finger points in the direction of current, then the thumb gives the direction of the force.
+
+The SI unit of magnetic induction B is tesla (T) and it can be defined as:
+B = F / (I L) when θ = 90°.
+1 T = 1 N A⁻¹ m⁻¹.
+Thus 1 T is the magnetic flux density of a field in which a force of 1 N acts on a 1 m length of a wire carrying 1 A current placed at right angles to the field.
+
+Example 13.1: A wire of length 10 cm lies at right angles to a uniform field of 0.6 T. How much current must pass through it so that it experiences a force of 0.18 N?
+Solution: L = 10 cm = 0.1 m, B = 0.6 T, F = 0.18 N, θ = 90°.
+F = B I L sinθ => I = F / (B L sinθ) = 0.18 / (0.6 × 0.1 × 1) = 3 A.
+
+Magnetic flux density tells us how close together magnetic field lines are, as it indicates the strength of the magnetic field. Now we define another quantity called magnetic flux, which is the dot product of magnetic induction B and vector area A. Magnetic flux, denoted by symbol Φ, is given by:
+Φ = B·A ... (13.2)
+or Φ = B A cosθ ... (13.3)
+Here θ is the angle between B and the normal to the area. Magnetic flux is a measure of the number of magnetic field lines passing through the vector area A. The direction of the vector area element is perpendicular to the surface area.
+If the field is uniform and the area is flat, the magnetic flux through area A is given by Φ = B A cosθ.
+The unit of magnetic flux is weber (Wb).
+1 Wb = 1 T m² = 1 N m A⁻¹.
+From equation 13.3 we can see that magnetic induction B can also be expressed as magnetic flux per unit area, i.e., B = Φ/A, hence it is also called magnetic flux density.
+
+Magnetic fields can explain how bullet trains and circuit breakers work on the principle of force on a current.
+
+Ampere’s law, discovered by Andre Marie Ampere, relates the integrated magnetic field around a closed loop to the electric current passing through the loop.
+For a long straight wire carrying current I, the magnetic field at a distance r from the wire is given by:
+B = (μ₀ I) / (2π r) ... (13.4)
+where μ₀ is the permeability of free space (4π × 10⁻⁷ Wb A⁻¹ m⁻¹).
+
+Consider a closed path around the wire. For any path element ΔL, we can write:
+∑ B·ΔL = μ₀ I ... (13.5)
+The closed path is called an Amperian loop. In general, for any closed path around a current, Ampere’s law states that the line integral of B around a closed path is equal to μ₀ times the current enclosed by the path.
+
+Example 13.2: A long straight wire carries a current of 1 A. Find the magnetic field at a distance 1 m from it.
+Solution: I = 1 A, r = 1 m.
+B = (μ₀ I) / (2π r) = (4π × 10⁻⁷ × 1) / (2π × 1) = 2 × 10⁻⁷ T.
+
+Example 13.3: Two parallel wires 6 cm apart carry currents of 8 A and 2 A. What is the magnetic field midway between them?
+Solution: I₁ = 8 A, I₂ = 2 A, distance between wires = 6 cm = 0.06 m.
+Midpoint is 3 cm from each wire = 0.03 m.
+Field due to I₁: B₁ = (μ₀ I₁) / (2π r) = (4π × 10⁻⁷ × 8) / (2π × 0.03) = (16 × 10⁻⁷) / 0.03 = 5.33 × 10⁻⁵ T (direction by right hand rule).
+Field due to I₂: B₂ = (μ₀ I₂) / (2π r) = (4π × 10⁻⁷ × 2) / (2π × 0.03) = (4 × 10⁻⁷) / 0.03 = 1.33 × 10⁻⁵ T (direction opposite to B₁ if currents are in same direction).
+Net field = B₁ - B₂ = (5.33 - 1.33) × 10⁻⁵ = 4.0 × 10⁻⁵ T.
+
+A solenoid is a long spring-like coil, of length many times its diameter, with many turns per centimeter. A current I in the solenoid produces a magnetic field along its axis as shown in figure 13.7. The magnetic field is strong inside along its axis and weaker, rather negligible outside.
+
+For a solenoid, consider an Amperian loop as shown. The magnetic field inside a long solenoid is uniform and parallel to the axis. Applying Ampere’s law, the magnetic field for a solenoid is given by:
+B = μ₀ n I ... (13.6)
+where n = N/L is the number of turns per unit length.
+
+Example 13.4: A solenoid of length 0.5 m and radius 1 cm is wound with two layers of wire. The inner layer has 60 turns and the outer layer has 40 turns. A current of 3 A flows through the coil. What is the magnitude of magnetic field at the center?
+Solution: Total turns N = 60 + 40 = 100, L = 0.5 m, I = 3 A.
+n = N/L = 100 / 0.5 = 200 turns/m.
+B = μ₀ n I = (4π × 10⁻⁷) × 200 × 3 = 7.54 × 10⁻⁴ T.
+
+Applications of magnetic field:
+The strength of an electromagnet depends on the number of turns of the electromagnet's coil, the current through the wire and the size of the core. Increasing these factors can result in an electromagnet that is much stronger than a natural magnet. For example, there is no known natural magnet that is able to pick up a large steel object such as a car, but industrial electromagnets are capable of such a task. Also, if the core of the electromagnet is made of soft iron, its magnetic force can be turned off by turning off the current to the electromagnet.
+Electromagnets are used in cranes to move loads of iron or steel.
+An electromagnetic lock becomes magnetized by creating a magnetic field through the coil as long as current passes through it.
+A doorbell uses an electromagnet to pull a clanger against a bell.
+
+Why is a ship usually passed near a magnet before being packed?
+Why a steel ship becomes magnetized as it is constructed?
+
+Charged particle in uniform magnetic field:
+In our study of electrostatics, we saw that a charged particle in an electric field experiences a force in the direction of the field, or against the field, depending on the sign of the charge. Similarly, a charged particle in a magnetic field may experience a force. In case of the magnetic field, however the charge must be moving. The force acting on the charged particle results from the interaction between the external magnetic field and the magnetic field created by the moving charge.
+For a charge q moving with velocity v in a magnetic field B, the magnetic force acting on the charge is given by:
+F = q (v × B) ... (13.7)
+or F = q v B sinθ, where θ is the angle between the velocity v and the field B.
+The force is maximum when charge moves perpendicular to the field (θ = 90°) and minimum when v is parallel to B (θ = 0°).
+
+The direction of the force is determined by Fleming’s left hand rule (for positive charge). The thumb and the first two fingers of the left hand are set at right angles. With the first finger pointing in the direction of the field and the second finger pointing in the direction of velocity of the positive charge, the thumb gives the direction of the force. For a negative charge, the direction of force is opposite.
+The force is always perpendicular to the direction of motion, so it does no work on the particle and only changes its direction, not its speed.
+
+When a charged particle enters a uniform magnetic field perpendicularly, it follows a circular path as shown in figure 13.9. The centripetal force is provided by the magnetic force:
+q v B = m v² / r ... (13.8)
+Thus radius r = (m v) / (q B) ... (13.9)
+Time period T = (2π r) / v = (2π m) / (q B) ... (13.10)
+Frequency f = 1/T = (q B) / (2π m).
+
+Determination of e/m for an electron:
+The circular motion of an electron shot perpendicularly into a uniform magnetic field can be used to determine its charge to mass ratio. Using equation (13.9):
+r = (m v) / (e B) => e/m = v / (r B).
+If the electron is accelerated through a potential V, then (1/2) m v² = e V => v = √(2 e V / m).
+Substituting: e/m = (2V) / (r² B²) ... (13.11)
+Thus by measuring r, V, and B, e/m can be determined.
+
+Example 13.5: The path of an electron in a uniform magnetic field of density 1.0 × 10⁻³ T in a vacuum is a circle of radius 1 cm. Find the period of its motion.
+Solution: B = 1.0 × 10⁻³ T, r = 1 cm = 0.01 m, m = 9.109 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C.
+T = (2π m) / (e B) = (2 × 3.14 × 9.109 × 10⁻³¹) / (1.6 × 10⁻¹⁹ × 1.0 × 10⁻³) = (5.72 × 10⁻³⁰) / (1.6 × 10⁻²²) = 3.575 × 10⁻⁸ s.
+
+Velocity selector:
+If a charged particle is passed through a region where both electric and magnetic fields are acting such that two forces may balance each other, then the particle will go undeflected. Such an arrangement is called a velocity selector because charges with a particular velocity pass undeflected as shown in figure 13.11. In a velocity selector, electric force F_e = q E and magnetic force F_m = q v B. For undeflected beam: q E = q v B => v = E/B.
+
+Torque on a current carrying loop/coil:
+When a current carrying rectangular coil is placed in a uniform magnetic field, it experiences a torque. Consider a rectangular coil having N turns placed in a magnetic field of flux density B. Each side experiences a force as shown in figure 13.12. The forces on sides PQ and RS are equal and opposite and produce a torque. The force on each of these sides is:
+F = N B I a ... (13.12)
+where a is the length of sides PQ and RS.
+The torque τ is given by:
+τ = F × perpendicular distance = (N B I a) (b cosθ) ... (13.13)
+where b is the width of the coil, and θ is the angle between the plane of the coil and the magnetic field.
+Since area A = a b, we have:
+τ = N B I A cosθ ... (13.14)
+The maximum torque is N B I A when θ = 0°, i.e., when the plane of the coil is parallel to the magnetic field.
+
+Example 13.6: A rectangular coil of 100 turns and area 200 cm² carries a current of 2 A in a uniform magnetic field of 2 T. Calculate the maximum torque on the coil.
+Solution: N = 100, A = 200 cm² = 200 × 10⁻⁴ m² = 0.02 m², I = 2 A, B = 2 T.
+Maximum torque τ_max = N B I A = 100 × 2 × 2 × 0.02 = 8 N m.
+
+Magnetic Resonance Imaging (MRI) is one of the most advanced diagnostic tools. It uses a combination of a strong magnetic field and radio waves to produce high resolution images of the inside of the body. MRI systems are able to generate new and different tissue contrast through the use of magnetic field. The human body is largely composed of water molecules. Each water molecule has hydrogen nuclei (protons). When a person is inside the powerful magnetic field of the scanner, the magnetic moments of these protons align with the direction of the field. A radio frequency pulse is then applied, causing the protons to absorb energy and flip their alignment. After the pulse, the protons return to their original alignment, emitting radio signals which are detected by the scanner. These signals are processed to produce images.
+
+A moving coil galvanometer is an instrument used for detection and measurement of small electric currents. Its principle is that a current carrying loop placed in a magnetic field experiences a torque. A simplified version is shown in figure 13.14. Modern galvanometers are of the moving-coil type. It mainly consists of a rectangular coil of fine wire wrapped around an aluminum frame suspended by a thin phosphor bronze strip between the poles of a permanent magnet. A soft iron core fixed between the poles intensifies the magnetic field and makes it radial. When a current I flows through the coil, it experiences a torque given by:
+τ = N B I A ... (13.15)
+where N is number of turns, B is magnetic flux density, I is current, and A is area of coil.
+The suspension wire provides a restoring torque C θ, where C is the torsion constant. At equilibrium:
+N B I A = C θ ... (13.16)
+Thus θ = (N B A / C) I.
+The deflection θ is proportional to the current I. A sensitive galvanometer is one which gives a large deflection for a small value of current.
+
+The deflection of the coil is observed by means of a mirror attached to the suspension. A beam of light is directed towards the mirror and after reflection produces a spot on a translucent scale. The displacement of the spot on the scale is proportional to the angle of deflection.
+
+A pivoted coil galvanometer uses a coil pivoted between two jeweled bearings. The restoring torque is provided by two hair springs which also serve as current leads.
+
+A galvanometer is a sensitive instrument; a large current cannot pass through the coil. The conversion of a galvanometer into an ammeter is done by connecting a low resistance in parallel with it. This low resistance is called a shunt resistance. The scale is marked in amperes.
+
+Let G be the resistance of the galvanometer, I_g the current for full scale deflection, I the total current to be measured, and R_s the shunt resistance. Since the galvanometer and shunt are in parallel:
+I_g G = (I - I_g) R_s => R_s = (I_g G) / (I - I_g) ... (13.17)
+
+A voltmeter is a measuring instrument used to measure the electric potential difference between two points. To convert a galvanometer into a voltmeter, a high resistance R_h is connected in series with it. Let V be the voltage to be measured. Then:
+V = I_g (G + R_h) => R_h = (V / I_g) - G ... (13.18)
+
+Example 13.7: A galvanometer has a resistance of 100 Ω and gives full scale deflection for 1 mA current. How can it be converted into (a) an ammeter of range 10 A, (b) a voltmeter of range 10 V?
+Solution: G = 100 Ω, I_g = 1 mA = 0.001 A.
+(a) For ammeter: I = 10 A.
+Shunt resistance R_s = (I_g G) / (I - I_g) = (0.001 × 100) / (10 - 0.001) ≈ 0.01 Ω.
+(b) For voltmeter: V = 10 V.
+Series resistance R_h = (V / I_g) - G = (10 / 0.001) - 100 = 10000 - 100 = 9900 Ω.
+
+An AVO meter (Ampere-Volt-Ohm meter) is a multi-range instrument that can measure current, voltage and resistance. It consists of a galvanometer having a shunt and series resistances. The quantity to be measured and its range can be selected by a selector switch which connects the particular electrical circuit to the galvanometer.
+
+For current measurement, the selector switch connects appropriate shunt resistances. For voltage measurement, it connects appropriate series resistances. For resistance measurement, a battery is included in the circuit to provide a current through the unknown resistance.
+
+Modern multimeters are often digital, offering better accuracy, durability and extra features. In a digital multimeter, the analog signal is converted to a digital value by an analog-to-digital converter and displayed as a number.
+
+Key Points:
+- A current carrying wire has a magnetic field around it.
+- The force on a current carrying wire in a uniform magnetic field is given by F = I L × B.
+- The magnetic flux is defined as Φ = B·A.
+- Ampere’s law relates the integrated magnetic field in a loop around a current carrying wire to the current passing through the wire: ∑ B·ΔL = μ₀ I.
+- The magnetic field of a solenoid is given by B = μ₀ n I.
+- The force on a charged particle shot at right angles to the magnetic field is F = q v B.
+- Torque on a current carrying coil is τ = N I A B cosθ.
+- The shunt resistance for an ammeter is R_s = (I_g G) / (I - I_g).
+- The high resistance for a voltmeter is R_h = (V / I_g) - G.

@@ -1,0 +1,268 @@
+analyticalchem_2ndchem_fed.txt
+
+After completing this lesson, you will be able to:
+Compare the classical method of analysis with modern methods.
+Discuss the procedure of combustion analysis.
+Define spectroscopy and discuss its application in analytical chemistry.
+State the regions of electromagnetic spectrum used in IR and UV/vis spectroscopy.
+Explain the origin of IR absorption of simple molecules.
+Determine structures of phenol, toluene, acetone and ethanol from its IR Spectrum.
+Predict whether a given molecule will absorb in the UV/visible region.
+Predict the color of a transition metal complex from its UV/visible Spectrum.
+Outline in simple terms the principles of proton NMR spectroscopy.
+Explain how chemical environment of a proton affects the magnetic field, it experiences and hence the absorption of energy at resonance frequency.
+Describe standard scales used in proton NMR.
+Explain instrumentation and working of mass spectrometer.
+Outline the use of MS in determination of relative isotopic masses and isotopic abundance of elements.
+Define and explain atomic emission and atomic absorption spectrum.
+
+Introduction:
+Analytical chemistry is the branch of chemistry that deals with separation and analysis of a sample to identify its components. The separation is carried out prior to qualitative and quantitative analysis. Qualitative analysis provides the identity of a substance (composition of chemical species). On the other hand, Quantitative analysis determines the amount of each component present in a sample. Hence, in this branch different techniques and instruments used for analysis are studied. The scope of this branch covers food, water, environmental and clinical analysis.
+
+24.1 CLASSICAL METHOD OF ANALYSIS:
+Combustion analysis and determination of Molecular Formula:
+Combustion analysis is suitable for organic compounds. This analysis is used to calculate empirical and molecular formula of hydrocarbons or for compounds that contain carbon, hydrogen, and oxygen (CxHyOz). The combustion products will be CO2 and H2O and these two products of combustion are separately collected.
+
+Procedure:
+An accurately known mass of the given organic compound is completely burnt in excess oxygen.
+This oxidises carbon and hydrogen in the organic compound to carbon dioxide and water respectively.
+Mixture of CO2, H2O vapours and excess oxygen are passed through separate tubes containing Magnesium chlorate, Mg(ClO4)2 (Water absorber) and 50% potassium hydroxide (CO2 absorber), respectively.
+After completion of experiment, from the difference of initial and final masses of water and CO2 absorbers, masses of CO2 and H2O are measured.
+From these masses of CO2 and H2O, the mass and percentages of carbon and hydrogen in the sample can be calculated.
+The mass of oxygen can be calculated by using the difference of masses of carbon and hydrogen from the organic compound.
+Use this data to determine the empirical and molecular formulas of the organic compound.
+
+General steps to calculate empirical and molecular formula:
+An organic compound containing carbon, hydrogen and oxygen undergoes combustion as follows:
+CxHyOz + O2 -> xCO2 + y/2 H2O.
+Combustion data gives the following information: (i) Mass of Organic compound (ii) Mass of CO2 (iii) Mass of H2O.
+Step 1 to calculate empirical formula of an organic compound following steps are involved.
+a. Calculate the mass of Carbon from CO2 by Ratio method.
+Mass of carbon : Mass of Carbon dioxide
+12 : 44
+x : given mass of CO2
+x = (given mass of CO2 x 12) / 44 = x g of Carbon.
+b. Calculate the mass of hydrogen from H2O by Ratio method.
+Mass of Hydrogen : Mass of Water
+2 : 18
+x : given mass of H2O
+x = (given mass of H2O x 2) / 18 = x g of hydrogen.
+c. Calculate the mass of Oxygen.
+The mass of Oxygen is calculated by using the formula:
+mass of oxygen = mass of organic compound - (mass of carbon + mass of hydrogen).
+Step 2: Calculate the number of moles of each element by using:
+mole = Mass in gram / Molar mass.
+Step 3: Calculate the empirical formula by taking the mole ratio of each element.
+Step 4: Calculate the molecular formula by using:
+Molecular formula = n x empirical formula.
+Where n = Relative molecular mass / Empirical formula mass.
+
+Drawback:
+The classical method i.e. combustion analysis is only limited to those organic compounds which contain carbon, hydrogen and oxygen.
+
+Example 24.1:
+Compound A is an organic compound which contains carbon, hydrogen and oxygen. When 0.240 g of organic compound A is burnt in excess of oxygen, it is completely oxidised to carbon dioxide and water. The products are collected, and it is found that 0.352 g of CO2 and 0.144 g of H2O are formed. Relative molecular mass of organic compound A is 60 gmol^-1. Calculate empirical and molecular formula of organic compound A.
+
+Solution:
+Mass of Organic compound = 0.240 g.
+Mass of CO2 = 0.352 g.
+Mass of water = 0.144 g.
+Relative Molecular mass = 60 gmol^-1.
+Empirical formula = ?
+Molecular formula = ?
+
+Step 1: Calculate the mass of carbon, hydrogen and oxygen in an organic compound.
+a) Mass of carbon:
+Mass of carbon : Mass of Carbon dioxide = 12 : 44.
+x : 0.352.
+x = (0.352 x 12) / 44 = 0.096 g of Carbon.
+b) Mass of hydrogen:
+Mass of Hydrogen : Mass of water = 2 : 18.
+x : 0.144.
+x = (0.144 x 2) / 18 = 0.016 g of hydrogen.
+c) Mass of oxygen:
+mass of oxygen = mass of organic compound - (mass of carbon + mass of hydrogen) = 0.240 - (0.096 + 0.016) = 0.128 g of oxygen.
+
+Step 2: Calculate moles of each element (Carbon, hydrogen and oxygen).
+mole of carbon = 0.096 / 12 = 8 x 10^-3 mol of carbon.
+mole of hydrogen = 0.016 / 1 = 0.016 mol of hydrogen.
+mole of oxygen = 0.128 / 16 = 8 x 10^-3 mol of oxygen.
+
+Step 3: To calculate empirical formula find simplest whole number ratio.
+C : H : O = 8 x 10^-3 : 0.016 : 8 x 10^-3.
+Divide by smallest number (8 x 10^-3).
+C : H : O = 1 : 2 : 1.
+Empirical formula is CH2O.
+
+Step 4: Finding the molecular formula from the Relative molecular mass and empirical formula.
+Molecular formula = n x empirical formula.
+n = Relative molecular mass / Empirical formula mass = 60 / 30 = 2.
+Molecular formula = 2 x CH2O = C2H4O2.
+Molecular formula is C2H4O2.
+
+Quick Quiz 1
+1. Give difference between qualitative and quantitative analysis.
+2. How mass of oxygen is calculated if it is present with carbon and hydrogen in an organic compound?
+3. Give general steps used to calculate empirical formula of an organic compound.
+4. Give drawback of combustion analysis.
+
+24.2 MODERN METHODS OF ANALYSIS:
+Spectroscopy:
+The branch of science which describes the interactions of electromagnetic radiation with matter is known as spectroscopy. Spectroscopy involves instrumentation to examine the radiations emitted or absorbed by chemicals giving information about their molecular structure.
+Electromagnetic radiation is the form of energy commonly known as radiation energy such as light energy. According to quantum mechanics, electromagnetic radiation has the properties of both a wave and a particle. Electromagnetic radiation exists as discrete packets of energy, called quanta or photons.
+Electromagnetic spectrum: Electromagnetic spectrum covers a wide range of wavelengths. Radiations of different wavelengths have different characteristics. The whole spectrum can be conveniently divided into several regions, each region can be defined by the unit of any of the four parameters, i.e., wavelength, frequency, wave number or energy.
+
+Different kinds of radiations interact with chemicals in different ways. The effects are summarized.
+Principle of Spectroscopy:
+The compounds interact with electromagnetic radiation and absorb energy. Different molecules absorb different amounts of radiations.
+Lower energy radiation may cause: i) molecular rotation ii) a bond vibration.
+Higher energy radiation may cause: i) electronic excitation ii) bond cleavage.
+The absorption of radiation is selective for a particular transition which depends upon the structure of molecule. The wavelengths of absorption spectra of known compounds are correlated with the wavelengths of absorption spectra of unknown compounds. The information is then used to determine the structure of unknown compounds.
+
+Spectrophotometer:
+The instrument used to measure the amount of electromagnetic radiation absorbed by a compound is called spectrophotometer or spectrometer.
+Construction: It consists of:
+A light source of radiation.
+A monochromator (prism) to select the desired wavelength of radiations.
+A sample cuvette.
+A detector to detect the radiations absorbed by the sample.
+The result is recorded on a spectrograph against the wavelength or wave number.
+
+Infrared Spectroscopy (IR):
+The wavelength range in IR region is 2.5 - 16 µm (4000 to 625 cm^-1). They have sufficient energy for bonds in the molecule to vibrate.
+A molecule is made up of large number of atoms. These atoms continuously undergo vibration and rotation. IR radiations have low energy and can affect the vibrational kinetic energy of the atoms in a molecule. During vibration small displacement of atoms from their mean position occurs and causes a change in dipole moment of a molecule. This changed dipole interacts with electric field of IR radiations and increases the rate of vibration and rotation. Different bonds absorb radiations of different frequencies. Polar molecules are IR active.
+IR radiation absorption spectrum is used to identify the bonds and functional groups in an organic molecule.
+
+Types of vibrations:
+Stretching vibrations: Bond angle does not change, only the bond length changes.
+Bending vibrations: Bond angle changes but bond length remains same.
+
+Interpretation of IR Spectrum:
+IR spectrum shows downward peaks which correspond to absorbance (A) or percent transmittance (%T) as ordinate against wavelength (λ) or wave number (ν) in cm^-1 as abscissa.
+IR radiation absorption spectrum is used to identify the bonds and functional groups in an organic molecule. The strength of the peak is the characteristic of the bond itself, not of the number of bonds.
+
+Types of IR Regions:
+There are two important absorption regions in IR spectrum:
+Finger print region (600 to 1500 cm^-1): The absorption in this region is a characteristic of a compound. Different compounds will give different absorption peaks in this region. Hence this region is called fingerprint region and is used to identify the structure of organic compounds.
+Functional group Region (1500 to 4000 cm^-1): Different functional groups show absorption in this region.
+For example, figure shows IR spectrum of propanone (CH3COCH3).
+The characteristic absorption of some common bonds: In the spectrum of propanone the strong peak at about 1720 cm^-1 corresponds to the C=O bond. The weaker absorption at 3000 cm^-1 corresponds to the C-H bond. This peak is weaker even though there are more H atoms in the molecule.
+
+Table: Characteristic IR absorptions of some common bonds.
+Compound: Alkanes, alkenes, arenes. Absorption/cm^-1: 2840 to 3095, 1610 to 1680. Intensity: M, M.
+Compound: Aldehydes, ketones, acids, esters. Absorption/cm^-1: 1680 to 1750. Intensity: S.
+Compound: Alcohols, ethers, esters. Absorption/cm^-1: 1000 to 1300. Intensity: S.
+Compound: Chloro compound. Absorption/cm^-1: 700 to 800. Intensity: S.
+Compound: O-H (free). Absorption/cm^-1: 3580 to 3670. Intensity: S (sharp).
+Compound: O-H (Hydrogen-bonded in alcohols, phenols). Absorption/cm^-1: 3230 to 3550. Intensity: M (broad).
+Compound: O-H (Hydrogen-bonded in acids). Absorption/cm^-1: 2500 to 3300. Intensity: M (broad).
+Compound: N-H (Primary amines). Absorption/cm^-1: 3100 to 3500. Intensity: M.
+
+Visible and Ultraviolet Spectroscopy (UV-VIS):
+It is also known as electronic spectroscopy. It involves the transition of electron(s) within the molecule or ion from lower to higher energy levels or vice versa by absorption or emission of radiation falling in UV/visible region of electromagnetic spectrum in the range of 200 to 800 nm. It determines the presence of unsaturation and the extent of conjugation in a molecule.
+Absorption of UV radiation causes the excitation of electrons from lower energy level to higher level (from HOMO to LUMO).
+There are three kinds of electrons in a molecule: (i) σ electrons, (ii) π electrons (iii) lone pair of electrons (non-bonding or unshared electrons which are denoted by the letter n).
+The higher energy levels are antibonding molecular orbitals i.e. σ* and π*.
+
+Types of electronic transition:
+σ -> σ* transition: The σ electron strongly holds and the radiations in UV region is not so energetic to excite e.g. σ to σ*. Such transition require energy in the range of 150 nm which is not available in UV-region. (occurs in the vacuum UV region).
+n -> σ* transition: Compounds which contain nonbonding electron pair show this type of transition. For example: compounds containing nitrogen, oxygen, sulphur and chlorine show this type of transition.
+π -> π* transition: This type of transition occurs in unsaturated organic compounds. For example: C≡C, C=C, C≡N, N=N, C=O.
+n -> π* transition: This type of transition occurs in compounds containing nonbonding electron pair on heteroatoms. The electron gets excited to π* antibonding orbitals. This type of transition requires least energy and occurs at longer wavelength.
+The relative energy for three electronic transitions detectable by UV spectrophotometer in order of increasing energy is: n -> π* < π -> π* < n -> σ*.
+
+Quick Quiz 2:
+1. How can we get information about a compound using UV/Visible spectroscopy?
+2. Give colour of following wavelength (i) 600-620 (ii) 490-520.
+Table: The approximate wavelengths of visible radiation of different colours.
+Colour: Red, Orange, Yellow, Green, Blue-green, Green-blue, Violet, Ultraviolet.
+Approximate wavelength/nm: Above 700, 620-700, 600-620, 580-600, 520-580, 490-520, 440-490, 400-420, Below 400.
+Figure: The visible/UV spectrum of methylene blue.
+
+Nuclear Magnetic Resonance (NMR):
+Like electrons, atomic nucleus also spins about an axis and behaves like a tiny magnet.
+Nuclei which contain odd number of protons or neutrons or both have a spin quantum number 1/2. Examples: C13, N15, F19 and P31.
+Nuclei having even number of protons and neutrons have zero spin and zero magnetic moment. Examples: C12, O16. These nuclei are magnetically inactive.
+Spin states of a nucleus have equal energies in the absence of magnetic field. When magnetic field is applied, the magnetic moments of different nuclei may either align with or oppose the applied magnetic field. As a result, the spin is split up into two energy levels having nuclear spin of +1/2 with low energy and -1/2 with high energy.
+The energy difference between the two spin states is very small and lies within the range of radiofrequency. In NMR spectrometer, the sample is placed in an external magnetic field and radio waves swept across it. At particular combination of magnetic field and frequency of radio waves, some protons change their spin state i.e. they "flip over". This is called spin flipping.
+
+Working of NMR Spectrometer:
+The sample is dissolved in a solvent having no protons, such as tetrachloromethane (CCl4). A small amount of tetramethyl silane, commonly known as TMS, is mixed with the sample to act as an internal reference (In TMS all the 12 protons are equivalent, and produce a peak at δ = 0).
+The tube containing this mixture is suspended between the poles of the electromagnet.
+When no energy is absorbed by the sample, the detector does not pick up any energy from the oscillator. However, when the sample absorbs a definite amount of energy from the RF transmitter, the proton spins flip over. This induces a signal in the detector which is indicated by an increase of current in the RF detector. This is recorded as a resonance signal.
+Only small amount of sample is enough to produce an NMR spectrum.
+
+Proton (1H) NMR spectra of organic compounds:
+When the protons in a molecule are similar, as in CH4 and C2H6, their spin states are equal and produce a single peak in NMR spectrum. Protons in different chemical environment require slightly different magnetic fields to come to resonance. That is why different types of protons produce peaks at different position in NMR spectrum. Area under a peak is proportional to the number of protons involved.
+
+Low-Resolution NMR spectrum of Ethanol:
+NMR spectrum of ethanol consists of three peaks at different absorption and of different areas. The areas under the peaks are in the ratio 1:2:3.
+The presence of three peaks is explained by the fact that one proton in the -OH group, the two protons in the -CH2 group and the three protons in the CH3 group are in different chemical environments. Hence, they require slightly different strength of magnetic field to bring them into resonance.
+
+Chemical Shift (δ):
+The separation of absorption position of particular proton from the absorption position of tetramethyl silane is called chemical shift. The symbol for chemical shift is δ (delta). Chemical shifts are quoted in parts per million of the applied field.
+Protons in most of the common organic molecules have chemical shift between values of 0.0-10 δ. Highly shielded protons require stronger field to resonate and have low chemical shifts.
+
+Quick Quiz 3
+1. Write basic principle of NMR spectroscopy.
+2. What information are obtained from number of peaks and area under peaks in NMR spectrum?
+3. What is NMR reference?
+
+Atomic Emission Spectroscopy:
+Atomic emission spectroscopy pertains to electronic transitions in atoms which use an excitation source like flames sparks. Emission spectroscopy is related to atoms. Atoms emit radiations in the form of discrete wavelengths of light, called spectral lines while returning to the lower energy states.
+
+Principle:
+The source vaporizes the sample and causes electronic excitation of elementary particles in the gas. Excited molecules in the gas phase emit band spectra. Thus, a molecule in an excited state of energy, E2, undergoes a transition to a state of lower energy E1 and a photon of energy hν is emitted where E2 - E1 = hν.
+In each electronic state a molecule may exist in a number of vibrational and rotational states of different energies.
+
+Types of Atomic or Line Spectrum:
+Spectrum may be classified as:
+Atomic or Line Emission Spectrum.
+Atomic Absorption Spectrum.
+
+Atomic or Line Emission Spectrum:
+When an element is vaporized in a flame, or in an electric arc or in a discharge tube, it emits a light of characteristic colour. The resolution of ray of this light produces coloured lines separated by dark spaces. This type of separation is called a line emission spectrum.
+Each element has its own characteristic colour by which it can be identified i.e. Na gives yellow colour, Sr gives red colour and K gives violet colour in Bunsen flame. Similarly, in a discharged tube; Ne glows with orange red, He with orange pink, H2 with orange red or blue and Cl2 with orange green colour.
+The lines in the spectrum of an element are not haphazardly distributed but they occur in groups or series. In series the separation between them decreases regularly as their wavelength decreases. At a certain limiting value, the spectrum becomes continuous.
+
+Applications of emission spectroscopy:
+Emission spectroscopy has been used to detect 40 elements. The following materials have been analysed by emission spectroscopy:
+Trace major constituents in ceramics.
+Traces of Co, Ni, Mo and V in Graphite.
+Trace metal impurities in analytical reagents.
+Trace of Ca, Cu, Zn in blood.
+Zinc in pancreatic tissues.
+
+Atomic Absorption Spectrum:
+When white light is allowed to pass through a sample of a substance, it may absorb radiation of a particular wavelength. There will be a dark space in the continuous spectrum of white light for that particular wavelength. This spectrum is called a line or atomic absorption spectrum.
+
+Applications of Atomic Absorption Spectroscopy (AAS):
+The AAS technique has become the most powerful tool of analysis because in this method small concentration of sample is used.
+AAS methods are highly specific, hence analysis of a metal from a complex mixture is possible and a high energy sample is not required to be employed.
+The technique is used for the analysis of substance including ceramics mineralogy, biochemistry, metallurgy, water supplies and soil analysis.
+
+Quick Quiz 4:
+1. What is spectroscopy?
+2. Define atomic emission spectroscopy.
+3. List those elements which can be analyzed by emission spectroscopy.
+4. Give principle of atomic absorption spectroscopy.
+5. Give few applications of atomic absorption spectroscopy.
+
+Mass Spectrometry (MS):
+It involves the production of gaseous ions of different isotopes of elements or an organic molecule, their separation according to their m/e ratio and measurement of their intensity in the form of spectrum.
+Mass Spectrometer is a device used for the detection and identification of different isotopes of elements, and for determining their isotopic masses. Mass spectrometry is also used extensively to determine the structure of organic molecules.
+
+Working of Mass spectrometer:
+The action of a mass spectrometer involves the following basic processes:
+Vaporization: The sample is usually injected as gas but if liquid or solid sample is introduced then it may be evaporated in evaporation chamber.
+Ionization: Conversion of gaseous atoms and molecules into gaseous positive ions by bombardment with high speed electrons (70 eV).
+Acceleration: The cations are accelerated by the application of a suitable electric field of negative potential (500-2000 Volts).
+Deflection: Positive ions are deflected and separated according to their mass to charge ratio (m/e ratio) by the application of a variable magnetic field. The angle of deflection of positive ions is inversely proportional to their m/e ratio.
+Detection: Ions with particular m/e ratio are detected and then amplified by an electron multiplier, which can record the number of ions striking it.
+The detector is in a fixed position while the magnetic field is changed so that ions of a particular m/e ratio are focused into the detector. The detector is essentially a counter, which generates an electric current proportional to the number of ions striking it. This electrical signal is amplified and fed into an oscilloscope.
+
+Determination of Relative Atomic Mass:
+The mass spectrum of an element can be used to obtain relative atomic mass and relative abundance of each isotope. Heights of peaks in the spectrum is proportional to the relative natural abundance of isotopes and number of peaks give number of possible isotopes.
+Relative atomic mass of an element is the average mass of different isotopes of that element.
+Example: Mass spectrum of chlorine shows that it consists of two isotopes in relative height of 3:1 which is 75 % and 25 % respectively.
+Relative atomic mass (Ar) of Chlorine = (35 x 75 + 37 x 25) / 100 = 35.45.

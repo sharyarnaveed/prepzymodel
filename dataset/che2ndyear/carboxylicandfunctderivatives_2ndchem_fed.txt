@@ -1,0 +1,269 @@
+carboxylicandfunctderivatives_2ndchem_fed.txt
+
+After completing this lesson, you will be able to:
+Describe preparation of carboxylic acids by carbonation of Grignard’s Reagent, hydrolysis of nitriles, oxidation of primary alcohols, oxidation of aldehydes and oxidation of alkyl benzenes.
+Discuss reactivity of carboxylic acids.
+Describe the chemistry of carboxylic acids by conversion to carboxylic acid derivatives: acyl halides, acid anhydrides, esters, amides and reactions involving interconversion of these.
+Describe the reactions of carboxylic acid derivatives.
+Describe isomerism in carboxylic acids.
+
+Organic compounds which contain carboxyl group (-COOH) functional group in their molecule are called carboxylic acids. Aliphatic carboxylic acids have the carboxyl group attached with an open chain of carbon atoms.
+They may be represented by the general formula R-COOH where R = H or any alkyl group. Aromatic carboxylic acids have the carboxylic group with phenyl or aryl group.
+
+20.1 NOMENCLATURE
+(1) Common Names: Many carboxylic acids are known by their common names, which were given to them before the systematic names. The positions of other groups attached with the chain containing the carboxyl group are indicated by the Greek letters alpha, beta, gamma, etc. The carbon adjacent to the carboxyl group is called alpha carbon and the carbon atom in the carboxyl group is not the alpha carbon.
+
+(2) The IUPAC system:
+Select the longest continuous chain of carbon atoms containing carboxylic (COOH) group.
+Replace “e” of an alkane by “oic acid”.
+Number the chain but start from COOH group.
+If two COOH groups occur then write dioic acid.
+
+Examples:
+Formic acid or methanoic acid.
+Acetic acid or ethanoic acid.
+Propionic acid or Propanoic acid.
+n-Butyric acid or Butanoic acid.
+Isobutyric acid or 2-Methyl propanoic acid.
+Trimethylacetic acid or 2,2-Dimethylpropanoic acid.
+n-Valeric acid or Pentanoic acid.
+Oxalic acid or Ethanedioic acid.
+Malonic acid or Propanedioic acid.
+Succinic acid or Butanedioic acid.
+Glutaric acid or Pentanedioic acid.
+Adipic acid or Hexanedioic acid.
+Benzoic Acid (monocarboxylic acid).
+1,2-Benzene dioic acid or phthalic acid (Dicarboxylic acid).
+
+20.2 PHYSICAL PROPERTIES
+The polar nature of both the O-H and C=O bonds in carboxyl group (due to the electronegativity difference of the atoms) results in:
+Higher melting and boiling points compared to analogous alcohols.
+High solubility in water because of hydrogen bonding.
+Existence in liquid state (Aliphatic acids) or in solid state (Aromatic acid).
+
+20.3 STRUCTURE
+Carboxylic acid contains Carboxyl group -COOH. Carboxyl carbon exhibits sp2 hybridization, due to which it has trigonal structure with bond angle close to 120°.
+The hydroxyl oxygen allows one of its lone pair electrons to conjugate with the pi system of the carbonyl group. This makes the carboxyl group planar and can be represented with the following resonance structures.
+
+20.4 ACIDITY
+Carboxylic acids are the most acidic simple organic compounds (pKa ~ 5). But they are only weak acids compared to acids like HCl or H2SO4. (Remember the lower the pKa, the stronger the acid).
+
+Examples:
+Ethanoic acid pKa = 4.8.
+Propanoic acid pKa = 4.9.
+Fluoroethanoic acid pKa = 2.6.
+Chloroethanoic acid pKa = 2.9.
+Dichloroethanoic acid pKa = 1.3.
+Trichloroethanoic acid pKa = 0.9.
+Nitroethanoic acid pKa = 1.7.
+
+Electron withdrawing group (Cl, F, NO2) bonded to the carbon atom next to the carboxyl group (COOH) make the acid stronger. Due to electron withdrawing group, electron will move away from oxygen. Hence decreases charge density on oxygen atom of carboxylate ion which stabilises the -COO- group and makes it less likely to bond with an H+ ion. For example, chloroacetic acid is 100 times stronger acid than acetic acid.
+Electron donating group (Alkyl) strengthens the O-H bond in the acid’s -COOH group. It donates negative charge towards the -COO- group of the carboxylate ion, making it more likely to accept an H+ ion, hence acidic strength decreases. For example, formic acid is more acidic than acetic acid.
+
+20.5 PREPARATION OF CARBOXYLIC ACIDS
+20.5.1 Reaction of Grignard Reagents (RMgX) with CO2
+The reaction is carried out by passing carbon dioxide through the ethereal solution of corresponding Grignard’s reagent. The addition product on reaction with mineral acid produces carboxylic acid.
+RMgX + CO2 -> R-CO-OMgX -> (H3O+) R-COOH + MgX2.
+
+20.5.2 Hydrolysis of Nitriles
+Organic Compounds having a cyanide group are called nitriles. Hydrolysis of an alkyl nitrile on boiling with mineral acid or alkalis yields carboxylic acid.
+R-C≡N + 2H2O -> RCOOH + NH3.
+Methyl nitrile -> Acetic acid.
+The acid produced by this method contains one more carbon atom than the original alkyl halide.
+
+20.5.3 Oxidation of Primary Alcohols
+Primary alcohol is readily oxidized to aldehyde, which further oxidizes to carboxylic acid in the presence of oxidizing agents such as potassium dichromate in an acidic medium.
+R-CH2OH -> R-CHO -> R-COOH.
+
+20.5.4 Oxidation of Alkyl Benzenes
+Aromatic carboxylic acid can be prepared by the oxidation of alkyl benzene, when treated with alkaline KMnO4, acidic K2Cr2O7 or dil. HNO3.
+Toluene -> Benzoic acid.
+
+20.6 REACTIVITY
+The carboxyl group shows the chemistry of both the carbonyl (C=O) and the hydroxyl (-OH) groups. In most reactions, the carbonyl group is retained. However, the reactivity of these molecules is due to the presence of carbonyl group.
+
+20.7 REACTIONS OF CARBOXYLIC ACIDS
+Carboxylic acids undergo the following types of reactions:
+1) The reaction in which hydrogen atom of -OH group of carboxyl group is involved (salt formation).
+2) The reaction in which OH group is replaced by another group.
+3) The reactions involving carboxyl group as a whole.
+
+20.7.1 Reaction involving H atom of the carboxyl group (Acidic properties of carboxylic acids)
+Carboxylic acids are weaker acids than mineral acids. They produce H+ ion when dissolved in water.
+RCOOH -> RCOO- + H+.
+Reaction with bases:
+Carboxylic acids react with bases (NaOH, KOH) to form salts.
+CH3COOH + NaOH -> CH3COONa + H2O.
+
+2. Reaction with carbonates and bicarbonates:
+Carboxylic acids decompose carbonate and bicarbonates evolving carbon dioxide gas with effervescence.
+2CH3COOH + Na2CO3 -> 2CH3COONa + H2O + CO2.
+
+3. Reactions with metals:
+Carboxylic acids react with active metals such as Na, K, Ca, Mg etc to form their salts with the evolution of hydrogen gas.
+2CH3COOH + 2Na -> 2CH3COONa + H2.
+
+20.7.2 Reaction involving the OH group of Carboxylic acid (Preparation of derivatives of Carboxylic acid)
+The addition of a nucleophile to the carboxyl group is always followed by the displacement of the -OH group by some other group producing a carboxylic acid derivative. The -OH group can thus be replaced by X, OR and NH2 to form halides, esters and amide respectively.
+
+1. Reaction with Thionyl Chloride (Preparation of Acyl Chlorides)
+Acyl chlorides are prepared by treating the carboxylic acid with thionyl chloride, (SOCl2), in the presence of a base (Pyridine).
+R-COOH + SOCl2 -> R-COCl + SO2 + HCl.
+
+2. Dehydration of Carboxylic acid (Preparation of Acid Anhydrides):
+Carboxylic acids are dehydrated on strong heating in the presence of phosphorous pentoxide (P2O5).
+2 R-COOH -> (R-CO)2O + H2O.
+
+3. Reaction with Alcohol (Preparation of Esters):
+When carboxylic acids are heated with alcohols in the presence of conc. H2SO4, esters are formed.
+R-COOH + R'-OH -> R-COO-R' + H2O.
+Acetic acid + ethanol -> Ethyl acetate + water.
+This reaction is also known as the Fischer esterification. Esters can also be made from carboxylic acid derivatives, especially acyl halides and acid anhydrides, by reacting them with the appropriate alcohol in the presence of a weak base.
+
+Mechanism of reaction for Acid Catalyzed Esterification:
+Step 1: Protonation of the carbonyl makes it more electrophilic.
+Step 2: The alcohol OH functions as nucleophile attacking the electrophilic C of the C=O group.
+Step 3: In this step, hydrogen ion transfers in the molecule.
+Step 4: In this step the elimination of water and a proton from the ion takes place.
+
+4. Reaction with Ammonia (Preparation of Amides):
+Carboxylic acids react with ammonia to form ammonium salt which on heating produces acid amide.
+CH3COOH + NH3 -> CH3COONH4 (Ammonium Acetate).
+CH3COONH4 -> (heat) CH3CONH2 + H2O.
+
+20.7.3 Reactions involving Carboxyl group (-COOH)
+A. Reduction:
+Carboxylic acids are reduced to primary alcohols.
+As a result of their low reactivity, carboxylic acids can only be reduced by LiAlH4 to form primary alcohol.
+CH3COOH + 4[H] -> CH3CH2OH + H2O.
+Carboxylic acids are less reactive to reduction by hydride than aldehydes, ketones or esters.
+
+B. Decarboxylation:
+The removal of carboxyl group or release of carbon dioxide from carboxylic acid is called decarboxylation.
+Simple carboxylic acids rarely undergo decarboxylation.
+(i) When sodium salt of carboxylic acid is strongly heated with soda lime (NaOH + CaO), an alkane is formed.
+The alkane formed contains one carbon less than original carboxylic acid.
+CH3COONa + NaOH -> CH4 + Na2CO3.
+(ii) Dry distillation of calcium salt of carboxylic acids gives aldehyde or ketone.
+Calcium acetate + Calcium formate -> (dry distillation) Acetaldehyde + 2CaCO3.
+Calcium acetate -> (dry distillation) Acetone + CaCO3.
+
+20.7.4 Reactions of Carboxylic Acid Derivatives
+A. Reactions of Acyl Halides.
+B. Reactions of Acid Anhydrides.
+C. Reactions of Esters: Hydrolysis, Reduction, and with Grignard reagents.
+D. Reactions of Amides: Hydrolysis and Reduction.
+E. Reactions of Nitriles: Hydrolysis, Reduction, and with Grignard reagents.
+
+A. Reactions of Acyl Halides (Acid Halides):
+Acid halides are derivatives of carboxylic acid in which (-OH) hydroxyl group has been replaced by a halogen atom.
+
+Reactions:
+1. Reaction of Acid halide with water (Hydrolysis of Acid halide):
+Acid chlorides react with water, often violently, to give the corresponding carboxylic acids and hydrogen chloride.
+R-COCl + H2O -> R-COOH + HCl.
+
+2. Reaction of Acid halide with carboxylic acid:
+When Acid halide reacts with carboxylic acid, acid anhydride is formed.
+R-COCl + R'-COOH -> R-CO-O-CO-R' + HCl.
+
+3. Reaction of Acid halide with alcohol (Formation of ester):
+When Acid halide reacts with alcohol in presence of conc. H2SO4 as a catalyst, ester is formed.
+R-COCl + R'-OH -> R-COO-R' + HCl.
+
+4. Reaction of acid halide with ammonia (Formation of amide):
+When acid halides are treated with ammonia, they form amides.
+R-COCl + 2NH3 -> R-CONH2 + NH4Cl.
+
+B. Reactions of Acid Anhydrides:
+1. Hydrolysis (Reaction with water):
+Acid anhydrides are hydrolysed under acidic or basic conditions to form the parent acid.
+Acetic anhydride + H2O -> 2 Acetic acid.
+
+2. Alcoholysis:
+Acid Anhydrides react with alcohols to form esters.
+Acetic anhydride + ROH -> Ester + Acetic acid.
+
+3. Formation of Amide:
+Acid Anhydrides react with Ammonia to form amide.
+Acetic anhydride + NH3 -> Acetamide + Acetic acid.
+
+C. Reactions of Esters:
+1. Hydrolysis of Esters:
+Esters can be hydrolysed to acid and alcohol under acidic or basic conditions.
+Basic hydrolysis of esters is known as saponification because it leads to the formation of alkali salt of carboxylic acids which are soaps.
+Ethyl acetate + H2O -> Acetic acid + Ethanol.
+Ethyl acetate + NaOH -> Sodium acetate + Ethanol.
+
+2. Reduction of Esters:
+Esters can be reduced either catalytically or using chemical reducing agents, such as LiAlH4 into primary alcohols corresponding to the acid from which it was derived.
+Ethyl acetate + LiAlH4 -> 2 Ethanol.
+
+3. Reaction of Grignard reagent (RMgX) with Esters:
+Esters react with Grignard reagents to give tertiary alcohols.
+Esters (except formate) react with Grignard reagents to give tertiary alcohols. The tertiary alcohol that results contains 2 identical alkyl groups (from R in the scheme). The reaction proceeds via a ketone intermediate which then reacts with the second equivalent of the organometallic reagent.
+Ethylacetate + CH3MgBr -> (after hydrolysis) 2-methyl-2-propanol.
+
+D. Reactions of Amides:
+1. Hydrolysis of Amides:
+Amides are hydrolysed when heated with a strong acid or a base and yield carboxylic acids and ammonia (or amines).
+RCONH2 + H2O -> RCOOH + NH3.
+
+2. Reduction of Amides:
+Amides can be reduced to primary amines on reduction with LiAlH4.
+RCONH2 + LiAlH4 -> R-CH2-NH2 + H2O.
+
+E. Reaction of Nitriles:
+Nitriles are that class of organic compounds containing -C≡N group.
+
+1. Hydrolysis of Nitriles:
+Nitriles, R-C≡N, can be hydrolyzed to carboxylic acids, RCOOH via the amide, RCONH2 intermediate in the presence of strong acid (e.g. H2SO4) or strong base (e.g. NaOH) / heat.
+R-C≡N -> RCONH2 -> RCOOH.
+
+2. Reduction of Nitriles:
+Nitriles can be converted to primary amines by reaction with LiAlH4 (reducing agent).
+R-C≡N -> (LiAlH4) R-CH2-NH2.
+Methyl nitrile -> Amino ethane.
+
+3. Reactions of RMgX with Nitriles:
+Grignard’s reagents on reaction with alkyl nitriles give an addition product (imine salt) which on hydrolysis with dilute HCl yield ketones.
+Methylmagnesium bromide + Methyl nitrile -> (after hydrolysis) Acetone.
+
+Quick Quiz 1
+1. How would you prepare carboxylic acid from alcohol and aldehyde?
+2. What is Decarboxylation? Write equation for the decarboxylation of calcium acetate.
+3. What are amides and Nitriles?
+
+Society, Technology and Science
+Carboxylic acids occurrence:
+Caprylic acid is present in coconut.
+Lauric acid is also present in coconut.
+Myristic acid is present in nutmeg.
+Arachidic acid is present in peanut oil.
+Citric acid is present in citrus fruits e.g. lemon, limes, grapes, oranges.
+Tartaric acid is present in tamarind and wine.
+Lactic acid is present in apples, tomatoes, molasses and sour milk.
+Acetic acid is present in grapes and vinegar.
+Malic acid is present in green apples and plums.
+Benzoic acid is found in berries.
+Butyric acid is present in rancid butter.
+Caproic acid is present in goat fat.
+Caprylic acid is present in milk.
+Palmitic acid is present in palm oil.
+Stearic acid is present in waxes, animal fats and oils.
+Amino acids are the building blocks of proteins.
+Acetoacetic acid and pyruvic acid are the acids of biochemical significance.
+
+Formic acid is used as preservative for silage (including fresh hay) and other livestock feed.
+Boric acid was used as a food preservative in caviar (a product made from salt-cured fish-eggs) but its use has been banned now.
+Benzoic acid is used as a preservative in jams, beer, preserved fruit, pickles, fruit juice, dessert sauces and syrups.
+Sorbic acid is used as a preservative in fish fingers, butter, margarine, processed cheese, curry powder and cooking oil.
+Acetic acid is used as a preservative in beer, tinned foods especially vegetables and fruit, fresh fruit and vegetables.
+Propionic acid is used as a preservative in dairy products, particularly in cheese and in baking products.
+
+Esters are derived from carboxylic acids by reaction of carboxylic acids and alcohols in the presence of hydrochloric acid or sulfuric acid, a process called esterification. This reaction can occur in nature as a result of a fermentation process.
+Fruits of ester flavors are acetic acid esters.
+Isoamyl acetate gives banana flavor.
+Ethyl butyrate gives pineapple flavor.
+Methyl anthranilate gives grape flavor.
+Methyl salicylate gives wintergreen flavor.

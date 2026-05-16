@@ -1,0 +1,790 @@
+CONCEPTS IN HOMEOSTASIS
+
+Each organism of a species has assumed, in evolutionary history, a specific set up
+of internal environment at various levels of organization suitable to its surroundings i.e.,
+external environment. External environment and its components fluctuate continuously,
+however, the organism resists and manages these changes by making adjustments to keep
+its own internal fluctuations within a narrow range thus protecting internal environment
+from the harms of the fluctuations. The protection of internal environment from the
+harms of fluctuations in external environment is termed as homeostasis. The homeostasis
+keeps the internal fluctuations in a narrow range with various control systems compared
+to wider external fluctuations.
+
+Most susceptible components of internal environment that may be affected by
+fluctuations in external environments are water, solutes and temperature. Also the
+mechanism an organism has adapted to eliminate harmful nitrogenous wastes depends
+upon the availability of water. The mechanism of homeostasis is the central
+regulation, generally between organism and its requirement in the
+environment, of solute and the gain and loss of water maintenance of an organism
+is osmoregulation. The mechanism which eliminates
+nitrogenous waste is referred as excretion, whereas
+maintenance of internal temperature within a tolerable
+range is designated as thermoregulation.
+These contribute in
+evolutionary process.
+
+Likewise the control systems among intracellular and extracellular internal
+environment of an organism also at cell level keep fluctuating in narrow range in
+intracellular, within cell membrane, compared to in extracellular (vascular and other
+interstitial fluids) environment. Here, in addition to solute and water various essential
+metabolites, hormones etc. are kept in a required range. Homeostasis does not mean to
+keep a fixed internal environment as changes maintained within a specific range are
+necessary for normal body functions. For example, water availability may fluctuate
+tremendously for the organisms in the external environment from abundant supply to
+almost dry conditions, however, the quantity of water in the body i.e., internal
+environment may vary in response to abundant supply and dry condition, but in a narrow
+range. The control systems would not let the body be flooded with water in abundant supply
+and also not to dehydrate in dry conditions. Furthermore, adaptation to lower level of
+range in dry conditions and to higher level of range in abundant supply of water is good
+for the organism to feel normal within internal fluctuations forced by drastic external
+fluctuations.
+and also not to dehydrate in dry conditions. Furthermore, adaptation to lower level of
+range in dry conditions and to higher level of range in abundant supply of water is good
+for the organism to feel normal within internal fluctuations forced by drastic external
+fluctuations.
+
+The control systems have been acquired for the variety of homeostatic
+regulations. These living control systems work exactly on the mechanism of physical
+control system. It has three components: receptor, control centre and an effector. In a
+physical control system e.g. temperature control system, there is a sensor (thermometer)
+that monitors temperature change from a set point and signals to control centre to take
+action by switching on heater or cooling units in response to drop or rise in the
+temperature compared to set point. Similar to it in living system there is set point in
+temperature regulated (endothermic) animals. The receptors (sensor) detect temperature
+change, e.g. of increase and signal to control centre for action of cooling systems and the
+vice versa. Detection of change and signalling for effector’s response to control system is
+a feedback mechanism. In these processes there is an inverse effector’s response to the
+change in external environment as there is generally cooling effector’s response to
+warmth sensing in external environment, thus are termed as negative feedback (Fig. 15.1).
+
+External Environment
+Fluctuations in wide range
+Control
+systems
+Restrict
+Fluctuations in narrow range
+Cell
+Intracellular environment
+Extremely narrow fluctuations
+Extracellular environment
+Organism’s internal environment
+
+Fig.15.1. Homeostasis: Controlling systems lower fluctuations in internal environments.
+
+OSMOREGULATION
+Water relations of cell
+Water is the solvent of the solutes in the cell. Each cell has been adapted to a
+defined quantity of water in relation to salts in it to perform its functions. Homeostatic
+mechanisms generally maintain this concentration.
+Balance of water and solutes in the body
+
+Cells consistently encounter changing extracellular environment. It may be of
+diluted solution compared to the cell concentration, thus designated as hypotonic
+environment. The more concentrated external environment is termed as hypertonic and
+that which resembles the internal solution is the isotonic.
+
+The hypotonic environment osmotically causes entry of water into the cell and
+renders the cell solutions diluted. The cell also becomes turgid. Thus it may be harmed
+(Fig. 15.2a). The hypertonic environment, on the other hand, renders cell solutions
+concentrated and shrinks the cell due to loss of water (Fig. 15.2c). To prevent these
+situations cells osmoregulate themselves to keep water and salts balanced in plants and
+animals.
+
+Normal cell | Shrunken cell
+Hypotonic | Isotonic | Hypertonic
+(a) (b) (c)
+
+Fig.15.2 Response of the cell to various external environments i.e. different concentrations of
+solution. Without any regulation with control system at cell membrane, cell remains in
+normal state despite differences in its internal to external environments.
+
+Osmoregulation in Plants
+
+Plants are distributed in different habitats of aquatic, moderate and severely dry
+terrestrial nature, thus termed as hydrophytes, mesophytes and xerophytes, respectively.
+Hydrophytes have the adaptations to remove the flooding of its cells in fresh water. In
+this type the surface area of leaves is very large to transpire water excessively. Extensive
+stomata are present on the upper surface facing the atmosphere to promote loss of water
+(Fig. 15.3a).
+
+Mesophytes have moderate water availability. In sufficient supply of water stomata are
+kept open to promote loss of excess water, however, in restricted supply stomata close to
+prevent the loss e.g. Brassica, rose, mango etc.
+
+Xerophytes have the adaptations for reduced rate of transpiration. Many xerophytes
+possess small, thick leaves to limit water loss by reducing surface area proportional to the
+volume. Their cuticle is thick, waxy and leathery. Stomata are on lower surface of leaves
+and located in depression. Some, as cacti, during the driest season, shed their leaves to
+restrict transpiration completely, thus stems are the photosynthetic organs. In rainy
+season, stem stores water for use in dry conditions (Fig.15.3b).
+
+Fig.15.3a. A hydrophytic plant  Fig.15.3b. A xerophytic plant
+
+Osmoregulation in Animals
+
+Animal cells require more critical balance of water and solutes in the body as
+they cannot survive a net water gain or loss. Water continuously leaves and enters the
+cells; however, the quantity of the water and the solutes is kept in balance. There are two
+approaches in maintaining this balance.
+
+Animal body fluids are kept isotonic to the external environment even for marine
+saltwater environment. These animals thus do not require actively to adjust their
+internal osmotic state, so are known as osmoconformers.
+
+The animals whose body fluid concentrations differ noticeably from the outside
+environment actively regulate to discharge excess water in hypotonic and excrete
+salts in hypertonic conditions, therefore, are called osmoregulators. Animals
+inhabiting different environments have distinct adaptations to regulate osmotic
+balance, e.g. marine, fresh water and terrestrial environments.
+
+Osmoregulation in Different Environments
+
+Marine: Most marine invertebrates are osmoconformers. Among the vertebrates
+hagfishes are isotonic with the surrounding sea water. Most cartilaginous fishes
+maintain lower internal salt concentration than that of sea water. Their kidneys for
+osmoregulation excrete salts through gills and also possess salt excreting organs such as
+rectal glands. These employ active transport mechanism to remove salt against osmotic
+gradient. Some fishes have relatively low salts in body fluids but have rendered these
+hypertonic to that of sea water by retaining urea in adequate concentration. Because
+urea in high concentration is damaging, these fishes retain another chemical
+trimethylamine oxide for protection against urea. Bony fishes, the descendants of fresh
+water ancestors but later became marine, constantly lose water from their hypotonic body
+fluids to hypertonic environments. These fishes have adapted themselves to drink large
+amount of sea water and excrete concentrated urine resulting in maximum
+salt excretion and minimum water loss (Fig. 15.4a).
+
+Fresh Water: Fresh water animals are constantly facing the osmotic flooding of body
+fluids and loss of salts. Fresh water protozoa, Amoeba and Paramecium, pump out excess
+water by structures called contractile vacuoles. Many fresh water animals including fishes
+remove excess water by producing large volumes of very dilute urine. The loss of salts is
+compensated by preference of salt-containing food and by active uptake of salts by gills
+and skin (Fig. 15.4b).
+
+Terrestrial: The evaporative loss of water leading to dehydration is the major problem
+for terrestrial life. Arthropods and vertebrates have successfully adapted to terrestrial
+mode of life. Terrestrial animals are covered by body surface which prevents loss of
+water, as the waxy exoskeletons of insects and multi-layered dead, keratinized skin cells
+of most terrestrial vertebrates. Drinking and eating moist foods compensate the loss of
+water. These animals also have metabolic and behavioral adaptations. Some desert
+mammals e.g. kangaroo rat survive without drinking water by feeding on seeds of desert
+plants containing more carbohydrates which produce water of metabolism. Terrestrial
+animals produce concentrated urine in their kidneys that reabsorb most filtered water in
+the process of excretion. Terrestrial animals can tolerate dehydration and it differs in
+various animals. This characteristic is known as anhydrobiosis.
+Osmoregulation has enabled the animals
+and plants to distribute themselves in wide
+range of habitats.
+
+(Fig 15.4a)
+
+Passive loss of water
+across body surface
+through gills
+
+Drinks
+sea water
+
+Salts actively
+excreted by gills
+
+Scanty amount of
+urine contains some salts
+
+(a) Marine fish
+
+Passive gain of water
+across body surface
+and through gills
+
+Does not
+drink water
+
+Large amount of
+isotonic water taken up by gills
+
+Large amount of
+hypotonic urine
+contains little salts
+
+(b) Fresh water fish
+
+Fig.15.4. Osmoregulation in: (a) Marine fish (b) Fresh water fish
+
+Fresh Water: Fresh water animals are constantly facing the osmotic flooding of body
+fluids and loss of salts. Fresh water protozoa, Amoeba and Paramecium pump out excess
+water by structures contractile vacuoles. Many fresh water animals including fishes
+remove excess water by producing large volumes of very dilute urine. The loss of salts is
+compensated by preference of salt containing food and by active uptake of salts by gills
+and skin (Fig. 15.4b).
+
+Terrestrial: The evaporative loss of water leading to dehydration is the major problem
+for terrestrial life. Arthropods and vertebrates have successfully adapted to terrestrial
+mode of life. Terrestrial animals are covered by body surface, which prevents loss of
+water as the waxy exoskeletons of insects and multi-layered dead, keratinized skin cells
+of most terrestrial vertebrates. Drinking and eating moist foods compensate the loss of
+water. These animals also have metabolic and behavioral adaptations. Some desert
+mammals e.g. kangaroo rat survive without drinking water by feeding on seeds of desert
+plants containing more carbohydrates, which produce water of metabolism. Terrestrial
+animals produce concentrated urine in their kidneys that reabsorb most filtered water in the
+process of excretion. Terrestrial animals can tolerate dehydration and it differs in various
+animals. This characteristic is known as anhydrobiosis.
+
+EXCRETION
+
+Among the assimilated nutrients in animals, carbohydrates and lipids are
+metabolized to CO₂ and H₂O. Proteins and nucleoproteins metabolism produces waste
+nitrogen in various forms in different animals. The waste nitrogen proves toxic if it is
+concentrated in the cell, therefore, it must be removed from the body. The elimination of
+wasteful metabolites, mainly of the nitrogenous nature is called excretion.
+
+In contrast, the mechanism of excretion in plants is different. Plants in their
+autotrophic mode of life produce oxygen and in metabolism produce CO₂ and H₂O as the
+excretory products. Plants also produce several organic and inorganic compounds which
+are stored for various purposes and are also removed when necessary.
+
+Excretion in Plants
+
+All living things must undergo excretion. It is one of the essential properties of
+life. In plants, oxygen could be looked upon as a waste product of photosynthesis; carbon
+dioxide a waste product of respiration and water as the waste product of both. The
+mechanisms of elimination of these gases are described in the respective chapters. Water
+is lost through transpiration or just used for maintaining the turgor in the cells.
+
+Plant cells have large vacuoles; these can be used for either storage of useful
+compounds, or the storage of waste substances. These may accumulate at
+concentrations that lead to crystal formation in the vacuoles. Plants produce certain
+wastes of inorganic and organic nature, which are stored in certain organs. The leaves are
+the prominent organs for this purpose. These leaves are destined to fall off, as is the case
+of autumn leaves in plants or die off as happens in the leaves and stalk of certain bulbs
+e.g. bluebell, leaving the bulb underground. This is the reason gardeners find rotted
+autumn leaves a good source of minerals. The falling of yellow leaves in autumn is the
+seasonal time for the plants to get rid of the accumulated wastes and because of this
+reason leaves are said to be excretophore. According to an explanation the change in
+color in these leaves is not due to removal of chlorophyll as the microscopic examination
+of autumn leaves shows that leaves are loaded with pigmented compounds prior to falling
+off and many toxic materials like heavy metals increase sharply as the yellowing
+proceeds.
+
+Some trees deposit strange chemicals in their branches and trunks, especially in
+old xylem which is no longer used for water transport. This takes place in ebony which
+produces very black wood in the center. These are considered to be waste materials by
+plant physiologists.
+
+Some plants will actively secrete waste compounds into the soil, occasionally
+using them as chemical weapons against other competing plants e.g. conifers.
+
+Excretion in Animals
+
+Keeping in view the definition of excretion, as discussed earlier, that it is the
+elimination of waste metabolites. Several products may be included in the list of
+excretory products. Water due to its removal in hypo-osmotic environment is labelled as
+excretory product in these specific conditions. Similarly, salts removed by animals of
+hypertonic environment etc. Nitrogenous waste metabolites constitute the excretory
+products.
+
+Primarily, in the catabolism of amino acids the amino group (—NH₂) is released
+(deamination) or transferred to another molecule for removal or reuse. Amino group not
+reused for recycling of amino acids is essentially dissolved in water and excreted to avoid
+toxic rise in the plasma. Elevated levels of these wastes can cause convulsions, coma and
+eventually death. Mostly excess nitrogen is excreted by animals as ammonia, urea or
+uric acid (Fig. 15.5). Lower quantities of nitrogen are excreted in the form of other
+compounds such as creatinine, creatine or trimethylamine oxide and in very small
+quantities as amino acids, purines and pyrimidines. Metabolism of purine and pyrimidine
+bases produces significant amount of nitrogenous wastes of hypoxanthine, xanthine,
+uric acid, allantoin, urea and ammonia.
+Nature of Excretory Products in Relation to Habitats.
+
+Ammonia is very toxic and dissolves quickly in body fluids. It must be
+kept in low concentration in the body. To maintain its low concentration below that of
+body requires large volume of water also to eliminate it in urine as it is produced. This is
+possible in a hypotonic environment. Therefore, ammonia is kept as excretory product
+of the animals inhabiting hypotonic (e.g. fresh water) environment.
+About 500 ml water is needed to excrete 1 g of ammonia nitrogen.
+
+In restricted supply of water, ammonia cannot be kept as excretory product, the
+other alternative is to change it into less toxic substance such as urea. Urea requires only
+50 ml of water for its 1 g of nitrogen removal. Here excretory nitrogen is metabolically
+converted into urea by urea cycle (Fig.15.6) in the animals inhabiting environment with
+restricted supply of water e.g. terrestrial mammals.
+
+Citrulline ← Ornithine + CO₂ + Ammonia
+(First nitrogen of urea)
+
+Argininosuccinate → Arginine
+(Second nitrogen of urea)
+
+Urea Cycle
+
+Arginine → Urea + Ornithine
+
+Fig.15.6. Metabolic pathways in urea cycle
+
+Animals inhabiting environment with acute shortage of water supply require an
+excretory product which can be excreted with minimum amount of water. Only 10 ml water
+is required to eliminate 1 g of nitrogen in the form of uric acid. Therefore the reptiles and
+birds that inhabit arid environment excrete uric acid as excretory product. Animals
+excreting ammonia, urea and uric acid are called as ammonotelic, ureotelic and
+uricotelic respectively. Ureotely and uricotely are evolutionary adaptations of
+nitrogenous waste in their habitats. Animals have adapted not only the chemical nature of
+excretory products but also the various adaptations have been obtained to provide
+diversity in excretory structures. The main representative models are described below:
+
+EXCRETION IN REPRESENTATIVE ANIMALS
+
+Excretion in Hydra
+
+Hydra, a cnidarian, does not have specialized excretory structures. In it waste
+droplets simply diffuse into the isosmotic surroundings.
+
+Excretion in Planaria
+
+Flatworms have simple tubular excretory system called as protonephridia. This
+system is spread throughout the body and branches
+are capped by a cellular setup termed as flame cell. Each flame cell has a tuft of
+cilia, whose beating propels interstitial fluid into the tubular system (the beating of cilia
+looks like a flickering flame, therefore these cells are termed flame cells). The tubular
+system is drained into excretory ducts, which open to the exterior through several
+nephridiopores (Fig.15.7).
+
+Fresh water flatworms excrete very dilute urine. The parasitic flatworms, which
+are isotonic to the host environment mainly function in disposing nitrogenous wastes.
+
+Flame cells
+Nucleus
+Cilia (“flame”)
+Protonephridial
+network
+Nephridiopores
+Excretory duct
+
+(a) Planaria
+(b) Portion of excretory organ
+(c) Single flame cell
+
+Fig.15.7. Excretory system in Planaria
+
+Excretion in Earthworm
+
+Earthworm is an ideal example of another type of tubular excretory system
+called as metanephridium. Each segment of earthworm has a pair of metanephridia.
+This system has an internal ciliated opening, the nephrostome, immersed in
+coelomic fluid and enveloped by a network of capillaries. Nephrostome
+collects coelomic fluid. As fluid moves along the tubule, epithelium reabsorbs salt
+from the lumen and sends it to blood vessels surrounding the nephridium. The leftover
+appears as urine containing nitrogenous waste (Fig. 15.8).
+
+Excretion in Cockroach
+
+In terrestrial arthropods particularly in the insects, the excretory structures are
+adapted to collect excretory products from hemolymph in sinuses through suspended
+tubular structures called Malpighian tubules. These Malpighian tubules remove
+nitrogenous waste from the hemolymph. These are the only excretory structures in animal
+kingdom that are associated with digestive tract. The epithelial lining of the tubules
+transports solutes including salts and nitrogenous waste from hemolymph into tubules
+lumen. Fluid then passes to hind gut into the rectum. Rectum reabsorbs
+most of the salts and water, thus nitrogenous wastes are excreted as solid excreta in the form
+of uric acid crystals along the feces. This kind of adaptation in excretion is the success of
+these animals on land with acute shortage of water (Fig. 15.9).
+
+Fig. 15.9 Excretory system in insect
+
+EXCRETION IN VERTEBRATES
+
+The ancestors of vertebrates, the invertebrate chordates, have segmentally
+arranged excretory structures throughout the body like the metanephridia in earthworm.
+This character is well represented in the primitive vertebrate hagfishes which have
+kidneys with segmentally arranged tubules. However, the contrasting developments
+proceeded in evolution in other vertebrates with the appearance of kidneys. Kidneys
+contain numerous tubules, not arranged segmentally, closely associated with dense
+network of capillaries. The basic functional structure in the kidneys is nephron.
+Excretion in Human
+
+Normal Mechanism: Considering the chemical basis of life and its sustainability on
+metabolic pathways, the generation of wastes is primarily done at metabolic level and
+these are called metabolic wastes. These include urea, produced from the metabolism of
+amino acids; creatinine, produced from muscle creatine; uric acid, from nucleic acids;
+bilirubin, end products of haemoglobin breakdown and metabolites of various hormones.
+Metabolic wastes also include the toxins produced within the body and ingested into the
+body such as pesticides, drugs and food additives. The presence of wastes in the body
+causes serious hazards, thus are eliminated by excretory system.
+
+Excretory Organs
+
+Liver and kidneys are the primary structure for eliminating waste products.
+Liver is the central station of metabolism and consequently the body’s central
+metabolic clearing house. Due to this characteristic, liver functions are pivotal to
+homeostasis and involve interaction with most of body’s organ systems. Liver supports
+the excretory role of the kidney by detoxifying many chemical poisons and produce
+ammonia, urea and uric acids from the nitrogen of amino acids. Removal of salts with
+water by the sweat glands and of sebum by sebaceous glands seems to be excretory in
+nature. The removal of water and salts from sweat glands is for the purpose of
+thermoregulation and of sebum on the skin is for protection against microorganisms.
+Therefore in context of definition of excretion, skin may not be considered as an
+excretory organ. Among the various nitrogenous wastes described earlier, urea is the
+principal excretory product and liver forms it from the waste nitrogen. The metabolic
+pathways involved in the production of urea are termed as urea cycle. Two
+ammonia and one carbon dioxide molecules are shunted into the cycle to generate one
+molecule of urea. One ammonia molecule combines with carbon dioxide and already
+available precursor from previous cycle ornithine to form citrulline; subsequently
+another ammonia combines to form arginine. The arginine is split by arginase to form
+urea and the precursor ornithine for next cycle (Fig. 15.6).
+
+Table 15.1. Major homeostatic functions of the liver
+
+Synthesis:
+• Nitrogenous wastes: NH₃, urea, uric acid — supports kidney in waste disposal
+• Plasma proteins: prothrombin, fibrinogen, albumin etc. —
+a) blood clotting, b) maintain osmotic balance of blood
+• Emulsifier: bile salts — assist in small intestinal digestion of lipids
+• Lipids: cholesterol, lipoproteins — regulate blood chemistry, store energy and help
+maintain cell membranes
+
+Storage:
+• Iron — oxygenation of tissues as constituent of haemoglobin
+• Glycogen
+
+Conversion:
+• Excess glucose in blood to glycogen, lactic acid to glycogen and stored glycogen to
+glucose — energy storage and use
+
+Recycling:
+• Contents of old red blood cells (e.g. CO₂ and other constituents of haemoglobin) —
+oxygenation of tissue
+
+Detoxification:
+• Many harmful chemicals (e.g. food additives, pesticides, drugs etc.) — assist kidney
+in toxin disposal
+
+Liver is not only involved in the synthesis of nitrogenous wastes to assist kidney in
+their disposal, but also has numerous crucial functions of homeostasis importance. These
+functions belong to synthesis, storage, conversion, recycling and detoxification categories
+(Table 15.1).
+
+Urea is detoxified form of
+ammonia in urea cycle, which
+can be retained in the body in
+greater amounts than ammonia
+and can be eliminated with ¹/₁₀
+quantity of water as compared to
+ammonia.
+
+Urinary System
+
+A pair of kidneys consists of millions of functional units, nephrons. The
+nephrons have extensive blood supply via the renal arteries, which leave each kidney via
+the renal vein. The function of kidney and blood in clearing wastes is very evident from
+the fact that weight of kidneys accounts for less than 1% of the total body weight while
+receiving 20% of blood supplied with each cardiac beat. Following filtration of blood and
+further processing through tubular system, urine is collected in a central cavity of the
+kidney, pelvis. Urine leaves the kidney through a duct ureter. The ureters of both the
+kidneys drain into urinary bladder through ureteral orifice. Urine leaves the body,
+during urination, from the bladder through a tube called the urethra, which empties near
+the vagina in females or through the penis in males. Sphincter muscles near the junction
+of the urethra and the bladder control the urine in bladder (Fig. 15.10).
+
+(Figure text unchanged)
+
+The functional units, nephrons, in human kidneys are
+arranged along two
+regions; an outer cortex and an inner medulla. The nephrons arranged along the
+cortex are called cortical, however, those arranged along the border of cortex and
+medulla with their tubular system looping deep in inner medulla are juxtamedullary
+nephrons. These juxtamedullary nephrons are specifically instrumental in the production
+of concentrated urine (Fig. 15.11).
+
+In each nephron inner end forms a cup-shaped swelling, called Bowman’s
+capsule and it is around a ball of capillaries called glomerulus. Glomerulus circulates
+blood through capsule as it arrives through afferent arteriole and leaves the capsule by
+efferent arteriole. The blood vessel subdivides again into
+another network of capillaries,
+the peritubular capillaries.
+Bowman capsule continues as
+an extensively convoluted proximal
+tubule, loop of Henle and the
+distal tubule, which empties into
+collecting tubules. The
+collecting tubules open into
+pelvis. The filtrate from
+glomerulus passes through these
+structures and is processed
+ultimately for urine formation.
+The peritubular capillaries
+intermingle with proximal and
+distal tubules of the nephron. In
+juxtamedullary nephrons
+additional capillaries extend
+down to form a loop of vessels,
+vasa recta.
+
+Filtration: Blood passing through glomerulus is filtered into Bowman’s capsule. It is
+specifically filtered here, unlike at the other parts of the vessels, because glomerulus
+walls are porous, and the fraction of the blood pressure reaching here provides the
+filtration pressure. The filtrate appearing in Bowman’s capsule is called glomerular filtrate,
+which contains numerous useful substances such as glucose, amino acids, salts etc. in
+aqueous solution.
+
+Reabsorption: All the useful constituents of the glomerular filtrate are reabsorbed in
+proximal tubules and when filtrate leaves proximal tubules, it mostly contains
+nitrogenous wastes.
+
+Secretion: The tubular epithelium also secretes substances into the lumen. This secretion
+is very selective and is mainly of hydrogen ions to balance pH value of the filtrate
+passing through the tubule.
+
+Concentration of Excretory Products
+In restricted supply of water, the conservation of water is the principal function
+of the body. This is done by concentration of the filtrate by counter current and hormonal
+mechanisms. In the sufficient or excess supply of water, reabsorption of water from the
+filtrate is reduced, specifically due to inhibition of release of antidiuretic hormone in the
+presence of hypo-osmotic body fluids. The reduction in reabsorption causes large volumes
+of diluted urine. Mammalian kidney including human is adapted to conserve water by
+over 99.5% reabsorption of glomerular filtrate.
+
+The interstitial fluid of the kidney is gradually concentrated from cortical to
+medullary part, thus inner medulla is highly concentrated with the presence of urea and
+through a mechanism of counter-current multiplier. This mechanism causes gradual
+osmotic outflow of water from the filtrate back to kidney as it passes downward in the
+descending loop of Henle. Furthermore, ascending loop of Henle does not allow outflow
+of water from its filtrate, instead actively transports Na⁺ ions into kidney interstitium to
+maintain its high concentration.
+
+Hormones: The active uptake of sodium in the ascending limb or thick loop of Henle is
+promoted by the action of aldosterone, the hormone secreted from adrenal cortex. The
+other site in the nephron, where reabsorption of water takes place is collecting tubules.
+ADH released from posterior pituitary lobe acts to actively transport water from filtrate in
+collecting tubules back to kidney.
+
+Kidney as Osmoregulatory Organ
+
+The production of varied concentrations of urine depending on the availability of
+water exhibits clearly that kidney functions as an osmoregulatory organ along its
+excretory role of nitrogenous wastes.
+Kidney Problems and Cures
+
+Unusual situations may arise in the function of kidney by factors originating
+within kidney or outside. These cause serious kidney diseases.
+
+Kidney Stones: Stony materials are found in the kidney and these cause urinary
+obstruction and are generally complicated by infections. These stones have specified
+chemical nature. These are formed in metabolic disease, hypercalcemia i.e. high level of
+circulating calcium in blood because of other diseases.
+Hyperoxaluria i.e. higher blood level of oxalates is another contributing factor in the formation
+of calcium oxalate stones. Oxalates are present in green vegetables and tomatoes therefore
+may be the source of hyperoxaluria. The incidence of calcium oxalate type
+stones is 70% of all the kidney stones. The incidence of other types of stones of calcium
+phosphate and of uric acid is 15% and 10% respectively. These salts
+are precipitated out during urine formation and accumulate later to form stone (Fig.15.13).
+
+Lithotripsy: The kidney stones have been removed by kidney surgery. Presently
+lithotripsy is used for non-surgical removal of kidney stone. It is the technique used to
+break up stones that form in the kidney, ureter or gall bladder. There are several ways to
+do it, although the most common is extracorporeal shock wave lithotripsy. High
+concentrations of X-ray or ultrasound are directed from a machine outside the body to the
+stone inside. The shock waves break the stone in tiny pieces or into sand, which are
+passed out of the body in urine.
+
+Renal Failure: Various factors of pathological and chemical nature may progressively
+destroy the nephron, particularly its glomerular part. This results in increase in the
+plasma level of urea and other nitrogenous wastes. The rise in urea causes complications
+of increase in blood pressure and anemia etc.
+
+Dialysis: In chronic renal failure, the function of the kidney is completely lost and is
+unable to remove nitrogenous waste. To remove nitrogenous waste, particularly the urea,
+the blood of the patient is treated through dialysis. It cleans the blood either by passing it
+through an artificial kidney or by filtering it within the abdomen. The wastes and excess
+water are removed during the treatment as is done by the healthy kidneys.
+
+There are two types of dialysis: hemodialysis and peritoneal dialysis.
+Hemodialysis means “cleaning the blood”. In this procedure blood is circulated through a
+machine which contains a dialyzer also called an artificial kidney. Dialyzer has two
+spaces separated by thin membrane. Blood passes from one side of the membrane and
+dialysis fluid on the other. The wastes and excess water pass from the blood through the
+membrane into the dialysis fluid.
+
+Peritoneal dialysis works on the same principle except that abdomen has a
+peritoneal cavity, lined by a thin epithelium called peritoneum. Peritoneal cavity is
+filled with dialysis fluid that enters the body through a catheter. Excess water and wastes
+pass through the peritoneum into the dialysis fluid. This process is repeated several times
+a day. Dialyzer is a kidney machine that works on the same principle as in a kidney
+for removal of nitrogenous wastes and excess water from the blood. It is used after
+kidney failure and dialysis is done again and again until a matching donor’s kidney is
+available.
+
+Kidney Transplant: Dialysis may be used as a temporary measure. In high degree renal
+failure also called as uremia or end-stage renal disease, the dialysis cannot be done.
+Thus the surgical transplantation of a matching donor kidney is the only option left
+for the permanent treatment.
+
+Corrected Text (PAGE 19)
+
+THERMOREGULATION
+
+Homeostatic control systems operate in organisms to cope with environmental stresses
+including temperature extremes.
+
+Adaptations in Plants to Low and High Temperature
+
+High Temperature: High temperature denatures the enzymes and damages the
+cells, therefore, it harms or kills the plants. Plants use evaporative cooling to
+manage with high temperature. Hot and dry weather, however, causes water deficiency
+resulting in closing of stomata, thus plants suffer in such conditions. Most plants have
+adapted to survive in heat stress as the plants of temperate regions face the stress of 40°C
+and above temperature. The cells of these plants synthesize large quantities of special
+proteins called heat-shock proteins. These proteins embrace enzymes and other proteins
+thus help to prevent denaturation.
+
+Low Temperature: In low temperature the fluidity of the cell membrane is altered,
+because lipids of the membrane become locked into crystalline structures, which affects
+the transport of the solutes. The structure of the membrane proteins is also affected.
+Plants respond to cold stress by increasing proportion of unsaturated fatty acids, which
+help membrane to maintain structure at low temperature by preventing crystal formation.
+This adaptation requires time because of this reason rapid chilling of plants is more
+stressful than gradual drop in air temperature.
+
+Freezing temperature causes ice crystal formation. The confinement of ice
+formation around cell wall does not affect as badly and plants survive, however,
+formation of ice crystals within protoplasm perforates membranes and organelles hence
+killing the cells. The plants native to cold region such as oaks, maples, roses and other
+plants have adapted to bring changes in solutes composition of the cells, which causes
+cytosol to supercool without ice formation, although ice crystals may form in the cell
+walls.
+
+Corrected Text (PAGE 20)
+
+MECHANISMS IN ANIMALS
+
+Body Heat, Heat Gain and Loss
+
+Temperature of an animal depends upon the rate of change of body heat which in
+turn depends on rate of heat production through metabolic processes and the rate of
+external heat gain and rate of heat loss. This transfer of heat between an animal and its
+environment is done in numerous ways. Principally, infrared thermal radiation and direct
+and reflected sunlight transfer heat into the animal; whereas radiation and evaporation
+transfer heat out to the environment.
+
+Temperature Classification of Animals
+
+Animals deal with variation in the thermal characteristics of their environment.
+There are animals in which body temperature tends to fluctuate more or less with ambient
+temperature where air or water temperatures are changed. These are poikilotherms; all
+invertebrates, fish, amphibians and reptiles are considered in this category. The other
+animals exposed to changing air or water temperature maintain their body temperature;
+these are the homeotherms and include birds and mammals. Several difficulties arise with
+this terminology with studies. It is observed that deep sea fishes maintain their body
+temperature due to the constant natural surroundings and lizards regulate their body
+temperature; and in contrast numerous birds and mammals vary their body temperature.
+
+Therefore, a more widely applicable temperature classification scheme is based
+on the source of heat production. According to this, animals that generate their own body
+heat through heat production as by-product during metabolism are endotherms including
+birds, some fishes and flying insects. Ectotherm is the other type, which produce
+metabolic heat at low level and that is also exchanged quickly with the environment,
+however, absorb heat from their surroundings. Most invertebrates, fish, amphibians and
+reptiles are in this category. A third category, heterotherms, is of those animals who are
+capable of varying degrees of endothermic heat production but generally do not regulate
+their body temperature within a narrow range e.g. bats, hummingbird etc.
+
+Corrected Text (PAGE 21)
+
+Regulation of Heat Exchange between Animals and Environment
+
+Animals use different mechanisms for such regulation and these are of structural,
+physiological and behavioral nature.
+
+Structural Adaptations: These may be long term changes in subdermal fatty layer,
+insulation and pelage. The presence of sweat glands and lungs modified for panting.
+
+Physiological Adaptations: These regulate blood flow to the skin; specifically greater
+blood flow in warmth to dissipate heat and lower in colds to economize heat loss, also the
+activation of certain muscles causes plumage fluffing. Similarly activation of sweat
+glands is done for evaporative cooling.
+
+Behavioral Adaptations: These include moving of the animal to an environment
+where heat exchange between these is minimal e.g. ground squirrels move to burrows in
+midday heat and lizards bask in sun to gain heat. Animals also control the amount of
+surface area available for heat exchange by adjusting their postures.
+
+Corrected Text (PAGE 22)
+
+THERMOREGULATION IN MAMMALS (HUMAN)
+
+Regulatory Strategies
+
+Mammals including human maintain their high body temperature within a narrow
+range of about 36–38 °C because of their endothermic characteristics. The origin of
+endothermy in birds and mammals has provided the opportunity to keep high metabolic
+rate and availability of energy round the clock, thus had acquired greater ability to
+adaptations and has assisted in much of their wider diversity and distribution in
+diversified regions of the earth.
+
+These regulate the rate of metabolic heat production, balancing it with the rate at
+which they gain or lose heat from the surroundings. The rate of heat production is
+increased by increased muscle contraction by movements or shivering so called as
+shivering thermogenesis. Also hormones trigger the heat production as do thyroid
+hormones and are termed as non-shivering thermogenesis. Some mammals possess
+brown fat, which is specialized for rapid heat production. In overproduction of heat it is
+dissipated through exposed surfaces by increasing blood flow or the evaporative cooling.
+In mammals it is observed that skin has been adapted as the organ of thermoregulation
+(Fig.15.14).
+
+Corrected Text (PAGE 23)
+
+In Cold Temperature: Mammals have various mechanisms that regulate heat
+exchange with their environment. Vasodilation and vasoconstriction affect heat exchange
+and may contribute to regional temperature differences within an animal. On a cool day a
+human’s temperature may be several degrees lower in the arms and legs than in the trunk,
+where the most vital glands are situated. Most land mammals respond to cold by raising
+their furs thereby trapping the thicker layer of still air and it acts as good insulator
+between animal skin and the surroundings. Human mostly rely on a layer of fat just
+insulating beneath the skin as insulating material against heat loss. Similarly marine
+mammals such as whales and seals inhabit much colder water than their body temperature
+have a very thick layer of insulating fat called blubber just under the skin.
+
+In Warm Temperature: Marine mammals dispose off their excess heat into warm
+seas by large number of blood vessels in the outer layer of the skin. This dissipates the
+heat from the skin surface. In terrestrial mammals, in contrast, is the mechanism of
+evaporative cooling. The sweat gland activity and the evaporative cooling is one of
+the major temperature reducing strategies. Panting, the evaporative cooling in the
+respiratory tract, is the other mechanism as represented in the dogs. Bats etc. use saliva
+and urine for evaporative cooling.
+
+Thermostat Function and Feedback Controls in Human
+
+The body temperature regulation in humans is based on complex homeostatic
+systems facilitated by feedback mechanisms. The homeostatic thermostat is present in the
+hypothalamus, a brain part. It responds to the changes in the temperature above and
+below a set point which is 37°C.
+
+In case of increase in temperature above the set point, certain warm-temperature
+sensitive thermoreceptors in skin, hypothalamus and other parts of nervous system send
+the signals to the system that increase the blood flow to the skin and also cause sweat
+gland activation and the sweat is evaporated for the cooling.
+
+In cold temperature, the cold receptors send the impulses to hypothalamus to
+inhibit heat loss mechanisms and activate the heat conservation mechanisms. This
+includes constriction of superficial blood vessels and stimulating shivering and non-
+shivering mechanisms.
+
+Temperature in fever (Pyrexia)
+
+In bacterial and viral infections mainly, leukocytes increase in number. These
+pathogens and the blood cells produce chemicals called pyrogens. Pyrogens displace
+the set point of hypothalamus above the normal point of 37°C. Fever or high temperature
+helps in stimulating the protective mechanisms against the pathogens.
+
+(i) ——— is the ability of an organism to regulate its fluid contents.
+(ii) The detoxification of ammonia to urea requires the precursor of
+ornithine.
+(iii) The kidney nephron is closely associated with network of
+capillaries.
+(iv) Maximum water reabsorption takes place in the
+proximal convoluted tubule.
+(v) Antidiuretic hormone acts on collecting duct to promote reabsorption of water
+in vertebrates.
+(vi) The nephrons arranged along the border of cortex and medulla, with tubular
+system looping deep in the inner medulla, are called
+juxtamedullary nephrons.
+(vii) The non-surgical procedure of removing kidney stone is termed as
+lithotripsy.
+(viii) Homeostatic thermostat in human
+is located in hypothalamus.

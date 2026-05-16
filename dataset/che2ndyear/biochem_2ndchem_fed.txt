@@ -1,0 +1,296 @@
+biochem_2ndchem_fed.txt
+
+After completing this lesson, you will be able to:
+Explain the basis of classification, structure and functional relationship of Carbohydrates.
+Explain the role of various carbohydrates in health and diseases.
+Identify the nutritional importance and their role as energy storage.
+Explain the basis of classification and structure-function relationship of proteins.
+Describe the role of various proteins in maintaining body function and their nutritional importance.
+Describe the role of enzyme as biocatalyst and relate this role to various functions such as digestion of food.
+Identify factors that affect enzyme Activity such as effect of temperature and pH.
+Explain the role of inhibitors of enzyme catalyzed reaction.
+Describe the basis of classification and structure-function relationship of Lipids.
+Identify the nutritional and Biological importance of lipids.
+Identify the structural components of DNA and RNA.
+Recognize the structural differences between DNA polymer (double strand) and RNA (single strand).
+Relate DNA sequence to its function as storage of genetic information.
+Relate RNA sequence (transcript) to its role in transfer of information to protein (Translation).
+Identify the sources of minerals such as Iron, Calcium, Phosphorus and Zinc.
+
+INTRODUCTION TO BIOCHEMISTRY
+As the name indicates, biochemistry is a hybrid science.
+Biochemistry is the branch of science which deals with studying various biomolecules that occur in living cells and organisms and their chemical reactions.
+Living organisms should be able to transform matter and energy into different forms, show response to changes in their environment and show growth and reproduction. All living organisms undergo changes due to large organic compounds called macromolecules. Four major types of macromolecules control all activities in the body. They are carbohydrates, proteins, lipids and nucleic acids.
+
+21.1 CARBOHYDRATES
+Carbohydrates are called so because they contain carbon, oxygen and hydrogen in which hydrogen and oxygen are in the ratio 2:1 with the general formula Cx(H2O)y.
+Modern Definition:
+Carbohydrates are polyhydroxy compounds of aldehydes or ketones.
+Carbohydrates or saccharides are the most abundant of the four types of macromolecules. These are sugars or starches. They have several roles in living organisms, including energy transportation, as well as being structural components of plants and arthropods. Carbohydrate derivatives are actively involved in fertilization, immune systems, development of disease, blood clotting and growth.
+
+Classification of Carbohydrates
+Carbohydrates are classified into three types.
+
+1. Monosaccharides:
+Definition: The carbohydrates which do not hydrolyze to simpler units are called monosaccharides.
+This is the smallest possible sugar unit. Examples are glucose, galactose and fructose. When we talk about blood sugar, we refer to glucose in the blood. Glucose is a major source of energy for a cell. Glucose is naturally in honey and corns. In human nutrition, galactose can be found most readily in milk and dairy products, while fructose is found mostly in vegetables and fruits (grapes).
+
+2. Disaccharides (Oligosaccharides):
+Disaccharides are carbohydrate molecules which upon hydrolysis form 2-10 units of simple sugars (monosaccharides). Examples of disaccharides include lactose, maltose, and sucrose.
+Sucrose + H2O -> Glucose + Fructose.
+Lactose + H2O -> Galactose + Glucose.
+Sucrose occurs in sugarcane, sugar beet, mango, pineapple, almond and apricot.
+
+3. Polysaccharides:
+Definition: The carbohydrates producing large number of monosaccharides on hydrolysis are called polysaccharides.
+Starch and cellulose are the examples of polysaccharides.
+A brief summary is presented below:
+Monosaccharides: Glucose, Galactose, Fructose, Ribose, Glyceraldehyde.
+Disaccharides: Sucrose, Maltose, Lactose.
+Polysaccharides: Starch, Glycogen, Cellulose.
+
+Some common carbohydrates, with their structures are as follow:
+Glucose: Monosaccharide, aldose, hexose. Occurs abundantly in plants and animals.
+Fructose: Monosaccharide, ketose, hexose. In fruit and honey.
+Ribose: Monosaccharide, aldose, pentose. Component of nucleic acids and coenzymes.
+Sucrose: Disaccharide. In sugarcane, beetroot.
+Lactose: Disaccharide. In milk.
+Maltose: Disaccharide. In malt.
+Starch: Polysaccharide. In cereals, potatoes, corn, rice.
+Glycogen: Polysaccharide. In liver and muscle.
+Cellulose: Polysaccharide. In plant cell walls.
+
+21.1.2 Functions of Carbohydrates
+The main functions of carbohydrates are given below:
+They spare protein so that protein can concentrate on building, repairing, and maintaining body tissues instead of being used up as an energy source.
+For fat to be metabolized properly, carbohydrates must be present. If there are not enough carbohydrates, then large amount of fats are used for energy. The body is not able to handle this large amount so quickly, so it accumulates ketone bodies, which make the body acidic. This causes a condition called ketosis.
+Carbohydrate is necessary for the regulation of nerve tissue and is the only source of energy for the brain.
+Certain types of carbohydrates support the growth of healthy bacteria in the intestines for digestion.
+Some carbohydrates are high in fibre, which help prevent constipation and lowers the risk for certain diseases such as cancer, heart disease and diabetes.
+
+21.1.3 Nutritional Importance of Carbohydrates
+Main functions of carbohydrates are given below:
+Body Weight Regulation: People eating a diet high in carbohydrates are less likely to accumulate body fat compared with those who follow a low carbohydrate/high-fat diet. Studies show that carbohydrates, both in the form of starch and sugar, work quickly to aid satiety and that those consuming high carbohydrate diets are therefore less likely to overeat. It is evident that diets high in carbohydrate, as compared to those high in fat, reduce the likelihood of developing obesity.
+Diabetes: There is no evidence that sugar consumption is linked to the development of any type of diabetes. However, there is now good evidence that obesity and physical inactivity increase the likelihood of developing non-insulin dependent diabetes, which usually occurs in middle age. Weight reduction is usually necessary and is the primary dietary aim for people with non-insulin dependent (Type II) diabetes. Recent recommendations for the dietary management of diabetes allow a modest amount of ordinary sugar as the inclusion of sugar with a meal has little effect on either blood glucose or insulin concentrations in people with diabetes.
+Dental Health: Carbohydrate containing sugars or starches can be broken down by the enzymes and bacteria in the mouth to produce acid which attacks the enamel of the teeth. After an acid challenge, saliva provides a natural repair process which rebuilds the enamel. When carbohydrate-containing foods are consumed too frequently, or nibbled over time, this natural repair process is overwhelmed and the risk of tooth decay is increased.
+
+21.2 PROTEINS
+The molecules which yield amino acids on complete hydrolysis are called proteins.
+Proteins are the basis for the major structural components of animal and human tissue. Proteins are natural polymer molecules consisting of amino acid units. The number of amino acids in proteins may range from two to several thousand.
+These molecules contain nitrogen, carbon, hydrogen and oxygen. They act as biological catalysts (enzymes), form structural parts of organisms, participate in cell signal and recognition factors, and act as molecules of immunity. Proteins can also be a source of fuel.
+
+21.2.1 Classification of Proteins
+Three classes of proteins are usually defined:
+1) Simple proteins 2) Compound or conjugated proteins 3) Derived proteins.
+a. Simple Proteins: These proteins on hydrolysis yield only amino acids or their derivatives. For example: Albumins, Globulins, Glutelins and Histones.
+b. Conjugated Proteins: Those proteins which are attached or conjugated to some non-protein group which are called prosthetic group. For example: Nucleoproteins, Mucoprotein, Glycoprotein and Phosphoprotein.
+c. Derived Proteins: Those proteins which are derived from simple and conjugated proteins. For example: Proteans, Proteoses, Peptones and Peptides.
+
+21.2.2 Structure of Proteins
+The structure of a protein depends upon the spatial arrangement of polypeptide chains present in protein. Since three spatial arrangements are possible, proteins have the following four structures.
+a) The Primary Structure of Proteins: The sequence of amino acids in a peptide chain is called primary structure. Amino acids are linked one another through peptide bonds. The arrangement of these amino acids is called primary structure.
+b) The Secondary Structure of Proteins: Peptide chains may acquire spiral shape or may be present in a zig-zag manner. This coiling or zig-zagging of polypeptide is called secondary structure of protein. It is due to H-Bonding.
+c) The Tertiary Structure of Proteins: Twisting or folding of polypeptide chains represents tertiary structure of proteins.
+d) Quaternary Proteins: Quaternary means four. This is the fourth phase in the creation of a protein. Quaternary protein is the arrangement of multiple folded protein or coiling protein molecules in a multi-subunit complex. A variety of bonding interactions including hydrogen bonding, salt bridges, and disulfide bonds hold the various chains into a particular geometry.
+
+21.2.3 Properties of Proteins
+Proteins are involved in such processes as food digestion, cell structure, catalysis, movement, energy manipulation and much more.
+There are about 20-22 common amino acids found in most proteins. All but one of these small molecules has the same common structure but varies in the nature of one chemical group - termed the "R-group". Amino acids are joined together in long chains called "polypeptides".
+
+21.2.4 Importance of Proteins
+Following are the features of the protein which are very important:
+Proteins play an important role in the formation of protoplasm. Protoplasm is the essence of all form of life.
+Nucleoproteins are complex proteins and act as the carrier of heredity from one generation to the other.
+Enzymes are the biological catalyst and they are also proteins. Without enzymes life is not possible.
+Hemoglobin is a protein. It acts as carrier of oxygen.
+Some of the proteins act as hormones. They carry out the regulatory function of the body.
+Proteins have great importance in industry. Tanning of hides is an industrial process. This process is the precipitation of protein by tannic acid.
+Gelatin is obtained by heating bones, skins and tendons in water. It is used in bakery goods.
+Casein protein is used in the manufacture of buttons and buckles.
+Proteins obtained from the soybean are used for the manufacture of plastics.
+
+Quick Quiz 2
+1. What are proteins? What is their chemical composition?
+2. Differentiate primary, secondary and tertiary structure of proteins.
+3. What are polypeptides? Give example.
+
+21.3 ENZYMES
+The word Enzyme means 'in yeast'.
+Enzymes are biocatalysts which alter the speed of metabolic activities in the living body.
+Enzymes are complex protein molecules which are quite specific in action and sensitive to temperature and pH.
+
+1. Role of Enzymes as a Biocatalyst:
+Metabolism is the set of biochemical reactions that occur in living organisms in order to maintain life. These processes allow an organism to grow and reproduce, maintain their structures, and respond to their environments. Metabolism consists of anabolism and catabolism. Anabolism includes the biochemical reactions in which larger molecules are synthesized while catabolism includes the biochemical reactions in which larger molecules are broken down. Usually, energy is released in catabolism and it is utilized in anabolism. In this way the biochemical reactions are actually energy transformations.
+During metabolism, chemicals are transformed from one form to the other by enzymes. Enzymes are crucial to metabolism because they act as biocatalysts and speed up and regulate metabolic pathways.
+Enzymes are proteins that catalyze (i.e. speed up) biochemical reactions and are not changed during the reaction. The molecules at which enzymes act are called substrates, and the enzyme converts them into different molecules, called products.
+
+How does Enzyme work?
+When enzyme attaches with substrate, a temporary enzyme-substrate (ES) complex is formed. Enzyme catalyzes the reaction and substrate is transformed into product. After it, the ES complex breaks into enzyme and product.
+E + S -> ES Complex -> E + P.
+In order to explain the mechanism of enzyme action a German chemist Emil Fischer in 1894, proposed lock and key model. According to this model, both enzyme and substrate possess specific shapes that fit exactly into one another. This model explains enzyme specificity.
+In 1958, an American biologist Daniel Koshland suggested a modification to lock and key model and proposed induced-fit model. According to this model: active site is not a rigid structure rather it is moulded into the required shape to perform its function. Induced fit model is more acceptable than lock and key model of enzyme action.
+
+21.3.2 Factors Affecting Enzyme Activity
+Enzymes are very sensitive to the environment in which they work. Any factor that can change the chemistry or shape of enzyme molecule can affect its activity. Some of the factors that can affect the rate of enzyme action are being discussed here.
+Temperature: Increase in temperature speeds up the rate of enzyme catalyzed reactions, but only to a point. Every enzyme works at its maximum rate at a specific temperature, called as the optimum temperature for that enzyme. Example: Animal enzyme has optimum temperature 37°C. Some plant enzymes have optimum temperature 60°C. When temperature rises to a certain limit, heat adds in the activation energy and also provides kinetic energy for the reaction. So reactions are accelerated. But when temperature is raised well above the optimum temperature, heat energy increases the vibrations of atoms of enzyme and the globular structure of enzyme is lost. This is known as the denaturation of enzyme. It results in a rapid decrease in rate of enzyme action and it may be blocked completely.
+Substrate Concentration: In a reaction, if enzyme molecules are available in a concentration, increase in substrate concentration increases the rate of reaction. If enzyme concentration is kept constant and amount of substrate is increased, a point is reached after which any further increase in substrate does not increase the rate of reaction any more. This is because the active sites of all enzymes are occupied (at high substrate concentration), and any extra substrate molecules do not find free active site. This state is called saturation state and reaction rate does not increase.
+pH: All enzymes work at their maximum rate at a narrow range of pH, called as the optimum pH. A slight change in this pH causes retardation in enzyme activity or blocks it completely. Every enzyme has its specific optimum pH value. For example, pepsin (working in stomach) is active in acidic medium (pH = 2) while trypsin (working in small intestine) shows its activity in alkaline medium (pH = 8-9).
+
+21.3.3 Inhibition of Enzyme
+A molecule that binds with an enzyme and decreases its activity is known as enzyme inhibitor. Inhibition can be reversible or irreversible according to the type of interaction formed between the inhibitor and the enzyme. There are two types of enzyme inhibition.
+1. Irreversible inhibition: When the inhibitors react and form strong covalent bonds with the active sites of the enzyme, it is called irreversible inhibition. It is stable and irreversible.
+2. Reversible inhibition: The inhibition in which the activity of an enzyme is restored is called reversible inhibition. There are two types of reversible inhibition.
+   i) Competitive Inhibition: A competitive inhibitor resembles the substrate. It can bind to the enzyme in the same way that the substrate does. When present in the active site the inhibitor prevents the normal substrate from binding. The effect of inhibitor is overcome by decreasing the concentration of normal substrate.
+   ii) Non-Competitive Inhibition: A non-competitive inhibitor also reduces enzyme activity. The inhibitor usually binds at a separate binding site. It does not bind at the active site. When inhibitor binds at the second site (non-active site), it changes the shape of enzyme so that the shape of active-site is changed and substrate can no longer bind to the active site.
+
+21.3.4 Industrial Application of Enzyme:
+Enzymes are extensively used in different industries for fast chemical reactions. For example:
+Food industry: Enzymes that break starch into simple sugars are used in the production of white bread, buns etc.
+Brewing industry: Enzymes break starch and proteins. The products are used by yeast for fermentation (to produce alcohol).
+Paper industry: Enzymes break starch to lower its viscosity that aids in making paper.
+Biological detergent: Protease enzymes are used for the removal of protein stains from clothes. Amylase enzymes are used in dish washing to remove resistant starch residues.
+Starch Industry: Amylase, Amyloglucosidase and Glucoamylase enzymes are used to convert starch into glucose and various syrups.
+Biofuel Industry: Cellulase enzymes are used to break down cellulose into sugars that can be fermented.
+Contact Lens Cleaners: Protease enzymes are used to remove proteins on contact lens to prevent infections.
+Rubber Industry: Catalase enzymes are used to generate oxygen from peroxide to convert latex into foam rubber.
+Photographic Industry: Protease (Ficin) enzymes are applied to dissolve gelatin off scrap film, allowing recovery of its silver content.
+Molecular Biology: Restriction enzymes, DNA Ligase and Polymerase enzymes are used to manipulate DNA in genetic engineering. More importantly in pharmacology, agriculture and medicine. It is also important in forensic science.
+
+Quick Quiz 3
+1. What are enzymes? Why are they called biocatalysts?
+2. How does enzyme work?
+3. "Enzymes are extensively used in different industries". Comment on this statement.
+
+21.4 LIPIDS
+(Greek, lipos means fat)
+Lipids are naturally occurring organic compounds of animals and plants origin, which are soluble in organic solvents and belong to a heterogeneous group of substances.
+These molecules consist of carbon, hydrogen, and oxygen atoms. Lipids are the main constituents of all membranes in all cells (cell walls), food storage molecules, Vitamins A, D, E and K, cholesterol.
+All lipids are hydrophobic: that's the one property they have in common. Fats and oils are made from two kinds of molecules: glycerol (a type of alcohol with a hydroxyl group on each of its three carbons) and three fatty acids joined by dehydration synthesis. Since there are three fatty acids attached, so these are known as triglycerides.
+
+Classification of Lipids
+There are three broad classes of lipids:
+Simple Lipids: These are the ester of fatty acids with glycerol. For example: Triglycerides, Natural fats and Waxes.
+Compound Lipids: These contain in addition to fatty acids and alcohols, other groups also. For example: Phospholipids, Glycolipids, Sulpholipids, Lipositol and Sphingomyelin.
+Derived Lipids: These are hydrolytic product of compound lipids for example: Fatty acids.
+
+21.4.2 Structure of Lipids
+Lipids are generally defined in terms of solubility, and not in terms of particular structures, as in the cases of proteins and nucleic acids. Lipids associate with one another via van der Waals forces and the hydrophobic effect. In particular, we discuss the structure of Fatty Acids.
+The “tail” of a fatty acid is a long hydrocarbon chain, making it hydrophobic. The “head” of the molecule is a carboxyl group which is hydrophilic. Fatty acids are the main component of soap, where their tails are soluble in oily dirt and their heads are soluble in water to emulsify and wash away the oily dirt. However, when the head end is attached to glycerol to form a fat, that whole molecule is hydrophobic.
+
+21.4.3 Properties of Lipids
+1) Physical Properties:
+Oils and fats may be either liquids or non-crystalline solids at room temperature.
+Fats and oils in the pure states are colorless, odorless and tasteless.
+The colored fats arise due to foreign substances, for example yellow color of the butter is due to the presence of keratin.
+They are lighter than water.
+They are insoluble in water.
+They are readily soluble in organic solvents like diethyl ether, carbon disulphide, acetone, benzene, chloroform and carbon tetrachloride.
+They form emulsions when they are agitated with water in the presence of soap or other emulsifier.
+Fats and oils are poor conductor of heat and electricity and serve as excellent insulator for the animal body.
+
+2) Chemical Properties:
+Fats and oils undergo various types of reactions but the most important are:
+Hydrolysis of fats and oils: Fats and oils are triglycerides. They are triesters. They are hydrolyzed by enzymes which act as catalyst. These enzymes are called lipases. This hydrolysis takes place in the digestive tract of human beings and animals. Fatty acids are produced in animal body which play an important role in the metabolic pathways.
+Saponification: Saponification is the hydrolysis of triglycerides (oils or fats) by alkalies. Glycerol is produced along with sodium or potassium salt of fatty acids. These Na and K salts are called soaps (salt of fatty acids).
+Hardening of Oils: We know that unsaturated triglycerides are liquids at room temperature. They are called oils. They can be saturated by passing hydrogen in them in the presence of metal catalysts. The result is the conversion of liquid triglycerides into a semisolid triglyceride. This process is called hardening of oils. This reaction is used commercially for the production of vegetable ghee or margarine. Hardened oils are also used extensively for making soaps and candles.
+
+21.4.4 Nutritional and Biological Importance of Lipids
+Lipids play three major biochemical roles:
+As storage form for metabolic energy (triglycerides).
+As structural components of membranes.
+As messengers (prostaglandins, steroid hormones).
+A major role of lipids in nutrition is to provide energy, since unsaturated, saturated and trans fats all provide about 9 calories per gram compared to carbohydrates or protein with 4 calories per gram. Even though it is high in calories, fat does not necessarily cause weight gain if it fits into your total intake. Our body also needs fat so that your body can absorb and use certain nutrients such as vitamin A, vitamin D and vitamin E.
+Essential Lipids: Those lipids which are not synthesized by our bodies and are supplied to our bodies through diet are called essential lipids. The essential lipids are polyunsaturated fats called omega-6 and omega-3 fats. We need these fats for hormone synthesis, cell membrane structure and healthy brain and vision, and they may help lower our blood cholesterol levels. We can get omega-6 fatty acids from vegetable oils and nuts. Omega-3 fatty acids are also in flaxseed, walnuts and fatty fish.
+Non-Essential Lipids: Monounsaturated fatty acids are not essential in the diet because our body can synthesize them, but they may help to reduce our risk for heart disease. They are in olive oil, peanuts and avocadoes. We do not need to get saturated fat, trans fat or cholesterol in our diet, and these lipids raise bad cholesterol levels in our blood. Saturated fat is in fatty meats and cheese, palm and coconut oil, and butter. Trans fat is in partially hydrogenated oils in processed and fried foods, while cholesterol is in fatty animal foods.
+
+Functions of Lipids:
+Tissues reconstruction.
+Nervous system organization.
+Increase and assure a normal function of the skin.
+Antibodies formation.
+Good function of endocrine glands (thyroid).
+Water metabolism.
+
+Quick Quiz 4
+1. What are lipids? Briefly explain the only property that all the lipids have in common.
+2. What are triglycerides? Draw its structure.
+
+21.5 NUCLEIC ACIDS
+Definition: The molecules that preserve hereditary information and that transcribe and translate that information in a way that allows the synthesis of all the varied enzymes of the cell are called nucleic acid.
+Types of Nucleic Acids:
+There are two types of nucleic acids:
+Deoxyribonucleic acids (DNA).
+Ribonucleic acid (RNA).
+
+21.5.1 Structural Components of DNA and RNA
+DNA consists of very large polymeric molecules called nucleotides. Four types of nucleotides are involved in the formation of DNA. Each nucleotide consists of a deoxyribose sugar, a phosphate and a nitrogenous base attached to carbon number 1 of the pentose sugar.
+Components of Nucleotide:
+There are three components present in each nucleotide.
+Pentose sugar: Ribose in RNA and deoxyribose in DNA. In deoxyribose, the hydroxyl group at carbon number 2 of ribose is replaced by hydrogen.
+Nitrogenous base: Following are the four bases involved in the structures of the nucleotides of DNA. Two of these are pyrimidine bases and the other two are purine bases. The base is linked to carbon number 1 of deoxyribose. The pyrimidine bases: They consist of six membered rings composed of four carbon atoms and two nitrogen atoms. Pyrimidine bases involved in the structure of DNA are cytosine (C) and thymine (T). The purine bases: They are combination of one six membered ring and one five membered ring. Only two purine bases adenine (A) and guanine (G) are involved in the structure of DNA and RNA. Note: Uracil replaces thymine in RNA.
+Phosphoric acid, H3PO4: It is linked to carbon number 5 of deoxyribose sugar.
+
+Difference between RNA and DNA:
+RNA contains ribose sugar while DNA contains deoxyribose sugar.
+Nitrogenous bases in DNA are cytosine, thymine, adenine and guanine while in RNA thymine is replaced by uracil.
+DNA is double stranded while RNA is single stranded, but the chain can fold back on itself forming a helical loop. The two strands in DNA are twisted into a double helix and held in position by hydrogen bonds between complementary pairs of bases. The two strands are antiparallel i.e. they run in opposite directions.
+
+21.5.2 Storage of Genetic Information.
+It stores the genetic information that is passed on to the offspring. The genetic information or the genetic code is stored in DNA in the form of a sequence of base pairs between its two strands.
+It is a self-replicating molecule. It replicates the genetic information before the cell divides so that each daughter cell carries the correct genetic code. This code is passed on by the organism to their offspring.
+Each replication produces two identical daughter DNA molecules. But the daughter molecules consist of one original strand and one new strand. This type of replication is known as semi conservative replication (because only one original strand is conserved).
+DNA transcribes copies of the genetic code into messenger RNA. The mRNA carries these copies of the genetic code into cytoplasm for the synthesis of protein.
+The genetic information in mRNA is then translated with the help of transfer RNA (tRNA) and ribosomal RNA (rRNA) for the synthesis of protein. This chain of amino acids called a polypeptide will then be transported to Golgi Bodies where it is processed and will become part of a protein.
+
+Quick Quiz 5
+1. Write the names of structural components of DNA and RNA.
+2. Differentiate Transcription and Translation.
+3. Which type of sugar is present in DNA?
+
+21.6 MINERALS OF BIOLOGICAL SIGNIFICANCE
+Minerals are the nutrients that are present in the body, and are as essential as our need for oxygen to sustain life. Minerals are also found in organic and inorganic combinations in food. In the body only 5% of the human body weight is mineral matter, vital to all mental & physical processes. They are most important factors in maintaining all physiological processes, constituents of the teeth, bones, tissues, blood, muscle, and nerve cells.
+
+Types of nutrients:
+Macronutrients: Nutrients which are required in large amount to the body are called macronutrients. Examples: Calcium, phosphorus, magnesium and sulphur.
+Micronutrients: Nutrients which are required in small amount to the body are called micronutrients. Examples: Iron, zinc, copper and iodine.
+
+21.6.1 Sources and Biological Significance of important Minerals
+1) Iron:
+Sources of Iron: Red meat, egg yolk, whole wheat, fish, spinach and mustard etc.
+Importance / Significance of Iron: It is an important mineral because it is a part of haemoglobin which is a carrier of oxygen in the body. Iron is needed by the body to make healthy red blood, which transports oxygen to the cells. It is also needed for adenosine triphosphate (ATP) production, which is for cellular energy and proper cell function. Iron is lost through sweat and through bleeding of the digestive tract due to harsh motion. Studies on iron indicate that 34% of female runners and 8% male runners are iron deficient. Iron is needed for proper placenta development and also for the prevention of pre-term and low birth weight babies. Studies estimate that up to 58% of pregnant women are iron deficient. Metabolic Processes: Iron plays an important part in the metabolic processes of the animals. It is present in some enzymes that catalyze reactions of cellular oxidation. In human body, the richest organs in iron are liver and spleen. In smaller amount, it is also present in bones, medulla, kidneys and intestines.
+
+2) Calcium:
+Sources of Calcium: Milk, cheese, egg yolk, beans, nuts, cabbage and green leafy vegetables.
+Importance / Significance of Calcium: Calcium is the most common mineral in the human body, where it is present in almost the same relative abundance as in the earth's crust. There are six stable isotopes of Calcium: calcium-40 is the most common (97%), and calcium-46 the least abundant (0.003%). The integrity of the system depends critically on vitamin D status: if there is a deficiency of vitamin D, the loss of its calcaemic action leads to a decrease in the ionised calcium and secondary hyperparathyroidism and hypophosphataemia. This is why experimental vitamin D deficiency results in rickets and osteomalacia whereas calcium deficiency gives rise to osteoporosis. Approximately 99% of total body calcium is in the skeleton and teeth and 1% in blood and soft tissues. Calcium has four major biological functions: Structural as stores in the skeleton, Electrophysiological - carries charge during an action potential across membranes, Intracellular regulator, and as a cofactor for extracellular enzymes and regulatory proteins.
+
+3) Phosphorus:
+Sources of phosphorous: Egg yolk, cheese, milk, cabbage etc.
+Importance / Significance of Phosphorus: Phosphorus is present in plants and animals. There is over 1 lb (454 grams) of phosphorus in the human body. It is a component of adenosine triphosphate (ATP), a fundamental energy source in living things. It is found in complex organic compounds in the blood, muscles, and nerves and in calcium phosphate, the principal material in bones and teeth. Phosphorus compounds are used as fertilizer. Organic phosphates, ferric phosphate, and tricalcium phosphate are added to foods. Calcium phosphate is added to animal feeds. The main function of Phosphorus is the formation of bones and teeth. It plays an important role in the body's utilization of carbohydrates and fats and in the synthesis of protein for the growth, maintenance, and repair of cells and tissues. It is essential for the production of ATP, a molecule the body uses to store energy. It also assists with the B vitamins. It helps in the contraction of muscles, in the functioning of kidneys, in maintaining the regularity of the heartbeat, and in nerve conduction.
+
+4) Zinc:
+Sources of Zinc: Oyster, red meat, chicken, beans, nuts, dairy products and some sea foods.
+Importance / Significance of Zinc: Zinc is the most important of all trace elements involved in human metabolism. Human body contains about 2 gm of zinc. More than a hundred specific enzymes require zinc for their catalytic function. If zinc is removed from the catalytic site, activity is lost; replacement of zinc restores activity. Studies in individuals with acrodermatitis enteropathica, a genetic disorder with zinc malabsorption resulting in severe deficiency which causes impairments of dermal, gastrointestinal, neurologic and immunologic systems. Approximately half of the zinc is eliminated from the body through gastrointestinal tract. Considerable amount of zinc is secreted through the biliary and intestinal secretions, but most of it is reabsorbed and this process is important for regulation of zinc balance. Other routes of zinc excretion include the urine and surface losses (hair, sweat).
+
+Quick Quiz 6
+1. What is biological significance of minerals?
+2. What problems are caused by deficiency of calcium and phosphorus?
+3. Give importance of zinc mineral.
+
+Society, Technology and Science
+Glycogen - A store house in the body: Glycogen is reserved food material which is stored in muscles and liver in animals and humans. When body requires energy due to lack of food or glucose, the glycogen is reconverted into glucose and provides energy to the body in the form of ATP.
+Hibernating Animals and Reserve Food: Large amount of fat is stored in the body of some animals that hibernate during winter. In winter the metabolic activities slow down. They use this fat as reserved food material that produces ATP during oxidation.
+Complex carbohydrates which Lubricate the Elbow and Knee: Glucosamine, glucosaminoglycans or Proteoglycan are the complex carbohydrates which provide lubrication to elbow and knee. Glucosamine (C6H13NO5) is an amino sugar that plays a role in building cartilage and in joints. It is produced naturally in the body. Glucosamine is a prominent precursor for glycosaminoglycans, which are a major component of joint cartilage. Glucosamine has been shown to help keep our joints resilient and healthy by lubrication that is retained. Glucosaminoglycans (GAGs) are the most abundant heteropolysaccharides in the body. They are long unbranched molecules containing a repeating disaccharide unit. GAGs are a component of joint cartilage.
+Fibrous Proteins from hair and Silk: Fibrous proteins consist of elongated molecules of one or more polypeptide chains in form of fibrils. They are insoluble in aqueous media. This property conferred by a high concentration of hydrophobic amino acid residues both in interior of the protein and on its surface. They play structural and supporting role in the body. Examples are silk fiber, keratin (of nails, and hair), myosin (in muscle) and fibrin (of blood clot).
+Insulin - A protein hormone whose deficiency leads to diabetes mellitus: Insulin is a 51 amino acid peptide hormone that is produced by pancreatic beta cells, which consist of two chains, one alpha chain and one beta chain. The alpha chain contains 21 amino acids and the beta chain contains 30 amino acids. Both chains are held together by disulphide bridges. The molecular weight of insulin is 5808. Insulin hormone is central in regulating carbohydrate and fat metabolism in the body. It causes the cells in liver, muscles and fat tissue to take up glucose from the blood. In the liver and skeletal muscles, glucose is stored as glycogen, while in adipocytes, it is stored as triglycerides. It stops the use of fat as energy source. When blood glucose level fall below a certain limit, the body begins to use stored sugar as an energy source through glycogenolysis. As a central metabolic control mechanism its status is also used as a control signal to other body systems (such as amino acids uptake by body cells). In addition, it has several other anabolic effects throughout the body. Insulin is used medically to treat some forms of diabetes patients.
+Role of Minerals in the Body: Minerals act as cofactors for the enzyme reactions. Enzymes don't work without minerals. All cells require enzymes to work and function. They give us our vitality. Minerals maintain the pH balance within the body. Minerals actually facilitate the transfer of nutrients across cell membranes. They maintain proper nerve conduction. They help to contract and relax muscles. They help to regulate our bodies’ tissue growth. Minerals provide structural support for the body.
+
+Important Minerals in Human body:
+Dietary minerals are present in inorganic salts, or as part of carbon containing organic compounds. For example, magnesium is present in chlorophyll, the pigment that makes plants green.
+Major Minerals: Major minerals are required by people in gram amount: sodium (Na), potassium (K), calcium (Ca), magnesium (Mg), phosphorus (P), and chlorine (Cl). Daily requirements range from 0.3 to 2.0 grams per day.
+Trace Minerals: Trace minerals are required by people in minute amounts: chromium (Cr), copper (Cu), iodine (I), iron (Fe), fluorine (F), manganese (Mn), molybdenum (Mo), selenium (Se), and zinc (Zn). There is no nutritional requirement for cobalt (Co) but these are generally expressed in terms of the cobalt containing vitamin B12. All trace minerals are toxic at high levels.
+
+SUMMARY:
+Carbohydrates are the most abundant macromolecules on earth. They are of three types: monosaccharides, disaccharides and polysaccharides.
+People eating a diet high in carbohydrates are less likely to accumulate body fat compared with those who follow a low carbohydrate/high-fat diet.
+Proteins are the most important class of biomolecules. They are major structural components of animals and human tissues. They are classified as simple proteins, conjugated proteins and derived proteins. They are actually the polymers of amino acids.
+

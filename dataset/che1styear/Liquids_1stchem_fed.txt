@@ -1,0 +1,141 @@
+
+INTRODUCTION
+A simple definition of a liquid is that "it is a material that assumes the shape of a container without filling it completely". A gas on the other hand takes the shape of the vessel and expands to fill it completely. A solid neither takes the shape of the vessel nor expands to fill the container completely. The definition of a liquid is satisfactory on the whole with the following exceptions. Some materials, polymers (e.g. PVC etc); they appear in the solid but at higher temperature they behave like liquid even before they melt. The cohesive force i.e. force among the molecules of substance in a liquid are stronger than those in a gas even though less than in a solid.
+
+MOLECULAR INTERPRETATION OF LIQUIDS:
+The kinetic molecular theory also applies to liquids. Postulates of kinetic molecular theory for liquids are: The molecules of a liquid are relatively close together. The intermolecular forces among the molecules of a liquid are stronger than those among gas molecules but not sufficient to hold molecules in fixed positions. The molecules of a liquid can slide past each other. The Kinetic Energy of liquid molecules is directly proportional to the Absolute Temperature. At a particular temperature, the average K.E of the molecules is equal to the K.E of the molecules of liquids.
+
+Simple Properties of Liquids
+There are some simple properties of liquid e.g. diffusion, compression, expansion, motion of molecules, spaces between them, intermolecular forces, and Kinetic Energy based on Kinetic Molecular Theory. We can use the Kinetic Molecular Theory to account for the simple properties of liquids.
+
+Diffusion: The diffusion in liquids takes place because the molecules move from one place to another due to K.E. The restricted movement of the molecule reduces the rate of diffusion e.g. a drop of ink when added to water diffuses slowly due to relatively small empty spaces between the molecules. The diffusion between closely packed molecules of liquids is slow due to less collision between them.
+
+Compression (effect of pressure): A liquid cannot be compressed significantly by increasing the pressure because the molecules are already in close contact with one another e.g. an increase of pressure from 1 atm to two atmospheres reduces the volume of water to 0.0045 percent which is negligible. However the same pressure reduces the volume of a gas up to 50 percent.
+
+Expansion (effect of temperature): The liquids expand on heating because the intermolecular forces between them decrease. Moreover the increase of temperature increases the effective collisions between the molecules. If the temperature is decreased, contraction of volume takes place. This property is useful for making thermometers, e.g. mercury thermometer. In it, if the temperature rises, the mercury expands in the capillary tube. As the volume of capillary tube is much less than the volume of the bulb containing mercury, a small expansion gives a large movement of mercury thread.
+
+Motion of Molecules: The molecules of liquids have low speed due to larger forces of attraction among them. They have low kinetic energy. However the kinetic energy is moderate.
+
+Spaces between Molecules: The spaces between molecules are small due to close packing. However the molecules in a liquid have empty spaces.
+
+INTERMOLECULAR FORCES
+The forces of attractions among the molecules of a substance are called inter-molecular forces. For example, the molecules in a liquid are held together due to inter-molecular attractions besides bonds. The forces of attraction existing among the molecules of a substance are also known as Vander Waal's forces. The physical properties of liquids can be explained in terms of their intermolecular forces.
+
+Types of intermolecular forces are of five types:
+Dipole-Dipole forces
+Ion-Dipole forces
+Dipole-Induced dipole forces
+London Dispersion forces
+Hydrogen bonding
+
+Dipole-Dipole Forces: Polar molecules have charges at different parts of a molecule. Due to these charges they attract each other. The interaction between the positive ends of one molecule with the negative end of another molecule is called dipole - dipole forces. This means dipole - dipole interactions are forces between permanent dipoles in molecules. Examples of polar molecules are hydrogen chloride (HCl) chloroform (CHCl3) etc. For polar substances, greater would be the value of thermodynamic properties such as boiling point, heat of vaporization, heat of sublimation etc.
+
+London Dispersion Forces: The atoms of noble gases and non-polar molecules become liquefied and solidified under appropriate conditions of temperature and pressure. The forces that attract non-polar molecules to one another in the liquid phase are called London dispersion forces. On the average, the electron charge density is evenly distributed in a sphere. However, at any given instant, the actual location of the electrons around the nucleus can produce an instantaneous dipole. This temporary dipole in one atom can influence the distribution of electrons in neighbouring helium atoms, producing induced dipoles in those atoms. The forces of attraction between an instantaneous dipole and an induced dipole are known as dispersion force. It is also called as London dispersion force, named for Fritz London who offered a theoretical explanation for these forces in 1928.
+
+Factors Affecting London Dispersion Forces: Factors affecting the London dispersion force are:
+Atomic or molecular size
+Polarizability
+Number of atoms in molecules
+
+Atomic or Molecular Size: The strength of these forces depends upon the size of the electronic cloud of the atom or molecule. With the increase in size of atom or molecule, the dispersion becomes easy and these forces become prominent. Inert gases are all monoatomic gases. They do not make bonds with other atoms because their valence shells are complete. Their boiling point increases down the group from He to Rn. This is because of increase in molecular size.
+
+Polarizability: Polarizability refers to the ease with which the electron cloud is distorted. The more tightly bonded electrons in small atoms are not as easily polarized as the more loosely held electrons in larger atoms. For example fluorine is a gas at room temperature, the second member, Cl2 is also gas but more easily condensed than F2. Bromine is a liquid and Iodine is solid at room temperature. These molecules are easily polarizable, the intermolecular forces are strong enough to form liquids or solids.
+
+Number of atoms in a molecule: Large molecules make contact with neighbouring molecules over a greater surface area than small molecules. Greater the number of atoms in a molecule, greater is the contact between the molecules. Table shows boiling points and physical states of some hydrocarbons. Notice that C2H6 and C6H14 have the boiling points as -88.6°C and 68.7°C respectively. It shows that the molecule with a large chain length experiences stronger attractive forces.
+
+Hydrogen Bonding: A hydrogen bond is the attraction between the lone pair of an electronegative atom and a hydrogen atom that is bonded to either N, O or F. This limits hydrogen bonding to the participation of nitrogen, oxygen and fluorine atoms. Hydrogen bonds are weaker than covalent bonds but stronger than dipole-dipole interactions, which are stronger than dispersion forces. The boiling point and heat of vaporization of water are higher than those of H2S. Water molecules attract each other through H-bonding. H2S molecules attract each other by dipole-dipole forces. The boiling points of hydrides of group IVA, VA, and VI-A show a regular increase down the group except NH3, H2O and HF show abnormally high values in the respective series. This is due to hydrogen bonding in their molecules. The boiling point of H2O seems to be more affected than that of HF. As F is more electronegative than O, we should expect H-bonding to be stronger in HF than H2O. But boiling point of H2O is higher than that of HF. The reason is that fluorine can make only one hydrogen bond with the hydrogen of the neighbouring molecule. On the other hand oxygen atom can form two hydrogen bonds with the neighbouring molecules. NH3 can also form only one hydrogen bond as it has only one lone pair.
+
+Solubility of Hydrogen Bonded Molecules: The compounds that have hydrogen bonds are soluble in water. Ethyl alcohol can dissolve in water because both can form hydrogen bonds with each other. Similarly carboxylic acids are also soluble in water, if their molecular sizes are small.
+
+Cleaning Action: Soaps and detergents perform the cleaning action. Their molecules contain both polar and non-polar ends. Their polar parts are water soluble due to hydrogen bonding and non-polar part dissolve oil or grease. Attraction between water and polar end of soap molecule pulls the oil or grease droplet into the water.
+
+Hydrogen Bonding in Paints and Dyes: Paints and dyes have adhesive action due to hydrogen bonding. Similarly hydrogen bonding also makes glue and honey sticky substances.
+
+Clothing: We use cotton, silk or synthetic fibres for clothing. Hydrogen bonding is of great importance in thread making fibres. This hydrogen bonding is responsible in their rigidity and tensile strength.
+
+Food Materials: Food materials like carbohydrates consist of glucose, fructose, sucrose, each of them contains OH groups which is responsible for H-bonding in them.
+
+Hydrogen Bonding in Biological Molecules: The shape of proteins, substances essential to life, is determined partly by hydrogen bonding. The activity of enzymes, the protein molecules that catalyze the reactions that keep us alive, depends upon the forming and breaking of hydrogen bonds. The hereditary information passed from one generation to the next is carried in nucleic acid molecules which have helical structure.
+
+PHYSICAL PROPERTIES OF LIQUIDS
+The physical properties depend upon intermolecular forces. The properties may be classified as under:
+Additive properties: These depend upon the number and kind of atoms present in the molecule e.g. molecular weight.
+Constitutive properties: These depend upon the arrangement of atoms in the molecules and not on the number of atoms e.g. optical activity.
+Colligative properties: These properties depend on the number of ions and molecules present but do not depend upon the structure of molecules. e.g. Osmotic pressure etc.
+
+Vapour Pressure and Boiling Point: When a liquid is heated, its V.P. increases due to the decrease of intermolecular forces with rise in temperature. As a result more and more vapours escape in the air. A stage reaches when the liquid begins to boil. So the temperature at which the vapour pressure of the liquid becomes equal to atmospheric pressure or some external pressure is called boiling point of that liquid. E.g. Boiling Point of water at 760 mm Hg = 100 °C. Boiling Point of water at 23.7 mm Hg = 25 °C.
+
+Effect of Pressure on boiling point of a liquid: There are two practical applications regarding the effect of pressure.
+Effect of Increase of Pressure: Food can be cooked easily in pressure cookers, which is a closed container. The vapours are not allowed to escape out and, therefore, develop more pressure. This increases the boiling point of water. Pressure cookers help us in cooking the food quickly even at high altitude. B.P of water at 2 atm pressure is 130°C.
+Effect of decrease of pressure: Substances which decompose at their B.P can be obtained in the pure form under low pressure by vacuum distillation e.g. Glycerine has a B.P of 290°C at 760 mm of Hg at its B.P. it decomposes. Now in order to get it in the pure form, the V.P is decreased with the help of vacuum pump. The B.P decreases to 210°C at 50 mm of Hg, so it can be easily distilled. In this way the liquids can be purified.
+
+Evaporation: The process by which liquid molecules escape from the surface and change into vapours at a temperature below the boiling point is called evaporation. The molecules with sufficient kinetic energy can escape from the surface of the liquid. Evaporation is the change of state of a substance from liquid to gaseous phase. Evaporation takes place at all temperatures. The factors which can affect the rate of evaporation are as follow:
+Surface Area: The rate of evaporation increases with increasing surface area. This is because large surface area allows more molecules to evaporate.
+Intermolecular Forces: The escaping tendency of molecules depends upon attractive forces between the molecules. The liquids with strong intermolecular forces have less evaporation. Thus water has less evaporation rate than petrol. This is because water has stronger intermolecular forces (H-bonding) than petrol which has weak dispersion forces between the molecules. A liquid which can rapidly change into vapors is called volatile e.g. petrol is more volatile than water.
+Temperature: Evaporation takes place at all temperature. Rate of evaporation however is affected by the change in temperature. Increase in temperature increases the number of molecules having kinetic energy sufficient to overcome intermolecular forces and escape more readily from the surface of the liquid. Thus the rate of evaporation increases with increasing temperature. This is why clothes dry more readily in summer.
+
+Vapour Pressure (V.P): In open containers, evaporation continues until all of the liquid disappear. But when a liquid is placed into a closed container, amount of liquid decreases for a period of time and then does not change. In closed containers, the vapours cannot escape. Therefore, as the vapour concentration increases, some of the vapour molecules lose energy and return to the liquid state. This process is called condensation. Evaporation involves molecules leaving the liquid and condensation occurs when a vapour changes back to a liquid. When the liquid is placed in a closed container, it begins to evaporate at a constant rate, very little condensation takes place. But as the concentration of vapour increases above the liquid, the rate of condensation increases. After some time the rate of condensation equals the rate of evaporation. At this stage, the number of molecules being formed in vapour phase equals the number returning to the liquid phase, the system is said to be at equilibrium. "The pressure exerted by vapours in equilibrium with its liquid is called the liquid's vapour pressure at the given temperature". Vapour pressure can be expressed in the same units used for gas pressure. Vapour pressure depends upon temperature and intermolecular forces.
+
+Vapour pressure of a liquid depends upon intermolecular forces. Liquids having strong intermolecular forces possess low vapour pressure and vice versa. For example, water having hydrogen bonding between molecules has low vapour pressure. On the other hand, non-polar substances like ether have high vapour pressure due to weak dispersion forces. As temperature increases, the vapour pressure increases. This is because increase in temperature increases the average kinetic energies of the molecules which in turn decreases the intermolecular forces. For example, vapour pressure of water at 0 °C is 4.6 mm of Hg but at 100°C it is 760 mm of Hg. The relationship of vapour pressure and temperature is shown by the graph. It shows that the vapour pressure of diethyl ether (185 mm Hg) at 0° C is much greater than that of ethanol (12 mm Hg) or water (4.6 mm Hg). Ether is non-polar in nature. Therefore, its vapour pressure is due to its weak intermolecular forces (dispersion forces). Thus at the same temperature, ether molecules require less energy to break free and change into vapour. Similarly, the intermolecular forces (H-bonding) in ethanol are not as strong as those of water. Consequently the vapour pressure of ethanol is greater than that of water at all temperatures. It is observed that each of the three vapour pressure curves cross the line corresponding to one atmosphere at different temperatures. Therefore they boil at different temperatures. Ether boils at 35 °C, ethanol at 78°C and water at 100°C.
+
+Viscosity: It is a common observation that water can be poured very quickly from one container compared to honey and glycerine. The resistance of a liquid to flow is called viscosity. The larger the viscosity, the more slowly the liquid flows. Viscosity measures how difficult it is for molecules of a liquid to slide by one another. To understand viscosity, consider a liquid flowing through a pipe. It consists of a series of concentric circular layers. The resistance to flow is due to the friction between the layers of the molecules. The layers adjacent to the walls have minimum velocity and drag on one another and thus causes resistance. The viscosity depends upon the following factors:
+Molecular shape and size: Molecular size and shape strongly influence viscosity. Liquids such as water, acetone, benzene and ether, whose molecules are small and compact have low viscosity. Whereas liquids having large and chain like molecular shaped molecules like honey, glycerine and lubricating oil have strong forces of attraction that tend to tangle up with each other. This inhibits the flow of molecules and leads to high viscosity. So the large chain like molecules exhibit high viscosity.
+Intermolecular Forces: Stronger the intermolecular force among the molecules, higher is the viscosity. Liquids whose molecules form hydrogen bonds are more viscous than other without hydrogen bonding. For example water is more viscous than methanol mainly due to extensive hydrogen bonding.
+Temperature: Molecules move faster as temperature increases. This is because an increase in temperature decreases the intermolecular forces. This dependence is quite noticeable for highly viscous liquids such as honey and syrup. It is easier to pour these liquids when hot than when cold.
+
+Surface Tension: Have you ever seen effects such as the water strider to walk on water? What allows it? Surface tension is a tendency of the surface of the liquids to act as if there is a membrane stretched across it. We can understand that the level of liquids exhibit surface tensions. All molecules below the surface of the liquid are surrounded in all directions by other molecules. The force exhibited by such molecules is balanced in all directions whereas a molecule at the surface has molecules beside it and beneath it but no one above it. This results in an unbalanced force pulling the surface molecules inward. The molecules at the surface therefore, feel a net attraction inwards, which creates surface tension. "The force in dynes acting at right angle on a unit length of surface is called surface tension". For a molecule to come to the surface, it must overcome the attractive force downwards. This means work has to be done to pull it to the surface. In other words creating new areas of a fluid requires an input energy. Surface tension is a measure of the amount of energy required to expand the surface of a liquid.
+
+Surface tension of a liquid depends upon the following factors.
+Intermolecular Forces: The surface tension of a liquid depends directly on the strength of intermolecular forces among molecules. Greater the intermolecular forces among the molecules of liquid, greater is the surface tension and vice versa. For example the surface tension of water is higher than many organic liquids like alcohols, ethers, benzene etc. this is due to strong hydrogen bonding among water molecules.
+Temperature: Surface tension of a liquid decreases with the increase of temperature. This is because increase in kinetic energy of the molecules decreases strength of intermolecular forces.
+
+Units of Surface Tension: Surface tension is different for different liquids due to the presence of different types of intermolecular forces. Unit of surface tension is joule per square meter, or Newton per meter, Nm^-1.
+
+Anomalous Behaviour of Water
+Normally, water does not expand like many substances. In ice hydrogen bonds hold water molecules in a rigid but open hexagonal stage. As ice melts, some of the hydrogen bonds break, and water molecules move into the holes that were present in ice structure. As a result water molecules are closer together in liquid water than in ice. When ice melts, there is about 9% decrease in volume and a corresponding increase in density. So, water is anomalous in this regard, because the liquid state is less dense than the solid for most other substances. If we continue to heat water just above the melting point, more hydrogen bonds break. The molecules become still more closely packed and the density of liquid water increases until it reaches a maximum density at 3.98°C. Below 3.98°C the density of water decreases with decreasing temperature, as we would expect for a liquid. These density phenomena explain why a freshwater lake freezes from the top down in winter. When temperature falls below 4°C, the more dense water at 4°C sinks to the bottom of the lake. The colder surface water freezes first. Since ice is less dense than liquid water, the ice that freezes remain at the top to cover the lake with a layer of ice, which insulates the water underneath. Thus under this thick blanket of ice, fish and other aquatic life can survive.
+
+Application of Hydrogen Bonding to Explain the Properties of Water
+Hydrogen bonding contributes to its unique properties, which are as follows:
+High Surface Tension of Water. The force on the surface of water is high due to hydrogen bonding between water molecules. Therefore a high surface tension is developed. This is proved by the following data. Which liquid has lowest surface tension? Water has the highest surface tension (7.29 x 10^-2 N/m) as compared to other liquids.
+High specific heat: Specific heat is the quantity of heat required to raise the temperature of 1g of the substance by 1°C (or by 1K). For example specific heat of water is 4.180 J/g°C. It is much higher than those of metals. It takes almost ten times as much heat to raise the temperature of 1g of water 1°C as to raise the temperature of 1g of iron by 1°C. Conversely, much heat is given off by water even a small drop in temperature. The vast amounts of water on the surface of Earth thus acts as a giant heat reservoir to moderate daily temperature variations. That is why the climate near large bodies of water such as lakes, ponds, oceans etc, is more moderate than interior of the land.
+High heat of Vaporization: Water has a high heat of vaporization due to extensive hydrogen bonding. A large amount of heat is required to evaporate a small amount of water. This is of enormous importance to us because large amounts of body heat can be dissipated by the evaporation of small amounts of water (perspiration) from the skin. This effect also accounts for the climate-modifying property of lakes and oceans.
+High boiling point: Water has a high B.P. due to strong H-bonding. It is practically observed that the B.P. of water is 100°C at one atmospheric pressure (760 mm) at sea level, however, the organic molecules like benzene (B.P 80°C), ether (35°C) etc. have lower B.P. due to poor interactions between the molecules.
+
+ENERGETICS OF PHASE CHANGES
+All physical changes are accompanied by energy change in the form of heat. A quantitative measurement of the energy is the measure of the strength of intermolecular forces.
+
+Heat of Fusion (ΔHf): The amount of heat required to convert one mole of a solid into liquid at its melting point is called molar heat of fusion (ΔHf). The heat of fusion for ice is +6.02 kJ mole^-1. H2O(s) → H2O(l), ΔHf = + 6.02 kJ mole^-1.
+
+Heat of Vaporization (ΔHv): The amount of heat required to convert one mole of a liquid into its vapours at its boiling point is called molar heat of vaporization. H2O(l) → H2O(g), ΔHv = +40.7 kJ mole^-1.
+
+Heat of Sublimation (ΔHs): The amount of heat absorbed when one mole of a solid sublimes to give vapour at a particular temperature at one atmospheric pressure is called molar heat of sublimation. I2(s) → I2(g), ΔHs = +62.42 kJ mole^-1.
+
+Energy Changes and Intermolecular Forces: As a result of melting of a solid, a small change in intermolecular distance and potential energy takes place in atoms, molecules or ions. On the other hand on evaporation, the atoms, molecules or ions undergo large changes in their intermolecular distance and potential energy. Therefore, heat of vaporization is much greater than that heat of fusion.
+
+Examples: ΔHv (heat of vaporization) for H2O (40.6 kJ mole^-1 at 373.15K), for NH3 (23.35 kJ mole^-1 at 239K) and for CO2 (25.23 kJ mole^-1 at 194.5K) are high due to their polar nature and strong intermolecular forces. ΔHf (Heat of fusion) will be as under: H2O(s) → H2O(l) ΔHf = 6.02 kJ mole^-1 at 273.15K. I2(s) → I2(l) ΔHf = 15.65 kJ mole^-1 at 386.7K. Iodine solid has the highest value of Heat of sublimation i.e. 62.42 kJ mole^-1. The values for other halogens are F2 = 6.54 kJ mole^-1 at 53.5K, Cl2 = 6.41 kJ mole^-1 at 172.2K, Br2 = 15.5 kJ mole^-1 at 265.9K.
+
+Dynamic Equilibrium between two Physical States: Dynamic equilibrium is a reversible process where the two opposite changes occur at equal rates. For example solid to liquid or liquid to gas and vice versa takes place. Many systems tend towards the condition of dynamic equilibrium. At 0 °C, ice exists in dynamic equilibrium with liquid water. Ice(s) ↔ Water(l).
+
+LIQUID CRYSTALS AND THEIR USE IN DAILY LIFE
+History: In 1888 an Austrian Botanist, Frederick Reinitzer discovered that when crystals of cholesteryl benzoate are heated, it forms a milky liquid at 145°C. On further heating, the milky liquid suddenly becomes clear. When the clear liquid is cooled, the reverse process occurs. This milky or turbid liquid is called liquid crystal. The liquid crystal state exists between two temperatures i.e. melting temperature and clear temperature. It is a form of matter intermediate in characteristics between a liquid and solid crystal. They have properties of liquids and show fluidity, viscosity, surface tension etc.
+
+Definition:
+(i) The substance which can flow like a liquid and also have some of the properties of solids within a certain temperature range are called liquid crystals.
+(ii) The intermediate phase lying between the solid phase and the normal liquid phase is called liquid crystal.
+
+Uses in daily life:
+Liquid crystals are used as temperature sensors. This is because the liquid crystals change their colour with change in temperature.
+They are used to monitor temperature changes where conventional methods are not feasible, e.g. they are used in thermometer for measuring skin temperature of infants.
+Some of the modern room thermometers contain liquid crystals with a suitable temperature range. With temperature changes, the liquid crystal show up the figure in different colours.
+They are used to find the point of potential failure in micro-electronic circuits.
+They are used to locate the veins, arteries and tumours, e.g. when a layer of liquid crystal is painted on the surface of the breast, a tumour shows up as a hot area which is coloured blue. Thus this technique helps in early diagnosis of breast tumours.
+Liquid crystals are used in the display of numbers and letters of electrical devices such as digital watches, calculators and computers etc.
+They are used in LCD screens of oscillographs and TV.
+
+Difference between Liquid Crystals and Pure Liquids:
+Liquid crystal is the state of matter which is in between pure liquid (transparent) and crystalline solid (opaque).
+Crystalline solid → liquid crystals → pure liquid.
+Liquid crystal resembles the crystalline solid in certain respects, e.g. optical properties. However pure liquids remain as such.
+Crystalline solid may be isotropic (A substance showing same properties in all directions) or anisotropic (A substance showing different properties in different directions) but liquid crystals are always isotropic. Pure liquids remain as such.
+Liquid crystal is intermediate in between pure liquid and crystalline phase.
+

@@ -1,0 +1,256 @@
+environmentchem_2ndchem_fed.txt
+
+After completing this lesson, you will be able to:
+Recognize various chemical reactions occurring in the atmosphere.
+Recognize that the release of CO2, SO2, NOx, VOCs is associated with the combustion of hydrocarbon based fuels.
+Outline problems associated with release of pollutants including acid rain and the formation by free radical reaction of hazardous inorganic and organic compounds e.g., PAN.
+Describe causes and impacts of urban smog.
+Explain greenhouse effect and global warming as resulting in climate change.
+Explain build-up of and recognize the adverse effects of ozone in the troposphere.
+Describe the role of CFCs in destroying ozone in the stratosphere.
+Describe the role of ozone in the stratosphere in reducing the intensity of harmful UV radiation reaching the earth.
+List possible alternatives to the use of CFCs.
+Recognize and describe various water pollutants.
+Explain various parameters of water analysis.
+List some major products of the petrochemical industry together with their uses.
+
+Environmental Chemistry is the branch of chemistry which deals with the chemicals and other pollutants in the environment resulting directly and indirectly from human activities.
+In this we study the sources, chemical reactions, transportation of the chemicals and their adverse effects on human beings.
+
+Components of the Environment:
+Atmosphere: We will study it in detail.
+Hydrosphere: Concerned with all water bodies i.e. ocean, rivers, streams, lakes, glaciers and ground water reservoirs.
+Lithosphere: Concerned with hard and rigid rocky earth crust.
+Biosphere: Area on earth which support life i.e. air, lakes, etc.
+
+Atmosphere: Our surrounding on earth is called atmosphere. It consists of gases i.e. N2, O2, CO2, He, Ne, Kr, Xe and water vapours. Its thickness is about 1000 km above the surface of earth.
+
+Importance of atmosphere:
+These gases absorb harmful radiations (cosmic rays and electromagnetic radiation) of Sun to protect life on earth.
+N2 is used by nitrogen fixing bacteria.
+O2 is necessary for breathing in animals.
+CO2 is necessary for photosynthesis in plants and water vapours are responsible for sustaining life on earth.
+
+Layers of atmosphere: Atmosphere is divided into four layers. We divide atmosphere into four layers: Troposphere, Stratosphere, Mesosphere, Thermosphere.
+We are concerned here with only first two layers i.e. troposphere and stratosphere.
+
+23.1. CHEMISTRY OF TROPOSPHERE
+Troposphere is very close to earth in which we live. It extends up to 11 km. It contains all those gases which are present in our atmosphere. In this part of our atmosphere, we will discuss:
+Different pollutants (Their sources and effects and smog (development and chemistry)).
+Effects and chemical reactions which occur during acid rain, greenhouse effect and global warming.
+Role of automobile in air pollution.
+
+23.1.1. Smog:
+"It is a combination of smoke and fog i.e. 'sm' from smoke and 'og' from fog". Smog is of two types: Reducing Smog and Oxidizing Smog.
+Reducing smog: This smog contains high concentration of SO2. It is chemically reducing in nature and is known as reducing smog. For example, the smoke and SO2 produced from the burning of coal can combine with fog to create industrial smog.
+Oxidizing smog: Photochemical smog consists of higher concentration of oxidants like Ozone. It is a yellowish, brownish, grey haze which is formed in the presence of water droplets and chemical reaction of pollutants in the air. It has unpleasant odor. It is oxidizing in nature and is called oxidizing smog. Ozone (O3) and peroxy acetyl nitrate (PAN) are primarily created from volatile organic compounds. Other oxidizing agents are H2O2, HNO3 etc. PAN is an eye irritant and is also toxic to plants.
+
+Reactions:
+2NO + O2 -> 2NO2.
+NO2 -> NO + O.
+O + O2 -> O3.
+
+Conditions for Photochemical smog:
+Sunlight.
+The production of oxides of nitrogen (NOx).
+The production of volatile organic compounds (VOCs).
+Temperatures greater than 18°C.
+
+Major Chemical Pollutants in Photochemical Smog: (Sources and Environmental Effects)
+Toxic Chemical: Nitrogen Oxides (NO and NO2). Sources: Combustion of oil, coal, gas in both automobiles and industry, bacterial action in soil, forest fires, volcanic action, lightning. Environmental Effects: Decreased visibility due to yellowish color, NO2 causes heart and lung problems, NO2 can suppress plant growth, decreased resistance to infection, may cause cancer.
+Toxic Chemical: Volatile Organic Compounds (VOCs). Sources: Evaporation of solvents, evaporation of fuels, incomplete combustion of fossil fuels. Environmental Effects: Eye irritation, respiratory irritation, some are carcinogenic, decreased visibility due to blue-brown haze.
+Toxic Chemical: Ozone (O3). Sources: Formed from photolysis of NO2, sometimes results from stratospheric ozone intrusions. Environmental Effects: Bronchial constriction, coughing, sneezing, eye irritation, decreased crop yields and plant growth.
+Toxic Chemical: Peroxyacetyl Nitrates (PAN). Sources: Formed by the reaction of NO2 with VOCs (can be formed naturally in some environments). Environmental Effects: Eye irritation, high toxicity to plants, respiratory irritation.
+Toxic Chemical: Carbon Oxide (CO and CO2). Sources: Incomplete combustion of carbon containing fuels (CO), incomplete combustion of agricultural or slush matter (CO2), eruption of volcanoes (CO2), respiration of living organism (CO2). Environmental Effects: CO causes respiratory irritation, CO2 causes greenhouse effect and global warming results climatic changes.
+Toxic Chemical: Oxides of Sulphur (SO2, SO3). Sources: Volcanic eruption, burning of oil & coal, sulphide ores are roasted. Environmental Effects: Causes acid rain, respiratory irritation, loss of green color in plants.
+
+Quick Quiz 1
+1. What is environmental chemistry?
+2. What is smog? What are its types?
+3. What is photochemical smog?
+4. What conditions are necessary for photochemical smog?
+
+23.1.2. Acid Rain (pH less than 5.6):
+It was first observed by an English scientist R.A. Smith in 1853. Rain water is slightly acidic, having pH = 5.6. Due to the absorption of CO2, SO2, NOx etc. The rain water becomes acidic and the pH decreases from 5.6 and is called acid rain. Burning of fuels produced gases SO2, NOx and CO2. These gases react with rainy water or moisture in the presence of oxygen from air to form acids.
+
+Reactions:
+SO2 + H2O -> H2SO3.
+4NO2 + 2H2O + O2 -> 4HNO3.
+CO2 + H2O -> H2CO3.
+In some countries due to release of HCl by volcanic eruption, there is temporary acid rain.
+H2SO3, HNO3 and H2CO3 formed as above come down the atmosphere as acid rain or acid snow. As far as H2CO3 is concerned, it has no severe effects on animals, plants or any other things.
+
+Adverse effects of acid rain:
+It makes the lakes so acidic that they can no longer support aquatic life.
+The yield of agricultural crops is reduced.
+HNO3 acid rain gradually damages lime stone and marble of the buildings and corrodes metals.
+It fades the colour of fabrics (e.g. cotton, nylon and rayon), leather and paper.
+It causes extensive leaf-drop in plants.
+It is very corrosive and attacks skin.
+Acidification of soil and rocks can leach metals like Al, Hg, Pb and Ca and discharge them into water bodies. Then these heavy metals are eaten by fish which proves very much dangerous for those animals and birds which eat these fish.
+It also damages steel, paint, plastic, cement and masonry work.
+
+Quick Quiz 2
+1. What is acid rain?
+2. Write down different effects of acid rain.
+3. Name the heavy metals which leach due to acidification of soil.
+
+23.1.3 Green House Effect and Global Warming:
+Greenhouse Effect:
+Heat coming from sunlight have shorter wavelength and causes the atoms and molecules in the earth's surface to vibrate and radiate heat and infrared radiation of longer wavelength. Some substances in the atmosphere, especially CO2 and H2O, absorb infrared radiation. This absorption of radiations warms the atmosphere. The earth must lose heat in order to remain in equilibrium. But it is trapped in the atmosphere, and the temperature rises which produces a warming effect on the earth. Two gases CO2 and water vapours in the air, act as an insulating blanket to prevent heat from escaping. The trapping of heat (I.R. radiations of longer wavelength) on the surface of earth by CO2 and water vapour in the atmosphere is known as greenhouse effect.
+
+Global Warming:
+In the atmosphere, water vapours absorb more infrared radiation than CO2 due to its high concentration. The concentration of CO2 in the atmosphere which is 330 ppm increases up to 400 ppm and the temperature should rise as much as 5°C. The main global temperature at Earth's surface is about 15°C. This temperature is determined by a delicate balance between the energy which is absorbed by the earth and the energy emitted back into space by the Earth. Any change in the amount of energy absorbed or emitted by the Earth could upset this balance, which affect the climate. Due to global warming the rate of melting of glaciers is increasing and water level in sea is rising.
+
+Quick Quiz 3
+1. Is CO2 responsible for greenhouse effect? If yes then how?
+2. High concentration of CO2 is responsible for climate changes: Comment.
+
+23.1.4. Automobile (Pollutants and Converter):
+In automobiles during incomplete combustion of petrol, we get smoke of different gases which pollute our atmosphere. The engine used in these motor vehicles are called internal combustion engines because the petrol which is used as a fuel is burnt inside the engine and contains CO, NO, NO2, un-burnt carbon particles, and lead oxide. All these substances are poisonous and hence pollute air.
+
+Production of Pollutants:
+The pollutants produced in the internal combustion engine by the use of petrol (which mainly contain hydrocarbon) are CO, NO, NO2.
+Due to incomplete combustion of petrol some CO, un-burnt carbon particles, CO2, water vapors, CO and carbon particles are emitted into the air, which causes air pollution.
+When petrol burns in a car engine, a very high temperature is produced. At this high temperature, N2 and O2 present in air of the engine combine together and form NO and NO2. These gases also pollute the air.
+
+Control Measures:
+1) By adding tetraethyl lead to the petrol: Tetraethyl lead improves the quality of petrol and hence enables it to burn more completely. Due to this air pollution is minimized.
+Drawbacks: Lead vapour pollutes the air. Lead oxide (PbO) deposits in the valves of the engine.
+2) Catalytic oxidation / Converter: The pollution of air caused by unburnt hydrocarbons and CO present in the exhaust gases of the vehicle engine can also be reduced by attaching a device with the vehicle’s engine, in which the exhaust gases can be mixed with more air and then burnt completely in the presence of platinum catalyst before they are discharged into the environment. Hydrocarbons and CO are oxidized by O2 of the air in presence of platinum catalyst.
+2C8H18 + 25O2 -> 16CO2 + 18H2O.
+2CO + O2 -> 2CO2.
+2NO + 2CO -> N2 + 2CO2.
+The overall result of passing exhaust gases through this kind of catalyst system is to convert CO, NOx, and CxHy to relatively harmless N2, CO2 and H2O. The catalytic reactions do not start working until the catalyst has reached a temperature of about 200°C, so they are not effective until the engine has warmed up. Catalyst systems of this type cost several hundred pounds, mainly because of the high cost of the precious metal they contain. The catalyst is poisoned by lead, so unleaded fuel must always be used.
+
+Quick Quiz 4
+1. What is the role of tetraethyl lead in minimizing the air pollution?
+2. Name the pollutants produced in automobile engines.
+3. Which gases are produced due to high temperature of engine?
+4. What is the drawback of tetraethyl lead used to control air pollution?
+
+23.2. Chemistry of the stratosphere:
+Ozone is present in stratosphere at a height of about 15 to 30 kilometres. The concentration of ozone in this layer is 10 ppm (10 parts per million) but it is present in small concentration throughout the atmosphere.
+a) Production of ozone and its toxic effects: Some O3 is produced during various combustion processes. O3 is also produced in the upper part of the atmosphere by the action of sunlight on O2 molecules.
+O2 + hv -> 2O.
+O + O2 -> O3.
+Traces of O3 in air do not harm but concentration of O3 more than 0.1 ppm is toxic and harmful to human beings.
+b) Protective action of ozone layer in the atmosphere: The layer of O3 exists at a height of 25 - 30 km from the surface of the earth. O3 present in this layer absorbs harmful ultraviolet radiations coming from the sun. If these radiations reach the earth, they will cause skin cancer and will destroy organic molecules necessary for life.
+c) Destruction of Ozone in stratosphere (O3 depletion): In 1980 scientists showed that there is a hole in the O3 layer. This hole was detected in the region of Antarctica. Due to the presence of O3 layer, the ultraviolet rays (UV) coming from the sun can pass through the hole and thus can reach the earth’s surface. The presence of O3 in the atmosphere is due to the fact that the amount of O3 present in stratosphere is getting reduced day by day and thus the ozone layer is becoming thinner and thinner. The depletion of the ozone layer is due to the following sources.
+1) Oxides of Nitrogen: The oxides of nitrogen present in the atmosphere decompose O3 into O2 and are themselves regenerated.
+NO + O3 -> NO2 + O2.
+NO2 + O -> NO + O2.
+Thus the presence of nitrogen oxides in the atmosphere destroys the ozone layer. These oxides destroy about 70% of O3 found in the stratosphere. Greater is the amount of the oxides in the atmosphere greater will be the O3 depletion.
+2) Nuclear Tests: Nuclear tests being conducted in the world generate high temperature. At high temperature, atmospheric nitrogen is favorably oxidized to NO. This NO thus formed destroys ozone layer; as shown above.
+3) Role of Fluoro-Chloro Carbons in destroying ozone: Fluoro-chloro-carbons are the fluoro-chloro methanes like, Freon-11 (CFCl3) and Freon-12 (CF2Cl2). These are chemically inert and hence do not react with the substances. These are used as refrigerants, firefighting reagent and solvents for cleaning electronic components. When they enter stratosphere, they absorb ultraviolet solar radiations and are broken down into free atomic chlorine. This atomic chlorine decomposes O3 into O2 (NO also breaks O3 into O2).
+CFCl3 -> Cl + CFCl2.
+Cl + O3 -> ClO + O2.
+ClO + O3 -> Cl + 2O2.
+These reaction damage the ozone layer.
+4) How to protect ozone layer: Many scientists are worried about the destruction of ozone layer by the oxides of nitrogen and chloro-fluoro carbons. To save the destruction of O3 layer the chloro-fluoro carbons must be replaced with some new type of substances discovered which should not react with O3 layer, so that it may be saved.
+Alternative to chloro-fluoro carbons: Alternative of CFCs are the hydrofluorocarbons, HFCs (also known as hydrofluoroalkanes or HFAs). An example is 1,1,1,2-tetrafluoroethane, CF3CH2F, which is used as a refrigerant. HFCs have the advantage that they contain no Cl atoms, so they do not release damaging Cl radicals in the stratosphere. Moreover, their molecules include C-H bonds, which are relatively reactive, which means that these compounds break down in the atmosphere more quickly than CFCs so they do not persist for so long.
+
+Quick Quiz 5
+1. Ozone acts both useful as well as harmful. Justify the statement.
+2. Enlist the possible alternatives to the use of CFCs.
+3. How O3 is decomposed by oxides of nitrogen?
+4. How ozone is produced?
+
+23.3. WATER POLLUTION AND WATER TREATMENT:
+The contamination of water with the substances which have adverse effects on human beings, animals and plants is called water pollution and the substances whose presence in the water makes it polluted are called water pollutants.
+
+23.3.1. Types of Water Pollutants:
+Water is essential for life on Earth. Two third of the population of the world is deprived of clean drinking water. In spite of abundance of water on the earth, clean and fresh water is vital for survival of all human beings. The water pollutants are of following types:
+(A) Suspended Solids and Sediments: These are wastes which are not completely soluble but suspended in the water. These wastes include: Oil spillage, Live-stock wastes, Industrial wastes and Leather tanneries.
+1) Oil Spillage: Petroleum is a complex mixture of many compounds which are mainly hydrocarbons. It is transported from one place to another through sea. Petroleum is handled on large scale in the world. So the oil spillage can take place and it creates serious problems.
+Pollution of water by petroleum: Water gets polluted by: accidental oil spills, leakage from cargo oil tankers in sea, tanker trucks, pipelines leakage during offshore exploration, leakage of under ground storage tanks.
+Oil Spillage and animal life: Many petroleum products are poisonous and create serious health problems to: Humans, Animals, Aquatic life. Polycyclic hydrocarbons are carcinogenic even at very low concentration. Marine animals are seriously affected by soluble aromatic fractions of oil. The spilled oil damages the feather of the birds and fur of animals and sometimes causes their death.
+Petroleum and aquatic life: Oil spilled on the surface of sea affects the transmission of light. The process of photosynthesis of plants decreases the concentration of oxygen in water.
+2) Live-Stock Waste: Livestock waste is dumped on open land. Sometimes it is discharged into sewage, canals or rivers. This practice pollutes the surface and ground water, which causes serious problems for the population. Bacteria present in the livestock waste contaminates the surface and ground water. This causes the diseases like: Dysentery, Typhoid, Hepatitis.
+3) Industrial Wastes: Sources: Industries which produce large quantities of industrial effluents are leather/tanneries, fertilizers, oil refineries, petrochemicals, textiles, foods, sugar, paper/pulp, paper board, rubber products etc. The waste products may be waste heat, smoke, solid or water effluent. Pollutants: The industrial pollutants are highly toxic organic compounds and heavy metals like Pb, Cd, Cr, Hg, As, etc. Oil greases, Mineral acids are also released in small quantities. These pollutants result in contamination of water and make it unsuitable for irrigation and drinking purposes. These pollutants pose health hazards. Effects of Industrial pollutants: Heavy metal particles are highly toxic. When they are continuously ingested through food or water they get accumulated in the organisms and cause serious health problems like anaemia, kidney diseases, nervous disorder, high blood pressure and cancer.
+4) Leather Tanneries: Leather industries use chromium (VI) salts. Chromium (VI) is carcinogenic. Only a few industries have the facility of waste treatment. The high oxidation state of Cr+6 does not change into Cr+3 oxidation state. Cr+3 is precipitated as Cr(OH)3.
+(B) Dissolved Solids: These are wastes which are dissolved/soluble in water completely. These wastes include: Detergents, Pesticides, Chemical fertilizers.
+1) Detergents: Detergents are used in homes and industries for washing. After washing these detergents are thrown into water reservoirs. The amount of detergents in reservoirs is increasing day by day. This waste water containing detergents goes into rivers and finally reaches the ocean which is harmful for aquatic life.
+2) Pesticides: The pesticides are both toxic and persistent. i) Endrin, even in traces, is reported to be toxic for catfish and causes death of fish. ii) D.D.T. affects the central nervous system of fish.
+3) Chemical Fertilizers: Nitrate/phosphate salts are generally used as fertilizers, to increase the yield of the crops. When these fertilizers are used in excess, some of their unused part is washed away from the agriculture lands into the ponds, lakes and river with rainwater and thus pollute the water. The presence of nitrogenous and phosphatic fertilizers in water is harmful to the aquatic life and human beings.
+Adverse effects: a) The presence of the fertilizers in the polluted water increases the growth of algae and other aquatic plants which, on decomposition produces disagreeable odor. These plants also decrease the amount of O2 dissolved in water and hence the survival of aquatic life becomes difficult or impossible. b) After a long period the lake and slow moving waters which contain plant nutrients are converted into swamps (Swamp is an area of very wet land with wild plants growing in it) and marshes (A marsh is an area of land which is very wet and muddy). c) Water containing nitrate salt is not fit for drinking by human beings. Moreover, this polluted water cannot be used for drinking purposes.
+(C) Thermal Pollution: Thermal pollution takes place because many electric generating companies use water in cooling their generators. This heated water then released into the streams causes warming of surface water. Thermal pollution results when the heated effluent is released into poorly flushed system. In these cases, generally permanent temperature increases which tend to decrease the solubility of dissolved oxygen.
+
+23.3.2. Waste Water Treatment:
+Treatment of industrial waste water: Different types of contamination of waste water require a variety of strategies to remove the contamination.
+Solids removal: Most solids can be removed using simple sedimentation techniques with the solids recovered as slurry or sludge.
+Oils and greases: Many oils can be recovered from open water surfaces by skimming devices. However, hydraulic oils and the majority of oils that have degraded to any extent will also have a soluble or emulsified component that will require further treatment to eliminate.
+Soft organics: Organic material of plant or animal origin is usually possible to treat using extended conventional waste water treatment processes. Problems can arise if the wastewater is excessively diluted with washing. The presence of cleaning agents, disinfectants, pesticides, or antibiotics can have harmful impacts on treatment processes.
+Hard organics: Synthetic organic materials including solvents, paints, pharmaceuticals, pesticides, cooking products etc can be very difficult to treat. Treatment methods are often specific to the material being treated. Methods include distillation, adsorption, nitrification, incineration, chemical immobilization or landfill disposal.
+Acids and alkalis: Acids and alkalis can usually be neutralized under controlled conditions. Neutralization frequently produces a precipitate that will require treatment as a solid residue that may also be toxic. In some cases, gases may be evolved requiring treatment for the gas stream.
+Toxic materials: Toxic materials including many organic materials, metals (such as zinc, silver, cadmium, thallium, etc.) acids, alkalis, non-metallic elements (such as arsenic or selenium) are generally resistant to biological processes unless very dilute. Metals can often be precipitated out by changing the pH or by treatment with other chemicals. Many, however, are resistant to treatment and may require concentration followed by land filling or recycling.
+
+Quick Quiz 6
+1. Briefly describe oil spillage as a source of water pollution.
+2. Enlist the diseases caused by live stock.
+3. How do industrial wastes pollute water?
+4. How do chemical fertilizers pollute water?
+
+23.3.3. Various Parameters of Water Analysis:
+Following table will help us to determine the water quality.
+
+Table: Water quality Indicators
+Parameters:
+Dissolved Oxygen (DO): Molecular oxygen dissolved in water is called dissolved oxygen. Oxygen oxidizes the organic matter. Water having dissolved oxygen less than 4 ppm is polluted. Minimum acceptable level: 5 ppm.
+Total suspended solids: Clog fish gills, bury eggs, reduce light penetration, increase heat absorption. Dependent on location.
+Total dissolved solids: Represents total mineral content which may or may not be toxic. A maximum level of 500 mg/l is suitable for drinking.
+BOD (Biological / Biochemical Oxygen Demand): Amount of dissolved oxygen consumed during decomposition of organic matter for biological oxidation within five days is called biological oxygen demand. BOD Water status: 1 mg/liter very clean, 2 mg/liter Clean, 3 mg/liter Fairly clean, 4 mg/liter Doubtful, 8 mg/liter Contaminated.
+COD (Chemical Oxygen Demand): The amount of oxygen consumed for chemical oxidation of organic matter present in water is called chemical oxidation demand. It indicates the concentration of oxidizable materials by chemical reaction. Higher value of COD indicates more pollution. 0-5 mg/liter indicates very clean water.
+
+23.4. GREEN CHEMISTRY:
+The term green chemistry, coined in 1991, is defined as "the design of chemical products and processes that reduce or eliminate use and generation of hazardous substances." Green chemistry emphasizes the design and creation of chemicals that are not hazardous to people or the environment. It has been applied to a wide range of industrial and consumer goods, including paints, dyes, fertilizers, pesticides, plastics, medicines, electronics, dry cleaning, energy generation, and water purification.
+
+Importance of Green Chemistry: Green chemistry is effective in reducing the impact of chemicals on human health and the environment. In addition, many companies have found that it can be cheaper and even profitable to meet environmental goals. Profits derived from higher efficiency, less waste, better product quality, and decreased liability. Many environmental laws and regulations target hazardous chemicals, and following all these requirements can be complicated. But green chemistry allows companies to comply with the law in much simpler and cheaper way. Green chemistry is a fundamental science based approach to environmental issues. At the molecular level, it can be applied to all kinds of environmental problems. The goal of green chemistry is to reduce chemical related impact on human health and virtually eliminate contamination of the environment through dedicated, sustainable prevention programs. Green chemistry searches for alternative reaction media and at the same time strives to increase reaction rates and lower reaction temperatures. The green chemistry concept applies innovative scientific solutions to solve environmental issues posed in the laboratory.
+
+Twelve basic principles of Green Chemistry:
+1) Prevent waste.
+2) Maximize atom economy.
+3) Less hazardous chemical syntheses.
+4) Safer chemicals and products.
+5) Safer solvents and reaction conditions.
+6) Increase energy efficiency.
+7) Use renewable feedstocks.
+8) Avoid chemical derivatives (protecting groups).
+9) Use catalysts.
+10) Design chemicals and products to degrade after use.
+11) Analyse in real time to prevent pollution.
+12) Minimize potential for accidents.
+
+Quick Quiz 7
+1. What is green chemistry?
+2. Give importance of green chemistry.
+3. Give effects of green chemistry.
+
+Society, Technology and Science:
+Radiation Pollution: Radioactive substances and nuclear radiations produced during nuclear reactions affect our environment adversely and thus radioactive pollution is created.
+Sources of radioactive pollution and its effects:
+Low level radioactive liquid wastes, radioactive gaseous wastes, and dusts are released during nuclear explosions. The radioactive gaseous wastes are injected into the upper layer of atmosphere where, due to cooling they condense to fine dust particles and thus radioactive cloud is formed. This cloud moves in the direction of the wind, settling down slowly to the surface of the earth and thus pollutes air, water and soil.
+The radioactive substances produce energy which is so strong that the living cells are damaged or destroyed by it.
+People working with radioactive elements develop tumors.
+Radioactive wastes like strontium-90 affects our soil.
+Nuclear explosions which are operated in sea make water polluted. This affects the aquatic life.
+Among radioactive radiations, gamma radiations are most dangerous, since they have energy and big penetrating power. These radiations, therefore, pass freely in the human body and cause leukaemia and cancer.
+We know that in a nuclear reactor U-235 is used as nuclear fuel, which undergoes nuclear fission and energy is produced. Nuclear radiations are produced in the processes viz mining and enrichment of U-235 taking place in the nuclear reactor and therefore, damage the health of the human beings and animals. Nuclear radiations can leak from the reactor.
+Control measures for minimizing radioactive pollution: The waste material produced in the mining, enrichment and fission of U-235 inside the reactor is collectively called nuclear wastes. At present most of the nuclear wastes are being stored in strong leak proof containers. These will be disposed of whenever a safe method of their disposal is found out.
+Catalytic Converter: A catalytic converter removes pollutant gases from the exhaust by oxidizing or reducing them. The exhaust passes through a converter containing a precious metal catalyst, an alloy of platinum and rhodium. Several reactions may take place. NOx and CO may take part in a reduction which neatly removes both of them at the same time: NOx oxidizes CO to CO2 and is reduced to harmless nitrogen gas.
+2NO + 2CO -> N2 + 2CO2.
+CO and CxHy are oxidized by air.
+2CO + O2 -> 2CO2.
+C7H16 + 11O2 -> 7CO2 + 8H2O (Using C7H16 to represent a typical hydrocarbon.)
+For all three of these reactions to happen, it is necessary to use a three way converter and to have an oxygen monitor fitted to the engine, this checks the quantity of oxygen going into the engine to make sure there is enough to carry out the oxidation reactions.
+
+Key Points:
+Actually our atmosphere has been divided into four layers: 1-Troposphere 2-Stratosphere 3- Mesosphere, 4- Thermosphere.
+Photochemical smog is formed only when the atmosphere contains soot particles, hydrocarbons and oxides of nitrogen (mainly NO2).
+H2SO3, HNO3 and H2CO3 formed in air come down the atmosphere as acid rain or acid snow.
+In automobiles during incomplete combustion of petrol, we get smoke of different gases which pollute our atmosphere. The engines used in these motor vehicles are called internal combustion engines.
+When petrol burns in a car engine, a very high temperature is produced. At this high temperature, N2 and O2 present in air of the engine combine together and form NO and NO2. These gases pollute the air.
+Nuclear tests being conducted in the world generate high temperature. At high temperature, atmospheric nitrogen is favorably oxidized to NO. NO thus formed destroys ozone layer.
+Keep the vehicle properly tuned for the optimum ignition of fuels. This method prevents air pollution caused by CO and hydrocarbons present in automobile vehicles.
+Use aerosol spray propellants other than chloro-fluoro carbons (e.g. Freon-11 and Freon-12) as they destroy O3 layer, as oxides of nitrogen do.
+Water gets polluted by: accidental oil spills, leakage from cargo oil tankers in sea, tanker trucks, pipelines leakage during offshore exploration, leakage of under ground storage tanks.

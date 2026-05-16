@@ -1,0 +1,505 @@
+
+INTRODUCTION
+When we presented stoichiometry in Chapter 1, we described that reactions proceed virtually to completion when the limiting reactant is completely consumed. This is true for reactions that virtually go to completion i.e., reactants are completely consumed and converted into the products. Such reactions are called irreversible reactions. Such reactions stop when the limiting reactant is consumed. However in many reactions the net formation of products comes to an end before all the limiting reactant has been consumed. Such reactions actually proceed in both the directions i.e. forward and backward and are called reversible reactions. These reactions reach at a stage called chemical equilibrium. At this stage the concentration of reactants and products become constant. But the reaction continues to proceed in both the directions without any change in concentration of reactants and products under existing conditions. Such reactions never go to completion and are called reversible reactions.
+In this chapter we will discuss how and why a chemical reaction comes to equilibrium. We will discuss the principles and applications of chemical equilibrium.
+
+REVERSIBLE REACTIONS AND DYNAMIC EQUILIBRIUM
+A reversible reaction is one in which the products once formed can react to form reactants. Such reactions do not go to completion even if stoichiometric amounts of the reactants are taken. These reactions take place both in the forward and backward directions under the existing conditions. Some examples of reversible reactions are given below:
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
+2NO₂(g) ⇌ N₂O₄(g)
+PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
+The double arrow ⇌ tells that the reaction is reversible.
+Consider the reaction between steam and carbon monoxide under appropriate conditions.
+On mixing macroscopic changes are observed (e.g., changes in concentration).
+Suppose that the reaction is started with same number of moles of both the reactants. When steam and carbon monoxide are mixed, a maximum number of collisions per second between them will occur. Therefore the forward reaction has its maximum speed at the beginning. This leads to a decrease in the concentration of the reactants.
+H₂O(g) + CO(g) → H₂(g) + CO₂(g)
+As H₂O and CO are gradually used up, the forward reaction gradually slows down. As molecules of H₂ and CO₂ accumulate with time, more and more collisions per second between these molecules occur. Therefore reverse reaction proceeds with increasing speed. This means that forward reaction starts with maximum speed and gradually slows down, whereas the reverse reaction starts at zero speed and gradually increases its speed.
+H₂O(g) + CO(g) ⇌ H₂(g) + CO₂(g)
+Eventually a time comes when both reactions proceed at the same speed. The reaction attains a stage said to be in chemical equilibrium. The concentration of reactants and products become constant.
+H₂O(g) + CO(g) ⇌ H₂(g) + CO₂(g)
+Unless the system is somehow disturbed no further change in concentration will occur. The state of a reversible reaction at which composition of the reaction mixture does not change is called the state of chemical equilibrium. The plots of concentrations of reactants and products versus time are shown in Figure 7.1. What do these plots show? Why have they become parallel?
+Since the concentration of reactants and products become constant it may appear that the reaction has stopped. But this is not true. On the microscopic level there is excited activity. Individual molecules of reactants continue to combine. Individual molecules of products also continue to combine. But the rate of one process is exactly balanced by the rate of the other. Therefore, this is a dynamic equilibrium. The system is dynamic because individual molecules react continuously, but the rate of the forward and reverse reactions are equal. It is at equilibrium because no net change occurs.
+
+The Law of Mass Action
+Two chemists C.M Guldberg and P. Waage in 1864 proposed the law of mass action as a general description of the equilibrium state. This Law you have learnt in grade X.
+It states that “the rate at which a substance reacts is proportional to its active mass and the rate of a chemical reaction is proportional to the product of the active masses of the reacting substances”. It can also be defined as the rate of a chemical reaction is proportional to the product of molar concentration of each reacting substance each raised to a power equal to its stoichiometric coefficient in the balanced chemical equation. The active mass means, the concentration of the reactants and products in moles dm⁻³ for an aqueous solution.
+Consider the following general reversible reaction.
+aA(g) + bB(g) ⇌ cC(g) + dD(g)
+Where A, B, C and D represent chemical species and a, b, c and d are their coefficients in the balanced equation.
+According to the law of mass action.
+Rate of forward reaction, R_f ∝ [A]ᵃ [B]ᵇ
+R_f = k_f [A]ᵃ [B]ᵇ (1)
+Where k_f is the rate constant for forward reaction.
+Rate of reverse reaction, R_r ∝ [C]ᶜ [D]ᵈ
+R_r = k_r [C]ᶜ [D]ᵈ (2)
+Where k_r is the rate constant for the reverse reaction.
+At equilibrium state:
+Rate of forward reaction = Rate of reverse reaction
+Thus k_f [A]ᵃ [B]ᵇ = k_r [C]ᶜ [D]ᵈ
+On rearranging:
+k_f / k_r = [C]ᶜ [D]ᵈ / [A]ᵃ [B]ᵇ
+Where K_c = k_f / k_r and is known as equilibrium constant, and the equation (3) is known as equilibrium constant expression. The square brackets indicate the concentration of the chemical species at equilibrium.
+Thus, the equilibrium constant expression for any reaction can be written from its balanced equation. Concentration of products are taken in the numerator and concentration of reactants in the denominator.
+
+Important Features of Equilibrium Constant
+Important features of equilibrium constant expression are as follows:
+K_c applies only at equilibrium. The subscript c indicates the concentration of reactants and products in moles per dm³ at equilibrium state.
+K_c is independent of initial concentration of reactants and products but depends upon temperature. At a given temperature, it has only one value. Whether we start reaction with pure reactants or pure products or any composition in between, the value of K_c remains unchanged.
+K_c is related to the coefficients of the balanced chemical equation. The concentration of the products is placed in the numerator and those of reactants in the denominator.
+Each concentration is raised to a power equal to its coefficient in the balanced chemical equation.
+The magnitude of K_c indicates the position of equilibrium. When K_c is less than 1, the denominator is greater in magnitude than the numerator. This means the concentration of reactants are greater than those of products when the equilibrium is established. Whereas, when K_c is greater than 1, the numerator is greater in magnitude than the denominator. This means the concentration of the products are greater than those of the reactants at equilibrium.
+
+Examples of Equilibrium Constant Expression
+Write products in the numerator and reactants in the denominator in square brackets.
+Raise each concentration to the power that corresponds to the coefficient of each species in the balanced chemical equation.
+Example 7.1:
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
+K_c = [NH₃]² / ([N₂][H₂]³)
+Example 7.2:
+2CO(g) + O₂(g) ⇌ 2CO₂(g)
+K_c = [CO₂]² / ([CO]²[O₂])
+Exercise 7.1
+The following reactions represent various industrial reactions at equilibrium. Write K_c expression for each of these reactions. Do not forget to balance the equations:
+S₈(s) + O₂(g) ⇌ SO₂(g)
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g)
+Write the balanced equations that correspond to following equilibrium expressions.
+K_c = [CH₃OH] / ([CO][H₂]²)
+
+Units of Equilibrium Constant
+Problem solving strategy:
+Write equilibrium constant expression.
+Write mol dm⁻³ as units of concentration of each species within square brackets.
+Simplify the expression.
+Equilibrium constant may or may not have units. Equilibrium constant has no units if the number of moles of the reactants are equal to the number of moles of the products. For instance K_c for the following reaction has no units.
+H₂O(g) + CO(g) ⇌ H₂(g) + CO₂(g)
+K_c = ([H₂][CO₂]) / ([H₂O][CO])
+K_c = (mol dm⁻³ × mol dm⁻³) / (mol dm⁻³ × mol dm⁻³) = No units
+On the other hand if the number of moles of products and reactants are not equal, K_c has units. For example:
+N₂O₄(g) ⇌ 2NO₂(g)
+K_c = [NO₂]² / [N₂O₄]
+K_c = mol dm⁻³
+In this way we can determine the units for K_c, however units of equilibrium constant is not usually written.
+
+Self Check Exercise 7.2
+Determine the units for K_c for the following reactions:
+PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+H₂(g) + I₂(g) ⇌ 2HI(g)
+The value of K_c at a given temperature can be calculated if we know the equilibrium concentration of the reaction components.
+Example 7.3
+The following equilibrium concentrations were observed for the reaction at 500°C.
+A₂(g) + B₂(g) ⇌ 2AB(g)
+[A₂] = 0.399M, [B₂] = 1.197M, [AB] = 0.203M. Calculate K_c.
+Solution:
+Here [A₂] = 0.399 mol dm⁻³, [B₂] = 1.197 mol dm⁻³, [AB] = 0.203 mol dm⁻³
+K_c = [AB]² / ([A₂][B₂])
+K_c = (0.203)² / (0.399 × 1.197)
+K_c = 0.086
+
+Equilibrium Expressions Involving Partial Pressure, Number of Moles and Mole Fraction.
+Consider the general gaseous reversible reaction.
+aA(g) + bB(g) ⇌ cC(g) + dD(g)
+For gases the expression is often expressed in terms of partial pressure of each gas. According to Henry’s law “At constant temperature, the partial pressure of a gas is directly proportional to its molar concentration.
+Equilibrium constant K_p in term of partial pressures is given by:
+K_p = (P_C)ᶜ (P_D)ᵈ / (P_A)ᵃ (P_B)ᵇ
+Where P_A, P_B, P_C and P_D are partial pressures of gas A, B, C and D respectively. K_p is related with K_c by the following equation.
+K_p = K_c (RT)^Δn
+Where Δn is the difference between the total number of moles of the products and the total number of moles of the reactants as shown by the balanced equation.
+When the equilibrium concentrations of reactants and products are expressed in terms of their moles, the equilibrium constant is represented by K_n and is given by the following equation.
+K_n = (n_C)ᶜ (n_D)ᵈ / (n_A)ᵃ (n_B)ᵇ
+Where n_A, n_B, n_C and n_D are the moles of A, B, C and D respectively at the equilibrium state. K_n is also related with K_p.
+K_n = K_p (RT / P)^Δn
+Where P is the pressure of reaction mixture at equilibrium and n is the total number of moles.
+When the equilibrium concentration of the reactants and products are expressed by their mole fractions, the equilibrium constant is represented by K_x and is given by the following equation.
+K_x = (X_C)ᶜ (X_D)ᵈ / (X_A)ᵃ (X_B)ᵇ
+Where X_A, X_B, X_C and X_D are mole fractions of A, B, C and D respectively. K_x is related with K_p by the following expression.
+K_x = K_p (P)^-Δn
+Where P is the pressure of the equilibrium mixture.
+Example 7.4
+Following reaction was studied at 25°C. Calculate its K_p and K_c.
+2NO(g) + Cl₂(g) ⇌ 2NOCl(g)
+The partial pressures at equilibrium were found to be
+P_NO = 1.2 atm
+P_Cl₂ = 5.0 × 10⁻² atm
+P_NOCl = 3.0 × 10⁻¹ atm
+Problem Solving Strategy:
+Write K_p expression.
+Substitute the partial pressures of each species.
+Simplify to get K_p.
+Calculate Δn.
+Write expression relating K_p and K_c.
+Substitute known values in it and find K_c.
+Solution:
+K_p = (P_NOCl)² / ((P_NO)² (P_Cl₂))
+K_p = (3.0 × 10⁻¹)² / ((1.2)² × (5.0 × 10⁻²))
+K_p = 1.9 × 10³
+Now Δn = 2 - (2+1) = -1
+R = 0.0821 dm³ atm K⁻¹ mol⁻¹
+T = 25°C + 273 = 298K
+K_p = K_c (RT)^Δn
+1.9 × 10³ = K_c (0.0821 × 298)⁻¹
+1.9 × 10³ = K_c / (0.0821 × 298)
+K_c = 1.9 × 10³ × 0.0821 × 298
+K_c = 4.65 × 10⁴
+
+Self Check Exercise 7.3
+The contact process prepares purest sulphuric acid commercially. Following reaction takes place in the contact chamber in the presence of V₂O₅.
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+Calculate K_p if the following concentrations are found at equilibrium.
+[SO₂] = 0.59M, [O₂] = 0.05M, [SO₃] = 0.259M (Ans: 0.1576)
+
+Types of Equilibrium
+With respect to the physical states of reactants and products, there are two types of Chemical Equilibrium.
+Homogeneous Equilibria
+An equilibrium system in which all of the reactants and products are in the same phase. For example:
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+2NO(g) + Cl₂(g) ⇌ 2NOCl(g)
+CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l)
+Heterogeneous Equilibria
+Equilibria which involve more than one phase are called Heterogeneous equilibria. For example:
+CaCO₃(s) ⇌ CaO(s) + CO₂(g)
+C(s) + H₂O(g) ⇌ CO(g) + H₂(g)
+3Fe(s) + 4H₂O(g) ⇌ Fe₃O₄(s) + 4H₂(g)
+If pure solids or pure liquids are involved in an equilibrium system, their concentrations are not included in the equilibrium constant expression. This is because the change in concentration of any pure solid or liquid has no effect on the equilibrium system.
+2H₂O(l) ⇌ 2H₂(g) + O₂(g)
+K_c = [H₂]²[O₂]
+and K_p = (P_H₂)² (P_O₂)
+3Fe(s) + 4H₂O(g) ⇌ Fe₃O₄(s) + 4H₂(g)
+K_c = [H₂]⁴ / [H₂O]⁴
+and K_p = (P_H₂)⁴ / (P_H₂O)⁴
+
+Self Check Exercise 7.4
+Write K_c and K_p expressions for each of the following reactions.
+P₄(s) + 5O₂(g) ⇌ P₄O₁₀(s)
+C(s) + 2H₂(g) ⇌ CH₄(g)
+
+Ways to Recognize Equilibrium and Determination of Equilibrium Constant
+Equilibrium constant expression can be determined by physical as well as chemical methods.
+a) Physical Method (spectrometric method)
+This method is based on the measurement of a physical property of the reaction mixture. This physical property is measured during the course of reaction without removing the sample from the reaction mixture. We will discuss spectrometric method. This method is applicable if a reactant or product absorbs ultraviolet, visible or infrared radiation. The concentration can be determined by measuring the amount of radiation absorbed. Equilibrium constant for N₂O₄ - NO₂ system can be determined by the spectrophotometer.
+N₂O₄(g) ⇌ 2NO₂(g)
+(Colourless) (Reddish brown)
+N₂O₄ is a colourless gas whereas NO₂ is reddish brown gas. The progress of the reaction can be studied by measuring the absorbance at regular intervals. Absorbance is proportional to the concentration of NO₂. At equilibrium spectrophotometer will show constant value of absorbance. Suppose reaction is started with “a” moles of N₂O₄ at 100°C and x moles of it is converted to NO₂. By applying stoichiometry, the amount of NO₂ present in equilibrium will be 2x, which is measured by the spectrophotometer. Suppose the volume of the reaction mixture is V dm³, then we can write.
+N₂O₄(g) ⇌ 2NO₂(g)
+Initial Conc. (in moles): a 0
+Eq. Conc. (in moles): a - x 2x
+Eq. Conc. (moles/dm³): (a - x)/V 2x/V
+K_c = [NO₂]² / [N₂O₄] = (2x/V)² / ((a - x)/V) = 4x² / (V(a - x))
+Example 7.5
+At 100°C, 0.1 mole of N₂O₄ is heated in a one dm³ flask. At equilibrium concentration of NO₂ was found to be 0.12 moles. Calculate K_c for the reaction.
+Problem Solving Strategy:
+Write equilibrium reaction.
+Write initial conc. of each species below equilibrium reaction.
+Work out equilibrium conc. of each species.
+Use equilibrium conc. of each species in K_c expression and find K_c.
+Solution:
+[NO₂] = 0.12 mole
+Since one mole of N₂O₄ gives 2 moles of NO₂,
+2x = 0.12
+x = 0.12 / 2 = 0.06
+[N₂O₄] = 0.1 - 0.06 = 0.04
+N₂O₄(g) ⇌ 2NO₂(g)
+Initial Conc. (in moles): 0.1 0
+Eq. Conc. (in moles): 0.04 0.12
+Eq. Conc. (mole/dm³): 0.04 0.12
+K_c = [NO₂]² / [N₂O₄] = (0.12)² / 0.04 = 0.36
+Example 7.6
+Consider the following reaction
+N₂(g) + O₂(g) ⇌ 2NO(g) K_c = 0.1
+If original concentrations of N₂ and O₂ were 0.1M each. Calculate the concentrations of N₂, O₂ and NO at equilibrium.
+Solution:
+N₂(g) + O₂(g) ⇌ 2NO(g)
+Initial Conc. 0.1M 0.1M 0
+Eq. Conc. (0.1 - x) (0.1 - x) 2x
+K_c = [NO]² / ([N₂][O₂]) = (2x)² / ((0.1 - x)(0.1 - x)) = 0.1
+Taking square root of both the sides:
+2x / (0.1 - x) = √0.1 = 0.316
+2x = 0.316 (0.1 - x)
+2x = 0.0316 - 0.316x
+2.316x = 0.0316
+x = 0.0136 M
+[O₂] = [N₂] = 0.1 - x = 0.1 - 0.0136 = 0.0864 M each
+[NO] = 2x = 2 × 0.0136 = 0.0272 M
+
+Self Check Exercise 7.5
+For the reaction
+H₂(g) + CO₂(g) ⇌ H₂O(g) + CO(g)
+K_c = 0.60 at 500°C. If a mixture of 0.30M of each H₂ and CO₂ is heated at 500°C, calculate the concentration of CO at equilibrium. (Ans: [CO] = 0.130M)
+b) Chemical Method
+In this method, the amount of a reactant or product is determined by a suitable chemical reaction. Consider the reaction between acetic acid and ethanol to form ethyl acetate and water. It is an example of reversible reaction in the solution state.
+CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l)
+Suppose this reaction is started by taking ‘a’ moles of acetic acid and ‘b’ moles of ethanol in a stoppered flask at room temperature. A small amount of mineral acid is added in the mixture to catalyse the reaction.
+The progress of the reaction can be studied by determining the concentration of acetic acid after regular intervals. For this purpose a small portion of mixture is withdrawn. The concentration of acetic acid is determined by titrating it against a standard solution of NaOH using phenolphthalein as indicator. Concentration of acetic acid will decrease until equilibrium is attained. Suppose x moles of acetic acid has reacted with ethanol. Since one mole of acetic acid reacts with one mole of ethanol, the amount of ethanol reacted with acetic acid will also be x moles. As one mole of each product is formed. At equilibrium x moles of ethyl acetate and x moles of water are produced. This data is shown in table 7.1.
+Table 7.1. Data for the equilibrium reaction between acetic acid and ethyl alcohol.
+Reaction: CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l)
+Initial moles: a b 0 0
+Eq. moles: a - x b - x x x
+K_c = ([CH₃COOC₂H₅][H₂O]) / ([CH₃COOH][C₂H₅OH]) = (x × x) / ((a - x)(b - x)) = x² / ((a - x)(b - x))
+Example 7.7
+When 60g of acetic acid and 46g of ethyl alcohol are heated to give an equilibrium mixture, 12g water and 58.7g of ethyl acetate are formed. Find K_c for the reaction.
+Solution:
+Initial moles of CH₃COOH = 60g / 60g/mole = 1 mole
+Initial moles of C₂H₅OH = 46g / 46g/mole = 1 mole
+At equilibrium:
+Moles of CH₃COOC₂H₅ = 58.7g / 88g/mole = 0.666 mole
+Moles of H₂O = 12g / 18g/mole = 0.666 mole
+CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l)
+Initial conc. (moles): 1 1 0 0
+Eq. conc. (moles): 0.333 0.333 0.666 0.666
+K_c = ([CH₃COOC₂H₅][H₂O]) / ([CH₃COOH][C₂H₅OH]) = (0.666 × 0.666) / (0.333 × 0.333) = 4
+
+Self Check Exercise 7.6
+When dissolved in water, glucose and fructose exist in equilibrium as follows:
+Fructose ⇌ Glucose
+An analyst prepared a 0.25M fructose solution at room temperature. At equilibrium he found that its concentration decreased by 0.038M. Calculate K_c for the reaction. (Ans: 0.178)
+When 3.88 moles of NO₂ and 0.88 moles of CO were heated in a flask at a certain temperature. At equilibrium 0.11 moles of each of the product were present. Calculate K_c for the reaction:
+CO₂(g) + NO(g) ⇌ CO(g) + NO₂(g) (Ans: 0.0042)
+
+Applications of the Equilibrium Constant
+Equilibrium constant for a reaction can be used to predict many important features of reactions. For instance, it can be used to predict (1) Direction of the chemical reaction (2) Extent of the chemical reaction (3) Effect of changes in condition of the chemical reaction on the equilibrium position and equilibrium constant.
+The Direction of a Reaction
+When reactants and products of a given chemical reaction are mixed, it is important to know whether the mixture is at equilibrium and if not, in which direction it will move to achieve equilibrium state. For this purpose, we use the reaction quotient (Q). The ratio of concentration of products to reactants at any particular time is called reaction quotient. It is obtained by applying the law of mass action, using initial concentration or concentration at any particular time instead of equilibrium concentration.
+Q = [Products] / [Reactants]
+The value Q leads to one of the following possibilities.
+(a) Q < K_c
+This indicates that more product is needed to acquire equilibrium. Therefore system must shift to the right until equilibrium is attained.
+(b) Q > K_c
+This indicates that less product or more reactant is needed to acquire equilibrium. Therefore system must shift to the left until equilibrium is reached.
+(c) Q = K_c
+This shows that reaction is at equilibrium. No shift will occur.
+Example 7.8
+For the synthesis of ammonia at 500°C, K_c = 6.0 × 10⁻².
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g)
+Predict the direction in which the system will shift to attain equilibrium when the concentration of species were found to be
+[H₂] = 1.0 × 10⁻³ M
+[N₂] = 1.0 × 10⁻⁵ M
+[NH₃] = 1.0 × 10⁻³ M
+Problem Solving Strategy:
+Write the reaction quotient expression for the reaction.
+Substitute the given values of conc. of each species in the expression and find Q.
+Compare Q with K_c. If Q is > K_c, the system will shift to the left to achieve equilibrium.
+Solution:
+Q = [NH₃]² / ([N₂][H₂]³)
+Q = (1.0 × 10⁻³)² / (1.0 × 10⁻⁵ × (1.0 × 10⁻³)³)
+Q = 1.0 × 10³
+But K_c = 6.0 × 10⁻²
+Therefore Q > K_c. The system will shift to the left to achieve equilibrium.
+
+Self Check Exercise 7.7
+Phosgene is a potent chemical warfare agent and has been used in World War II. It decomposes by the following reaction.
+COCl₂(g) ⇌ CO(g) + Cl₂(g) K_c = 8.3 × 10⁻⁴ at 350°C
+Predict the direction in which system will shift to attain equilibrium, when the concentrations of species were found to be
+[COCl₂] = 0.5M
+[CO] = 2.5 × 10⁻⁶ M
+[Cl₂] = 2.5 × 10⁻⁶ M (Ans: Towards left)
+The Extent of Chemical Reaction
+The extent of a chemical reaction can be predicted by considering the magnitude of the equilibrium constant. Again there are three possibilities.
+a. K_c is very large
+Many reactions have very large equilibrium constant, for example:
+H₂(g) + Br₂(g) ⇌ 2HBr(g) K_c = 5.4 × 10¹⁸ at 25°C
+If concentration of each of the reactant at equilibrium is 1 mole then concentration of HBr would be:
+[HBr]² = 5.4 × 10¹⁸
+[HBr] = √(5.4 × 10¹⁸) = 2.32 × 10⁹ M
+Thus, a very large value of K_c indicates that at equilibrium the mixture was mainly products. This means that the reaction goes virtually to completion.
+b. K_c is very small
+Reactions having very small K_c do not proceed appreciably in the forward direction. For example:
+N₂(g) + O₂(g) ⇌ 2NO(g) K_c = 1.0 × 10⁻¹⁵ at 25°C
+If one mole of each of the reactant is present at equilibrium, then the concentration of NO would be:
+[NO]² = 1.0 × 10⁻¹⁵
+[NO] = 1 × 10⁻⁷.⁵ moles
+Thus, concentration of NO will be very small. The reaction mixture will have mainly reactants. Therefore, small value of K_c indicates that reaction has very little tendency to move in the forward direction.
+c. K_c is neither very small nor very large
+When K_c is neither very small nor very large, the equilibrium mixture contains appreciable amounts of both products and reactants. For example:
+N₂O₄(g) ⇌ 2NO₂(g) K_c = 0.36 at 25°C
+If 1 mole of N₂O₄ is present at equilibrium, 0.6 mole of NO₂ will be present in the equilibrium mixture. Hence the equilibrium mixture will contain appreciable amount of reactants and products. In such cases neither forward nor the reverse reaction go to completion.
+
+Self Check Exercise 7.8
+White phosphorus P₄ is produced by the reaction of phosphorite rock, Ca₃(PO₄)₂ with coke. When exposed to air it bursts into smoke and fumes and releases a large amount of heat. Predict whether K_c for this reaction is large or small.
+P₄(s) + 5O₂(g) ⇌ P₄O₁₀(s)
+
+FACTORS AFFECTING EQUILIBRIUM (Le Chatelier’s Principle)
+It is necessary to understand the factors that control the position of a chemical equilibrium. A knowledge of such factors helps industrial chemists to choose conditions which favor the desired product as much as possible. We can predict the effect of various factors such as concentration, pressure and temperature on a system at equilibrium by using Le Chatelier’s Principle. It states that “if a change is imposed on a system at equilibrium, the position of the equilibrium will shift in a direction which tends to reduce that change”.
+
+The Effect of a Change in Concentration
+When the concentration of one or more of the reactants or products present in equilibrium mixture is disturbed, the system will not remain at equilibrium state. According to Le Chatelier’s principle, the equilibrium shifts to accommodate the substance added or removed and restore equilibrium again.
+Consider the following gas phase equilibrium:
+CO₂(g) + H₂(g) ⇌ CO(g) + H₂O(g)
+When CO₂ is added to this equilibrium system, it is no longer in equilibrium. Higher concentration of CO₂ increases the rate of forward reaction relative to the reverse reaction. Thus more CO₂ and H₂ combine and more CO and H₂O are formed. As time passes, concentrations of CO₂ and H₂ decrease, lowering the rate of forward reaction. At the same time increased concentration of the products accelerate the reverse reaction ultimately the two rates become equal again and equilibrium is re-established. At the new equilibrium concentration of CO and H₂O are higher than were present before the CO₂ was added. Thus equilibrium is said to have shifted to the products side.
+In all chemical systems, an increase in concentration of any reactant shifts the equilibrium towards the formation of the products. If concentration of a product is increased, the equilibrium shifts towards the reactants. A shift towards the reactant lowers the concentration of the added product.
+The opposite happens when we decrease the concentration of a reactant or product. If the reactant concentration is decreased, the equilibrium system shifts towards the reactants. Removal of product shifts equilibrium towards the products. Let us understand the microscopic events that take place in an equilibrium system. The rate of chemical reaction depends on the numbers of effective collisions between the reacting molecules. At equilibrium the number of effective collisions for the forward and reverse reactions are equal. Increase in concentration of reactant increases such collisions for the forward reaction. Thus equilibrium shifts towards right with the formation of more molecules of products. Number of effective collisions for the reverse process also increase. As time passes the effective collisions of reactant molecules decrease, lowering the rate of forward reaction. Ultimately the number of effective collisions for both the processes again become equal and equilibrium is re-established.
+Example 7.9
+K_c for the following reaction is 1.0 × 10⁻² at 230°C.
+2ICl(g) ⇌ I₂(g) + Cl₂(g)
+4.6 moles of ICl, 0.05 mole of I₂, 0.05 mole of Cl₂ is present in the equilibrium mixture in 2dm³ container at 230°C. Determine the equilibrium concentrations of I₂, Cl₂ and ICl when the equilibrium is restored after the addition of another mole of ICl.
+Solution:
+On adding one mole ICl into the equilibrium mixture will shift equilibrium in the forward direction. Thus the concentration of ICl will decrease and concentration of I₂ and Cl₂ will increase by x whereas concentration of ICl will decrease by 2x.
+2ICl(g) ⇌ I₂(g) + Cl₂(g)
+Initial moles: 4.6 + 1 = 5.6 0.05 0.05
+Change: -2x +x +x
+Eq. moles: 5.6 - 2x 0.05 + x 0.05 + x
+Eq. Conc. in moles dm⁻³: (5.6 - 2x)/2 (0.05 + x)/2 (0.05 + x)/2
+K_c = ([I₂][Cl₂]) / [ICl]² = ((0.05 + x)/2 × (0.05 + x)/2) / ((5.6 - 2x)/2)²
+1.0 × 10⁻² = ((0.05 + x)² / 4) / ((5.6 - 2x)² / 4)
+1.0 × 10⁻² = (0.05 + x)² / (5.6 - 2x)²
+Taking square root of both the sides:
+0.1 = (0.05 + x) / (5.6 - 2x)
+0.1(5.6 - 2x) = 0.05 + x
+0.56 - 0.2x = 0.05 + x
+0.56 - 0.05 = x + 0.2x
+0.51 = 1.2x
+x = 0.425
+[ICl] = (5.6 - 2 × 0.425)/2 = (5.6 - 0.85)/2 = 4.75/2 = 2.375 M
+[I₂] = [Cl₂] = (0.05 + 0.425)/2 = 0.475/2 = 0.2375 M
+
+Self Check Exercise 7.9
+K_c for the following reaction is 1.0 × 10⁻² at 230°C.
+2ICl(g) ⇌ I₂(g) + Cl₂(g)
+4.6 moles of ICl, 0.05 mole of I₂, 0.05 mole of Cl₂ is present in the equilibrium mixture in 2dm³ container at 230°C. Determine the equilibrium concentrations of I₂, Cl₂ and ICl when the equilibrium is restored after the removal of one mole of ICl. (Ans: 0.0208M, 0.0208M, 0.658M)
+
+The Effect of Pressure Change
+Equilibria that contain gases are influenced by pressure changes. When pressure on a gaseous system at equilibrium is increased, the system tends to reduce the volume to undo or minimize the effect of increased pressure. This is done by decreasing the total number of gaseous molecules in the system. This is because at constant temperature and pressure, the volume of a gas is directly proportional to the total number of molecules of the gas present.
+Consider the following equilibrium system. Which side contains smaller numbers of molecules?
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+If we suddenly increase pressure on the system. What will happen to the equilibrium position? The reaction system will reduce its volume by reducing the number of molecules present. This means that the reaction will shift to the right, because in this direction three molecules (two SO₂ and one of O₂) react to produce two molecules (of SO₃), thus reducing the total number of gaseous molecules present. This means the equilibrium position will shift towards the side involving the smaller number of gaseous molecules in the balanced chemical equation.
+When the pressure is reduced the system will shift so as to increase its volume.
+There are certain equilibria in which the total number of molecules are same on either side. For example:
+H₂(g) + I₂(g) ⇌ 2HI(g)
+2moles 2moles
+Whenever the pressure is changed on such a system, neither forward nor the reverse reaction is favoured because the number of molecules is the same on each side. Such equilibria are not affected by pressure or volume changes.
+
+Self Check Exercise 7.10
+The formation of methanol is an important industrial reaction in the processing of new fuels.
+CO(g) + 2H₂(g) ⇌ CH₃OH(g)
+A student decreases pressure over the system in an attempt to increase the yield of methanol. Is this approach reasonable? Explain.
+
+The Effect of Change in Temperature
+Chemical reactions that liberate heat are called exothermic and those that absorb heat are called endothermic. Heat is placed on the right side of the equation in case of exothermic reactions. In endothermic reactions, it is placed on the left side of the equation. We can use Le Chatelier’s Principle to predict the direction of change. Treat energy as a reactant in the endothermic process. Predict the direction of shift in the same way as an actual reactant or product is added or removed. Therefore an increase in temperature adding heat favours the endothermic reaction and decrease in temperature (removing heat) favours the exothermic reaction. Consider the following reaction. Which reaction is endothermic, forward or reverse reaction?
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g) ΔH = -198kJ
+Because the reaction is exothermic, we can write:
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g) + heat
+Heat can be treated as if it were a substance involved in the reaction. According to the Le Chatelier’s Principle an increase in temperature will shift reaction from right to left in order to absorb the added heat and to counteract the temperature increase. As a result of this change concentration of SO₃ will decrease and concentrations of SO₂ and O₂ will increase. As a result, the value of equilibrium constant will decrease.
+K_c = [SO₃]² / ([SO₂]²[O₂]) ← decreases
+That is why K_c = 2.8 × 10² at 1000K whereas at 298K the value of K_c = 1 × 10⁶. The equilibrium production of SO₃ is favoured at lower temperature. This is because K_c is much larger at 298K than at 1000K.
+Now consider the following reaction:
+N₂O₄(g) ⇌ 2NO₂(g) ΔH° = +57.2kJ
+Because the reaction is endothermic, we can write:
+N₂O₄(g) + heat ⇌ 2NO₂(g)
+As the temperature is increased, heat enters the system and the reaction will shift from left to right. As a result of this change, concentration of NO₂ will increase and that of N₂O₄ will decrease. This will increase the value of K_c.
+K_c = [NO₂]² / [N₂O₄] ← increases
+That is why K_c for this reaction is 7.7 × 10⁻³ at 0°C and 0.4 at 100°C.
+
+Self Check Exercise 7.11
+Consider the following equilibrium:
+2NO₂(g) ⇌ N₂O₄(g) ΔH = -ve
+What would be the effect on the position of equilibrium when temperature is decreased?
+Predict the effect of increasing the temperature on the amount of product in the following reaction.
+CO(g) + 2H₂(g) ⇌ CH₃OH(g) (exothermic)
+
+The Effect of Addition of Catalyst
+A catalyst added to a reaction mixture speeds up both the forward and the reverse reaction to the same degree. Thus, catalyst has no effect on the equilibrium concentrations of the reaction mixture. However the catalyst is important in enhancing the rate at which equilibrium is established.
+
+INDUSTRIAL APPLICATION OF LE CHATELIER’S PRINCIPLE (SYNTHESIS OF AMMONIA BY HABER’S PROCESS)
+For industrial processes it is important to maximise the concentration of the desired product and minimise the leftover reactants. Le Chatelier’s principles and reaction kinetics can both be used to design best conditions to give the highest possible yield of the product in an economic way.
+The manufacture of ammonia by Haber's process is represented by the following equation.
+N₂(g) + 3H₂(g) ⇌ 2NH₃(g) ΔH = -92.46kJ
+This equation provides the following information.
+i) The reaction is exothermic.
+ii) The reaction proceeds with a decrease in number of molecules or moles.
+Le Chatelier's principle suggests three ways to get maximum yield of ammonia.
+i. Low Temperature
+The forward reaction is exothermic therefore, low temperature will favour the formation of ammonia. The suitable temperature is 400°C.
+ii. High Pressure
+Since four molecules (one of N₂ and three of H₂) react to produce two molecules of NH₃. Thus, high pressure will shift the equilibrium to the right side i.e. formation of NH₃. The most suitable pressure is 200 — 300 atm.
+Thus, optimum condition for equilibrium production of ammonia is low temperature and high pressure. Although at low temperature yield of ammonia is high, but the rate of its formation is so slow that the process becomes uneconomical. Therefore, a catalyst is used to increase the rate of reaction. Usually a piece of iron with other metal oxides is used as catalyst. The equilibrium mixture contains 35% NH₃ by volume.
+iii. Continual removal of ammonia
+A final factor which greatly increases the production of ammonia is the continuous removal of ammonia as it is formed. This is done by liquefying ammonia. The equilibrium mixture is cooled by refrigeration coils until ammonia condenses at -33.4°C and is removed. N₂ and H₂ which do not liquefy at this temperature are recycled into the reaction chamber. The stress caused by the continual removal of ammonia shifts the equilibrium toward the production of more ammonia. In fact, the mixture need not be allowed to come to equilibrium at all. In this way practically 100% conversion of N₂ and H₂ to NH₃ is possible.
+
+SOLUBILITY PRODUCT AND PRECIPITATION REACTIONS
+Now we will discuss some of the important equilibria which have some analytical importance.
+
+Solubility Product
+When an excess of slightly soluble ionic compound is mixed with water. Some of it dissolves and remaining compound settle at the bottom. Dynamic equilibrium is established between undissolved solid compound and its ions in the saturated solution. For example, when CaF₂ is mixed with water. Following equilibrium is established.
+CaF₂(s) ⇌ Ca²⁺(aq) + 2F⁻(aq)
+K_c for this equilibrium can be written as:
+K_c = [Ca²⁺][F⁻]² / [CaF₂]
+Since CaF₂ is slightly soluble salt its concentration almost remains constant.
+Therefore,
+K_c[CaF₂] = [Ca²⁺][F⁻]²
+K_sp = [Ca²⁺][F⁻]²
+Where K_sp is a constant known as the solubility product constant. It is defined as the product of the equilibrium concentrations of ions, each raised to a power which is the coefficient of the ion in the balanced chemical equation.
+In general, K_sp expression of any slightly soluble ionic compound A_nB_m can be written as:
+A_nB_m(s) ⇌ nAᵃ⁺(aq) + mBᵇ⁻(aq)
+K_sp = [Aᵃ⁺]ⁿ [Bᵇ⁻]ᵐ
+This means that the solubility product constant is equal to the product of the equilibrium concentration of ions each raised to a power equal to the number of such ions in the formula unit of the compound.
+
+Precipitation Reactions
+In the previous section, we have considered solids dissolving in solutions. Now we will consider the reverse process i.e. the formation of a solid from solution. An aqueous reaction that takes place when two or more solutions are mixed together, yielding a solid insoluble substance is called precipitation reaction. In this section we will show how to predict whether a precipitate will form when solutions are mixed. We will use the term ion product (Q’). It is obtained by substituting initial concentrations instead of equilibrium concentrations in the expression of K_sp. For example, ion product expression for solid CaF₂ is given by:
+Q’ = [Initial conc. of Ca²⁺][Initial conc. of F⁻]²
+If we add a solution containing Ca²⁺ ions to a solution containing F⁻ ions, precipitate may or may not form. To predict whether a precipitation will occur, we compare Q’ and K_sp.
+There are two possibilities:
+a) If Q’ > K_sp precipitation occurs and will continue until the concentration satisfy K_sp.
+b) If Q’ < K_sp precipitation does not occur.
+Example 7.10
+The solubility of AgBr is 7.1 × 10⁻⁷ M at 25°C. Calculate its K_sp.
+Solution:
+7.1 × 10⁻⁷ M of dissolved AgBr produces equal moles of Ag⁺ and Br⁻ ions.
+AgBr(s) ⇌ Ag⁺(aq) + Br⁻(aq)
+7.1 × 10⁻⁷ M 7.1 × 10⁻⁷ M 7.1 × 10⁻⁷ M
+K_sp = [Ag⁺][Br⁻]
+K_sp = (7.1 × 10⁻⁷)(7.1 × 10⁻⁷)
+K_sp = 5.041 × 10⁻¹³
+
+Self Check Exercise 7.12
+Write K_sp expressions for:
+Iron(III) Hydroxide
+Calcium Sulphate
+Lead (II) Sulphate is used as white pigment. What is the solubility of PbSO₄?
+K_sp = 1.96 × 10⁻⁸ at 25°C (Ans: 1.4 × 10⁻⁴ M)
+Phosphate in natural water often precipitates as insoluble Ca₃(PO₄)₂. In Indus river concentration of Ca²⁺ and PO₄³⁻ ions is 1.0 × 10⁻⁶ M each. Will calcium phosphate precipitate? K_sp = 1.2 × 10⁻²⁶ at 25°C (Ans: No)
+
+COMMON ION EFFECT
+An interesting situation arises when a weak electrolyte and a salt containing a common ion are present simultaneously in an aqueous solution. For example; in a solution of weak acid, hydrofluoric acid Ka = 7.2 × 10⁻⁴, its salt sodium fluoride produces the common ion.
+HF(aq) ⇌ H⁺(aq) + F⁻(aq)
+NaF(s) → Na⁺(aq) + F⁻(aq)
+Since HF is a weak electrolyte, it slightly dissociates. NaF being strong electrolyte breaks up completely into its ions. The common ion F⁻ produced by NaF will upset its equilibrium. This will increase concentration of F⁻ ions. According to the Le Chatelier’s principle, the equilibrium will shift to the left to use some of F⁻ ions. This will decrease the dissociation of HF. Thus dissociation of HF will decrease in the presence of dissolved NaF. This means as a result of equilibrium shift, the concentration of HF will increase. See section 7.2.1 to understand the effect of change in concentration on equilibrium.
+Similarly when a highly soluble salt is added to the saturated solution of less soluble salt containing a common ion. The degree of dissociation of less soluble salt decreases. Therefore it causes decrease in its solubility.
+The term common ion effect is used to describe the behaviour of a solution in which same ion is produced by two different compounds. “The phenomenon in which the degree of ionization or solubility of an electrolyte is suppressed by the addition of highly soluble electrolyte containing a common ion is called common ion effect”.
+Potassium per chlorate KClO₄ is moderately soluble in water. When highly soluble KCl is added to the saturated solution of KClO₄, it causes increase in the concentration of K⁺ ion.
+KClO₄(s) ⇌ K⁺(aq) + ClO₄⁻(aq)
+KCl(s) → K⁺(aq) + Cl⁻(aq)
+According to the Le Chatelier's principle K⁺ ions will react with ClO₄⁻ ions to form KClO₄(s). This will suppress the ionization of KClO₄. Thus it will precipitate out.
+When HCl gas is passed through the saturated solution of NaCl (Brine), it increases the concentration of Cl⁻ ion.
+NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq)
+HCl(g) → H⁺(aq) + Cl⁻(aq)
+According to Le Chatelier's principle Cl⁻ ions will combine with Na⁺ ions to form precipitate of pure NaCl.
+
+Self Check Exercise 7.13
+Ammonium Chloride, NH₄Cl is a water soluble salt. What will happen if this salt is added to a solution containing ammonium hydroxide?
+NH₄OH(aq) ⇌ NH₄⁺(aq) + OH⁻(aq)
+Carbonic acid is a weak acid which ionizes as follows:
+H₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)
+What will happen if a strong electrolyte such as Na₂CO₃ is added to a solution containing carbonic acid.
+
+SUMMARY
+Chemical Equilibrium is a dynamic state in which the reaction proceeds with equal rates in both the directions.
+At equilibrium state reactants are converted continuously into products and vice versa, as molecules collide with each other.
+The law of mass action is a general description of the equilibrium condition. It states that for the reaction of type:
+aA(g) + bB(g) ⇌ cC(g) + dD(g)
+The equilibrium equation is given by:
+K_c = [C]ᶜ [D]ᵈ / [A]ᵃ [B]ᵇ
+where K_c is equilibrium constant.
+The equilibrium can be expressed in terms of the equilibrium partial pressure of gases as K_p.
+The reaction quotient Q has the same form as the equilibrium constant expression, but it applies to the reaction that may not be at equilibrium. If Q > K_c, the reaction will proceed from right to left to achieve equilibrium. If Q < K_c, the reaction will proceed from left to right to achieve equilibrium. If Q = K_c, the reaction is at equilibrium.
+There is only one value of K_c for each reaction at a given temperature. However, there are infinite numbers of equilibrium positions. An equilibrium position is defined as a particular set of equilibrium concentration that satisfies the equilibrium expressions.
+The concentration of pure solids, pure liquids and solvents are constant and do not appear in equilibrium constant expression of a reaction.
+Le Chatelier’s Principle allows us to predict the effect of changes in concentration, pressure and temperature on a system at equilibrium. It states that when a change is imposed on a system at equilibrium, the equilibrium position will shift in a direction that tends to undo the effect of imposed change.
+Only a change in temperature changes the value of K_c for a particular reaction.
+The addition of catalyst has no effect on the equilibrium concentration of reactants and products. However, it decreases time to achieve equilibrium state.
+The principle of equilibrium can also be applied when an excess of solid is added to form a saturated solution.
+
+References for Further Information
+Advanced Chemistry, Philip Matthews
+Fundamentals of Chemistry, C.M. Guldberg and P. Waage
+Raymond Chang, Essential Chemistry

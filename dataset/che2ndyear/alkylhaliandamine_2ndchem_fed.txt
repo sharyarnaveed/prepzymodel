@@ -1,0 +1,420 @@
+alkylhaliandamine_2ndchem_fed.txt
+
+After completing this lesson, you will be able to:
+Name alkyl halides using IUPAC system.
+Discuss the structure and reactivity of RX.
+Describe the preparation of RX by the reaction of alcohols with HX, SOCl2, and PX; and by radical halogenation of alkanes.
+Describe the mechanism and types of nucleophilic substitution reaction.
+Describe the mechanism and types of elimination reactions.
+Describe the preparation and reactivity of Grignard’s Reagents.
+Discuss chemistry of Grignard’s reagent by the addition of aldehydes, ketones, esters and carbon dioxide.
+Discuss nomenclature, structure and basicity of amines. Describe the preparation of amines by alkylation of ammonia with RX and reduction of nitriles, nitro and amide functional groups.
+Discuss reactivity of amines.
+Describe chemistry of amines by alkylation of amines with RX, reaction with aldehydes, ketones, preparation of amides and diazonium salts.
+Describe isomerism in alkyl halides and amines.
+
+17.1 ALKYL HALIDE
+Introduction
+“Alkyl halides are the compounds in which one hydrogen atom of alkanes has been replaced by a halogen atom. They are also known as halogen derivatives of alkanes.” The general formula of alkyl halide is R-X.
+
+Types
+They may be mono, di, tri or poly haloalkanes depending upon the number of halogen atoms present in the molecule.
+Monohaloalkane
+Dihaloalkane
+Trihaloalkane
+
+Classification of Alkyl Halides
+Alkyl halides are classified into primary, secondary and tertiary alkyl halides.
+
+(i) Primary Alkyl Halides:
+“Alkyl halide in which halogen atom is attached with a primary carbon are called primary alkyl halide”. Primary carbon is the carbon to which one or no alkyl group is attached.
+Methyl chloride (Chloromethane)
+Ethyl chloride (Chloroethane)
+n-Propyl chloride (Chloropropane)
+
+(ii) Secondary Alkyl Halides:
+“Alkyl halide in which halogen atom is attached with a secondary carbon atom is called secondary alkyl halide.” Secondary carbon is carbon to which two alkyl groups are attached.
+Iso-Propyl chloride (2-Chloropropane)
+Sec-Butyl chloride (2-Chlorobutane)
+
+(iii) Tertiary Alkyl Halides:
+“Alkyl halides, in which halogen atom is attached to a tertiary carbon is called tertiary alkyl halide”. Tertiary carbon is carbon to which three alkyl groups are attached.
+t-Butyl chloride (2-Methyl-2-chloropropane)
+
+17.1.1. Nomenclature
+Alkyl halides are named according to the following systems:
+(i) Common System of naming.
+(ii) IUPAC System of naming.
+
+(i) Common System of Naming:
+This method consists in first writing the name of alkyl group to which halogen atom is attached and then writing the name of halide ion, e.g., Structural formula of Ethyl chloride is CH3CH2Cl.
+When all the carbons of alkyl group of primary alkyl halides are in a straight chain, the prefix n- is used before the name which indicates ‘normal’. e.g,
+n-butyl bromide
+
+(ii) IUPAC System of naming.
+According to this system alkyl halides are named as derivatives of alkanes. The following rules are observed for this purpose:
+(1) Select the longest continuous chain of carbon atom containing halogen atom.
+(ii) Prefix ‘halo’ i.e., Chloro for Cl, Bromo for Br, etc, is used before the name of hydrocarbon.
+(iii) Positional numbers are used to indicate halogen and other substituent by the usual methods.
+1-Bromobutane (Primary Alkyl halide)
+2-Bromo-3-methylbutane (Secondary Alkyl halide)
+2-Bromo-2-methylpropane (Tertiary Alkyl halide)
+
+The names given below are also accepted by the IUPAC:
+Ethyl Bromide
+Iso-propyl bromide
+tert-butyl bromide
+
+17.1.2. Physical Properties:
+Alkyl halides have high melting and boiling points as compared to alkanes.
+Reason: Due to bond polarity of C — X bond (as halogen is more electronegative than carbon).
+The bond pair electron density is more concentrated on halogen, X.
+
+17.1.3. Structure:
+Alkyl halide (R-X) consists of a sp3 hybridized C atom which is bonded to a halogen, (X), via a sigma bond.
+The carbon halogen bonds (C-X) are typically quite polar due to the electronegativity difference of carbon and halogen.
+
+17.1.4 Preparations of Alkyl Halides
+1. From Alcohol
+Alcohols may be converted to corresponding alkyl halides, when treated with HCl in the presence of anhydrous zinc chloride / thionyl chloride in the presence of pyridine as a solvent / phosphorous trihalides or phosphorous pentahalides.
+Ethanol + HCl (Anhydrous ZnCl2) -> Chloroethane + H2O
+Ethanol + SOCl2 (Pyridine as a solvent) -> Chloroethane + HCl + SO2
+Ethanol + PBr3 -> Bromoethane + H3PO3
+Ethanol + PI3/PCl5 -> Iodoethane/Chloroethane + H3PO3/POCl3 + HCl
+
+2. From Alkanes
+When alkanes are treated with chlorine or bromine in the presence of diffused sunlight, hydrogen of alkane is replaced by halogen and alkyl halide is formed.
+Ethane + Cl2 (Sunlight) -> Chloroethane + HCl
+This method does not give pure alkyl halides. Halogen derivatives containing two or more halogen atoms are also formed along with alkyl halides.
+
+17.1.5 Reactivity
+There are two main factors which control the reactivity of alkyl halides:
+(1) Bond polarity of C-X bond
+(2) Bond energy of C-X bond
+
+1. Bond Polarity
+The molecule of alkyl halide is polarized due to the greater electronegativity of halogens as compared to C.
+Hence carbon acquires partial positive charge whereas halogen acquires partial negative charge.
+Halogen becomes nucleophilic in character, which can be replaced by another nucleophile.
+On the basis of bond polarity, reactivity of alkyl halides decreases in the following order:
+R—F > R—Cl > R—Br > R—I
+Electronegativity: F 4.0, Cl 3.0, Br 2.8, I 2.5
+
+2. Bond Energy
+Energy required to break the bond of the same type in one mole of bond is known as bond energy. The greater the bond energy, the more energy will be required to break the bond.
+Reactivity of alkyl halides depends upon the strength of C — X bond.
+C — F bond is the strongest while C — I bond is the weakest.
+So, the overall order of reactivity of alkyl halides is:
+R-I > R-Br > R-Cl > R-F
+In fact, the C-F bond is so strong that alkyl fluorides do not react under ordinary conditions.
+
+17.1.6 Reactions of Alkyl Halides
+Alkyl halides undergo two types of reactions:
+Nucleophilic substitution reactions (SN Reaction)
+Elimination reaction
+
+Nucleophilic substitution (SN) reactions of Alkyl halides.
+Those reactions where halogen of alkyl halide is substituted or replaced by an attacking nucleophile are known as nucleophilic substitution reactions. Following represents the general SN reaction.
+Attack of nucleophile + R—X -> R—Nu + Leaving nucleophile
+
+Substrate, nucleophile and Leaving Group
+Substrate Molecule
+The alkyl halide molecule on which nucleophile attacks is called a substrate molecule.
+Nucleophile
+It is a species having a lone pair of electrons and donates a pair of electrons to the electrophilic carbon of alkyl halide. (It may be neutral or negatively charged).
+Examples of Nucleophiles:
+HO- Hydroxide ion
+NH2- Amino group
+C2H5O- Ethoxide ion
+Cl- Chloride ion
+HS- Hydrogen sulphide ion
+Br- Bromide ion
+SCN- Thiocyanate ion
+NH3 Ammonia
+H2O Water
+
+Leaving Group (LG)
+Halogen of alkyl halide is called the leaving group. The leaving group is also a nucleophile. It departs with an unshared pair of electrons. The incoming nucleophile must be stronger than the departing one. Cl-, Br-, I-, HSO4- are good leaving groups. Poor leaving groups are OH-, OR- and NH2-. Iodide ion is a good nucleophile as well as a good leaving group. The more stable leaving group is a good leaving group.
+Some common leaving groups are: I-, Br-, Cl-, TsO- (Excellent), NH3.
+
+There are two fundamental events in a nucleophilic substitution reaction:
+1. formation of the new sigma bond between carbon and attacking nucleophile.
+2. breaking of the sigma bond between carbon and halogen.
+
+Two different mechanisms are possible in nucleophilic substitution reactions:
+Bond breaking to form a carbocation precedes the formation of the new bond: SN1 reaction.
+Simultaneous bond formation and bond breaking: SN2 reaction.
+
+Examples of Nucleophilic Substitution Reactions:
+R—X + I- -> R—I (alkyl iodide)
+R—X + OH- -> R—OH (alcohol)
+R—X + OR'- -> R—OR' (ether)
+R—X + SH- -> R—SH (thiol/mercaptan)
+R—X + C≡C-R'- -> R—C≡C—R' (alkyne)
+R—X + CN- -> R—C≡N (nitrile)
+R—X + O=C-R'- -> R—O-C-R' (ester)
+R—X + NH3 -> R—NH3+ X- (Ammonium salt)
+
+Carbocations and their Stability
+Carbocation
+A carbon atom which is attached with three atoms or group of atoms and possesses a unit positive charge is known as a carbocation.
+Stability
+The general stability order of simple alkyl carbocations is:
+3° > 2° > 1° > methyl
+(most stable) (least stable)
+This is because alkyl groups are weak electron donors due to hyperconjugation and inductive effects.
+
+SN1 Mechanism
+“It is a unimolecular nucleophilic substitution reaction”.
+It is a two-step reaction mechanism in which the substrate R-X first ionizes reversibly into a carbocation (R+) and X- ions. This is the slow and rate-determining step.
+Then the carbocation combines with the attacking nucleophile to form the product. This is the fast step.
+
+Kinetic Evidence
+Experiments show that the rate of an SN1 reaction depends upon the concentration of alkyl halide only. The change in concentration of attacking nucleophile has no effect on the rate. It is a first order reaction.
+Rate = k[R-X]
+
+Stereochemical Evidence
+SN1 reaction occurs with partial racemization. The extent of partial racemization depends upon several factors including stability of carbocation.
+The carbon atom of the carbocation is sp2 hybridized and carries one empty p orbital.
+The nucleophile can attach itself to the p-orbital either on the right or on the left side of the carbon with equal ease. The expected product is a racemic mixture. However, the partial racemization suggests a different way of attachment, e.g., in case of an unstable carbocation, the attack of nucleophile is greater from the side opposite to that of the leaving group, leading to partial inversion of configuration. Thus, the side of the carbon atom to which the leaving group is attached is somewhat shielded from the attack of nucleophile.
+Therefore, the product has some optical activity.
+
+SN2 Mechanism
+“It is a bimolecular nucleophilic substitution reaction. It occurs in one step”.
+The attack of nucleophile on carbon and the departure of the halide ion take place simultaneously in a single step.
+This is the rate-determining step because the bond breaking and bond making processes occur simultaneously. Since two molecules are undergoing change in covalency in the rate-determining step, molecularity is two.
+
+Kinetic Evidence:
+The rate of an SN2 reaction depends both on the concentration of nucleophile and alkyl halide. The rate expression for the reaction can be written as:
+Rate = K[Nu][R-X]
+It is a 2nd order reaction.
+
+Stereochemical Evidence:
+In SN2 reaction, back side attack with inversion of configuration takes place. The carbon atom in the transition state is sp2-hybridized and is planar.
+
+Comparison of SN1 and SN2 Mechanism
+(1) SN1 is a two-step mechanism. SN2 is a single step mechanism.
+(2) In SN1, the first step is slow and the second is fast. In SN2, it has only one step and that is slow.
+(3) SN1 is a unimolecular reaction. SN2 is a bimolecular reaction.
+(4) SN1 is favored in polar solvents. SN2 is favored in non-polar solvents.
+(5) Mostly tertiary alkyl halides give SN1 reaction. Mostly primary alkyl halides give SN2 reaction.
+(6) In SN1, 50% inversion and 50% retention of configuration takes place. In SN2, 100% inversion of configuration takes place.
+(7) Rate for SN1 = K [R-X]. Rate for SN2 = K[Nu][R-X].
+
+17.1.7 1,2 Elimination Reactions
+Definition
+“The chemical reaction in which two groups (halogen and beta-hydrogen from alkyl halide) are eliminated from two adjacent carbon atoms to form a carbon-carbon double bond is called an elimination reaction”. Since beta-hydrogen is necessary for eliminations, it is also called beta-elimination.
+There are two types of beta-elimination reactions.
+
+1. E1 mechanism
+“It is a unimolecular two-step elimination reaction.”
+Step 1: Ionization of Alkyl halide
+Alkyl halide ionizes reversibly into a carbocation and halide ion.
+Step 2: Removal of beta-hydrogen
+In this step the solvent or base attacks the beta-hydrogen to form an alkene.
+The first step is the slow step and is called the rate-determining step.
+Since only one molecule is undergoing a change in the rate-determining step, it is called an elimination reaction unimolecular and is symbolized as E1. It follows first order kinetics.
+Rate = k[R—X]
+
+Rearrangement of Carbocation:
+A relatively less stable carbocation rearranges to a more stable carbocation before giving the elimination product. For example:
+A secondary carbocation (less stable) can rearrange to a tertiary carbocation (more stable) before elimination.
+
+2. E2 mechanism
+“It is a bimolecular one-step elimination reaction” in which the attack of base on beta-hydrogen, with formation of carbon-carbon double bond and removal of halogen takes place simultaneously.
+This is the rate-determining step because bond breaking and bond making processes are taking place simultaneously.
+Since two molecules are undergoing a change in the transition state, it is called an elimination reaction bimolecular and is symbolized as E2.
+
+Kinetic Evidence:
+Experiments show that the rate of reaction is directly proportional to the substrate and base.
+Rate = K [R—X][B]
+It is second order kinetics and depends upon the concentrations of substrate and base.
+
+17.1.8 Substitution versus Elimination Reactions
+Substitution and elimination reactions are very important for the formation of different products. Both types of reactions have close resemblance in their mechanism.
+Explanation:
+The beta-hydrogen atom in alkyl halides is slightly acidic due to the electron-withdrawing effect of halogen (inductive effect).
+The attacking nucleophile can either attack the alpha-carbon to give substitution product or the beta-hydrogen to give elimination product.
+Elimination occurs only in the presence of a beta-hydrogen, whereas substitution reactions do not require this condition.
+
+Factors
+The following factors help determine whether the reaction is elimination or substitution.
+(1) Structure of Substrate (Alkyl Halide):
+For tertiary alkyl halides, elimination is favored over substitution reaction because the approach of the nucleophile to the alpha-carbon is difficult for substitution. The reverse is the case for primary alkyl halides.
+(2) Nature of Base:
+Strong bases such as OH-, OR-, NH2- cause elimination in preference to substitution.
+Highly polarizable nucleophiles and weak bases such as I-, RS- etc. give substitution reactions.
+(3) The Nature of Leaving Group:
+The role of leaving groups in elimination reactions is similar to that in substitution reactions. In unimolecular reactions it does not affect the mechanism because both the elimination and substitution products are formed from the carbocation. However, in the bimolecular reactions the nature of the product greatly depends upon the nature of the leaving group.
+(4) Nature of Solvent
+Elimination is favored more than substitution by decreasing the solvent polarity. Thus, alcoholic KOH affects elimination while more polar aqueous KOH is used for substitution. E1 is favored by polar solvents like the SN1 reaction. In non-polar solvents, the reaction will follow the E2 mechanism.
+(5) Effect of Temperature
+An increase in temperature will favor elimination more than substitution, because substitution reaction involves less reorganization of bonds as compared to eliminations.
+
+Quick Quiz 1
+(1) What is a carbocation?
+(2) What is a leaving group?
+(3) Define bond polarity.
+(4) Define bond energy.
+(5) What is a nucleophile?
+(6) What is an electrophile?
+(7) What are primary, secondary and tertiary carbon atoms?
+
+17.2 ORGANOMETALLIC COMPOUNDS (GRIGNARD’S REAGENTS)
+17.2.1. Preparation of Grignard’s Reagents
+When an alkyl halide reacts with magnesium in the presence of dry ether, a Grignard reagent is formed.
+R—X + Mg (dry ether) -> R-Mg-X
+Alkyl halide -> Alkylmagnesium halide
+Alkyl bromides are generally used in the preparation of Grignard’s reagent because of its intermediate reactivity. Alkyl magnesium halide is used as an ethereal solution.
+
+17.2.2. Reactivity
+Organometallic compounds are nucleophiles because of the partial negative charge on the carbon of the alkyl group. The carbon atom being more electronegative than metals such as Mg, the alkyl group bears a partial negative charge.
+The following reaction with water supports the electrophilic character of organometallic compounds:
+CH3-Mg-Br + H-OH -> CH4 + MgBr(OH)
+
+17.2.3. Reactions of Grignard’s Reagents
+A. Reaction of Grignard reagent With Aldehydes and Ketones
+When Grignard reagent reacts with aldehydes or ketones, primary, secondary and tertiary alcohols are formed. These reactions are carried out in the presence of ether followed by H3O+.
+
+I. Reaction with Methanal (Formation of primary alcohol):
+Formaldehyde + CH3-Mg-Br -> (after H3O+) Primary Alcohol
+
+II. Reaction with Ethanal (Formation of secondary alcohol):
+Acetaldehyde + CH3-Mg-Br -> (after H3O+) Secondary Alcohol
+
+III. Reaction with Propanone (Formation of tertiary alcohol):
+Acetone + CH3-Mg-Br -> (after H3O+) Tertiary Alcohol (tert-butyl alcohol)
+
+B. Reaction of Grignard reagent with an Ester
+When an excess of Grignard reagent reacts with an ester (other than alkyl formate) followed by acid hydrolysis, a tertiary alcohol is formed.
+Mechanism:
+Step 1: Nucleophilic attack on the ester carbonyl.
+Step 2: Collapse of the tetrahedral intermediate to form a ketone.
+Step 3: Nucleophilic attack on the ketone carbonyl by another equivalent of Grignard reagent.
+Step 4: Protonation to form the tertiary alcohol.
+
+C. Reaction of Grignard reagent With CO2 (Formation of carboxylic acid)
+When a Grignard reagent reacts with carbon dioxide followed by acid hydrolysis, a carboxylic acid is formed.
+Step 1: Nucleophilic attack on carbon dioxide.
+Step 2: Protonation of the carboxylate ion gives the carboxylic acid.
+
+Quick Quiz 2
+(1) What are organometallic compounds?
+(2) Define protonation.
+(3) How does RMgX react with CO2?
+(4) Write the formula of Grignard Reagent.
+
+17.3 AMINES
+17.3.1 Nomenclature:
+1. Common System of Naming
+The common names of amines are written by adding the suffix -amine to the name of alkyl or aryl radicals.
+Ethylamine (Primary amine)
+2-Hexylamine (Primary amine)
+Dimethylamine (a secondary amine)
+Trimethylamine (a tertiary amine)
+Pyridine (a tertiary amine)
+Aniline, C6H5NH2, containing a methyl group on the ring is called Toluidine. If there is an alkyl group substituted on the -NH2, its name is represented by writing N-(alkyl group). It indicates that the alkyl group is located on the N-atom and not on the ring. If there are two substituents on N, it is repeated twice.
+p-Toluidine
+N-methylaniline
+N,N-dimethylaniline
+N,N-dimethyl-p-toluidine
+
+2. IUPAC System of Naming
+In this system, the amino group is indicated by the prefix amino- followed by the name of the hydrocarbon. The position of the amino group is indicated by a number obtained by numbering the chain of the hydrocarbon.
+Secondary and tertiary amines are named by using a compound prefix that includes the names of all but the largest alkyl group.
+Aminomethane (Methylamine)
+2-Aminobutane
+(Methylamino)ethane
+(Dimethylamino)butane
+
+17.3.2. Physical Properties:
+The polar nature of the N-H bond (due to the electronegativity difference of the two atoms) results in the formation of hydrogen bonds with other amine molecules.
+Because of hydrogen bonding, they have high melting and boiling points compared to analogous alkanes and high solubility in water.
+
+17.3.3 Structure:
+In amines, the nitrogen atom is sp3-hybridized and has a nearly tetrahedral structure. It forms three sigma bonds with its three sp3-hybrid orbitals while the fourth non-bonding sp3 orbital carries a pair of electrons. An amine with three different groups is chiral and can be optically active.
+
+17.3.4 Preparation of Amines
+I. Reaction of Alkyl Halides with ammonia
+When an alcoholic solution of ammonia is heated with an alkyl halide in a sealed tube at 100°C, a mixture of primary, secondary, tertiary amines and a quaternary ammonium salt is obtained.
+Ethylamine
+Diethylamine
+Triethylamine
+Quaternary ethyl ammonium iodide
+At the end of the reaction, addition of strong alkali such as KOH liberates free amines from their salts, but the quaternary salt is unaffected. The three amines are separated by fractional distillation. Over-alkylation can be avoided by using excess ammonia but the yield is low.
+
+II. Reduction of nitrogen containing functional groups:
+(a) Reduction of Nitriles
+Reduction of alkyl or aryl nitriles gives primary amines. The reduction may be brought about by reducing agents i.e. LiAlH4, or sodium in ethanol.
+Catalytic Reduction: Nitriles on reaction with hydrogen gas in the presence of catalysts such as Rh-Al2O3, Pt or Raney nickel gives primary amines.
+(b) Reduction of Nitro Compounds
+Nitro compounds on catalytic or chemical reduction produce primary amines.
+Nitrobenzene can be reduced to Aniline (phenyl amine) by using reducing agents such as tin/iron in the presence of concentrated hydrochloric acid or by catalytic hydrogenation (e.g. H2/Pd).
+(c). Reduction of Amides
+When an amide is treated with the reducing agent LiAlH4, the -CO of amide is reduced to -CH2, and a primary amine is formed. (The carbon chain remains intact in this reaction).
+When an amide is treated with bromine in the presence of KOH, degradation of the amide takes place leading to the formation of a primary amine. This reaction is known as the Hoffmann degradation reaction.
+
+17.3.5 Basicity of Ammonia and Methylamine
+Amines are basic and nucleophilic because of the non-bonding pair of electrons on nitrogen.
+The strength of a base is expressed in terms of pKb. For ammonia and methylamine, the pKb values are 4.76 and 3.38 respectively.
+Since pKb (CH3NH2) < pKb (NH3), methylamine is a stronger base than ammonia. It can be explained as under:
+In ammonia, the pair of electrons is attracted by the s-orbitals of hydrogen atoms whereas in CH3NH2, the sp3 orbital of carbon pushes electrons towards nitrogen.
+
+Comparison of Basicity of primary, secondary and tertiary amines:
+The presence of electron-donating groups increases the basicity of amines. A secondary amine is a stronger base than a primary amine. Although in a tertiary amine (trialkyl amine) the electron density is increased due to the electron-donating effect of three alkyl groups, due to the steric effect of three bulky alkyl groups, the approach of a proton to the electron pair on the nitrogen atom becomes relatively difficult.
+Order of basicity is: Secondary amine > Primary amine > Tertiary amine
+
+17.3.7 Reactions of Amines
+1. Reaction of amine with acid halide:
+When an amine reacts with an acid halide, a secondary amide is formed.
+2. Reaction of amine with alkyl halide (Alkylation of Amine by Alkyl Halides)
+An amine reacts with an alkyl halide to form a secondary, tertiary amine and an ammonium salt. This reaction is called an alkylation reaction.
+3. Reactions of Primary Amines with Aldehydes and Ketones
+Aldehydes and ketones react with primary amines to form Schiff’s bases.
+4. Reaction with nitrous acid. (Preparation of Diazonium Salts)
+When amines react with nitrous acid in the presence of hydrochloric acid, diazonium compounds are formed. The reaction mixture must be kept below 10°C.
+Alkyl diazonium salts are generally too unstable for practical use.
+When the diazonium group is attached to a benzene ring, though, the ion is stabilized to some extent by the delocalized electrons of the ring. The benzene diazonium ion is therefore much more stable than its aliphatic counterparts. Nevertheless, it decomposes readily above 10°C to form phenol and nitrogen gas.
+
+Quick Quiz 3
+1. What are amines?
+2. Sketch a structure of Toluidine.
+3. Amines have high melting / boiling points as compared to other analogous alkanes. Why?
+4. Methylamine is a stronger base than ammonia. Explain.
+5. How would you prepare a Diazonium salt?
+
+Society, Technology and Science
+ORGANOMETALLIC COMPOUNDS IN MEDICINES
+Cisplatin, (NH3)2PtCl2, displays anti-cancer activity in chemotherapy.
+Mercurochrome (Merbromin) is an over-the-counter topical antiseptic.
+Merthiolate (Thiomersal) has applications as an antifungal and antiseptic agent. This compound is also used as a vaccine preservative, in immunoglobulin preparations and nasal products.
+Titanocene dichloride, Cp2TiCl2, has shown significant anticancer attributes.
+Tamoxifen is an anticancer compound.
+Ferrocenyl derivative chloroquine is an antimalarial compound.
+Titanocene dichloride, (Cp)2V(NCSe)2, and carboplatin are anticancer drugs.
+Ferroquine, a combination of ferrocene and chloroquine, is an antimalarial drug.
+
+Comparison between hemoglobin and chlorophyll
+Hemoglobin and chlorophyll are both natural organometallic compounds. Both consist of a substituted porphyrin ring coordinated with a metal ion.
+1. Hemoglobin is a porphyrin ring with iron while chlorophyll is a porphyrin ring with magnesium.
+2. Hemoglobin is the red pigment in the blood while chlorophyll is the green pigment in green plants, algae, and certain organisms.
+3. Hemoglobin is involved in oxygen transport while chlorophyll functions as a receptor of light energy during photosynthesis.
+
+SUMMARY
+Mono halo derivatives of alkanes are called alkyl halides.
+The general formula of alkyl halides is CnH2n+1X.
+The best method for the preparation of alkyl halides is by the reactions of alcohols with inorganic halides like SOCl2, PX3 and PX5.
+Alkyl halides are a very reactive class of organic compounds. They undergo nucleophilic substitution reactions and elimination reactions in the presence of a nucleophile or a base.
+Nucleophilic substitution reactions can take place in two distinct ways. A one step mechanism is called SN2 while a two step mechanism is called SN1. SN1 reactions show first order kinetics whereas SN2 reactions show 2nd order kinetics.
+Nucleophilic substitution reactions take place simultaneously with elimination reactions and often compete with them.
+Elimination of two atoms or groups from adjacent carbon atoms in the presence of a nucleophile or a base is called an elimination reaction. Like nucleophilic substitution, beta-elimination reactions also take place in two distinct ways: E1 and E2.
+A nucleophile is an electron rich species that will react with an electron poor species.
+A substitution implies that one group replaces another.
+Grignard reagent can be prepared by adding alkyl halide to a stirred suspension of magnesium metal in diethyl ether.
+Grignard reagent has a reactive nucleophilic carbon atom, which can react with electrophilic centers to give products in high yields. Primary, secondary and tertiary alcohols can be best prepared by reacting Grignard reagent with formaldehyde, any other aldehydes and ketones, respectively.
+The polar nature of the N-H bond (due to the electronegativity difference of the two atoms) results in the formation of hydrogen bonds with other amine molecules.
+Primary amines, R-NH2 or ArNH2, undergo nucleophilic addition with aldehydes or ketones to give carbinolamines which then dehydrate to give substituted imines.
+Primary alkyl or aryl amines yield diazonium salts.
+
+
+

@@ -1,0 +1,612 @@
+
+FLUID DYNAMICS
+
+A fluid is a collection of molecules that are randomly arranged and held together by weak cohesive forces and by forces exerted by the walls of a container. Both liquids and gases are fluids as they can flow and exert pressure on the walls of their container. Fluids are a subset of the phases of matter and include liquids, gases, plasmas and to some extent plastic solids.
+
+6.1 VISCOUS FLUIDS
+
+Viscosity is the resistance to flow of a fluid. Honey has a high viscosity at room temperature, and freely flowing gasoline has a low viscosity. For a fluid to flow, the molecules must be able to slide past one another. In general, the stronger the intermolecular forces of attraction, the more viscous is the liquid. This internal friction, or viscous force, is associated with the resistance that two adjacent layers of fluid must have in order to move relative to each other. Viscosity causes part of the kinetic energy of a fluid to be converted to internal energy. This mechanism is similar to the one by which an object sliding on a rough horizontal surface loses kinetic energy.
+
+The numeric value of resistance to flow of fluid (viscosity) is called coefficient of viscosity ‘η’. The SI unit of viscosity is the pascal second (Pa.s). The most common unit of viscosity is the dyne second per square centimeter (dyne second/cm²), which is given the name poise (P) after the French physiologist Jean Louis Poiseuille (1799-1869).
+
+1 pascal second = 10 poise
+1 centipoise = 1 millipascal second
+
+Table 6.1 COEFFICIENT OF VISCOSITY OF VARIOUS SUBSTANCES
+Material      Viscosity (Pa.s)
+Air           1.8 x 10⁻⁵
+Acetone       3.1 x 10⁻⁴
+Methanol      5.9 x 10⁻⁴
+Benzene       6.5 x 10⁻⁴
+Water         8.91 x 10⁻⁴
+Glycerin      1.49
+Honey         10.0
+Olive Oil     84.0
+
+As the temperature of the liquid rises the atoms become more free to move and the coefficient of viscosity ‘η’ decreases. However in a gas the temperature rise increases the random motion of atoms and coefficient of viscosity ‘η’ increases.
+
+6.2 FLUID FRICTION AND STOKES LAW
+
+Fluid friction occurs when adjacent layers in a fluid (liquid or gas) are moving at different velocities. Fluid friction depends on the viscosity of the fluid, and relative speeds between layers of the fluid.
+
+When an object moves through a fluid, the fluid exerts a retarding force that tends to reduce the speed of the object. This retarding force experienced by an object moving through a fluid is called the drag force. The moving body exerts a force on the fluid to push it out of the way. By Newton's third law, the fluid pushes back on the body with an equal and opposite force.
+
+Putting our hand out the window of a fast-moving car shows us the existence of fluid friction and the drag force that a fluid exerts on our hands moving through it.
+
+The drag force depends upon the:
+Size, shape and orientation of the object.
+Properties of the fluid (viscosity and density).
+Speed of the object relative to the fluid.
+
+POINT TO PONDER
+
+Skydivers and swimmers change their effective size and orientation by bending, twisting and stretching their body parts. This allows them to manipulate drag and thereby allowing them to control speed and direction of motion.
+
+6.2 STOKES LAW
+
+The viscous drag force on a spherical object is expressed mathematically by a formula, which is termed as Stokes law. Consider the Figure 6.1, according to Stokes law the drag force Fd depends upon the radius ‘r’ and velocity ‘v’ of the spherical object and coefficient of viscosity ‘η’ of medium through which the spherical object is falling.
+
+Fd ∝ η r v
+or Fd = A η r v
+where A is the constant of proportionality and its experimentally determined value is 6π.
+A = 6π
+therefore Fd = 6 π η r v
+
+This equation first set forth by the British scientist Sir George G. Stokes in 1851 is termed as Stokes law. Stokes’s law finds application in several areas, particularly with regard to the settling of sediment in fresh water and in measurements of the viscosity of fluids.
+
+6.3 TERMINAL VELOCITY
+
+The constant maximum velocity that is attained and maintained by an object while falling through a resistive medium is called terminal velocity ‘v_t’.
+
+When the net force on the object is zero then acceleration terminates. When acceleration terminates, we say that the object has reached its terminal speed. If we are concerned with direction (down for falling objects) we say the object has reached its terminal velocity ‘v_t’.
+
+We will be concerned with the terminal velocity for the simplest case, that is the uniform density spherical object falling through a consistent medium as shown in Figure 6.2.
+
+Newton's laws apply for all objects, whether freely falling or falling in the presence of resistive forces. The accelerations, however, are quite different, due to difference in net force. In a vacuum the net force is the weight because it is the only force. However, in the presence of air resistance, the net force is less than the weight, it is the weight minus drag force.
+
+F_net = F_g - F_d
+Here F_net = m a, F_d = 6 π η r v
+and F_g = W = m g
+
+m a = m g - 6 π η r v
+
+When F_d and F_g are equal, the net force is zero. Then the acceleration a = 0, and v = v_t, the equation is:
+m(0) = m g - 6 π η r v_t or 0 = m g - 6 π η r v_t
+therefore 6 π η r v_t = m g
+v_t = m g / (6 π η r)
+
+Equation 6.2 represents terminal velocity of a spherical object of mass ‘m’ and radius ‘r’, falling with acceleration due to gravity ‘g’ in a medium of coefficient of viscosity ‘η’.
+
+For sphere of uniform density m = ρ V (1)
+the volume of Sphere is V = (4/3) π r³ (2)
+Putting value of V from equation 2 in equation 1, we get:
+m = ρ (4/3) π r³ (3)
+
+Putting value of m from equation 3 in equation 6.2 v_t = m g / (6 π η r)
+By rearranging we get v_t = (2/9) (ρ r² g / η) (6.3)
+
+Equation 6.3 presents the terminal velocity of a spherical object of density ‘ρ’ and radius ‘r’, falling with acceleration due to gravity ‘g’ in a medium of coefficient of viscosity ‘η’.
+
+As terminal velocity depends on size, shape and orientation of the object. It also depends upon the coefficient of viscosity of the medium and speed, therefore there is no single speed for terminal velocity. In general, a person falling through the air on Earth reaches terminal velocity after about 12 seconds, covering a distance of about 450 meters. Table 6.2 shows the terminal velocities of various objects falling through air.
+
+Table 6.2: TERMINAL SPEEDS FOR VARIOUS OBJECTS FALLING THROUGH AIR
+Object               Mass (kg)    Cross-sectional Area (m²)   Terminal Speed (m/s)
+Baseball (radius 3.7 cm)   0.145        4.2 x 10⁻³                 33
+Golf ball (radius 2.4 cm)  0.046        1.8 x 10⁻³                 32
+Hail stone (radius 0.5 cm) 4.8 x 10⁻⁴   7.9 x 10⁻⁵                 14
+Rain Drop (radius 0.2 cm)  3.4 x 10⁻⁵   1.3 x 10⁻⁵                  8
+
+DO YOU KNOW
+
+In free fall the paratrooper attains his terminal velocity twice, once before opening his chute and the other after opening the chute. Without opening the chute paratrooper offers lower radius to air and therefore has a high terminal speed. Whereas after opening the chute he has large radius thereby having sufficiently low terminal speed to allow him to fall safely on the ground. For example, consider the graph below which explains the motion of paratrooper.
+
+Stage 1 at t = 0 s - after just jumping from the plane the skydiver is not moving very fast - weight is a bigger force than air resistance, so he accelerates downwards.
+Stage 2 at t = 19 s - eventually the force of the air resistance has increased so much that it is the same size as the skydiver’s weight - the forces are balanced and the speed remains constant (this is terminal velocity 1)
+Stage 3 at t = 54 s - when the chute opens air resistance increases dramatically: the air resistance force is much greater than the weight force, so the skydiver slows down.
+Stage 4 at t = 48 s - as the skydiver slows, the air resistance force from the chute is reduced, until it is the same size as the weight force - the forces are balanced and the speed remains constant (this is terminal velocity 2)
+
+Example 6.1 FOG DROPLET
+
+The radius of small fog droplet in air is found to be 5.1 x 10⁻⁶ m. the coefficient of viscosity of air is 1.9 x 10⁻⁵ kg m⁻¹ s⁻¹. Find out the settling speed of the droplet in air.
+
+GIVEN
+Radius ‘r’ = 5.1 x 10⁻⁶ m
+Coefficient of viscosity ‘η’ = 1.9 x 10⁻⁵ kg m⁻¹ s⁻¹
+Density ‘ρ’ = 1000 kg m⁻³
+Acceleration due to gravity ‘g’ = 9.8 m s⁻²
+REQUIRED
+Terminal velocity ‘v_t’ = ?
+
+SOLUTION
+The terminal velocity is v_t = (2/9) (ρ r² g / η)
+Putting values v_t = (2/9) (1000 kg m⁻³) x (5.1 x 10⁻⁶ m)² x (9.8 m s⁻²) / (1.9 x 10⁻⁵ kg m⁻¹ s⁻¹)
+hence v_t = 2.98 x 10⁻³ m s⁻¹
+The Fog droplet will settle with a speed of 0.00298 m/s in air.
+
+Assignment 6.1 GLOBULAR PROTEIN PARTICLE
+
+A certain globular protein particle has a density of 1246 kg m⁻³. It falls through water (having coefficient of viscosity 8.91 x 10⁻⁴ Pa.s) with a terminal speed of 8.33 x 10⁻⁶ m s⁻¹. Find the radius of the particle. (1.6 x 10⁻⁶ m)
+
+6.4 FLUID FLOW
+
+When fluid is in motion, its flow can be characterized as streamline or turbulent. The flow is said to be streamline, steady, or laminar, if every particle of a fluid that passes through a particular point, moves along exactly the same path, as followed by particles that have passed that point earlier.
+
+In streamline flow every particle of the fluid follows a smooth path, such that the paths of different particles never cross each other, as shown in Figure 6.5.
+
+A streamline is a line everywhere tangent to the velocity vector. A stream-tube consists of a bundle of streamlines.
+
+Above a certain critical speed, fluid flow becomes turbulent; turbulent flow is irregular flow characterized by small whirlpool-like regions. For example consider the figure 6.6, close to the incense, the smoke's flow is very smooth, or laminar. As the smoke rises higher and higher, it speeds up due to the lower density of warm air compared to the surrounding air (natural convection). Since it is speeding up as it rises, it will eventually reach a speed at which its flow becomes chaotic, or turbulent.
+
+POINT TO PONDER
+
+Extreme turbulent flow, can be seen in the form of a tornado. Tornadoes are violently rotating columns of air that extend from a thunderstorm to the ground. Tornadoes can destroy buildings, flip cars, and create deadly flying debris.
+
+In turbulent flow the speed of the fluid at a point is continuously undergoing changes in both magnitude and direction. Turbulent flow tends to occur at higher velocities and low viscosity, therefore most kinds of fluid flow are turbulent. The examples of turbulent flow include blood flow in arteries, oil transport in pipelines, lava flow, atmosphere and ocean currents, the flow through pumps and turbines, and the flow in boat wakes and around aircraft wing tips.
+
+POINT TO PONDER
+
+Fish, dolphins, and even massive whales are streamlined in shape to reduce drag forces. Birds are streamlined to reduce air drag and migratory species that fly large distances often have particular features such as long necks.
+
+The discussion of fluid flow can be simplified by considering the fluid flow as ideal flow. In our model of an ideal flow, we make the following assumptions:
+
+1. The fluid is non-viscous: In a non-viscous fluid, internal friction is neglected. An object moving through the fluid experiences no viscous force.
+2. The flow is steady: in steady (laminar) flow, the velocity of the fluid at each point remains constant.
+3. The fluid is incompressible: The density of an incompressible fluid is constant.
+4. The flow is irrotational: In irrotational flow, the fluid has no angular momentum about any point. If a small paddle wheel placed anywhere in the fluid does not rotate about the wheel's center of mass, then the flow is irrotational.
+5. The temperature does not vary: Phenomena such as the convection of fluids in which a liquid in the bottom of a vessel is heated, rises, cools, and falls in a circulating pattern will not be considered.
+
+6.5 EQUATION OF CONTINUITY
+
+The mass of ideal fluid doesn't change as it flows. This leads to an important quantitative relationship called the continuity equation. The product of cross-sectional area and the speed of the fluid at any point along the pipe is constant.
+
+A₁ v₁ = A₂ v₂
+A v = constant
+(here v is the velocity and A is the area of cross-section)
+
+Consider an ideal fluid flowing through a pipe of nonuniform size, as illustrated in Figure 6.7. The particles in the fluid move along streamlines in steady flow. As there is no source or sink in the pipe so equal mass will flow through each end of the pipe.
+
+Δm₁ = Δm₂ = Δm (1)
+
+by definition of density ρ = Δm / ΔV or Δm = ρ ΔV (2)
+By definition of volume ΔV = A Δx (3)
+By definition of average velocity Δx = v Δt (4)
+Putting value of Δx from equation 4 in equation 3, we get ΔV = A v Δt (5)
+
+The fluid that moves through the lower end of the pipe in the time Δt has a mass given by equation 5 as:
+Δm₁ = ρ A₁ v₁ Δt (6)
+
+The fluid that moves through the upper end of the pipe in the time Δt has a mass given by equation 5 as:
+Δm₂ = ρ A₂ v₂ Δt (7)
+
+Putting values from equation 6 and equation 7 in equation 1, we get:
+ρ A₁ v₁ Δt = ρ A₂ v₂ Δt
+or A₁ v₁ = A₂ v₂
+Therefore A v = Constant (6.4)
+
+The Equation 6.4 gives equation of continuity, which can be interpreted as the speed of the fluid is inversely proportional to cross-sectional area. Thus increasing the speed decreases cross-sectional area and vice versa.
+
+DO YOU KNOW
+
+When water falls from a tap its speed increases under the action of gravity as it comes down, when the speed increases the cross-sectional area decrease to keep the equation of continuity valid.
+
+Equation 5 can also be written as ΔV/Δt = A v since A v = Constant
+Therefore ΔV/Δt = Constant (6.5)
+
+Equation 6.5 shows that the ‘volume flow rate’ (or time rate of flow of volume) is constant. The volume of an incompressible fluid passing through any point in unit time through a pipe of non-uniform cross-section is constant in the steady flow.
+
+Example 6.2 GARDEN HOSE
+
+A garden hose of inner radius 1.25 cm carries water at 2.60 m/s. The nozzle at the end has radius 0.30 cm. How fast does the water emerge out through the nozzle?
+
+GIVEN
+Radius of garden hose ‘r₁’ = 1.25 cm = 0.0125 m
+Radius of the nozzle ‘r₂’ = 0.30 cm = 0.0030 m
+Speed though garden hose ‘v₁’ = 2.60 m/s
+REQUIRED
+Speed out of nozzle ‘v₂’ = ?
+
+SOLUTION
+The Equation of continuity is A₁ v₁ = A₂ v₂
+The area of circle is A = π r²
+therefore Equation of continuity can also be written as π r₁² v₁ = π r₂² v₂
+or r₁² v₁ = r₂² v₂ and v₂ = (r₁² / r₂²) v₁
+putting values v₂ = (0.0125 m)² x 2.60 m s⁻¹ / (0.0030 m)²
+hence v₂ = 45.14 m s⁻¹
+The speed of the water from the nozzle is 45.14 m/s.
+
+Assignment 6.2 HEART BLOOD PUMPING
+
+The heart pumps blood into the aorta, which has an inner radius of 1.0 cm. The aorta feeds 32 major arteries (each have an inner radius of 0.21 cm). If blood in the aorta travels at a speed of 25 cm/s, at approximately what average speed does it travel in the arteries? Assume that blood can be treated as an ideal fluid. (0.18 m/s)
+
+6.6 BERNOULLI'S EQUATION
+
+Bernoulli's equation relates the pressure, flow speed, and height for flow of an ideal fluid. Such that mathematically:
+
+P₁ + ½ ρ v₁² + ρ g h₁ = P₂ + ½ ρ v₂² + ρ g h₂
+P + ½ ρ v² + ρ g h = constant
+
+Bernoulli's equation is simply law of conservation of energy applied to fluids in motion. Consider an ideal flow through a pipe of nonuniform size, as illustrated in Figure 6.8. The work ‘W’ is due to forces other than the conservative force of gravity, so it equals the change in the total mechanical energy (kinetic energy plus gravitational potential energy) associated with the fluid element.
+
+W = ΔK + ΔU (1)
+
+The total work done will be sum of all the individual work done.
+W = W₁ + W₂ (2)
+
+For end 1
+By definition of work W₁ = F₁ Δx₁ cos θ
+here θ = 0° and cos 0° = 1 Therefore W₁ = F₁ Δx₁ (3)
+
+For end 2
+By definition of work W₂ = F₂ Δx₂ cos θ
+here θ = 180° and cos 180° = -1 Therefore W₂ = -F₂ Δx₂ (4)
+
+By definition of pressure P = F / A
+or F = P A (5)
+
+From equation 5 and equation 3 and equation 4 can be written as:
+
+For end 1 W₁ = P₁ A₁ Δx₁ (6)
+For end 2 W₂ = -P₂ A₂ Δx₂ (7)
+
+Since ΔV = A Δx (8)
+By definition of density ρ = Δm / ΔV
+or ΔV = Δm / ρ (9)
+
+Comparing equation 8 and equation 9
+A Δx = Δm / ρ (10)
+
+Therefore, from equation 10, equation 6 and equation 7 can be written as:
+
+For end 1 W₁ = P₁ (Δm / ρ) (11)
+For end 2 W₂ = -P₂ (Δm / ρ) (12)
+
+putting values from equation 11 and equation 12 in equation 2:
+W = P₁ (Δm / ρ) - P₂ (Δm / ρ) (13)
+
+The net change in kinetic energy ΔK is ΔK = ½ Δm v₂² - ½ Δm v₁² (14)
+The net change in potential energy ΔU is ΔU = Δm g h₂ - Δm g h₁ (15)
+
+Putting values from equation 13, equation 14 and equation 15 in equation 1:
+P₁ (Δm / ρ) - P₂ (Δm / ρ) = ½ Δm v₂² - ½ Δm v₁² + Δm g h₂ - Δm g h₁ (16)
+
+Since for ideal fluid equal mass should flow across both ends, therefore:
+Δm₁ = Δm₂ = Δm (17)
+
+From equation 17, equation 16 can be written as:
+(Δm / ρ) (P₁ - P₂) = ½ Δm (v₂² - v₁²) + Δm g (h₂ - h₁)
+Taking Δm as common (Δm / ρ) (P₁ - P₂) = Δm [½ (v₂² - v₁²) + g (h₂ - h₁)]
+Multiplying both sides by ρ, we get P₁ - P₂ = ½ ρ (v₂² - v₁²) + ρ g (h₂ - h₁)
+therefore P₁ + ½ ρ v₁² + ρ g h₁ = P₂ + ½ ρ v₂² + ρ g h₂ (6.6)
+or P + ½ ρ v² + ρ g h = constant (6.7)
+
+Equations 6.6 and 6.7 are termed as Bernoulli’s equations. Bernoulli’s equation is based on conservation of energy such that for an incompressible and non-viscous fluid, the total mechanical energy of the fluid is constant.
+
+Example 6.3 WATER SPEED THROUGH PIPE
+
+Water is flowing smoothly through a pipe. At one point the pressure is 33.2 kPa and the speed of water is 2 m/s. While at another point 2.3 m higher the pressure is 3.7 kPa, at what speed is the water flowing through this point?
+
+GIVEN
+Pressure ‘P₁’ = 33.2 kPa = 33.2 x 10³ N m⁻²
+Pressure ‘P₂’ = 3.7 kPa = 3.7 x 10³ N m⁻²
+Height ‘h₁’ = 0 m, Height ‘h₂’ = 2.3 m
+Density of water ‘ρ’ = 1000 kg m⁻³
+REQUIRED
+Speed at upper point ‘v₂’ = ?
+
+SOLUTION
+The Bernoulli’s equation is P₁ + ½ ρ v₁² + ρ g h₁ = P₂ + ½ ρ v₂² + ρ g h₂
+or ½ ρ v₂² = P₁ - P₂ + ½ ρ v₁² + ρ g h₁ - ρ g h₂
+multiplying both sides by 2/ρ we get v₂² = (2/ρ)(P₁ - P₂) + v₁² + 2 g (h₁ - h₂)
+taking square root on both sides v₂ = √[ (2/ρ)(P₁ - P₂) + v₁² + 2 g (h₁ - h₂) ]
+v₂ = √[ (2/1000 kg m⁻³)(33200 - 3700 N m⁻²) + (2 m/s)² + 2(9.8 m s⁻²)(0 m - 2.3 m) ]
+The water will flow at 4 m/s in the upper part of the pipe.
+
+Assignment 6.3
+
+Water is flowing smoothly through a closed pipe system. At one point the speed of water is 3 m/s, while at another point 3 m higher, the speed is 4 m/s. At lower point the pressure is 80 kPa. Find the pressure at the upper point. (47.1 kPa)
+
+6.7 APPLICATIONS OF BERNOULLI’S EQUATION
+
+A number of devices operate by means of the pressure difference that result from changes in a fluid’s speed.
+
+A. Filter Pumps
+
+Pumps are used to transfer liquids from low-pressure zones to high pressure zones. A filter pump is a device used to produce partial vacuum in vessel attached to it.
+
+A filter pump consists of a tube with jet attached to it, in which water flows from the tube toward the jet as shown in Figure 6.9. When water reaches from the jet section its speed increases, as a result the pressure drops near it. This drop in pressure allows air to flow in from the side tube to which the vessel is connected, thus air and water are forced together at the bottom of the filter pump. In this way a partial vacuum is created in the vessel attached to it.
+
+B. Atomizers
+
+A device for emitting water, perfume, or other liquids as a fine spray.
+
+For example, a stream of air passing over one end of an open tube, the other end of which is immersed in a liquid, reduces the pressure above the tube, as illustrated in Figure 6.10. This reduction in pressure causes the liquid to rise into the air stream. The liquid is then dispersed into a fine spray of droplets.
+
+Such atomizers can be seen in perfume bottles, engine carburetor, water filter pumps and paint sprayers.
+
+DO YOU KNOW
+
+An Engine Carburetor is a device that blends air and fuel for an internal combustion engine. Part of the carburetor is a tube with a constriction, as shown in the diagram. The pressure on the petrol in the fuel supply is the same as the pressure in the thicker part of the tube. Air flowing through the narrow section of the tube, which is attached to the fuel supply, is at a lower pressure, so fuel is forced into the air flow. By regulating the flow of air in the tube, the amount of fuel mixed into the air can be changed. Newer cars tend to have Electronic Fuel Injectors (EFI) rather than carburetors, but carburetors are common in older cars.
+
+C. Torricelli’s theorem (Speed of efflux)
+
+Torricelli’s theorem states that ‘the speed of efflux is equal to the speed gained by fluid while falling through height h under the action of gravity’.
+
+Consider a large storage tank, which develop a leak at the bottom as shown in the Figure 6.11. The pressure at both ends is same (P₁ = P₂ = P). The height h is the difference between the height of the fluid level h₁ and the height of the hole from the ground h₂ (h = h₁ - h₂). Velocity at the top is considered as zero (v₁=0), while the bottom velocity is to be determined (v₂ = v).
+
+By Bernoulli’s equation P₁ + ½ ρ v₁² + ρ g h₁ = P₂ + ½ ρ v₂² + ρ g h₂
+Substituting appropriate values and rearranging.
+P + ½ ρ (0)² + ρ g h₁ = P + ½ ρ v² + ρ g h₂
+or ρ g h₁ - ρ g h₂ = ½ ρ v²
+hence ρ g (h₁ - h₂) = ½ ρ v² as h₁ - h₂ = h
+therefore g h = ½ v² or 2 g h = v²
+taking square root on both sides √(v²) = √(2 g h)
+therefore v = √(2 g h) (6.8)
+
+The speed is the same as the vertical velocity which a body gain after falling freely through a height ‘h’. The equation 6.8 is termed as Torricelli’s equation for the speed of fluid emerging from water storage.
+
+Example 6.4 WATER TANK
+
+A cylindrical water storage tank has a horizontal spigot near the bottom, at a depth of 1.2 m beneath the water surface. (a) When the spigot opened, how fast does the water come out? (b) If the radius of spigot is 6.0 x 10⁻³ m, what will be the volume flow rate?
+
+GIVEN
+Height of water in tank ‘h’ = 1.2 m
+radius of spigot ‘r’ = 6.0 x 10⁻³ m
+acceleration due to gravity ‘g’ = 9.8 m s⁻²
+REQUIRED
+(a) speed of water ‘v’ = ?
+(b) Volume flow rate "ΔV/Δt" = ?
+
+SOLUTION
+(a) By Torricelli’s theorem v = √(2 g h)
+putting values v = √(2 x 9.8 m s⁻² x 1.2 m) = 4.85 m s⁻¹
+
+(b) From equation of continuity the volume flow rate is ΔV/Δt = A v
+since A = π r² therefore ΔV/Δt = π r² x v
+putting values ΔV/Δt = 3.14 x (6.0 x 10⁻³ m)² x 4.85 m s⁻¹
+hence ΔV/Δt = 5.48 x 10⁻⁴ m³ s⁻¹
+The water of volume 0.000548 m³ will emerge out of spigot each second.
+
+EXTENSION EXERCISE
+If the opening from spigot points upward, how high does the resulting ‘fountain’ go?
+
+Assignment 6.4 SPEED OF WATER FROM TANK
+
+A tank full of water has a (small) hole near its bottom at a depth of 2.0 m from the top surface, which is open to air. What is the speed of the stream of water emerging from the hole? (6.3 m/s)
+
+D. Venturi Meter (Flow meter): Venturi meter is a device used to measure the flow speed or flow rate through a piping system. It works on the principle of pressure difference between restricted and unrestricted flow regions.
+
+We consider the flow to be steady, and we assume the fluid is incompressible and has negligible internal friction. Hence we can use Bernoulli’s equation. Consider the Figure 6.12, let P₁ and P₂ be the pressure and v₁ and v₂ be the velocities of wide (end 1) and narrow (end 2) sections of the tube respectively.
+
+The Bernoulli’s equation can be written as:
+P₁ + ½ ρ v₁² + ρ g h₁ = P₂ + ½ ρ v₂² + ρ g h₂
+or P₁ - P₂ = ½ ρ v₂² - ½ ρ v₁² (1)
+
+Now by equation of continuity A₁ v₁ = A₂ v₂ or v₂ = (A₁ / A₂) v₁ (2)
+
+Putting equation 2 in equation 1 P₁ - P₂ = ½ ρ [ (A₁ / A₂)² v₁² ] - ½ ρ v₁²
+or P₁ - P₂ = ½ ρ v₁² [ (A₁² / A₂²) - 1 ]
+rearranging v₁² = [ 2 (P₁ - P₂) ] / [ ρ ( (A₁² / A₂²) - 1 ) ]
+v₁² = [ 2 (P₁ - P₂) A₂² ] / [ ρ (A₁² - A₂²) ]
+v₁ = A₂ √[ 2 (P₁ - P₂) / ρ (A₁² - A₂²) ] (6.9)
+
+Therefore v₁ = A₂ √[ 2 (P₁ - P₂) / ρ (A₁² - A₂²) ]
+
+This is the solution for speed in a pipe by Venturi’s meter when any barometer (device used to measure pressure) is used. However, when no barometer is used and height of the fluid in smaller equal diameter pipes attached to both the pipe and the neck for the reference as shown in the Figure 6.13. By first Condition of equilibrium.
+
+Putting (P₁ - P₂) = ρ g h in equation 6.9 we get:
+v₁ = A₂ √[ 2 (ρ g h) / ρ (A₁² - A₂²) ]
+Therefore v₁ = √[ 2 g h / ( (A₁² / A₂²) - 1 ) ] (6.10)
+
+Assignment 6.5 VENTURI METER
+
+A venturi meter is measuring the flow of water in a pipe having cross-sectional area of 0.0038 m², a throat with cross-sectional area of 0.00031 m² is connected to it. If the pressure difference is measured to be 2.4 kPa, what is the speed of the water in the pipe? (2.2 m/s)
+
+D. Aerofoil
+
+The devices which are shaped so that the relative motion between it and the fluid produces a force perpendicular to the flow are called aerofoils. The shape of aerofoil is made such that the fluid speed at the top surface is greater than the bottom (closer stream lines). as shown in figure 6.14. An airfoil-shaped body moved through a fluid produces an aerodynamic force. The component of this force perpendicular to the direction of motion is called lift. The component parallel to the direction of motion is called drag. Aerofoils are found in aeroplane wings, helicopters, sailboats, propellers, fans, compressors and turbines.
+
+TID BITS
+
+Aerodynamic Lift on an Airplane Wing
+
+One of the most spectacular examples of how fluid flow affects pressure is the dynamic lift on an airplane wings. Figure shows an airplane with its wing moving to the left, relative to it the air flows to the right. Due to the wing’s shape, the flow lines crowd together above the wing, it causes the air to travel faster over the curved top surface and more slowly over the flatter bottom. Thus, the pressure above the wing is reduced relative to the pressure under the wing as a result the wing is lifted upward.
+
+Example 6.5 AIRCRAFT WING
+
+What is the aerofoil's lift (in newtons) on a wing of area 88 m² if the air passes over its top surface at 280 m/s and bottom surface at 150 m/s?
+
+GIVEN
+Surface area ‘A’ = 88 m²
+Speed at top of wing ‘v₁’ = 280 m/s
+Speed at bottom of wing ‘v₂’ = 150 m/s
+density of the air ‘ρ’ = 1.28 kg/m³
+REQUIRED
+Force ‘F’ = ?
+
+SOLUTION
+Pressure is defined as (P₁ - P₂) = F / A or F = (P₁ - P₂) x A (1)
+
+By Bernoulli’s equation P₁ - P₂ = ½ ρ (v₂² - v₁²) + ρ g h₁ - ρ g h₂ (2)
+
+Since h₁ = h₂ therefore P₁ - P₂ = ½ ρ (v₂² - v₁²)
+
+Putting equation 2 in equation 1, we get F = ½ ρ (v₂² - v₁²) x A
+
+putting values F = ½ (1.28 kg m⁻³) [ (150 m/s)² - (280 m/s)² ] x 88 m²
+hence F = -3.2 x 10⁶ N (The negative sign indicates upward lift force)
+
+There will be an upward force of 3.2 x 10⁶ N on air craft wing.
+
+CLASSROOM DEMONSTRATION
+
+Cut a long piece of paper, blowing over top of paper, make the paper rise. As we blow the speed of the air at the top is greater than the speed at the bottom. In the high speed region (that is at top) the pressure is reduced to fill that reduced pressure region the air from the bottom rushes to maintain the constant atmospheric pressure thus lifting paper with itself.
+
+DO YOU KNOW
+
+Spoilers: All cars are designed to avoid lift and stick to the ground at all times. Because when cars suddenly rise up due to high velocity, the driver loses its control. So scientists designed cars completely opposite to that of an airplane. A race car employs Bernoulli's principle to keep its wheels on the ground while traveling at high speeds. A race car's spoiler—shaped like an upside-down wing, with the curved surface at the bottom—produces negative lift (or downforce) to push them down against the track surface so they can take turns quickly without sliding out into the track wall.
+
+E. Blood Flow
+
+Bernoulli’s equation ignores viscosity (fluid friction). If a fluid had no viscosity, it could flow through a level tube or pipe without a force being applied. Viscosity acts like a sort of friction (between fluid layers moving at slightly different speeds). The volume flow rate ΔV/Δt for laminar flow of a viscous fluid through a horizontal, cylindrical pipe depends on its radius. Similar is the case of human arteries. The ‘blood flow in the human body’ depends upon the radius of its arteries as shown in Figure 6. 15.
+
+If the radius of arteries is reduced as a result of arteriosclerosis (thickening and hardening of artery walls) and by cholesterol buildup, the pressure must be increased to maintain the same flow rate. If the radius is reduced by half, the heart would have to increase the pressure by a factor of about 2⁴ = 16 in order to maintain the same blood-flow rate. The heart must work much harder under these conditions, but usually cannot maintain the original flow rate. The pressure is lower where the fluid (blood) is flowing faster. The pressure difference can dislodge the plaque. The plaque can then lodge in and block a smaller artery which can cause heart attack.
+
+SUMMARY
+
+Fluid Flow: The basic property of a fluid is that it can flow. The fluid does not have any resistance to change of its shape. Thus, the shape of a fluid is governed by the shape of its container.
+
+Viscosity: the resistance to flow of a fluid.
+
+Drag force: retarding force experienced by an object moving through a fluid.
+
+Terminal velocity: the maximum velocity attained and maintained by an object while falling through a fluid.
+
+Streamline, steady, or laminar flow: every particle of a fluid moving along exactly the same path, as followed by particles that have passed that point earlier.
+
+Turbulent flow: irregular flow characterized by small whirlpool-like regions.
+
+Equation of Continuity: The volume of an incompressible fluid passing any point in a pipe of non uniform cross-section is the same in the steady flow.
+v A = constant (v is the velocity and A is the area of cross-section)
+The equation is due to mass conservation for ideal flow.
+
+Bernoulli’s Equation: Bernoulli’s principle states that as we move along a streamline, the sum of the pressure (P), the kinetic energy per unit volume (½ ρv²) and the potential energy per unit volume (ρgh) remains a constant.
+P + ½ ρv² + ρgh = constant (ρ is the density and g is acceleration due to gravity)
+The equation is due to energy conservation for ideal flow.
+
+ROTATIONAL AND CIRCULAR MOTION
+
+Water on the space station behaves as if in a zero-gravity environment. Water would just float around the space station.
+
+Astronauts in places with microgravity, like on the ISS, are weightless; they can sleep or rest in any orientation. However, when it's time for them to sleep, they have to attach themselves so they don't float around and bump into something. ISS astronauts usually sleep in sleeping bags located in small crew cabins. Each crew cabin is just big enough for one person. Astronauts also attach themselves to walls or the ceiling to sleep.
+
+In order to overcome these problems space stations might be built in the form of large wheels with hollow rims as in Figure 5.27. These would be set in rotation so that the outer rim, which acts as the floor, would have to apply a radial centripetal force to the occupants or any objects inside to keep them moving in a circle.
+
+In a rotating space station, people will be “stuck” to the outside too, but with a force equal to that of gravity so they will be able to walk around on the edges. The force will be the same all around the outside of the rotating cylinder, so depending on the design it could look like people are living on the ceiling!
+
+In order to have a spaceship in space, we have to provide gravity to the occupants of the spaceship. Such provided gravity is known as artificial gravity, because it does not exist naturally.
+
+When we want to produce artificial gravity, we have to rotate the spaceship with certain frequency.
+
+Using our previous knowledge, centripetal acceleration is given by a_c = v² / r where 'r' is the distance from center to the rim of spaceship.
+
+As v = r ω and a_c = g
+Then g = r ω²
+For one complete rotation, total distance covered = 2 π r
+Then the time period will be T = 2 π r / v = 2 π / ω
+It gives us, ω = 2 π / T = 2 π f
+Then g = r x 4 π² f²
+Thus f = (1 / 2π) √(g / r) (5.25)
+
+Then the spaceship rotates with this particular frequency, artificial gravity like earth is provided to the inhabitants of spaceship.
+
+Technically, rotation produces the same effect as gravity because it produces a force (called the centrifugal force) just like gravity produces a force. By adjusting certain parameters of a space station such as the radius and rotation rate, you can create a force on the outside walls that equals the force of gravity.
+
+5.12 THE ARTIFICIAL SATELLITES
+
+A satellite is anything that orbits around another object. Moons are natural satellites that orbit around planets, whereas artificial satellites are human-built objects orbiting the Earth and other planets in the Solar System and launched into orbit using rockets. There are currently over a thousand active satellites orbiting the Earth. The size, altitude and design of a satellite depend on its purpose. Artificial satellites are spacecraft that stay in orbit around the Earth.
+
+Types of satellites
+
+Navigation satellites
+
+The GPS (global positioning system) is made up of 24 satellites that orbit at an altitude of 20,000 km above the surface of the Earth. The difference in time for signals received from four satellites is used to calculate the exact location of a GPS receiver on Earth.
+
+Communication satellites
+
+These satellites are used for television, phone or internet transmissions, for example, the Optus D1 satellite is in a geostationary orbit above the equator and has a coverage footprint to provide signals to all of Australia and New Zealand. Communications satellites are often in geostationary orbit.
+
+At the high orbital altitude of 35,800 kilometers, a geostationary satellite orbits the Earth in the same amount of time it takes the Earth to revolve once. From Earth, therefore, the satellite appears to be stationary, always above the same area of the Earth. The area to which it can transmit is called a satellite's footprint.
+
+Weather satellites
+
+These satellites are used to image clouds and measure temperature and rainfall. Both geostationary and low Earth orbits are used depending on the type of weather satellite. Weather satellites are used to help with more accurate weather forecasting.
+
+5.12.1 THE ORBITAL VELOCITY
+
+A satellite of mass m orbiting at radius r from the centre of Earth. The gravitational force supplies the centripetal acceleration.
+
+An orbit is a regular, repeating path that one object in space takes around another one. An object in an orbit is called a satellite. A satellite can be natural, like Earth or the moon. Many planets have moons that orbit them. A satellite can also be man-made, like the International Space Station.
+
+Consider a satellite of mass m_s, in a circular orbit about Earth at distance r from the center of Earth Figure. It has centripetal acceleration directed toward the centre of Earth. Earth's gravity is the only force acting, so Newton's second law gives:
+
+(m_s v²) / r = (G M_e m_s) / r²
+M_e = mass of Earth, m_s = mass of satellite and G = 6.673 x 10⁻¹¹ N m² kg⁻²
+
+On solving above equation to get the orbital speed.
+v = √(G M_e / r) (5.23)
+
+In above Eq (5.23) as G M_e = constant.
+Then v ∝ 1 / √r
+
+A satellite in circular orbit has a constant speed which depends only on the mass of the planet and the distance between the satellite and the centre of the planet. A satellite in orbit moves faster when it is close to planet or other body that it orbits, and slower when it is farther away. When a satellite falls from high altitude to lower altitude, it gains speed, and when it rises from low altitude to higher altitude, it loses speed.
+
+Determine the orbital speed for the International Space Station (ISS). If its orbit is 4.0 x 10² km above the earth surface.
+
+The radius at which it orbits r = R_e + 4.00 x 10² km = 6.36 x 10⁶ m + 4.00 x 10⁵ m = 6.76 x 10⁶ m
+G = 6.673 x 10⁻¹¹ N m² kg⁻², M_e = 6 x 10²⁴ kg
+v = √(G M_e / r) = √( (6.67 x 10⁻¹¹ N m² kg⁻²) (6 x 10²⁴ kg) / (6.76 x 10⁶ m) ) = 7.67 x 10³ m/s
+
+5.13 THE GEO-STATIONARY ORBITS
+
+Satellites are launched into different orbits depending on their mission. One of the most common one is geostationary orbit. This is where a satellite takes 24 hours to orbit the Earth; the same amount of time it takes the Earth to rotate once on its axis. This keeps the satellite in the same spot over the Earth, allowing for communications and television broadcasts.
+
+This type of orbit is ideal for many communications and weather satellites. A geostationary orbit has an altitude of 22,240 miles (35,790 km), which results in an orbital speed of 6,880 mph (11,070 km h⁻¹).
+
+Using Eq (5.23), the orbital speed of satellite is given by:
+v = √(G M_e / r_o)
+But this speed must be equal to the average speed of the satellite in one day, that is: v = s / t = (2 π r_o) / T
+Where T is the time-period for revolution of the satellite, that is equal to one day, this means that the satellite must move in one complete day.
+
+The force F_g due to the earth's gravitational attraction provides the centripetal acceleration that keeps a satellite in orbit.
+
+Equating the above two equations, we get:
+√(G M_e / r_o) = (2 π r_o) / T
+It gives us: (2 π r_o / T)² = G M_e / r_o
+r_o³ = (G M_e T²) / (4 π²)
+Then r_o = ³√( (G M_e T²) / (4 π²) )
+G = 6.673 x 10⁻¹¹ N m² kg⁻²
+M_e = 6 x 10²⁴ kg
+T = 365 x 24 x 3600 s
+π = 3.14
+Then r_o = 4.23 x 10⁷ m = 4.23 x 10⁴ km
+
+Which is the orbital radius measured from the centre of the earth, for geo-stationary satellite. A satellite at this height will always stay over a particular point on the surface of earth. The whole surface of earth can be covered using three geostationary satellites as shown in Fig 5.30. Each covers a longitude of 120°.
+
+What should be the orbital speed to launch a satellite in a circular orbit 900 km above the surface of the earth?
+
+Height above the surface of earth is: h = 900 km = 9 x 10⁵ m
+Radius of earth = R_e = 6.4 x 10⁶ m
+So radius of orbit will be: r_o = R_e + h = 7.3 x 10⁶ m
+Here G = 6.673 x 10⁻¹¹ N m² kg⁻²
+And mass of earth = M_e = 6 x 10²⁴ kg.
+Orbital speed v = ?
+
+Using the formula: v = √(G M_e / r_o)
+We get: v = √( (6.673 x 10⁻¹¹ x 6 x 10²⁴) / (7.3 x 10⁶) )
+Or v = 7.4 x 10³ m s⁻¹
+
+SUMMARY
+
+Angular displacement: Angular displacement is the angle formed at the centre of a circle when a body moves in circle.
+
+Angular velocity: The rate of change of angular displacement of a body is called angular velocity.
+
+Angular acceleration: Angular acceleration of a body is the change in angular velocity of a body in particular time.
+
+Centripetal force: The force which attracts a body towards the centre of circle, when a body moves in circle, is called centripetal force.
+
+Geo-stationary satellite: Geo-stationary satellite is one whose angular velocity is synchronized with angular velocity of earth.
+
+Artificial gravity: The gravity provided to the inhabitants of a spaceship is called artificial gravity.
+
+Apparent weight: Apparent weight of a body is the force needed to prevent the body falling in the gravitational field of the earth.
+
+Weightlessness: The state of a body in which it becomes weightless, is called weightlessness.
+
+Centripetal force: The force which compels the body to move in circle is called centre seeking force or centripetal force.
+
+Critical velocity: This is the minimum required velocity to put a satellite into the orbit and called critical velocity.
+
+Conservation of angular momentum: The total angular momentum of a system is constant in both magnitude and direction if the resultant external torque acting on the system is zero, that is, if the system is isolated.
+
+Artificial gravity: In order to have a spaceship in space, we have to provide gravity to the occupants of the spaceship. Such provided gravity is known as artificial gravity, because it does not exist naturally.

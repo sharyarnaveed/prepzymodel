@@ -1,0 +1,344 @@
+
+INTRODUCTION
+Chemical reactions are dynamic processes in which matter and energy change continuously. Chemical reactions occur at a variety of rates from very rapid to very slow. For example, fermentation is a slow reaction, which may require several weeks to produce enough products. Is digestion a slow reaction? On the other hand acid-base neutralization reactions are completed in microseconds. Some reactions proceed at moderate speed. For example, the reactions that contract muscles and transmit impulses along nerves and record photographic images. In industry it is important to know the conditions under which the reaction will proceed most economically.
+The study of rates of chemical reactions, mechanisms and the factors that affect the rates of chemical reactions is known as kinetics or chemical kinetics.
+Rate information is the most important kind of information used in the deduction of mechanism of a chemical reaction. Mechanism means sequence of all chemical steps which lead reactants to products.
+
+RATES OF REACTIONS
+The rate of reaction is the change in concentration of reactants or products per unit time.
+Mathematically,
+Rate = Change in concentration of a substance / Time taken for change
+The concentration of reactants decreases and concentration of products increases with the passage of time. Therefore, rate of a reaction can also be defined as the decrease in concentration of reactants per unit time or the increase in concentration of products per unit time. The unit of concentration is mole dm⁻³ and time is second, so unit of reaction rate is mole dm⁻³ s⁻¹.
+The change in concentration of reactants and products can be represented graphically (Fig. 9.1), for the general reaction:
+A → B
+The slope of the graph for both, the reactants and products is steeper in the beginning than at the later stages. This indicates the rapid decrease or increase in concentration of reactant or product respectively. As the reaction proceeds, the slope becomes less steep showing decrease in rate of reaction. Finally the graph becomes horizontal and the reaction stops. Thus the rate of reaction is never uniform.
+Concentration of reactants continuously decreases while those of products increases with the passage of time. Therefore, the rate of reaction also decreases continuously. Thus the rate measured for a time interval is only the average rate for that interval.
+The rate of reaction between two specific time intervals is called the average rate of reaction. The average rate of reaction over any time interval can be determined from the difference in concentration divided by the difference between the measurement times. The rate of reaction at a particular instant of time is called instantaneous rate of reaction. It is determined from the slope of tangent to the curve at that time. The average rate and the instantaneous rate are equal for only one instant in any time interval. In the beginning of the time intervals, the instantaneous rate is higher than the average rate. At the end of the interval, the instantaneous rate is lower than the average rate. As the time interval becomes smaller, average rate becomes close to the instantaneous rate. The average rate will be the same as instantaneous rate when the time interval approaches zero. Thus “The rate of reaction is defined as the instantaneous change in concentration of a reactant or product at a given time”.
+If dx is very small change in concentration of a product in a very small time interval dt, the rate of reaction is expressed as:
+Rate of reaction = dx/dt
+Consider a general reaction:
+A → B
+The rate of reaction can be expressed in term of the rate of disappearance of reactant A or the rate of appearance of product B.
+Rate = -d[A]/dt = +d[B]/dt
+Where d[A] and d[B] are the changes in the concentration of A and B respectively. The negative sign indicates a decrease in the concentration of the reactant A, whereas the positive sign indicates the increase in the concentration of product B.
+
+Determination of initial Rates
+To study the effect of reactant concentration on reaction rate, one way is to determine how the initial rate depends on the initial concentrations. This is because as the reaction proceeds, the concentration of reactants decreases and it may become difficult to measure the changes accurately. At the same time, there may be a reverse reaction which would introduce error in the rate measurement. Both these complications are virtually absent during the early stages of a reaction.
+“Initial rate is the instantaneous rate at the moment the reactants are mixed (i.e. at t=0)”. Under these conditions the concentration of product is negligible. The initial rate is measured by determining the slope of line tangent to the curve at zero time. This method can be understood by plotting a graph between time on x-axis and concentration on y-axis. Draw tangent to the curve through the point at which t = 0 and determine the slope of the line. Slope is equal to initial rate (see figure 9.2).
+Slope = dx/dt = 4 × 10⁻⁴ / 60 = 6.67 × 10⁻⁶ mole dm⁻³ s⁻¹
+
+Self Check Exercise 9.1
+Ethyl Iodide decomposes at a certain temperature as follows:
+C₂H₅I(g) → C₂H₄(g) + HI(g)
+From the following data determine the initial rate of decomposition:
+Time (min) [C₂H₅I] (M)
+0 0.36
+15 0.30
+30 0.25
+48 0.19
+75 0.13
+
+Rate Law
+In section 9.1 we discussed that the Rate of reaction is defined as the instantaneous change in concentration of a reactant or product at a given time. Experimental studies on reaction rates show that the rate of a chemical reaction is proportional to the molar concentration of reactants each raised to a power, the value of which is determined experimentally. Thus for a general reaction:
+A → Product
+Rate ∝ [A]ˣ
+Rate = k [A]ˣ
+Where k is proportionality constant and is known as rate constant and the expression as rate law or rate equation. The exponent in the rate equation is called order of reaction with respect to reactant A (for orders of reaction see section 9.1.3).
+When [A] = 1M
+Rate = k
+Thus, the rate constant may be defined as the rate of reaction when molar concentration of each of the reactant is unity. Rate constant provides a link between concentration and the rate of reaction. Every reaction has its own characteristic rate constant independent of concentration and time. However, value of rate constant changes with temperature. (For details see section 9.1.5).
+
+Order of Reaction and Rate Equation
+Order of reaction may be defined as the number of molecules of reactants participating in rate determining step.
+Consider a general reaction between a moles of A and b moles of B to give c moles C and d moles of D.
+aA + bB → cC + dD
+The rate equation can be written as:
+Rate ∝ [A]ˣ [B]ʸ
+Rate = k [A]ˣ [B]ʸ
+The exponent ‘x’ is the order of reaction with respect to species ‘A’ and exponent 'y’ is the order of reaction with respect to species ‘B’. Order of the reaction expresses the effect of concentration on the rate of reaction. The sum ‘x + y’ is called the overall order of the reaction or simply order of the reaction.
+“Order of reaction may be defined as the sum of all the exponents to which the molar concentration terms in the rate equation are raised”.
+x and y may or may not be same as a and b respectively. The order of a reaction for a particular species cannot be predicted by looking at the balanced chemical equation. It can be determined only by experiment.
+For example for the reaction:
+2NO(g) + O₂(g) → N₂O₄(g) + O₂(g)
+Experimental studies show that the rate ∝ [NO] [O₂]
+Notice that the order with respect to NO is one whereas the stoichiometric coefficient is two.
+“An expression which shows how the reaction rate is related to the concentration of reactants is called the rate law or rate equation.” Therefore, rate law or rate equation for the above reaction is:
+Rate = k [NO] [O₂]
+Order of reaction may be a whole number, a zero or a fraction. It helps in determining the mechanism of a reaction.
+Types of order of reactions
+a) Zero order reaction
+A reaction in which the rate is independent of the concentration of reactant molecules is called zero order reaction.
+An example is the decomposition of ammonia on heated tungsten.
+2NH₃(g) → N₂(g) + 3H₂(g)
+Rate = k [NH₃]⁰
+The concentration of ammonia decreases at a steady rate until it reaches zero. The combination of H₂ and Cl₂ in presence of Sunlight is also a zero order reaction. The reactions catalyzed by enzymes also follow zero order kinetics.
+b) First order reactions.
+A reaction whose rate is directly proportional to the first power of concentration of single reactant molecule is called first order reaction.
+i) Thermal decomposition of N₂O₅:
+2N₂O₅(g) → 2N₂O₄(g) + O₂(g)
+Rate = k [N₂O₅]
+ii) Decomposition of ammonium nitrite in aqueous solution.
+NH₄NO₂ → N₂ + 2H₂O
+Rate = k [NH₄NO₂]
+c) Second order reactions
+A reaction for which sum of exponents of rate equation is two is called second order reaction.
+Rate ∝ [A]² or Rate ∝ [A] [B]
+i) Decomposition of nitrogen dioxide.
+2NO₂(g) → 2NO(g) + O₂(g)
+Rate = k [NO₂]²
+ii) NO(g) + O₃(g) → NO₂(g) + O₂(g)
+Rate = k [NO] [O₃]
+Order of reaction = 1 + 1 = 2
+iii) 2NO(g) + O₂(g) → N₂O₄(g) + O₂(g)
+Rate = k [NO] [O₂]
+d) Third order reactions
+A reaction for which sum of exponents of rate equation is three is called third order reaction.
+Rate ∝ [A]³ or Rate ∝ [A] [B]² or Rate ∝ [A] [B] [C]
+i) The oxidation of NO by O₂ is an example of a third order reaction.
+2NO(g) + O₂(g) → 2NO₂(g)
+Rate = k [NO]² [O₂]
+ii) 2FeCl₃(aq) + 2KI(aq) → 2FeCl₂(aq) + 2KCl(aq) + I₂(aq)
+Rate = k [FeCl₃] [KI]
+e) Fractional order reactions
+A reaction for which sum of exponents of rate equation is in fraction is called fractional order reaction.
+i) The reaction between H₂ and Br₂ to produce HBr is half order in Br₂ and first order in H₂.
+H₂(g) + Br₂(g) → 2HBr(g)
+Rate = k [H₂] [Br₂]^½
+Order of reaction is 1 + 0.5 = 1.5
+ii) CHCl₃ + Cl₂(g) → CCl₄ + HCl(g)
+Rate = k [CHCl₃] [Cl₂]^½
+f) Pseudo First order reaction
+A bimolecular reaction for which solvent is in excess and its concentration remains constant and does not take part in rate determining step is called Pseudo First Order reaction.
+(CH₃)₃C—Br + H₂O(solvent) → (CH₃)₃C—OH + HBr
+Rate = k [(CH₃)₃C—Br]
+
+Self Check Exercise 9.2
+The following reaction is first order in H₂ and second order in NO. Write rate law for this reaction.
+2H₂ + 2NO → N₂ + 2H₂O
+
+Determination of Reaction Order and Rate Law
+The effect of change in concentration of reactants on reaction rates cannot be deduced from a chemical equation. It can only be determined experimentally by determining the order of chemical reaction. For this purpose the method of initial rates is an easier way to find the value of the order of reaction. In this method an experiment is designed in which the concentration of one reactant is changed while everything else is kept constant. The concentration of each of the reactants is changed systematically and the initial rate of reaction on every change is determined. This method can be understood by the following example:
+Example 9.1
+Jet engines release Nitrogen (II) oxide in the upper atmosphere. In the ozone layer of upper atmosphere Nitrogen (II) oxide reacts with ozone to form nitrogen (IV) oxide and oxygen.
+NO(g) + O₃(g) → NO₂(g) + O₂(g)
+The following data was obtained for this reaction at 25°C.
+Initial [NO] Initial [O₃] Initial rate (moles dm⁻³ s⁻¹)
+1.00 × 10⁻⁶ 9.00 × 10⁻⁶ 1.98 × 10⁻⁸
+2.00 × 10⁻⁶ 9.00 × 10⁻⁶ 3.96 × 10⁻⁸
+1.00 × 10⁻⁶ 3.00 × 10⁻⁶ 6.60 × 10⁻⁹
+Use this data to determine the rate law for the reaction.
+Solution:
+To determine the order of reaction with respect to a reactant, examine the relationship between its initial concentration and the rate of reaction while holding the concentration of the other reactant constant.
+In experiments 1 and 2 initial concentration of ozone is kept constant at 9.00 × 10⁻⁶ M while the concentration of NO is doubled from 1.00 × 10⁻⁶ M to 2.00 × 10⁻⁶ M; the initial rate increases from 1.98 × 10⁻⁸ to 3.96 × 10⁻⁸ moles dm⁻³ s⁻¹. The ratio between these two rates is:
+1.98 × 10⁻⁸ : 3.96 × 10⁻⁸
+Thus the initial rate doubles. This means the rate of reaction is directly proportional to the first power of concentration of NO.
+Rate ∝ [NO]
+In experiments 1 and 3 initial concentration of NO is kept constant at 1.00 × 10⁻⁶ and concentration of ozone is decreased to one third i.e. from 9.00 × 10⁻⁶ to 3.00 × 10⁻⁶ M, the initial rate decreases from 1.98 × 10⁻⁸ to 6.60 × 10⁻⁹ moles dm⁻³ s⁻¹, the ratio between these rates is:
+1.98 × 10⁻⁸ : 6.60 × 10⁻⁹
+Thus, the rate of reaction also decreases one third. This means the rate of reaction is directly proportional to the first power of concentration of O₃.
+Rate ∝ [O₃]
+Thus, the rate law for the reaction is:
+Rate ∝ [NO] [O₃]
+Hence this reaction is a second order reaction.
+Example 9.2
+The following reaction is first order in H₂ and half order in Br₂ write rate law for the reaction:
+H₂ + Br₂ → 2HBr
+Solution:
+Given information indicates that:
+Rate ∝ [H₂] (i)
+Rate ∝ [Br₂]^½ (ii)
+Combining (i) and (ii) we get the rate law for the reaction:
+Rate ∝ [H₂] [Br₂]^½
+Rate = k [H₂] [Br₂]^½
+
+Self Check Exercise 9.3
+1. Phosgene is a toxic gas. It has been used in World War II. This gas is prepared by the reaction of carbon monoxide with chlorine.
+CO(g) + Cl₂(g) → COCl₂(g)
+The following data were obtained for kinetic study of this reaction.
+Initial [CO] Initial [Cl₂] Initial rate (moles dm⁻³ s⁻¹)
+1.000 0.100 1.20 × 10⁻²
+0.100 0.100 1.30 × 10⁻³⁰
+1.000 0.010 4.30 × 10⁻³
+Write rate law for this reaction.
+2. The following reaction is second order in NO₂ and is independent of the concentration of CO. Write rate law for the reaction. What is the overall order of the reaction?
+NO₂ + CO → NO + CO₂
+
+Factors Affecting Rate of Reactions
+All the factors, which change the number of effective collisions per second, affect the rate of a chemical reaction. Some of the important factors are as follows.
+1) Nature of Reactants
+The chemical reactivity of elements is based on their electronic configurations. Alkali metals have one electron in their outer most s-orbital. They are highly electropositive; react with water violently as compared to alkaline earth metals. Alkaline earth metals have two electrons in their outermost s-orbital and are less electropositive than alkali metals.
+Reactants having ionic bonds undergo faster reactions than those having covalent bonds. This is because ionic reactions involve the combination of opposite ions, without involving rearrangement of electronic cloud whereas, the reaction between covalent molecules involves electronic redistribution and proceed slowly.
+2) Concentration of Reactants
+Higher concentration of acid rain corrodes marble faster than lower concentration, why? Two antacid tablets neutralize indigestion faster than one tablet, why?
+The rate of a chemical reaction depends upon the reacting molecules. The frequency with which the molecules collide depend upon their concentration. This fact is expressed by the law of Mass Action, (Section 7.1.1). It states that the rate of chemical reaction is proportional to the product of molar concentration of the reactants. Hence, the higher the concentration, the greater the rate of reaction. For example, a mixture of H₂ and Cl₂ will react twice as fast if the partial pressure of H₂ or Cl₂ is doubled in the presence of excess of the other component. Combustion occurs more rapidly in pure oxygen than in air (21% oxygen). Similarly, limestone (CaCO₃) reacts at different rates with different concentrations of HCl. Quantitatively the effect of concentration on reaction rate is expressed by order of the reaction with respect to each reactant. (See section 9.1.4)
+3) Surface Area:
+The basic concept of collision theory (described in section 9.2) is that reactant particles, atoms, ions and molecules must collide with each other in order to react. The rate of a reaction increases with increasing surface area of reactants. This is because increased surface area of reactants increases the possibilities of contacts between their particles. Finely divided solid, therefore react more rapidly than its big pieces. For example powdered zinc reacts more rapidly with dil HCl than a large piece of zinc.
+Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)
+The reason is that powdered zinc exposes a greater surface area to collide with HCl molecules. This increases the number of collisions between the reacting particles, since rate of a chemical reaction depends upon the collision among the reacting molecules. Thus increase in number of collisions increases the reaction rate. Hence powdered zinc reacts faster.
+For the same reason aluminium foil reacts with NaOH moderately on warming, but powdered aluminium reacts rapidly with cold NaOH.
+2Al(s) + 2NaOH(aq) + 6H₂O(l) → 2Na[Al(OH)₄](aq) + 3H₂(g)
+4) Temperature
+Reaction rates generally increase with the increase in temperature. According to the collision theory, the rate of a reaction is proportional to the number of collisions among the reactant molecules. An increase in temperature increases the average kinetic energy of the molecules. This increases average speed of reacting molecules. An increase in kinetic energy of reactant molecules increases the collision frequency i.e. the number of effective collisions and hence the reaction rate. However, only effective collisions bring about the reaction. For a collision to be effective molecules must possess the activation energy and must be properly oriented. At ordinary temperature, very few molecules possess this energy of activation. All the molecules of a reactant do not possess the same energy at a particular temperature. Most of them possess average energy. A fraction of molecules have kinetic energy more than the average energy. The number of molecules having at least kinetic energy equal to Eₐ at temperature T is proportional to the shaded area under the Maxwell Boltzmann curve of kinetic energy (see fig: 9.3). As the temperature is increased the area of the shaded region increases and more molecules have kinetic energy greater than Eₐ. An increase in temperature increases the number of reactant molecules that have enough energy for effective collision. It is found that in general the reaction rate increases two to three folds for each 10K increase in temperature.
+Arrhenius (1889) studied the effect of temperature on reaction rates. He found that the effect of temperature on rate of reaction is given by the following equation. This equation is known as Arrhenius equation.
+k = A e^{-Eₐ/RT}
+Where k = rate constant, Eₐ is energy of activation, R is gas constant (R = 8.3143 JK⁻¹ mole⁻¹). A is constant known as Arrhenius Constant. It is related with the frequency of collision and orientation of the reacting molecules. Therefore, rate constant k varies with the temperature. It increases with temperature which in turn increases rate of reaction.
+5) Catalyst
+A detailed account of the influence of catalyst on reaction rates is given in section 9.3.
+
+Rate Determining Step
+The path followed by the reactants in forming the products in a chemical reaction is called the mechanism. The rate equation for a reaction is very useful because it provides information about the mechanism of the reaction. A reaction may occur in a single step or in many steps. When the reaction proceeds through two or more steps, one of the steps is the slowest. The rate of the slowest step determines the overall rate of reaction. This is because it places a limit on the rate at which the overall reaction can occur. No reaction can proceed slower than the rate-determining step. All the other steps of the reaction mechanism are generally fast.
+“The slowest step of a reaction mechanism which determines the overall rate of reaction is called as rate determining step.”
+Example 9.3
+For reaction:
+NO₂(g) + CO(g) → NO(g) + CO₂(g)
+Rate = k [NO₂]²
+What information do you get from this about rate determining step?
+Solution:
+The rate equation gives us following informations:
+i) The reaction is second order with respect to NO₂ and zero with respect to CO. Therefore it is independent of the concentration of CO.
+ii) Two molecules of NO₂ are involved in the rate-determining step.
+iii) Reaction must proceed in more than one step.
+The proposed mechanism for the reaction is as follows.
+Step I: NO₂(g) + NO₂(g) → NO₃(g) + NO(g) (slow)
+Step II: NO₃(g) + CO(g) → NO₂(g) + CO₂(g) (fast)
+The first step is the rate determining step. NO₃ formed in first step is consumed in second step. This species is called reaction intermediate. This example also proves that balanced chemical equation may not give any information about the reaction mechanism.
+Example 9.4
+Hypochlorite ion ClO⁻ in aqueous solution decomposes to chlorate ion ClO₃⁻ and chloride ion. The reaction is second order in ClO⁻ ion:
+3ClO⁻(aq) → ClO₃⁻(aq) + 2Cl⁻(aq)
+Rate = k [ClO⁻]²
+The following two-step mechanism is proposed.
+Step I: ClO⁻(aq) + ClO⁻(aq) → ClO₂⁻(aq) + Cl⁻(aq)
+Step II: ClO₂⁻(aq) + ClO⁻(aq) → ClO₃⁻(aq) + Cl⁻(aq)
+Overall reaction: 3ClO⁻(aq) → ClO₃⁻(aq) + 2Cl⁻(aq)
+Select the rate-determining step.
+Solution:
+Rate law for this reaction indicates that two ClO⁻ ions must participate in the rate-determining step. Therefore Step I is the rate-determining step in this mechanism.
+Example 9.5
+Rate = k[NO₂][O₃] for the following reaction indicates that one molecule of NO₂ and one molecule of O₃ participate in the rate determining step.
+Thus rate law includes the concentration of each of the reactants raised to the power that equals the coefficient for the reactant in the equation for the rate-determining step.
+
+Self Check Exercise 9.4
+For the following reaction,
+2NO₂(g) + F₂(g) → 2NO₂F(g)
+Rate = k[NO₂][F₂]
+Which of the following mechanism is consistent with the rate law?
+(a) 2NO₂ + F₂ → 2NO₂F
+(b) NO₂ + F₂ → NO₂F + F (fast step)
+NO₂ + F → NO₂F (slow step)
+(c) NO₂ + F₂ → NO₂F + F (slow step)
+NO₂ + F → NO₂F (fast step)
+(d) F₂ → 2F (slow step)
+2NO₂ + 2F → 2NO₂F (fast step)
+Example 9.6
+NO reacts with H₂ according to the following equation:
+2NO(g) + 2H₂(g) → N₂(g) + 2H₂O(g)
+The mechanism for this reaction involves two steps:
+Step I: 2NO + H₂ → N₂ + H₂O₂ (slow)
+Step II: H₂O₂ + H₂ → 2H₂O (fast)
+Write the experimental rate law for the reaction?
+
+Potential Energy diagram and Reaction Mechanism
+Example 9.7
+Potential energy diagram for the reaction between NO₂ and F₂ is shown in figure 9.4. The experimental rate law for this reaction is given below:
+Reaction: 2NO₂(g) + F₂(g) → 2NO₂F(g)
+Rate = k[NO₂][F₂]
+Propose reaction mechanism.
+Solution:
+Step 1: Determine the number of elementary steps.
+As potential energy diagram shows two peaks, the reaction mechanism must involve two elementary steps.
+Step 2: Identify the rate determining step.
+As activation energy for step 1 is higher than step 2. Therefore, step 1 will be slow and rate determining step.
+Step 3: Use rate law to determine the number of molecules involved in the rate-determining step. Given rate law suggests that one molecule of NO₂ and one molecule of F₂ are involved in this step.
+Step 4: Propose two elementary steps for the mechanism.
+In the overall reaction two molecules of NO₂ and one molecule of F₂ react to form two molecules of NO₂F. But in the rate determining step only one NO₂ molecule and one F₂ molecule must react to form one NO₂F and a reaction intermediate. In the second elementary step reaction intermediate must react with another molecule of NO₂ to form another molecule of NO₂F. (A specie which is formed during a chemical reaction in one step and is consumed in another step is called reaction intermediate).
+Thus proposed mechanism is,
+Step I: NO₂ + F₂ → NO₂F + F (slow)
+Step II: NO₂ + F → NO₂F (fast)
+Step 5: Add the two steps to get the overall reaction which must be same as the reaction under consideration.
+NO₂ + F₂ → NO₂F + F
+NO₂ + F → NO₂F
+2NO₂ + F₂ → 2NO₂F
+Since sum of elementary steps give the reaction under consideration, the proposed mechanism may be acceptable.
+
+Self Check Exercise 9.5
+1. The following data was collected for reaction between H₂ and NO at 700°C.
+Initial [H₂] Initial [NO] Initial rate (moles dm⁻³ s⁻¹)
+0.010 0.025 2.4 × 10⁻⁶
+0.0050 0.025 1.2 × 10⁻⁶
+0.010 0.0125 0.60 × 10⁻⁶
+Suggest a plausible mechanism that is consistent with the rate law. (Hint: assume the oxygen atom is reaction intermediate).
+Potential energy diagram for this reaction is given below.
+2. Following mechanism has been proposed for a reaction.
+Step I: O(g) + O₃(g) → 2O₂(g) + O(g)
+Step II: O(g) + O₃(g) → 2O₂(g)
+Overall: 2O₃(g) → 3O₂(g)
+Identify catalyst, reaction intermediate and rate determining step.
+3. The rate law for the following reaction:
+2H₂ + 2NO → N₂ + 2H₂O
+is rate = k [H₂][NO]²
+Is the following mechanism consistent with the rate law? Argue.
+Step I: H₂ + NO → H₂O + N (slow)
+Step II: N + NO → N₂ + O (fast)
+Step III: O + H₂ → H₂O (fast)
+4. The rate law for the reaction,
+2N₂O → 2N₂ + O₂
+is rate = k[N₂O]. Reaction occurs in two elementary steps. Assume O atom as a reaction intermediate. Write mechanism for the reaction.
+
+COLLISION THEORY, TRANSITION STATE AND ACTIVATION ENERGY
+Chemical reactions involve the breaking and making of chemical bonds. These changes are accompanied by changes in energies. Collision theory has been proposed to explain the observed kinetics of reactions. For a chemical reaction to occur, the combining atoms or molecules must collide with one another. These collisions may be effective or ineffective depending upon the energy and orientation of the colliding particles. The effective collision can take place only if the energy of the colliding particles is high enough to overcome the repulsion between electrons around the reacting particles. Proper orientation means that at the time of collision, the atoms which are required to make new bonds should collide with each other. The minimum amount of energy, in addition to the average kinetic energy, which the particles must possess for effective collisions, is called activation energy. The reaction will not occur if the energy of reacting particles is less than activation energy.
+Thus the rate of a reaction depends upon its energy of activation. The greater the activation energy, the lesser will be the rate of reaction. This is because only a small fraction of molecules possess enough energy to react. On the other hand, if activation energy is small then a large number of molecules can bring about effective collisions. Hence, higher will be the rate of reaction.
+Consider a reaction between A₂ and B₂ molecules to form a new molecule AB. If these molecules possess energy equal or more than the activation energy, then upon collisions their bonds will break and new bonds will be formed. In an effective collision the molecules form an unstable species called a complex. Since it is a high energy species, it is short lived and quickly breaks down to products. Activated complex is also called a transition state. (Fig 9.6)
+In an effective collision the colliding molecules come close to each other, slow down just before collision. Their kinetic energy decreases and this results in the corresponding increase in their potential energy. The activation energy appears as a hill between reactants and products. Molecules must first climb the energy barrier before they can roll down the hill to form products. Only the colliding molecules with proper activation energy and proper orientation can do so. On the other hand if they lack proper activation energy, they will be unable to reach the top of the hill and fall back chemically unchanged.
+The potential energy diagram can also be used to understand the enthalpy changes in chemical reactions. The heat of reaction is equal to the difference of energies of reactants and products. In an exothermic reaction product are at a lower energy level than the reactants. Whereas in an endothermic process the products are at higher energy level than the reactants. In both types of reactions activation energy (Eₐ) is an energy barrier which must be crossed over before the products can be formed. If energy of activation is not available to the reacting particles, the reaction will not start. In endothermic reactions a continuous source of energy is needed to complete the reaction. Fig. shows energy profile for exothermic and endothermic reactions.
+
+CATALYSIS
+Many industrial reactions are carried out at high temperature to maximize the amount of product that can be synthesized in a given time. High temperature reactions introduce safety concerns and many chemical species are not stable at high temperature. Thus a different method for increasing the rate of chemical reactions would be useful.
+Another way to increase reaction rate is to change its mechanism in a way that lowers the activation energy of the rate determining step. This can be done by introducing a catalyst.
+A substance which accelerates a chemical reaction but remains chemically unchanged at the end of a reaction is called as catalyst and the phenomenon is called catalysis. A catalyst provides a new mechanism for the reaction with low energy of activation (Fig 9.8). Thus catalyst increases the rate of reaction by decreasing its energy of activation. A catalyst has no effect on the total thermodynamic or enthalpy of the reaction. For this reason a catalyst cannot be used to bring about a chemical reaction, which is not favoured thermodynamically.
+For example, in the Stratosphere conversion of an ozone molecule by an oxygen atom into two O₂ molecules occurs. This reaction has higher energy of activation.
+O₃(g) + O(g) → 2O₂(g) Eₐ = 17.1 kJ mole⁻¹
+Chlorofluorocarbon compounds diffuse up into the stratosphere. These compounds absorb short wave length ultraviolet light from the sun, that breaks carbon-chlorine bonds and produce chlorine atoms. Cl atom catalyze the mechanism requiring less energy of activation.
+Step I: Cl(g) + O₃(g) → O₂(g) + ClO(g) Eₐ = 2.4 kJ mole⁻¹
+Step II: O(g) + ClO(g) → O₂(g) + Cl(g) Eₐ = 0.4 kJ mole⁻¹
+Net reaction: O₃(g) + O(g) → 2O₂(g) Eₐ = 2.8 kJ mole⁻¹
+It shows that the direct reaction between O₃ and O has a substantially higher activation energy than the chlorine catalyzed reaction.
+
+Types of catalysis
+1) Homogeneous Catalysis :
+A catalysis in which the catalyst and the reactants are in the same phase is known as homogeneous catalysis.
+Examples:
+i) In the lead chamber process for the manufacture of sulphuric acid, NO₂ gas catalyzes oxidation of SO₂ gas.
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+ii) Hydrolysis of esters is catalyzed by H⁺.
+CH₃COOCH₃(aq) + H₂O(l) ⇌ CH₃COOH(aq) + CH₃OH(aq)
+iii) An aqueous solution of sucrose is stable for years provided that bacterial growth is inhibited. But when a small amount of an enzyme sucrase is added to the sucrose solution, it is rapidly converted to glucose and fructose.
+C₁₂H₂₂O₁₁(aq) + H₂O(l) → C₆H₁₂O₆(aq) + C₆H₁₂O₆(aq)
+Sucrose Glucose Fructose
+iv) In the upper atmosphere nitric oxide is responsible for the depletion of ozone. It catalyzes the decomposition of ozone.
+2) Heterogenous Catalysis
+Whereas the catalysis, in which catalyst and the reactants are in different phases, is known as heterogeneous catalysis.
+Examples:
+i) In the manufacture of ammonia, finely divided Fe₂O₃ is used as catalyst.
+ii) In contact process for the manufacture of H₂SO₄, oxidation of SO₂ is catalyzed by V₂O₅.
+2SO₂(g) + O₂(g) ⇌ 2SO₃(g)
+iii) Formic acid decomposes into H₂O and CO in presence of Al₂O₃. But it decomposes into H₂ and CO₂ in presence of Cu.
+HCOOH(g) → H₂O(g) + CO(g)
+HCOOH(g) → H₂(g) + CO₂(g)
+iv) The petroleum, plastic and food industries use catalytic hydrogenation to change the great variety of compounds into more useful substances. The conversion of vegetable oil into margarine is one example. Finely divided nickel, palladium or platinum is used as catalyst.
+Vegetable Oil(l) + H₂(g) → Margarine(s)
+
+Self Check Exercise 9.6
+Most of new cars are equipped with catalytic converters in exhaust system. These converters contain Pt or Pd or transition metal oxide such as CuO or Cr₂O₃ as catalyst. It oxidizes CO and unburnt gasoline to CO₂ and H₂O. It also reduces NO and NO₂ to N₂ and O₂. Identify type of catalysts.
+
+Enzymes
+Most of the chemical reactions that occur in living organisms are regulated by molecules called enzymes. These are biochemical catalysts i.e., substances that increase the rate of chemical reactions within living things. Enzymes like catalysts are not consumed during chemical reactions. Virtually all reactions in living cells are catalyzed by enzymes. An enzyme is a specialized protein that catalyzes a specific biochemical reaction. Each enzyme catalyzes only one type of reaction. Most of the enzymes are made inside the cells. However, some are found in extra cellular fluids such as Saliva, gastric juice etc. Enzymes may speed up reactions by a factor of 10²². Some enzymes are composed entirely of protein but many enzymes also contain non-protein components such as carbohydrates, lipids, metals, phosphates etc. The complete enzyme is called holoenzyme. The protein part is called apoenzyme and non-protein as co-factor or co-enzyme.
+Enzyme catalysis can be represented by the series of reaction. In the first step, a reactant binds to a specific location on the enzyme called the active site. Hydrogen bonding plays a key role in this binding.
+E + R ⇌ ER
+Enzyme + Reactant ⇌ Enzyme-Reactant Complex
+Binding causes chemical changes in the structure of reactants. The enzyme then releases the product and is ready to open up a new active site.
+ER → E + P
+Enzyme-Reactant Complex → Enzyme + Product
+Because an enzyme plays a catalytic role over and over and very rapidly, only a tiny amount of enzyme is required.
+
+Daily Life Application of Enzymes
+Since some enzymes can also act outside the cells, therefore, they can be used commercially. Enzymes are effective in removing stains from fabrics. For this purpose suitable enzymes that can act on substances that are present in the stains are used. These enzymes decompose components of stains to simpler molecules, which are soluble in water and can be removed by washing with water. For example, enzymes like pepsin, trypsin, lipase, and amylase etc are used to remove food stains from fabrics. The food strain may contain carbohydrates, proteins and fats. Amylase acts on starch, pepsin and trypsin act on protein and lipase on fats. In leather industries, trypsin is used to remove hair from animal hides. In pharmaceutical products trypsin is used to treat inflammation. All these enzymes convert complex water insoluble components of food into simple water-soluble components.

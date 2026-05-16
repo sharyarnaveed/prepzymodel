@@ -1,0 +1,272 @@
+Form and functions in plants
+
+GAS EXCHANGE IN PLANTS
+You have studied that respiration occurs at cellular level. Now you will study this process at organismic level. The purpose of this gaseous exchange is to enable the organism to carry out respiration, which utilizes oxygen and releases carbon dioxide during the breakdown of complex organic compounds. Exchange of gases between organism and environment is carried out by diffusion. In the absence of special organs, every cell carries out the exchanges of oxygen and carbon dioxide according to its need. This exchange of gases mainly occurs through two main openings: the stomata and the lenticels.
+
+ROLE OF PALISADE AND SPONGY MESOPHYLL IN THE EXCHANGE OF GASES
+Mesophyll are special types of parenchymatous cells (thin walled living cells) which are present between the two epidermal layers of leaves. These cells are modified to carry out photosynthesis.
+
+TYPES OF MESOPHYLL IN DICOT AND MONOCOT LEAVES
+In dicots, there are two distinct layers of mesophyll, the palisade mesophyll and the spongy mesophyll. The palisade mesophyll are elongated and compactly packed cells with no intercellular spaces between them. The epidermis beside palisade mesophyll is called upper epidermis. On the other hand, spongy mesophyll are loosely packed cells with large intercellular spaces. The epidermis beside spongy mesophyll is called lower epidermis. Such leaves, in which upper and lower epidermises can be differentiated because of the presence of two types of mesophyll cells, are called bifacial leaves. In monocots, the leaves are monofacial as only spongy mesophyll cells are present between both epidermises. The mesophyll cells are metabolically active cells of the plant therefore; they are rapidly involved in exchange of gases. The passage for this exchange of gases through mesophyll tissue is provided by the stomata.
+
+RELATIONSHIP OF STOMATA AND TRANSPIRATION WITH EXCHANGE OF GASES
+Transpiration is the loss of water in the form of vapours through stomata present in both epidermises. It is not only responsible for the uptake of water and minerals but also plays a vital role in the exchange of gases. When stomata are widely open for transpiration, they provide a wide passage for exchange of gases between plant and environment.
+
+PATTERN OF EXCHANGE OF GASES BETWEEN PLANT AND ENVIRONMENT
+During daytime, plants are involved in both photosynthesis and respiration. Therefore, pattern of gaseous exchange is different in day and night.
+
+EXCHANGE OF GASES IN DAYTIME
+In daytime, since the rate of photosynthesis is much faster than the rate of respiration, so the carbon dioxide released from respiration does not fulfill the photosynthetic need. Hence, plants import carbon dioxide from the environment. Similarly, the oxygen released from photosynthesis is much more than the need of respiration; hence, it is exported out of the plant body.
+
+EXCHANGE OF GASES AT NIGHT
+Plants begin to perform exchange of gases just like animals at night i.e., they absorb oxygen and release carbon dioxide to the environment as no photosynthesis takes place at night. The oxygen required for respiration is absorbed from environment and the carbon dioxide produced from respiration is released outside.
+
+COMPENSATION POINT OF PHOTOSYNTHESIS
+At the time of dawn (sunrise) and dusk (sunset) the rate of photosynthesis becomes equal to the rate of respiration due to low intensity of light. In this situation, the carbon dioxide produced from respiration is sufficient to carry on photosynthesis and the oxygen released from photosynthesis is consumed in respiration. Therefore, the net gaseous exchange between plant and its environment is completely stopped. This is known as compensation point of photosynthesis.
+
+TRANSPORT IN PLANTS
+Roots not only anchor the plant body in the soil but also absorb water and minerals from it through root epidermal cells.
+
+WATER AND MINERAL UPTAKE
+Uptake of water and minerals from soil takes place by osmosis. The term osmosis is the movement of water from the region of its higher concentration to the region of its lower concentration through semipermeable membrane. The movement of water into the cell is called endosmosis while the movement of water out of the cell is called exosmosis. The movement of water into or out of the cell exhibits three kinds of water potentials: water potential, solute potential and pressure potential.
+
+WATER POTENTIAL
+Water potential is a measure of the potential energy in water that enables it to move from one place to another. Potential or pressure is denoted by the Greek letter ψ (psi) and is measured in units of pressure (pressure is a form of energy) called Mega Pascal (MPa). In plants, water potential is represented by Ψ. Water potential of a medium is directly proportional to the concentration of water in that medium; therefore, pure water has highest water potential. Water potential of pure water is designated a value of zero. Water potential of solutions or the cells must be less than zero i.e., in negative range.
+
+The water potential of solutions is mainly influenced by solute concentration and atmospheric pressure. Water potential can be broken down into components using the following equation:
+Ψ = Ψs + Ψp
+Where Ψs = solute potential and Ψp = pressure potential.
+When individual components change, they raise or lower the total water potential of a system. When this happens, water moves to equilibrate, moving from the system or compartment with a higher water potential to the system or compartment with a lower water potential. Therefore, for water to move through the plant from the soil to the air (a process called transpiration), the conditions must exist as such:
+Ψ of soil > Ψ of root > Ψ of stem > Ψ of leaf > Ψ of atmosphere.
+
+SOLUTE POTENTIAL
+Solutes reduce water potential by consuming some of the potential energy available in water. This measure of decrease in water potential of a medium due to the addition of solutes is called solute potential. Solute potential is negative in a plant cell and zero in pure water. In other words, the amount of available potential energy is reduced when solutes are added to an aqueous system. Thus, Ψs decreases with increasing solute. The internal water potential of a plant cell is more negative than pure water because of cytoplasm's high solute content. Because of this difference in water potential, water will move from the soil into a plant's root cells via the process of osmosis. This is why solute potential is sometimes called osmotic potential.
+
+PRESSURE POTENTIAL
+When pressure in addition to atmospheric pressure is applied to pure water or a solution, its water potential increases. It is equivalent to pumping water from one place to another such as in a living system. When water enters the plant cells by osmosis, pressure increases inside the cell making the cell turgid and increasing the water potential. This increase in water potential of a medium due to the addition of water or due to the increase in atmospheric pressure is called pressure potential.
+
+WATER UPTAKE BY ROOTS AND PATHWAYS
+Cell walls of roots are freely permeable to water and other minerals while cell membranes are differentially permeable. From root hairs water enters the epidermal cells. Then water moves along the concentration gradient. It passes through cortex, endodermis, pericycle and reaches the xylem vessels. There are three pathways taken by water to reach the xylem tissues:
+(a) The apoplast pathway, (b) The symplast pathway, (c) The vacuolar pathway.
+
+APOPLAST PATHWAY
+The apoplast is the system of adjacent cell walls, which is continuous throughout the plant. When water moving through spaces in the cell walls reaches the endodermis, its passage is stopped by casparian strips, (a band of suberin and lignin bordering four sides of the endodermal cells). This is called apoplast pathway.
+
+SYMPLAST PATHWAY
+Movement of cell sap that involves cytoplasmic connection of adjacent cells is termed as symplast pathway. The symplast is the system of interconnected protoplast in the plant. The cytoplasm of neighbouring protoplast is linked by the plasmodesmata. Once water and any solutes it contains is taken into the cytoplasm of one cell it can move through the symplast without having to cross further membranes. Movement might be aided by cytoplasmic streaming. The symplast is an important pathway of water movement.
+
+VACUOLAR PATHWAY
+In the vacuolar pathway water moves from vacuole to vacuole through neighbouring cells, crossing the symplast and apoplast in the process and moving through membranes and tonoplast by osmosis. It moves down a water potential gradient.
+
+STRUCTURE AND FUNCTION OF XYLEM AND PHLOEM
+There are two types of conducting tissues in plants, namely xylem and phloem. Xylem conducts water and minerals from roots to leaves of the plants. Phloem conducts organic food from leaves to other parts.
+
+STRUCTURE OF XYLEM AND THEIR FUNCTIONS
+Xylem is a complex and permanent tissue that consists of four cell types: the tracheids, vessel elements, xylem fibres and xylem parenchyma. Tracheids are dead, elongated cells with tapered ends and lignified walls. They have mechanical strength and give support and aid in conduction of water and minerals. These cells are universally present in xylem of all vascular plants, which are therefore, called tracheophytes. Xylem vessels are dead, very long, highly thick walled tubular structures formed by the fusion of several vessel elements end to end in a row. Vessel elements are shorter than tracheids but form a pipeline in plant body as they are placed one above the other. Xylem vessels are only found in angiosperms where they are involved in conduction of water and minerals and also provide mechanical support to the body. Xylem fibres are also dead but narrow, highly elongated, highly thick walled cells with tapering ends. They are mainly responsible for mechanical support to the plant body. The only living cells of xylem are xylem parenchyma, which are thin walled, broad cells and are involved in the storage of water and minerals temporarily during conduction.
+
+STRUCTURE OF PHLOEM AND THEIR FUNCTIONS
+Phloem is also a complex and permanent tissue that consists of four cell types: sieve tube elements, companion cells, phloem parenchyma and phloem fibres (phloem fibre). Sieve tubes are the long sieve like structures, which translocate solutions of organic solutes (sucrose) from one part to another part of plant body. These are formed by the end-to-end fusion of cells called sieve tube elements. Sieve tube elements are thin walled living cells but do not have nuclei, actually, their nuclei are lost as they mature. These cells are narrow at the centre and wide at the ends. A transverse or oblique pore bearing partition, the sieve plate, separates two successive sieve tube elements. Due to the absence of nuclei, the functions of sieve tube elements are controlled by adjacent companion cells. The sieve elements and companion cells, together form a functional unit that act as conducting channels and are involved in transport of organic solutes. Companion cells provide energy to sieve tube elements for their activities. Like xylem tissue, phloem also possesses parenchyma and fibre cells. Phloem parenchyma are storage cells and phloem fibres are very much thick walled supporting cells.
+
+ASCENT OF SAP
+Water and minerals are absorbed by the root epidermal cells from soil from where these substances are first moved to the root xylem cells and then to the leaves. This upward movement of water and dissolved mineral from root to the leaves through xylem tissue is called ascent of sap. Since this movement occurs against the gravity therefore, a considerable force is required to conduct water and minerals in tall heighted plants. The most acceptable theory that explain this movement is generally called TACT theory.
+
+According to this theory, four factors such as Transpiration pull, Adhesion, Cohesion and Tension (TACT) are combined to form a collective force that is mainly responsible for ascent of sap.
+
+TRANSPIRATION PULL
+When stomata are open, the water molecules move from the region of high water potential (in the leaves) to a region of low potential (in the air). This evaporation of water from the intercellular spaces of leaf cells creates a negative pressure or suction force in the xylem tissue. This suction force exerts a pull called transpiration pull.
+
+ADHESION
+Adhesion is the attractive force between water molecules and other surfaces. Both water and xylem cell walls are polar molecules so there is a force of attraction for water within the narrow capillaries of the xylem. Adhesion of water molecule to the wall of xylem cells assists upward movement of the xylem sap counteracting the downward gravity. Adhesion also helps to hold water in the xylem when transpiration is not occurring.
+
+COHESION
+Water molecules attract one another, forming weak hydrogen bonds. This attraction among water molecules is called cohesion and the hydrogen bonds formed between them are termed as cohesive forces.
+
+MECHANISM OF TACT FORCE
+The column of water molecule within the xylem is at least as strong and unbreakable as a steel wire of the same diameter. Hydrogen bonds among water molecules provide the cohesion that holds together the string of water throughout the height of the plant within the xylem. As long as transpiration continues, water is pulled upward as one molecule. The bulk flow of water to the leaves is driven by solar energy since evaporation from leaves is responsible for it.
+
+OPENING AND CLOSING OF STOMATA
+You have studied the structure and distribution of stomata. They open in day and close at night. The opening and closing of stomata is controlled by turgidity of guard cells. When guard cells are turgid, stomata are open and when they are flaccid, the stomata are closed. There are two theories to explain the opening and closing of stomata: (a) Starch sugar theory, (b) K+ ions influx/efflux theory.
+
+STARCH SUGAR THEORY
+According to this theory, when guard cells are exposed to light, the process of photosynthesis is started. As the concentration of glucose is increased, the solute potential and water potential of guard cells become more negative. Since, the surrounding epidermal cells have high water potential (less negative), the water begins to move from surrounding epidermal cells to the guard cells. The entry of water into the guard cells makes them turgid and thus, stomata are opened.
+In the evening when the process of photosynthesis is stopped, the concentration of glucose is decreased because some glucose has been consumed in respiratory activities of guard cells, some of it is transformed into sucrose so that it can be transported to other parts, and the remaining glucose is converted into insoluble starch and is stored for later use. The decrease in glucose concentration causes an increase in water potential of the guard cells. In this way, water begins to move from guard cells to surrounding epidermal cells. Due to loss of water guard cells become flaccid, thus stomata are closed.
+
+K+ IONS INFLUX/EFFLUX THEORY
+According to this theory, the start of photosynthetic activity in the morning when plant is exposed to light, causes a decrease in level of CO2 in the guard cells. Low level of CO2 favours or stimulates the influx (inward movement) of K+ ions into the guard cells from the surrounding epidermal cells by active transport. At the same time, malic acid is ionized into malate ions and H+ ions due to the exposure of blue light (a part of visible light). The accumulation of H+ ions causes decrease in pH of guard cells, which are then pumped to surrounding epidermal cells in order to maintain the pH of guard cells. The incoming K+ ions are combined with malate ions to form potassium malate which is highly soluble in water thus decreases the water potential of the guard cells. In this way water begins to move from surrounding epidermal cells to guard cells. The entry of water into the guard cells makes them turgid and thus, stomata are opened.
+In the evening, the photosynthetic activity is stopped and level of CO2 rises in guard cells. High level of CO2 favours or stimulates the efflux (outward movement) of K+ ions from the guard cells into the surrounding epidermal cells by active transport. At the same time, malic acid is reformed by the combination of malate ions and H+ ions in the absence of blue light now. Due to the absence of potassium malate, water potential and solute potential of guard cells are increased. In this way, water begins to move from guard cells to surrounding epidermal cells. The loss of water from the guard cells makes them flaccid, thus stomata are closed.
+
+TRANSLOCATION OF ORGANIC SOLUTES
+The movement of prepared food (organic solutes) to different parts of the plant body through phloem tissue is called translocation of organic solutes.
+
+DIRECTION OF TRANSLOCATION
+Unlike ascent of sap, this movement cannot be characterized as upward or downward because prepared food is to move to different directions. Therefore, in order to define direction of this movement it is usually said that translocation always occurs from a source to a sink. The term source is applied to the area of supply of food such as food preparing organ or storage organ (when it supplies the food). The term sink is used for area of utilization of food such as metabolizing organ or storage organ (when it stores the food). For example leaf is purely a source while fruit is particularly a sink on the other hand root and stem act as both source and sink.
+
+COMPOSITION OF TRANSLOCATING FLUID (PHLOEM SAP)
+Analyses of composition of phloem sap have revealed that it consists of 10-25% dry matter, mostly sucrose (cane sugar), while remaining are other organic compounds.
+
+MECHANISM OF TRANSLOCATION
+One theory that explains the mechanism of translocation of sugars is mass flow theory. According to this theory, photosynthesis at source such as photosynthesizing leaves or storage organ produces sugars, which are actively loaded into sieve tubes by the companion cells. The presence of sugars in the phloem, thus will lower the water potential of sieve tubes, so water flows into them by osmosis from the xylem cells. This increases pressure in the phloem cells, which pushes forcibly the sugary solution away from the leaf (source). The pressure gradient from source to sink causes mass flow from the area of higher hydrostatic pressure (the source) to the area of lower hydrostatic pressure (the sink). When this solution is reached to the sink such as roots, the root cells running actively absorb the organic solutes from this solution. The loss of solutes in the phloem sap causes an increase in water potential so the water from the phloem flows back to the xylem tubes.
+
+HOMEOSTASIS IN PLANTS
+Homeostasis is the ability to maintain a steady state within a constantly changing environment that contributes towards the success of living systems. The outer environmental conditions such as water availability, nutrients and temperature often show fluctuations that also affect these components within plant body. Plants have several adaptations to cope with these challenges. Here you are going to learn about osmotic adjustment (osmoregulation) and thermoregulation in plants.
+
+OSMOTIC ADJUSTMENT (OSMOREGULATION)
+The maintenance of water and solute level in the body is called osmotic adjustment or osmoregulation. Water and solute relations establish three kinds of osmotic situations: isotonic, hypotonic and hypertonic.
+
+NET MOVEMENT OF WATER IN DIFFERENT OSMOTIC CONDITIONS
+Different osmotic conditions cause different effects upon net movement of water in and out of the cells. If a cell is kept in a medium which has higher water potential and lower solute concentration than cell sap, the water begin to move from medium to the cell (endosmosis) and cell becomes turgid. Such medium is called hypotonic medium. On the other hand, if a cell is kept in a medium which has lower water potential and higher solute concentration than cell sap, the water begin to move from cell to the medium (exosmosis) and cell becomes flaccid. Such medium is called hypertonic medium. Both hypotonic and hypertonic type of environments compel for osmotic adjustment. The ideal situation for a cell is isotonic in which water potential of the cell and outer environment is equal, therefore, there is no net movement of water in or out of the cell. However, this situation is rarely available to the plant's environment.
+
+OSMOTIC ADJUSTMENTS IN PLANTS OF DIFFERENT ENVIRONMENT
+On the basis of availability of water, plants are classified into hydrophytes, mesophytes and xerophytes. Each group exposed in different osmotic conditions therefore, show different osmotic adjustments.
+
+HYDROPHYTES
+The plants that are found in area where abundant water is available, are called hydrophytes. They face problem of flooding (excess of water). Such plants have stomata at upper surface and they lack cuticle or have almost none, on their surface.
+
+MESOPHYTES
+The plants that are found in the area where moderate supply of water is available are called mesophytes. Common crop plants such as wheat, rice, corn are example of such plants. These plants are exposed in nearly isotonic conditions so face no drastic problem of flooding (excess of water) or dehydration (deficiency of water). Such plants show moderate rate of transpiration due to medium sized leaves with distribution of stomata on lower surface, which are generally open in day and close at night. However, these plants can close their stomata even in day. These plants store a small amount of water, have very thin cuticle on their surface.
+
+XEROPHYTES
+The plants that are found in the area where very little amount of water is available are called xerophytes. Desert plants such as cactus, opuntia are example of such plants. These plants are exposed to severely hypertonic conditions so face extreme degree of dehydration. Such plants show very reduced rate of transpiration due to narrow needle like leaves or due to complete modification of leaves into spines. They have stomata in depressions (sunken stomata), which are generally close in day and open at night. These plants store a very high amount of water therefore; they are also called succulent plants. They have very thick cuticle on their surface.
+
+OSMOTIC ADJUSTMENTS IN PLANTS OF SALINE SOILS
+Salinity of soils is caused by the presence of excessive salt concentration. Such soils are found near marshy areas. Saline soils due to very low water potential exert drought conditions i.e., plants are unable to absorb water even water is available near their roots. Plants living in saline environments (halophytes) have adapted to cope with this problem.
+Some halophytes are adapted to salinity by taking up sodium and chloride at high rates and storing these ions in the vacuoles of the leaf cells, keeping the salt concentration in the cytoplasm at a low level that does not interfere with the functions of their metabolic machinery of their leaves. These plants use the accumulated salt for osmoregulation to counter the low water potential in the soil.
+On the other hand some halophytes do not uptake salts from soil; instead, they make osmotic adjustment by accumulating their own dissolved substances compatible with enzymes function. These “compatible solutes” are mostly organic compounds such as the amino compounds glycine and, in some plants, sugar alcohols, such as sorbitol.
+
+THERMOREGULATION IN PLANTS
+Living organisms for optimum activity of their enzymes require a suitable temperature. Thermoregulation is a type of homeostasis by which an organism is able to perform necessary adjustments in response to low and high temperature stress. Plants also have certain adaptations that enable them to tolerate against low and high temperature changes.
+
+ADAPTATIONS IN PLANTS TO COPE WITH THE LOW TEMPERATURE STRESS
+Low temperature affects the fluidity of cell membrane because lipids of the membranes are packed into crystalline structures, thus membranes become porous which affect the concentration of solutes. The structure of membrane proteins is also affected. In addition, freezing of water causes ice crystal formation within cytoplasm that interferes with the movement of molecules. In order to prevent crystallization in cell membrane, plants increase the proportion of unsaturated fatty acids (which have low freezing point), which help membrane to maintain its fluidity at low temperature and the crystal formation is inhibited. In order to prevent crystal formation in cytoplasm, the plants native to cold regions such as oaks, maples, roses etc. bring changes in solute compositions of the cells which cause lowering of freezing point of water. Thus, ice formation is prevented in cytoplasm, although ice crystals may form in the cell wall. Adaptation to low temperature stress require time because of a metabolic shift therefore, sudden drop in air temperature is more stressful than gradual drop in air temperature.
+
+ADAPTATIONS IN PLANTS TO COPE WITH HIGH TEMPERATURE STRESS
+High temperature causes excessive evaporative loss of water by transpiration and ultimately wilting (loss of turgor). It also causes denaturation of enzymes and damages the metabolic machinery therefore, harms or kills the plants.
+In hot areas, the plants develop a shiny cuticle, which reflects much of the incident light; this reduces heat absorption and overheating by the plant. The leaves contain numerous stomatal openings, which allow the loss of water (transpiration), and remove the heat from the plant. However, very high temperature i.e., above 45°C, plants close their stomata to prevent the water loss. Therefore, most plants have adapted to survive in such high temperature stress situations by synthesizing large quantities of special proteins called heat shock proteins. Since these proteins are heat tolerant, so they embrace enzymes and other proteins thus help prevent denaturation.
+
+SUPPORT IN PLANTS
+When the life started on land from water, one of the very important needs for the organisms was to gain some sort of support and strength for keeping their bodies in shapes. Plants also have variety of mechanism for support. Such as, turgor mechanism in parenchyma cells, mechanical tissues (thick walled e.g., collenchyma and sclerenchyma), arrangement of vascular bundles and secondary growth.
+
+ROLE OF TURGOR MECHANISM IN SUPPORT
+In plants the parenchyma cells have large central vacuoles, which are filled with water. The water causes pressure on the surrounding walls, when the cells are turgid. This pressure on the walls keeps the cells, stiff and hard and is called turgor pressure. In herbaceous plants where the specialized supporting tissues are not common, the turgidity of the cells provides support and strength and it grows uprightly.
+
+ROLE OF MECHANICAL TISSUES IN SUPPORT
+The term mechanical tissues is used for the tissues of thick walled cells i.e., collenchyma and sclerenchyma.
+
+COLLENCHYMA
+The collenchyma is characterized by the extra cellulose deposition at the corners of these cells. It is a mechanical tissue that provides support particularly in young plants.
+
+SCLERENCHYMA
+Sclerenchyma tissues are solely meant to provide strength and mechanical strength for the plant body. Its mature cells are dead due to the formation of very thick secondary lignified wall. Sclerenchyma is of two types, i.e., fibres and sclereids. Fibres are elongated cells and sclereids are roughly spherical or variously shaped cells. Otherwise both have heavily thickened walls with lignin. Fibres also have great tensile strength and are found in the pericycle of stems forming a solid rod of tissue. Fibres also occur in xylem and phloem tissues. Sclereids are common in fruit wall and seed coats.
+
+ARRANGEMENT OF VASCULAR BUNDLES
+In dicot plants, vascular bundles are arranged in the form of ring in stem. As compared to monocot plants in which vascular bundles are scattered in the stem, the ring arrangement of vascular bundle in dicot plants also provide support to the plant body.
+
+GROWTH AND DEVELOPMENT IN PLANTS
+Development is a programmed series of changes by which an organism is converted from a simple to form that is more complex. The growth is part of development process and is defined as an irreversible increase in the size and mass of an organism. In plants growth has four phases: cell division (production of new cells), cell enlargement (elongation), cell maturation (differentiation to perform particular functions). Plants add new organs like, branches, leaves and flowers throughout life. This unique pattern is called continuous growth.
+
+MERISTEMATIC TISSUES (MERISTEMS)
+In higher plants, the whole plant body is capable of growing, but in higher plants, growth is confined to special tissues known as meristematic tissues or meristems. The cells remain forever young and divide continuously and add to the length of the plant in these tissues. When a meristematic cell divides in two, the cell that remains in the meristem is called an initial, and the other is called the derivative. As repeated mitotic divisions of the initial cells add new cells, the derivatives are pushed farther away from the zone of active division. They stretch, enlarge and differentiate into other types of tissues as they mature. Meristematic cells are generally small and cuboidal with large nuclei, small vacuoles, and thin walls. A plant has two major kinds of meristems: the apical meristem and lateral meristem.
+
+APICAL MERISTEMS
+These are located at the tips of roots and shoots. Cell divisions and subsequent cellular enlargement in these areas lengthen the above and below ground parts of the plant. Since, these meristems are present in plants right from embryonic life, therefore, they are also known as primary meristems.
+
+LATERAL MERISTEMS
+Lateral meristems are cylinders of dividing cells on lateral sides in stems and roots of dicots and gymnosperms and increase their thickness and diameter. These meristems are derived from apical meristem after embryonic life therefore; they are also called secondary meristems. Vascular cambium, cork cambium, and intercalary meristem are the types of lateral meristems. Some plants grow in diameter by producing new tissues laterally from a cylinder of tissue called the vascular cambium, which extends throughout the length of the plant from roots to shoots. Cork cambium increases width of plant body. Intercalary meristems are separated from them and are found at the base of leaves or internodes. Lateral meristems give rise side branches, which increase plant size. Tissues produced by cell divisions of the apical meristem are called primary tissues.
+
+TYPES OF PLANT GROWTH
+There are two types of plant growth: Primary growth and secondary growth.
+
+PRIMARY GROWTH
+When a plant starts its life after germination of seed, it begins to increase its length first. This increase in length of root and shoot is therefore, called primary growth. It remains throughout the life of a plant however the rate of growth may vary in different periods of life. Primary growth is carried out by the cell division in apical meristem.
+
+SECONDARY GROWTH
+The increase in thickness and diameter of a plant is called secondary growth. This is found in stems and roots of dicots and gymnosperms where it contributes a significant portion of the plant body. All the tissues that are produced during secondary growth are called secondary tissues. Similarly, the tissues that are already present in plant before the start of secondary growth are called primary tissues.
+
+ROLE OF LATERAL MERISTEMS IN SECONDARY GROWTH
+Both lateral meristems i.e., cork cambium and vascular cambium mainly participates in secondary growth.
+When a dicot plant completes its primary growth by the activity of apical meristem, vascular cambium is present in vascular bundle between primary xylem and primary phloem. Its activity is faster than cork cambium therefore it contributes more tissues in secondary growth. It adds two new tissues in plant body: secondary xylem (towards its inner side) and secondary phloem (towards its outer side). The rate of production of secondary xylem is higher than secondary phloem and it is produced in two different ways during the year: in autumn and winter seasons, comparatively smaller sized cells are formed. While in spring and summer seasons, larger sized cells are formed. Because of this differential growth pattern, the secondary xylem appears as concentric rings which are called annual rings or growth rings. You can determine the age of a plant by counting the number of annual rings.
+Cork cambium generally originates from outermost layer of primary cortex. It adds two new tissues in plant body during secondary growth: secondary cortex (towards its inner side) and cork (towards its outer side beneath the epidermis). The cork cells are dead due to which epidermis also becomes dead. Therefore, the bark of mature trees looks rough.
+
+During secondary growth, the bulk of tissues added by vascular cambium (secondary xylem) is mainly called wood. The inner region of wood (secondary xylem, primary xylem and central pith) is blocked by the deposition of gums and resins later in life and therefore gives a dark appearance. This portion is called heart wood. However, the outer region of wood (only secondary xylem) remain functional and gives a light appearance. It is called sap wood.
+
+The outer region of stem from vascular cambium to epidermis is called bark. The portion of bark inner to the cork cambium is called inner bark (secondary phloem, primary phloem, pericycle, endodermis, primary cortex and secondary cortex) while the portion outer to the cork cambium is called outer bark (cork and epidermis).
+
+GROWTH CORRELATIONS
+During the development of a plant, the rate of growth at different growing points is not constant, for example, growth of one part is faster while the growth of other parts is slower. The activities of different meristem sometimes influence upon each other. Such interactions among different growing points are called growth correlations. These growth correlations may be positive (if growth of one part promotes the growth of other part) or negative (if growth of one part inhibits the growth of other part).
+
+APICAL DOMINANCE
+Apical dominance is a kind of negative growth correlation in which the presence of a growing apical bud suppresses the growth of lateral buds. It is also found in roots where growth of lateral roots is inhibited by growth of the main root. The plants showing tall height with short side branches have strong apical dominance and the plants showing short height with dense growth of lateral branches have very weak apical dominance.
+Scientists performed several experiments to study apical dominance and finally concluded that it is the auxin (a plant growth regulator) released by apical bud which inhibits growth of lateral buds (another plant growth regulator) released by lateral buds neutralizes the influence of auxin thus breaks apical dominance and promotes lateral growth. Similarly, the plants having weak apical dominance produce less auxin from apical bud and more cytokinin from lateral buds.
+
+GROWTH RESPONSES IN PLANTS
+Plants generally adjust themselves to changing environment by growth. The changes in structure and functions are often regulated by plant hormones (growth substances). These substances are responsible for many of the responses of plants to environmental factors. The plant hormones act at the level of cells to influence cell division, enlargement or cell maturation.
+
+PLANT GROWTH REGULATORS
+Growth responses in plants are co-ordinated by chemicals commonly known as plant hormones, which move from their sites of synthesis to the sites of action, and because their effects depend primarily on some aspect of growth, they are called growth regulators. Five major types of plant growth regulators are recognized (a) auxins (b) gibberellins (c) cytokinins (d) abscisic acid (e) ethene. Auxins, gibberellins and cytokinins are called growth promoters because of their positive role in promotion of growth while abscisic acid and ethene are called growth inhibitors.
+
+AUXINS
+An auxin or indole-3-acetic acid (IAA), was the first plant hormone identified. It is manufactured primarily in the shoot tips (in leaf primordia and young leaves), in embryos, and in parts of developing flowers and seeds. They are mainly responsible for cell elongation.
+
+GIBBERELLINS
+The gibberellins are widespread throughout the plant kingdom, and more than 75 have been isolated, to date. Rather than giving each a specific name, the compounds are numbered, for example, GA1, GA2, and so on. Gibberellic acid 3 (GA3) is the most common and most thoroughly studied. The gibberellins are especially abundant in seeds and young shoots where they control stem elongation by stimulating both cell division and cell elongation.
+
+CYTOKININS
+Cytokinins are named because of their role in cell division (cytokinesis), the cytokinins have a structure similar to adenine. Naturally occurring zeatin, isolated first from corn kernels, is the most active of the cytokinins. Cytokinins are found in sites of active cell division, for example, in root tips, seeds, fruits, and leaves.
+
+ABSCISIC ACID
+Abscisic acid is generally produced in mature green leaves, fruits and root caps. The overall effect is inhibition of growth. It also inhibits seed germination and is sometimes called the stress hormone because it initiates and maintains seed and bud dormancy and causes plant to drop leaves and fruits.
+
+ETHENE
+Ethene is a simple gaseous hydrocarbon produced from an amino acid methionine in plants. Ethylene stimulates the ripening of fruit and is involved in the abscission of leaves, fruits, and flowers.
+
+TROPIC MOVEMENTS IN PLANTS
+Plants, unlike animals, show locomotion, but the individual parts show movement. In this section, you are going to learn about tropic movements: growth movements towards or away from certain external stimuli such as light, force of gravity, touch and chemicals.
+
+PHOTOTROPISM
+Phototropism is the movement of plants parts, either towards (positive) or away (negative) from light source. Such movements are found in shoots and roots. Shoots show positive phototropism (grow upward above the ground) and roots show negative phototropism (grow downward under the ground).
+
+GEOTROPISM
+Geotropism (gravitropism) is the movement of plants parts, either towards (positive) or away (negative) from force of gravity. Such movements are also found in shoots and roots. Shoots show negative geotropism (grow upward above the ground) and roots show positive geotropism (grow downward under the ground).
+
+THIGMOTROPISM
+Thigmotropism is the movement due to the touch stimulus. Such movements are shown by climbing plants that require any supportive structure such as a wall, a wooden stick or even a rope to climb over.
+
+CHEMOTROPISM
+In chemotropism the stimulus is a chemical (nutrients). Such movement is shown by fungal mycelium in which hyphae show more growth towards the nutrients.
+
+PHOTOPERIODISM
+Light exerts influence on living organisms through variation in intensity, quality and duration. Total duration of light in the whole day is called photoperiod and its effect on the growth or flowering in some plants is called photoperiodism. This behavior is found in many plants. In such plants due to the exposure of appropriate photoperiod their vegetative buds are transformed into floral buds and the flowers are begin to produce. If such plants do not get appropriate photoperiod their vegetative growth remains continue but flowers are not produced.
+
+CLASSIFICATION OF PLANTS BASED UPON PHOTOPERIODISM
+Plants are classified into three main groups on the basis of how photoperiodism affects flowering.
+
+SHORT DAY PLANTS
+These plants flower when the photoperiod is less than a critical length. They are also called long night plants. Examples: tobacco, soybean, cocklebur, chrysanthemum etc.
+
+LONG DAY PLANTS
+These plants flower when the photoperiod is more than a critical length. They are also called short night plants. Examples: spinach, radish, sugar beet, pea, rose, etc.
+
+DAY NEUTRAL PLANTS
+These plants are not affected by variation in day length or darkness. Examples: cucumber, tomato, cotton, pea, rose, etc.
+
+CRITICAL PHOTOPERIOD
+Critical length of photoperiod for both long day and short day plants is not fixed. It is variable for every plant even they belong to same group. For example, for tobacco 14 hours photoperiod is critical, for soybean 13.5 hours photoperiod is critical however both are short day plants. Actually, critical photoperiod is determined by length of dark period and relative proportion of two forms of phytochromes (will be discussed in next section) present in plant body. Critical photoperiod for short day plant can be defined as the maximum length of day, which is required to stimulate/induce flowering in short day plant. Examples have already been given. Similarly, critical photoperiod for long day plant can be defined as the minimum length of day, which is required to stimulate/induce flowering in long day plant. For example, for henbane 11 hours photoperiod is critical.
+
+SUPREMACY OF DARK PERIODS OVER PHOTOPERIODS
+It has been discovered that the actual stimulus for flowering is the uninterrupted dark period rather than the light period. Therefore, it is really the length of dark period which is critical. For example, if a short day plant (e.g., cocklebur) is grown in appropriate short days (e.g., 15.5 hours light and 8.5 hours dark), but its long nights (more than 8.5 hours) are interrupted by short light exposures, flowering is prevented. Similarly, a long day plant (e.g., henbane) can flower in relatively short days (less than 11 hours), if its long nights or dark periods (more than 13 hours) are interrupted. Therefore, the short day plants are actually long night plants and long day plants are short-night plants.
+
+ROLE OF LIGHT QUALITY AND DISCOVERY OF PHYTOCHROMES
+Night interruption experiments on short day and long day plants have revealed that for controlling dark length the quality (wavelengths) of light is also important in promotion or inhibition of flowering. For example, cocklebur a short day plant, will not flower if its long nights are interrupted. But experiments revealed that red light (660 nm wavelength) was effective in preventing flowering, while far red light (730 nm wavelength) reversed the effect of red light. Further studies on that if more than one type of light exposures were given to interrupt nights, the last light treatment always determines the response. The behaviour of long day plants is also similar in these experiments.
+Because of these observations, researchers concluded that there must be some kind of photoreceptor pigment due to which plants respond differently to these lights. This struggle led to the discovery of these photoreceptor pigments in the form of phytochromes.
+
+The process of photoperiodism in plants depends upon the rate of interconversion and relative proportion of two forms of phytochrome in leaves at the end of dark periods.
+
+INTERCONVERSION AND ACTION OF PHYTOCHROMES
+Phytochrome is a blue green leaf pigment that alternately exists in two forms: Pr (Phytochrome red) absorbs red light (of 660 nm wave length) and is converted to Pfr. Pfr (Phytochrome far-red) absorbs far-red light (of 730 nm wave length) and is converted to Pr. Sunlight contains more red light than far-red light; therefore Pfr is present more in plants during the day. Far-red light are invisible heat radiations that are present in both day and night, but conversion of Pfr to Pr occurs mainly at night. The rate of conversion (Pfr to Pr) provides a biological clock for plants to determine the length of their night.
+A short day plant requires a low ratio of Pfr to Pr for flowering. Since nights are longer, critical length results in more conversion of Pfr to Pr so the Pfr to Pr ratio becomes low. On the other hand, a long day plant requires a high ratio of Pfr to Pr for flowering. Since nights are shorter than critical length results in less conversion of Pfr to Pr so the Pfr to Pr ratio becomes high.
+
+FLORIGEN HORMONE
+The different ratios of Pfr to Pr at the end of nights (discussed above) cause production of a particular hormone in plants known as florigen, which transports the stimulus to buds, thus flowers are produced.
+
+VERNALIZATION
+The induction of flowering by exposure to low temperature is called vernalization. The plants which show this behavior are called biennial plants, which is sown in October and show vegetative growth in winter and flowering in spring of the next year. If it is sown in February of same year, it will show vegetative growth but will not flower. However, if its seeds are exposed to several weeks of low temperature and then sown in February or March, it will flower in the same season. This requirement of low temperature period is absolutely necessary for flowering. During vernalization low temperature stimulus leads to the transformation of vegetative buds to the floral bud thus flower are produced. The hormone involved in vernalization is actually gibberellin.

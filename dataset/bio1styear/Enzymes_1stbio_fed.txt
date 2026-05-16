@@ -1,0 +1,237 @@
+
+Enzymes
+
+3.1 ENZYME STRUCTURE
+
+With the exception of ribozymes, all enzymes are globular proteins made up of one or more polypeptides. Ribozymes are enzymes composed of RNA and are found in ribosomes. For example, peptidyl transferase is a ribozyme which forms peptide bonds during protein synthesis.
+
+3.1.4 Shape of Enzymes and Components of an Active Site
+
+Most protein enzymes have molecular weights ranging from about 10,000 to over one million. Such enzymes possess tertiary or quaternary structure. The catalytic activity of an enzyme is located in its active site, which is a specific, charge-bearing, three-dimensional cavity.
+
+The substrate (reactant) binds to the active site by non-covalent interactions such as hydrogen bonding and hydrophobic interactions. The active site consists of 3–12 amino acids which may be scattered in the polypeptide chain but are brought together by secondary and tertiary folding of the protein molecule.
+
+The active site of aldolase consists of glycine, serine and alanine amino acids.
+The active site consists of two regions:
+(a) Binding site
+(b) Catalytic site
+
+Fig. 3.1: Active site – grouping of amino acids of a polypeptide chain
+
+
+
+Some amino acids of the active site constitute the binding site, while others constitute the catalytic site. The shape of the active site is designed according to the substrate; therefore, only a particular substrate can attach to the active site. However, sometimes related substrates can also bind.
+
+Some enzymes require a non-protein part called cofactor. The cofactor not only helps in substrate binding but also participates in the catalytic process. The final shape of the active site is established after the attachment of the cofactor.
+
+An enzyme that requires a cofactor becomes active only when the cofactor is attached. This active enzyme is called holoenzyme. Without the cofactor, the protein part is inactive and is called apoenzyme.
+
+Some enzymes do not require cofactors but still show active and inactive forms. Pepsin is an example. It is secreted in inactive form called pepsinogen. When pepsinogen comes in contact with HCl in the stomach, the additional polypeptide fragment is removed and active pepsin is formed.
+
+How are enzymes formed?
+Enzymes are proteins and are synthesized according to the message encoded in DNA. Enzymes are produced inside living cells but retain catalytic activity even outside cells (in vitro). Nowadays enzymes are also produced using recombinant DNA technology.
+
+Types of Cofactors
+
+Cofactors may be inorganic or organic molecules.
+
+Inorganic cofactors include metal ions such as Fe²⁺, Mg²⁺, Ca²⁺, Zn²⁺ and Cu²⁺. These ions are loosely attached to enzymes.
+
+Organic cofactors are of two types:
+
+Coenzymes (loosely attached), e.g., ATP, NAD⁺, FAD
+
+Prosthetic groups (permanently attached), e.g., iron-containing porphyrin ring in cytochromes
+
+
+Mechanism of Enzyme Action
+
+In an enzyme-catalyzed reaction, the substrate first binds to the active site forming an enzyme-substrate (ES) complex. The substrate is then converted into product forming enzyme-product (EP) complex. Finally, the product is released and the enzyme becomes free again.
+
+E + S → ES → EP → E + P
+
+The enzyme can create favorable local conditions (pH, charge, water concentration) inside the active site, making reactions more likely. For example, if a substrate is to be split, the enzyme may stretch the bond, making it easier to break.
+
+3.2.4 Models of Enzyme Action
+
+Two models explain enzyme action.
+
+Lock and Key Model
+
+Proposed by Emil Fischer (1894). According to this model, the active site has a rigid shape complementary to the substrate. Only a specific substrate fits into the active site. The active site does not change shape during reaction.
+
+This model explains enzyme specificity and supports the idea that enzymes catalyze specific reactions only. Enzymes following this model are called non-regulatory enzymes.
+
+Fig. 3.3: Fischer’s Lock and Key hypothesis
+Enzymes
+
+Many enzymes show a broad range of specificity. When one enzyme can catalyze only one substrate, it is called absolute specificity, e.g., urease.
+
+Urea —(Urease)→ Ammonia + Carbon dioxide
+
+Induced Fit Model
+
+Daniel Koshland proposed the Induced Fit Model in 1959. According to this model, the active site of the enzyme is not rigid but flexible. When the substrate interacts with the enzyme, the shape of the active site is modified. The amino acids that make up the active site are molded into a precise shape which enables the enzyme to perform its catalytic function more effectively.
+
+The change induced in the shape of the active site is responsible for the conversion of substrate into product. As soon as the reaction is completed, the active site regains its original shape. This flexibility of the active site allows more than one type of related substrates to be attached, and therefore an enzyme can carry out more than one type of related reactions.
+
+An example is carbonic anhydrase, which can add oxygen to hemoglobin as well as control the formation of carbonic acid and bicarbonates in blood.
+
+Enzymes that follow the induced fit mechanism are called regulatory or homeostatic enzymes, for example hexokinase.
+
+Hb + O₂ —(Carbonic anhydrase)→ Oxyhaemoglobin
+CO₂ + H₂O —(Carbonic anhydrase)→ H₂CO₃ → H⁺ + HCO₃⁻
+
+Products are released and the enzyme is ready to catalyze a new reaction.
+
+Fig. 3.4: Koshland’s “Induced Fit” model of enzyme action
+
+Energy of Activation
+
+Energy is required to cause molecules to react with one another. This energy is called energy of activation. In non-living systems, heat is often used to increase molecular motion and cause reactions.
+
+In living cells and organisms, enzymes lower the energy of activation required for chemical reactions. The excited state of molecules or intermediates is achieved by biochemical processes rather than heat.
+3.3 FACTORS AFFECTING THE RATE OF ENZYMATIC ACTION
+
+The rate of enzymatic reaction is measured by the amount of substrate converted or the amount of product formed during a given period of time. The external conditions that affect the rate of enzyme action include temperature, pH, enzyme concentration and substrate concentration.
+
+Effect of Temperature
+
+Heat increases molecular motion. Therefore, substrate and enzyme molecules move faster and the probability of collision increases. As a result, the rate of reaction increases.
+
+An increase of just 10°C doubles the rate of reaction up to a certain limit. The temperature at which an enzyme shows maximum activity is called optimum temperature.
+
+If temperature is increased beyond the optimum level, the enzyme undergoes denaturation despite increased molecular motion. Secondary and tertiary structures of the enzyme are destroyed.
+
+Fig. 3.6(a): Effect of temperature on the rate of enzyme-controlled reaction
+
+
+
+When an enzyme is denatured, it unfolds and loses the precise structure of its active site. The temperature which causes denaturation of enzyme is called maximum temperature. Hydrogen bonds are most sensitive to temperature changes.
+
+Fig. 3.6(b): Optimum temperature for human enzymes and thermophilic bacteria
+
+Human enzymes have an optimum temperature of about 37–38°C, whereas enzymes of thermophilic bacteria living in hot springs have optimum temperatures around 70°C or higher. These enzymes are used in biological washing powders for high-temperature washes.
+
+If temperature is reduced to near or below freezing point, enzymes become inactive but are not denatured. They regain catalytic activity when temperature rises again. This lowest temperature at which inactive enzyme becomes active is called minimum temperature.
+
+Effect of pH
+
+Each enzyme functions most effectively within a specific pH range called optimum pH. Enzyme conformation is sensitive to pH changes because pH affects the ionization of amino acid side chains involved in maintaining enzyme structure.
+
+A slight change in pH causes temporary inactivation, whereas extreme pH changes disrupt ionic bonds and lead to denaturation.
+
+Most enzymes function optimally at pH 6–8.
+Pepsin works best at pH 2 (acidic).
+Trypsin functions optimally at pH 8 (alkaline).
+
+
+Effect of Enzyme Concentration
+
+Provided that substrate concentration is high and conditions such as pH and temperature remain constant, the rate of enzyme-catalyzed reaction is directly proportional to enzyme concentration.
+
+One enzyme molecule can convert hundreds of substrate molecules into products. Increasing enzyme concentration increases the number of active sites, thus increasing reaction rate. This effect persists until equilibrium is reached.
+
+Fig. 3.8: Relationship between enzyme concentration and rate of enzyme-controlled reaction
+
+Effect of Substrate Concentration
+
+When enzyme concentration is constant and substrate concentration is increased, the rate of reaction increases initially. Eventually, the reaction reaches a maximum velocity (Vmax).
+
+Further increase in substrate concentration does not increase the reaction rate because all active sites of enzyme molecules are saturated.
+
+Fig. 3.9: Effect of substrate concentration on the rate of enzyme-controlled reaction
+
+
+3.4 ENZYME INHIBITION
+
+Enzyme inhibition is a phenomenon in which enzyme activity is reduced or stopped. The molecules that bind to enzymes but are not converted into products are called enzyme inhibitors.
+
+Inhibition is a normal regulatory process in cells, but external inhibitors can be harmful. Examples include poisons, cyanides, antibodies, heavy metals and sulpha drugs.
+
+Competitive Inhibition
+
+In competitive inhibition, inhibitor competes with substrate for the active site. Competitive inhibitors are structurally similar to substrates.
+
+Competitive inhibition is reversible. Increasing substrate concentration reduces inhibitor effect.
+
+Example:
+Succinate dehydrogenase is competitively inhibited by malonate.
+
+Fig. 3.10: Competitive inhibition
+
+Importance of competitive inhibitors:
+
+Supports Lock and Key model
+
+Explains enzyme specificity
+
+Used in drug design (e.g., sulphonamides)
+
+
+Non-Competitive Inhibition
+
+In non-competitive inhibition, the inhibitor binds to a site other than the active site called the allosteric site. This binding alters enzyme shape.
+
+Non-competitive inhibition may be reversible or irreversible.
+
+Irreversible inhibitors permanently denature enzymes.
+
+Examples include cyanides and heavy metals such as mercury and silver. These bind to sulfhydryl (–SH) groups and disrupt disulfide bridges, destroying tertiary structure.
+
+Feedback Inhibition
+
+When the end product of a metabolic pathway inhibits the first enzyme of that pathway, it is called feedback inhibition. It is a reversible non-competitive inhibition.
+
+Example: Aspartate → Threonine pathway.
+
+When threonine accumulates, it binds to the allosteric site of enzyme 1, stopping the pathway.
+
+Fig. 3.12: Feedback inhibition
+
+
+Classification of Enzymes
+
+According to the International Union of Biochemistry (1961), enzymes are classified into six groups:
+
+Oxidoreductases
+
+Transferases
+
+Hydrolases
+
+Lyases
+
+Isomerases
+
+Ligases
+
+Classification Based on Substrates
+
+Proteases
+Act on proteins. Examples: pepsin, trypsin, aminopeptidase, carboxypeptidase.
+
+Lipases
+Hydrolyze lipids into fatty acids and glycerol.
+
+Carbohydrases
+Break down carbohydrates.
+Examples:
+
+Amylase
+
+Cellulase
+
+Maltase
+
+Sucrase
+
+Lactase
+
+Nucleases
+Break down nucleic acids.
+Examples:
+
+RNase
+
+DNase

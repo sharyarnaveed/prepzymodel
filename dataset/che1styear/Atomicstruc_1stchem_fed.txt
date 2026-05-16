@@ -1,0 +1,399 @@
+
+INTRODUCTION
+A series of discoveries during the later part of 19th century have modified the earlier concept of the atom by demonstrating that an atom is a complex unit made up of a number of discrete parts. Atoms are not simple, compact bodies as supposed by Dalton but are complex systems composed of several fundamental particles of matter. The modern theories have proved that an atom is made up of about 100 particles out of which electrons, protons and neutrons are whole time existing and important particles.
+We need to understand atomic structure in order to understand chemical bonds that hold atoms together and chemical reactions.
+Atoms are made up of sub-atomic particles, electron, proton and neutron. These three are called elementary or fundamental particles as they are building blocks of all kinds of matter. Many of the characteristics of an atom are dependent upon these three particles. The only atom which does not contain neutron is protium (hydrogen). Many other particles such as neutrino, positron, pions and muons have also been discovered. Many of them exist for a fraction of second only.
+
+DISCOVERY OF ELECTRON
+A discharge tube is a glass tube fitted with two metallic electrodes, as cathode and anode. It can be filled with vapour of a substance at any desired pressure. The electrodes are connected to a source of high voltage battery. The tube is attached to the vacuum pump, as shown in figure 2.1. In the beginning an electric current was passed through the gas at ordinary pressure. Initially the tube was not affected by a potential of 5000 volts. But when the gas was discharged from the tube at a low pressure of 0.01 torr, and the tube was connected to high voltage of 5000 volts. It was observed that at a low pressure of 0.1 torr and high voltage of 5000 volts, the gas becomes conductor, current starts to flow through the gas and the gas starts to emit light (modern example of such a discharge tube is a neon sign).
+
+When the pressure is reduced further up to 0.01 torr, emission of light by the gas ceased, certain rays were given out from cathode and travel towards anode. Such rays were called cathode rays because they originated from cathode. J.J. Thomson first identified the electrons in cathode ray tube (electric discharge tube) in 1897. Many other scientists like Faraday & Crookes studied the effects of passing electric current through a gas. As a result a sub-atomic particle with a negative charge was discovered.
+
+Through different discharge tube experiments electrons were discovered by J. J. Thomson in 1897 (but the name electrons was given by Stoney in 1891).
+
+Properties of Cathode Rays:
+Some systematic studies were made by certain scientists in order to investigate the properties of cathode rays. These properties are mentioned below.
+
+Cathode rays are negatively charged particles. J. Perrin (1895) showed that cathode rays were deflected in a magnetic field. J.J. Thomson (1897) proved that these rays can be deflected towards anode showing that they are negatively charged. They produce a greenish fluorescence on striking the walls of the glass tube.
+W. Crookes (1879) proved that cathode rays cast a sharp shadow of an opaque object if placed in their path. This proved that cathode rays travel in straight line perpendicular to the cathode surface.
+J. Perrin showed that a small paddle wheel placed in their path moves towards anode. This showed that cathode rays are material particles and have momentum.
+They produce X-rays when they strike on the anticathode in a discharge tube.
+They produce heating effect. For example, they can heat a thin platinum foil and foil begins to glow.
+They can cause a chemical change in the substances on which they fall. They are capable of affecting photographic plates.
+They can penetrate through thin metallic sheets like of Aluminium or Gold.
+J.J. Thomson determined charge to mass ratio (e/m) of electron. He concluded that all atoms contain electrons. The value of e/m is 1.7588 x 10^11 Coulombs kg^-1. Whatever the voltage and the vapour in the discharge tube, the cathode rays always consist of the electrons which are always the same. This proves that electrons are present in all atoms.
+
+Measurement of charge to mass ratio (e/m) and charge of an electron:
+J. J. Thomson’s cathode rays experiment (1897):
+J. J. Thomson subjected a beam of cathode rays (electron particles) to see the effects of electric and magnetic fields as shown in figure 2.4.
+
+In the beginning, in absence of any electric or magnetic field, the electrons from cathode rays struck the fluorescent screen at B. Then under the effect of electric field, they strike at point A. Similarly they strike at point C under the influence of magnetic field only. Now electric and magnetic fields were adjusted in such a way that the electron again strike at point B. In this way by comparing the strength of the two fields, he determined the e/m value of electron which is 1.7588 x 10^11 Coulombs kg^-1. This means that 1 kg of electrons have 1.7588 x 10^11 Coulombs of charge.
+
+Measurement of charge on Electron (Millikan’s oil drop experiment 1909):
+R.A. Millikan succeeded in determining the charge on electron with great precision.
+Millikan constructed a box consisting of two chambers. The upper chamber was filled with air whose pressure was adjusted by a pump. Two metallic plates A and A' were attached to a battery to generate an electric field. A small hole was made in the upper plate.
+A fine spray of oil droplets was made by an atomizer. The droplets were allowed to fall under gravity through the small hole. A telescope was arranged on one side to observe the droplets. The droplets were charged by passing X-rays through the chamber. The charged droplets were attracted towards the upper plate. By adjusting the electric field the droplet can be kept stationary. Then the charge on the droplet can be calculated.
+
+A droplet of mass 'm' falls under gravity with a velocity V1.
+mg = 6πηrV1 (1)
+where η is coefficient of viscosity and g is acceleration due to gravity. A potential difference was applied between the electrodes. The air between the electrodes was ionized by X-rays. The droplet captured an electron and got charged. Then A and A' were connected to a battery. An electric field having a strength E was applied. The droplet moved upwards. Let it moves with a velocity V2.
+Ee - mg = 6πηrV2 (2)
+where E is strength of electric field and e is charge on electron.
+
+Divide Eq. (2) by Eq. (1):
+(Ee - mg) / mg = V2 / V1
+Ee = mg (1 + V2/V1)
+e = (mg/E) (1 + V2/V1)
+
+Since m, g and E are known, mass of an electron can be determined by varying the electric field in such a way that the droplet is suspended in the chamber. Hence "e" can be calculated which is 1.6022 x 10^-19 coulombs.
+
+Determination of Mass of an Electron:
+We know that e/m = 1.7588 x 10^11 Coulomb kg^-1.
+We know that e = 1.6022 x 10^-19 Coulomb.
+So, m = e / (e/m) = (1.6022 x 10^-19 C) / (1.7588 x 10^11 C kg^-1) = 9.1095 x 10^-31 kg.
+
+How much heavier is the H-atom as compared to an electron?
+Mass of H atom = 1.6736 x 10^-27 kg
+Mass of electron = 9.1095 x 10^-31 kg
+Ratio = (1.6736 x 10^-27) / (9.1095 x 10^-31) = 1837
+
+DISCOVERY OF PROTON
+Goldstein discovered proton in cathode ray tube.
+
+Construction and Working:
+A one metre long tube was taken. It was provided with a perforated cathode as shown in the figure. The electrodes were connected to a high voltage battery. The atoms being electrically neutral must contain equal number of positive and negative charges. When electric current was passed through the gas at a reduced pressure, some rays produced from cathode which traveled away from anode. Such rays ionize the gas molecules of the discharge tube. They knocked out electron from the gas molecules. As a result positive ions were produced, which start moving towards the perforated cathode.
+M -> M+ + e-
+He -> He+ + e-
+Since these rays passed through the canals (small holes) of cathode so they were also called "Canal rays". Later on they were called Positive rays because they carried positive charge.
+
+Properties of Positive Rays:
+Positive rays have the following properties:
+They travel in straight line perpendicular to the anode surface.
+They can be deflected by electric field.
+The deflection is towards cathode showing that they are positively charged.
+They produce flashes on ZnS plate.
+Their e/m ratio is smaller than that of an electron.
+The value of e/m depends upon the nature of the gas. The highest e/m is obtained if hydrogen is present in the tube.
+The e/m of positive particle is never less than that of a proton.
+The positive particle obtained from H2 gas is the lightest among all the positive rays. The lightest positive particle is called proton, a name suggested by Rutherford.
+
+DISCOVERY OF NEUTRON
+Rutherford predicted the presence of neutron in 1920 because he noticed that atomic masses of atoms are nearly double of their atomic numbers. It was supposed that nucleus contains protons and electrons. But Rutherford could not explain why electrons are present in nucleus because he noticed that electrons are emitted from the nucleus in radioactive substances. It were supposed that nucleus of an atom contains protons and electrons, but in 1932 James Chadwick performed an experiment and proved that neutral particles also exist in nucleus of an atom and he was awarded Nobel Prize in Physics in 1935 for this discovery.
+
+Experiment by James Chadwick:
+A stream of alpha particles produced from Polonium (Po) was directed at target metal foil of Be. He noticed that some penetrating radiations were produced. These radiations were neutrons, because the charge detector showed them to be neutral.
+
+The nuclear reaction is as follows:
+Be-9 + He-4 (alpha particle) -> C-12 + n-1 (neutron).
+
+Properties of neutrons:
+Neutrons have the following properties.
+A neutron decays into a proton with the emission of electron and neutrino.
+n -> p+ + e- + ν (neutrino, particle of a small mass).
+They cannot ionize gases.
+They are highly penetrating particles.
+When neutrons travel with energy 1.2 MeV or more, they are called Fast Neutrons. And if they have energy below 1 eV, they are called slow neutrons.
+They are not deflected in electric and magnetic fields. Hence they are neutral in nature.
+They knock out high speed protons from paraffins, water, paper and cellulose.
+Slow neutrons are more effective than the fast ones for the fission purposes.
+When used as projectile, they can carry out the nuclear reactions.
+When neutrons hit the Cu metal, β radiations are emitted.
+They are used in the treatment of cancer.
+
+THE DISCOVERY OF NUCLEUS (RUTHERFORD'S EXPERIMENT, 1910-11)
+After discovery of electron, proton and neutron in an atom, the next problem was to locate them. Rutherford in 1910 performed an experiment by bombarding alpha particles (He-4) from a radioactive element (Ra or Po) on a thin metallic foil (0.00004 cm thick) as shown by Fig 2.8. He observed that most of the alpha particles passed un-deflected. A few were deflected through various angles and a very few of them were deflected in backward direction as shown by Fig 2.8.
+
+Rutherford’s Conclusions (Rutherford’s Atomic Model):
+An atom consists of a small heavy positively charged portion called Nucleus.
+There is a negatively charged portion which surround the nucleus containing electrons called extra nuclear portion or planetary.
+The number of protons in the nucleus are equal to the number of electrons in the planetary.
+The electrons revolve around the nucleus.
+The centripetal force is equal to the electrostatic force.
+Only a very small volume is occupied by the nucleus.
+
+Defects of Rutherford Atomic Model:
+The defects of Rutherford atomic model are:
+Rutherford Atomic Model is based upon laws of motion and gravitation which are applicable to neutral bodies but not to the charge bodies like electron and proton.
+According to Maxwell's theory any charge particle moving in a circular path must radiate energy continuously and ultimately the electron must be spiral into the nucleus and the atom would collapse.
+If electron loses energy continuously, it should form continuous spectrum. But actually, a line spectrum is obtained.
+
+BOHR'S ATOMIC MODEL
+To overcome the defects of Rutherford's model, Neil Bohr in 1913 proposed his atomic model. According to this model;
+Electrons revolve around the nucleus in definite energy levels called orbits or shells.
+As long as an electron remains in a shell it never gains or losses energy.
+The gain or loss of energy occurs within orbits only due to jumping of electrons from one orbit to another energy level.
+The angular momentum (mvr) of an electron is equal to nh/2π.
+The angular momentum of an orbit depends upon its quantum number and it is an integral multiple of the factor h/2π.
+So, mvr = nh/2π Where n = 1, 2, 3, .....
+
+Derivation of Radius of an Orbit of an Atom:
+Bohr derived expressions for the calculations of radius of an orbit, energy of an orbit, frequency, wavelength and wave number.
+
+Let us consider an atom having an electron (e-) moving around the nucleus having charge Z e+, where Z is the atomic number of the element. Let m be the mass of electron, r the radius of the orbit and v the velocity of the revolving electron.
+
+According to coulomb’s law, the electrostatic force or force of attraction = (Ze+ * e-) / (4πε0 r^2) = Ze^2 / (4πε0 r^2)
+where ε0 (the Vacuum permittivity constant) = 8.84 x 10^-12 C^2 J^-1 m^-1.
+
+Centripetal force acting on the moving electron = mv^2 / r.
+
+These two forces are equal and opposite and balance each other. So,
+mv^2 / r = Ze^2 / (4πε0 r^2) ... (1)
+
+According to Neil Bohr, the angular momentum of an electron is quantized.
+mvr = nh/2π ... (2)
+
+From (2), v = nh / (2π m r)
+Put v^2 in (1),
+m * (nh / (2π m r))^2 / r = Ze^2 / (4πε0 r^2)
+(n^2 h^2) / (4π^2 m r^3) = Ze^2 / (4πε0 r^2)
+r = (ε0 n^2 h^2) / (π m Z e^2) ... (3)
+
+For hydrogen, Z=1.
+r = (ε0 n^2 h^2) / (π m e^2) ... (4)
+
+Putting the values of constants, we get r = 0.529 x 10^-10 m = 0.529 Å (where 1Å = 10^-10 m)
+
+Radius of Orbits for n =1,2,--- are as follows.
+For n=1, r1 = 1^2 x 0.529 Å = 0.529 Å
+For n=2, r2 = 2^2 x 0.529 Å = 4 x 0.529 Å = 2.116 Å
+For n=3, r3 = 3^2 x 0.529 Å = 9 x 0.529 Å = 4.761 Å
+
+Energy of Electron in an Orbit:
+The total energy of electron in an orbit is the sum of its potential energy and kinetic energy.
+Total energy = KE + PE.
+KE = 1/2 m v^2
+PE = -Ze^2 / (4πε0 r)
+Total energy E = 1/2 m v^2 - Ze^2 / (4πε0 r) ... (5)
+
+From equation (1), mv^2 = Ze^2 / (4πε0 r)
+So, E = 1/2 (Ze^2 / (4πε0 r)) - Ze^2 / (4πε0 r) = -Ze^2 / (8πε0 r) ... (6)
+
+Put value of r from eq. (3) into eq. (6),
+E = -Ze^2 / (8πε0) * (π m Z e^2) / (ε0 n^2 h^2) = - (m Z^2 e^4) / (8 ε0^2 n^2 h^2) ... (7)
+
+For hydrogen atom; Z = 1
+E = - (m e^4) / (8 ε0^2 n^2 h^2) ... (8)
+
+Putting the values of constants, we get E = -2.18 x 10^-18 / n^2 J ... (9)
+The negative sign indicates decrease in energy of the electron.
+
+The value of energy obtained is in Joules/atom. If this quantity is multiplied by Avogadro's number and divided by 1000, the value of E becomes E = -1313.39 kJ / mole. This is energy associated with 1.008 gram-atoms of hydrogen.
+
+Energy associated with different orbits:
+For n=1, E1 = -1313.39 kJ/mole
+For n=2, E2 = -328.32 kJ/mole
+For n=3, E3 = -145.92 kJ/mole
+For n=4, E4 = -82.08 kJ/mole
+
+Energy Difference between Two Orbits:
+If E1 is the energy of lower energy orbit and E2 that of higher energy orbit then energy difference ΔE = E2 - E1.
+ΔE = - (m Z^2 e^4) / (8 ε0^2 h^2) (1/n2^2 - 1/n1^2) ... (10)
+
+For hydrogen, Z=1.
+ΔE = - (m e^4) / (8 ε0^2 h^2) (1/n2^2 - 1/n1^2) = 2.18 x 10^-18 (1/n1^2 - 1/n2^2) J ... (11)
+
+Derivation of Frequency:
+According to Plank’s Quantum Theory, ΔE = hν.
+So, hν = 2.18 x 10^-18 (1/n1^2 - 1/n2^2) J
+ν = (2.18 x 10^-18 / h) (1/n1^2 - 1/n2^2) Hz ... (12)
+
+Derivation of Wavelength:
+c = νλ => λ = c/ν
+λ = c / [ (2.18 x 10^-18 / h) (1/n1^2 - 1/n2^2) ] ... (13)
+
+Wave Number:
+Wave number (ν̃) = 1/λ = ν/c = (2.18 x 10^-18 / h c) (1/n1^2 - 1/n2^2) ... (14)
+
+Putting the values of constants, (2.18 x 10^-18 / h c) = R = 1.09678 x 10^7 m^-1, called Rydberg constant.
+So, ν̃ = R (1/n1^2 - 1/n2^2) ... (15)
+
+Calculate the value of a0 of H atom.
+We know that a0 = ε0 h^2 / (π m e^2)
+Given values of the constant are:
+ε0 = 8.854 x 10^-12 C^2 J^-1 m^-1, h = 6.626 x 10^-34 J s, π = 3.142, m = 9.11 x 10^-31 kg, e = 1.60 x 10^-19 C.
+Substituting these values in equation, a0 = (8.854 x 10^-12) (6.626 x 10^-34)^2 / (3.142 x 9.11 x 10^-31 x (1.60 x 10^-19)^2) = 5.29 x 10^-11 m = 0.529 Å
+
+Calculate the radius of 3rd orbit of electron in H-atom.
+a0 = 5.29 x 10^-11 m and n=3
+r3 = n^2 a0 = 9 x 5.29 x 10^-11 = 4.761 x 10^-10 m = 4.761 Å
+
+Calculate the energy associated with second orbit of H-atom.
+E = -2.18 x 10^-18 / n^2 J
+For n=2, E2 = -2.18 x 10^-18 / 4 = -5.45 x 10^-19 J
+
+How much energy is required to make electron of H-atom to jump from n=2 to n=4?
+ΔE = E_final - E_initial
+For n1=2, n2=4
+ΔE = 2.18 x 10^-18 (1/2^2 - 1/4^2) = 2.18 x 10^-18 (1/4 - 1/16) = 2.18 x 10^-18 (3/16) = 4.08 x 10^-19 J
+
+Self Check Exercise:
+Calculate how much energy is required in order to remove electron of hydrogen atom.
+(Ans: 2.18 x 10^-18 J)
+(Consider n1=1, n2=∞)
+Convert this energy into ν and λ. (Ans: 3.288 x 10^15 s^-1, 1.096 x 10^7 m^-1)
+
+Limitations of Bohr’s Atomic Model:
+Bohr's model is applicable to one electron system and cannot explain the origin of spectra of multi-electrons or polyelectronic systems like He, Li, Be etc.
+When line spectrum of Hydrogen gas is seen through a powerful spectrometer, the origin of every line is surrounded by several very fine lines. i.e., original lines are divided into many lines. Bohr's theory cannot explain this fine structure.
+It explains the motion of electrons around the nucleus of H-atom. But it does not give the exact picture of an atom.
+It cannot explain the splitting of spectral lines under the influence of electric and magnetic field.
+In Bohr's atom, the electrons move with specific velocities in specific radii. But according to Heisenberg uncertainty principle both the exact position and velocity of electron cannot be determined simultaneously. In order to solve this difficulty, Schrodinger gave a wave mechanical model of atom. According to him, although the position and velocity of electron cannot be found exactly, the probability of finding an electron can be ascertained. This probability is at a distance of 0.0529 nm.
+
+SPECTRUM
+A spectrum is a display or dispersion of the components of visible light, when it is passed through a prism. These are two types of spectrum:
+Continuous Spectrum: When the boundary lines between the colors cannot be identified it is called continuous spectrum.
+Line Spectrum: When the boundary lines between the colors are separately isolated and marked it is called line spectrum.
+
+Hydrogen Spectrum:
+When Hydrogen is enclosed in a container and heated, it emits radiation. These radiations are actually emitted due to excitation and de-excitation of electron of hydrogen.
+
+According to equation 15.
+ν̃ = R (1/n1^2 - 1/n2^2)
+Using this equation Bohr was able to predict the wave number in the hydrogen spectrum for every electron transition (changes of energy levels) that occur in hydrogen atom. The wave number of different spectral lines can be calculated. Corresponding to the transitions in the hydrogen spectrum, different series of lines have been identified for hydrogen.
+
+n1 = 1, n2 = 2,3,4, ... ∞ Lyman series
+n1 = 2, n2 = 3,4,5,6 ... Balmer series
+n1 = 3, n2 = 4,5,6,7 ... Paschen series
+n1 = 4, n2 = 5,6,7,8 ... Brackett series
+n1 = 5, n2 = 6,7,8,9 ... Pfund series
+
+Only the Balmer series was observed in the beginning because it lies in the visible part of the spectrum. Lyman series lie in the ultraviolet region while the Paschen, Brackett and Pfund series have been observed in the infrared region.
+
+Origin of Hydrogen Spectrum on the Basis of Bohr's Atomic Model.
+The first spectral lines were discovered in 1885 by Balmer. Later on other series were discovered by Lyman and Balmer. No satisfactory reason was available till 1913. Neil Bohr presented his explanation of hydrogen line spectra in 1913.
+
+According to Bohr when current is passed through hydrogen gas in the discharge tube at low pressure, the molecules of hydrogen break into atoms. These atoms absorb energy from the electric spark. The electrons of hydrogen atoms get excited to high energy levels. The higher energy orbits to which the electron migrate depends upon the amount of energy absorbed by the electron. Above diagram shows the possibilities of movement of electron from lower to higher levels.
+
+These excited electrons being unstable come back to one of the lower energy levels. The electrons may come to the lowest energy levels. In this way they emit energy, they had absorbed. Lyman series is produced when the electrons jump from n=2,3,4,5,6... etc to n=1. In Balmer series the electrons from n=3,4,5,6.... come back to n=2.
+
+Let us calculate the various lines of Lyman series, Balmer series, Paschen series, Brackett series and Pfund series from Bohr's equation of wave number.
+ν̃ = 1.09678 x 10^7 (1/n1^2 - 1/n2^2) m^-1
+
+Lyman Series:
+The various lines in Lyman series got their explanation by considering that the excited electrons of hydrogen atom fall back to n=1 from higher levels. The higher levels occupied by electrons due to the electric spark.
+
+First line: n1=1, n2=2
+ν̃ = 1.09678 x 10^7 (1/1^2 - 1/2^2) = 1.09678 x 10^7 (1 - 1/4) = 1.09678 x 10^7 (3/4) = 8.22585 x 10^6 m^-1
+
+Second line: n1=1, n2=3
+ν̃ = 1.09678 x 10^7 (1 - 1/9) = 1.09678 x 10^7 (8/9) = 9.7493 x 10^6 m^-1
+
+Third line: n1=1, n2=4
+ν̃ = 1.09678 x 10^7 (1 - 1/16) = 1.09678 x 10^7 (15/16) = 1.0280 x 10^7 m^-1
+
+Limiting line: n1=1, n2=∞
+ν̃ = 1.09678 x 10^7 (1 - 0) = 1.09678 x 10^7 m^-1
+
+Note that the energy difference between the first level and the infinite level is the ionization energy of hydrogen atom. All these lines of Lyman series have different wavelengths. These values of wave numbers lie in the UV region.
+
+Balmer Series:
+First line: n1=2, n2=3
+ν̃ = 1.09678 x 10^7 (1/4 - 1/9) = 1.09678 x 10^7 (5/36) = 1.5230 x 10^6 m^-1
+
+Second line: n1=2, n2=4
+ν̃ = 1.09678 x 10^7 (1/4 - 1/16) = 1.09678 x 10^7 (3/16) = 2.0552 x 10^6 m^-1
+
+Third line: n1=2, n2=5
+ν̃ = 1.09678 x 10^7 (1/4 - 1/25) = 1.09678 x 10^7 (21/100) = 2.3032 x 10^6 m^-1
+
+Limiting line: n1=2, n2=∞
+ν̃ = 1.09678 x 10^7 (1/4 - 0) = 2.74195 x 10^6 m^-1
+
+These lines of Balmer series are very close to each other and appear in the form of groups. These lines lie in the visible region of the spectrum.
+
+Paschen Series:
+When electrons from higher levels fall back to n=3.
+First line: n1=3, n2=4
+ν̃ = 1.09678 x 10^7 (1/9 - 1/16) = 1.09678 x 10^7 (7/144) = 5.331 x 10^5 m^-1
+
+Second line: n1=3, n2=5
+ν̃ = 1.09678 x 10^7 (1/9 - 1/25) = 1.09678 x 10^7 (16/225) = 7.788 x 10^5 m^-1
+
+Limiting line: n1=3, n2=∞
+ν̃ = 1.09678 x 10^7 (1/9 - 0) = 1.2186 x 10^6 m^-1
+
+These are again the groups of lines close to each other and appear in IR region.
+
+Brackett Series:
+When electrons from higher level back to n=4.
+First line: n1=4, n2=5, ν̃ = 2.45 x 10^5 m^-1
+Second line: n1=4, n2=6, ν̃ = 3.808 x 10^5 m^-1
+Limiting line: n1=4, n2=∞, ν̃ = 6.855 x 10^5 m^-1
+
+Pfund Series:
+When electrons from higher energy levels fall back to n=5.
+First line: n1=5, n2=6, ν̃ = 1.340 x 10^5 m^-1
+Second line: n1=5, n2=7, ν̃ = 2.148 x 10^5 m^-1
+Limiting line: n1=5, n2=∞, ν̃ = 4.387 x 10^5 m^-1
+
+PLANK’S QUANTUM THEORY
+Max Planck in 1900 proposed a theory about nature of light. According to this theory,
+Energy is not emitted or absorbed continuously. It is emitted or absorbed in the form of bundles or packets of energy called Quanta. In case of light the quantum of energy is often called photon.
+The amount of energy associated with quantum of radiation is directly proportional to the frequency of radiation.
+E ∝ ν
+E = hν ... (1)
+where h is Planck's constant = 6.625 x 10^-34 J s.
+If "c" is the velocity of light, a constant quantity, then c = νλ.
+ν = c/λ ... (2)
+Put value of ν from eq. (2) in eq. (1), we get
+E = hc/λ ... (3)
+From eq. (3), E ∝ 1/λ. Smaller the wavelength, larger will be the energy.
+Also wave number ν̃ = 1/λ ... (4)
+Put value of 1/λ in eq. (3), we get,
+E = hc ν̃ ... (5)
+From eq. (1), E ∝ ν.
+So it can be concluded that the energy of photon is related to frequency, wavelength and wave number.
+
+The number of waves passing through a point per second is called Frequency. The distance between two adjacent crests or troughs is called wavelength. It is expressed in Å (where Å stands for angstrom and one Angstrom = 10^-10 m) or in nanometers (1 nanometre = 10^-9 m).
+
+Example:
+A photon of light with energy 10^-12 J is emitted by a source of light. Convert this light into the wavelength, frequency and wave number of the photon in terms of meters, Hertz and m^-1, respectively.
+Also convert this energy of photon into ergs and calculate the wavelength in cm, frequency in Hz and wave number in cm^-1.
+
+Solution:
+Energy of photon = 10^-12 J
+Wavelength = λ =?
+Frequency = ν =?
+Wave number = ν̃ =?
+
+First of all we calculate ν.
+E = hν => ν = E/h
+h = 6.625 x 10^-34 J s
+So, ν = 10^-12 / (6.625 x 10^-34) = 1.51 x 10^21 s^-1
+
+Now calculate λ.
+c = νλ => λ = c/ν = (3 x 10^8 m s^-1) / (1.51 x 10^21 s^-1) = 1.98 x 10^-13 m
+
+Wave number ν̃ = 1/λ = 1 / (1.98 x 10^-13 m) = 5.05 x 10^12 m^-1
+
+Convert energy of the photon from joules into ergs.
+1 J = 10^7 erg
+So, E = 10^-12 x 10^7 erg = 10^-5 erg
+h = 6.625 x 10^-27 erg s
+
+Calculate frequency in Hz.
+ν = E/h = 10^-5 erg / (6.625 x 10^-27 erg s) = 1.51 x 10^21 s^-1
+
+Calculate wavelength in cm.
+λ = c/ν = (3 x 10^10 cm s^-1) / (1.51 x 10^21 s^-1) = 1.98 x 10^-11 cm
+
+Calculate wave number in cm^-1.
+ν̃ = 1/λ = 1 / (1.98 x 10^-11 cm) = 5.05 x 10^10 cm^-1
+
+X-RAYS
+Wilhelm Roentgen (1895) accidentally discovered that if cathode rays are pointed to fall on a heavy metal target, there are produced some penetrating short wavelength rays. He called them the X-rays. The X-rays are electromagnetic radiations of very high energy and short wavelength depending upon the nature of anode. Usually tungsten filament is used for this purpose. The X-rays are emitted from the target in all directions. A small portion of them is used for useful purpose through the windows. The wavelength of X-rays produced depends upon the nature of target metal. Every metal has its own characteristic X-rays.
+
+Atomic Number and X-rays:
+Moseley undertook a systematic and comprehensive study of X-rays in 1913. His range of wavelengths discovered was 0.04 – 0.08Å.
+Moseley proved that the frequencies of X-rays increase in a regular manner from one element to the other in the Periodic Table. He further suggested that the frequencies of these X-rays are directly proportional to the number of protons in the nucleus. The number of protons in the nucleus is called “Atomic Number”.
+
+Moreover Moseley drew the following conclusions from the detailed analysis of spectral lines he obtained from 38 different elements (from Al to Au) as targets in X-rays tube.
+The spectral lines could be classified into two distinct groups. One, which belongs to shorter wavelength, called K-series and the other with longer wavelength called as L-series.
+If the target element is of higher atomic number the wavelength of X-rays becomes shorter.
+A relationship between frequency (ν) and atomic number (Z) of the elements is given as √ν = a(Z - b). This is called Moseley's Law. Where a and b are called constant quantities. This law tells that the frequency of a spectral line in X-ray Spectrum varies as the square of atomic number of an element emitting it.
+
+Uses of X-rays:
+X-rays are used for medical purposes to photograph the internal parts of human body. In industry they are used to detect any defect in the welded joints.
+They are used in scientific research to study crystal structure.
+They are used to ionize gases.
+

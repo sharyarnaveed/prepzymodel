@@ -1,0 +1,219 @@
+electmaginduction_2ndphy_fed
+
+
+Studying this chapter students will be able to:
+
+Explain the production of electricity by magnetism.
+
+State that induced emf's can be generated in two ways: by relative movement (the generator effect), and by changing a magnetic field (the transformer effect).
+
+Investigate factors affecting the magnitude of the induced emf.
+
+State Faraday's law of electromagnetic induction.
+
+Apply Lenz's law to predict the direction of an induced current and state the principle of conservation of energy.
+
+Apply Faraday's law of electromagnetic induction and Lenz's law to solve problems.
+
+Describe the production of eddy currents and identify their magnetic and thermal effects.
+
+Explain the need for laminated iron cores in electric motors, generators and transformers.
+
+Explain what is meant by motional emf. Given a rod or wire moving in a magnetic field in a simple way, compute the potential difference between its ends.
+
+Define mutual inductance (M) and self-inductance (L), and their units.
+
+Describe the components of an A.C generator and explain how it works.
+
+Describe the essential features of an A.C electric motor and the role of back emf in electric motors.
+
+Describe the construction of a transformer and explain how it works.
+
+State the relationship between the ratio of the number of turns and the ratio of primary to secondary voltages for an ideal transformer.
+
+Distinguish between step-up and step-down transformers.
+
+Describe the uses of electricity along cables.
+
+Electricity and magnetism are two aspects of a single electromagnetic force. Electric charges produce electric forces and moving electric charges produce magnetic forces. Similarly, moving magnets produce electric forces. The interplay of electric and magnetic forces is the basis for many modern technologies, including motors, generators, and transformers.
+
+The essential feature of an electric motor is the supply of electrical energy to a coil in a magnetic field causing it to rotate. The generation of electrical power requires relative motion between a magnetic field and a conductor. In a generator, mechanical energy is converted into electrical energy while the reverse occurs in an electric motor. Thus the electric motor is a generator in reverse and vice versa. In principle, it converts electrical energy into mechanical energy.
+
+In 1831, English scientist Michael Faraday discovered that whenever a magnetic flux linking a conductor changes, an emf is induced in the conductor. This phenomenon is known as electromagnetic induction. In this chapter, we will discuss the laws of electromagnetic induction.
+
+When the magnetic flux linking a conductor changes, an emf is induced in the conductor. This phenomenon is known as electromagnetic induction. Thus electromagnetic induction is the change in flux linking a circuit which induces an emf.
+
+Faraday demonstrated electromagnetic induction by moving a magnet towards or away from a coil. Figure 14.1 shows a coil C connected to a galvanometer. A bar magnet is placed near the coil. When the magnet is stationary, the galvanometer shows no current, i.e., no emf is induced. When the magnet is pushed toward the coil, the galvanometer deflects. If we move the magnet away from the coil, the galvanometer again shows deflection but in the opposite direction. The deflection will persist so long as the magnet is moving. The induced emf and hence current in the coil is due to the fact that the magnetic flux linking the coil is changing. When the magnet is stopped, though the flux is linking the coil, it is constant, so no emf is induced and the galvanometer shows zero deflection. The magnitude of induced emf depends on the number of turns (N) of the coil and the magnetic flux linking the coil, i.e., on the rate of change of flux.
+
+Electromagnetic induction may be produced by changing the magnetic field or by moving the conductor. In figure 14.2, a coil is placed near another coil connected to an AC source. When the AC source is switched on, the current in the primary coil changes, which changes the magnetic flux through the secondary coil, and an emf is induced in the secondary coil. The induced current will persist in the coil as long as the current in the primary is changing, i.e., as long as flux through the coil is changing.
+
+Faraday's Laws of Electromagnetic Induction:
+The magnitude of emf induced in a coil is directly proportional to the rate of change of flux linkages. If N is the number of turns of the coil and the magnetic flux linking the coil changes from Φ₁ to Φ₂ in t seconds, then:
+Induced emf ε ∝ rate of change of flux linkages
+ε ∝ N (ΔΦ/Δt)
+ε = -N (ΔΦ/Δt)
+This is called Faraday's law of induction.
+
+The two laws of electromagnetic induction:
+1. Whenever a change in magnetic field in a conductor occurs, it induces an electromagnetic force in the conductor.
+2. The induced electromagnetic force is proportional to the rate of change of flux.
+The direction of induced emf is given by Lenz's law.
+
+The negative sign in the equation represents Lenz's law.
+
+Seismometer application:
+An earthquake is a shaking of the earth's surface, known as the crust. The earth's crust consists of huge rock plates, which can shift to cause an earthquake. Most earthquakes happen when two rock plates meet, creating friction. The force will send shockwaves through the ground, creating an earthquake. Seismologists use seismometers to detect earthquakes. One type works on the principle of electromagnetic induction. It consists of a magnet suspended by a spring inside a coil. When the ground shakes, the magnet moves relative to the coil, inducing a voltage proportional to the speed of the ground motion. This voltage is recorded.
+
+Lenz's law:
+An alternative method for determining the direction of induced current is Lenz's law. It always gives the same results as the sign rule for ε and ΔΦ/Δt in connection with Faraday's law. Lenz's law states: The direction of the induced current will flow in such a direction so as to oppose the change that causes it. The negative sign simply reminds us that the induced current opposes the change in magnetic flux that caused the induced current. ε = -N (ΔΦ/Δt).
+
+To demonstrate Lenz's law, consider the N-pole of a magnet moving towards a coil. As the N-pole moves towards the coil, the magnetic flux linking the coil increases. According to Lenz's law, the direction of the induced current will be such as to oppose the increase in flux. So the induced current will set up a magnetic field that opposes the approach of the magnet. That is, the end of the coil facing the magnet becomes a N-pole to repel the approaching N-pole. The induced current direction can be easily determined by the right-hand grip rule for the coil.
+
+Lenz's law is in accordance with the conservation of energy. In the above example, work is done in moving the magnet towards the coil against the repulsive force. This work is converted into electrical energy.
+
+Fleming's Right Hand Rule and direction:
+For the direction of the induced current, Fleming's right hand rule may also be used. When a conductor moves at right angles to a stationary magnetic field, an emf is induced. If the motion of the conductor is from left to right as in figure, and the magnetic field is into the paper, then the direction of induced current will be from top to bottom. If the motion of the conductor is downward, then the direction of induced current will be from right to left.
+
+The rule is stated as under: Stretch out the forefinger, middle finger and thumb of your right hand so that they are at right angles to one another. If the forefinger points in the direction of the magnetic field, thumb points in the direction of motion of the conductor, then the middle finger will point in the direction of induced current.
+
+Example 14.1: A coil of 100 turns is linked by a flux of 20 mWb. If this flux is reversed in 2 ms, calculate the average emf induced in the coil.
+Solution: N = 100, ΔΦ = 20 - (-20) = 40 mWb = 40 × 10⁻³ Wb, Δt = 2 ms = 2 × 10⁻³ s.
+ε = -N (ΔΦ/Δt) = -100 × (40 × 10⁻³)/(2 × 10⁻³) = -2000 V. Magnitude = 2000 V.
+
+Example 14.2: What rate of change of flux would be necessary for a single conductor to cut the lines of force so that a current of 1.2 mA flows through it when 10 Ω resistor is connected across its ends?
+Solution: Induced emf ε = I R = 1.2 × 10⁻³ × 10 = 1.2 × 10⁻² V.
+But ε = ΔΦ/Δt (for single turn).
+So ΔΦ/Δt = 1.2 × 10⁻² Wb/s.
+
+Example 14.3: A coil of area 500 cm² and having 1000 turns is held perpendicular to a uniform magnetic field of 0.4 gauss. The coil is turned through 180° in 1/10 s. Calculate the average induced emf.
+Solution: A = 500 cm² = 500 × 10⁻⁴ m² = 0.05 m², N = 1000, B = 0.4 gauss = 0.4 × 10⁻⁴ T.
+Initial flux Φ₁ = N B A cos0° = 1000 × 0.4 × 10⁻⁴ × 0.05 = 2 × 10⁻³ Wb.
+Final flux Φ₂ = N B A cos180° = -2 × 10⁻³ Wb.
+ΔΦ = Φ₂ - Φ₁ = -2 × 10⁻³ - 2 × 10⁻³ = -4 × 10⁻³ Wb.
+Δt = 0.1 s.
+Average induced emf ε = -N (ΔΦ/Δt) = -1000 × (-4 × 10⁻³)/0.1 = 40 V.
+
+According to Faraday's law, whenever a conductor is placed in a varying magnetic field, an emf is induced in the conductor. This emf is called induced emf. A varying magnetic field can be brought about in two ways, therefore induced emf is of two types:
+1. Dynamically induced emf: When the conductor is moved in a stationary magnetic field in such a way that the flux linking it changes in magnitude. Then the emf induced in this way is called dynamically induced emf (as in a DC generator). It is so called because the emf is induced in the conductor which is in motion.
+2. Statically induced emf: When the conductor is stationary and the magnetic field is moving or changing, the emf induced in this way is called statically induced emf (as in a transformer). It is so called because the emf is induced in a conductor which is stationary.
+
+To study dynamically induced emf in detail, consider a conductor moving in a magnetic field. Figure 14.7 shows a conductor moving perpendicular to the plane of the magnetic field. As the conductor moves, it cuts magnetic flux. The induced emf in the conductor is given by:
+ε = B L v
+where B is magnetic flux density, L is length of conductor in the field, and v is velocity perpendicular to field.
+
+The conductor is carrying current and is in the uniform magnetic field, so it experiences a force of magnitude B I L. By Fleming's right hand rule, the force on the conductor is towards right, i.e., it opposes the applied force F. So applied force F = B I L.
+Rate of work done by applied force = F v = (B I L) v = B I L v.
+This work is converted into electrical energy. Rate of production of electrical energy = ε I.
+By principle of conservation of energy, the rate of doing work must equal the rate of production of electrical energy, i.e., B I L v = ε I => ε = B L v.
+This is valid as long as B, L and v are mutually perpendicular.
+
+Example 14.4: A loop of width 0.2 m and resistance 0.1 Ω is pulled out of a magnetic field of 2 T at a speed of 0.2 m/s. Find the induced emf, current, and power required.
+Solution: L = 0.2 m, B = 2 T, v = 0.2 m/s.
+Induced emf ε = B L v = 2 × 0.2 × 0.2 = 0.08 V.
+Current I = ε/R = 0.08/0.1 = 0.8 A.
+Electrical power generated = ε I = 0.08 × 0.8 = 0.064 W.
+Magnetic force on loop F = B I L = 2 × 0.8 × 0.2 = 0.32 N.
+Power required to move loop = F v = 0.32 × 0.2 = 0.064 W.
+
+Statically induced emf:
+We have already studied that when the conductor is stationary and the magnetic field is changing, then the emf induced in the conductor is called statically induced emf. Self-induced emf is an example of statically induced emf.
+
+Self-inductance:
+When the current in a coil changes, the magnetic flux linked with the coil also changes. This change in flux induces an emf in the coil itself. This phenomenon is known as self-induction and the induced emf is called self-induced emf. As long as the current in the coil is changing, self-induced emf is induced. The property of a coil that opposes any change in the amount of current flowing through it is called its self-inductance or inductance. This property is due to the self-induced emf in the coil caused by changing current.
+
+Consider a coil of N turns carrying a current I. When the current changes, the flux linking the coil changes. This sets up a self-induced emf ε in the coil given by:
+ε = -N (ΔΦ/Δt)
+The flux linkage NΦ is proportional to current I: NΦ ∝ I => NΦ = L I, where L is a constant called self-inductance.
+Then ε = -L (ΔI/Δt).
+The SI unit of self-inductance is henry (H). One henry is the inductance of a coil in which an emf of 1 volt is induced when the current changes at the rate of 1 ampere per second.
+Also, L = NΦ/I.
+
+Factors affecting inductance:
+The inductance of a coil depends upon:
+   - Shape and number of turns (N).
+   - Relative permeability of the material surrounding the coil.
+   - The rate of change of flux.
+Increasing the number of turns increases inductance. Using an iron core instead of air core increases inductance.
+
+Mutual Inductance:
+The phenomenon by which an emf is induced in one coil due to change of current in a neighbouring coil is called mutual induction. Consider two coils A and B placed near each other. When current in coil A changes, the magnetic flux produced by coil A passing through coil B changes, inducing an emf in coil B. This emf is called mutually induced emf. The mutually induced emf persists so long as the current in coil A is changing. If current becomes steady, mutual flux becomes steady and induced emf drops to zero.
+
+The magnitude of mutually induced emf in coil B is given by:
+ε₂ = -M (ΔI₁/Δt)
+where M is mutual inductance between the coils, and ΔI₁/Δt is rate of change of current in coil A.
+The SI unit of mutual inductance is henry (H). The mutual inductance between two coils is 1 henry if a current changing at 1 A/s in one coil induces an emf of 1 V in the other coil.
+Also, M = N₂ Φ₂ / I₁, where Φ₂ is flux through coil B due to current I₁ in coil A.
+
+Eddy Currents:
+An induced emf is induced whenever a change of magnetic flux occurs. Current will be induced in any conductor experiencing change in flux, whether intended or not. The current that is induced because of changing flux is called eddy current. Eddy currents are currents induced in conductors (like metals) that are exposed to a changing magnetic field. Consider a metallic cylinder rotating in a magnetic field. The changing flux induces eddy currents in the cylinder. These currents produce their own magnetic field which opposes the motion, causing braking effect. Also, eddy currents produce heat.
+
+To reduce eddy currents, the solid metal core can be replaced with a laminated core made of thin sheets insulated from one another. The insulation between the sheets increases resistance and reduces eddy current, thus reducing heating.
+
+Applications of eddy currents: metal detectors, induction furnaces, braking in trains.
+
+Generator:
+A generator is a device which converts mechanical energy into electrical energy. The generation of electricity is an application of electromagnetic induction. Figure 14.12 shows a simple AC generator. It consists of a coil CDEF, two slip rings and two carbon brushes. The coil is rotated between the poles of a magnet. As the coil rotates, the magnetic flux through it changes, inducing an emf. Current flows through the external circuit via slip rings and brushes. Slip rings are made of copper. One ring is connected to side CD of the coil and the other to side EF. Brush B₁ is always in contact with ring A₁ and B₂ with A₂.
+
+When side CD moves upwards, Fleming's right-hand rule shows that the direction of current is from C to D and E to F. Thus current enters the circuit at B₁ and leaves at B₂. Half a revolution later, EF will be in the position previously occupied by CD and CD in the position of EF. Now the current direction is from F to E and D to C. The current now enters at B₂ and leaves at B₁. Thus the current in the external circuit changes direction every half revolution, producing alternating current (AC).
+
+The AC supply has a frequency equal to the number of revolutions per second. The graph of induced emf (or current) against time is a sine wave. The magnitude depends on the resistance of the external circuit.
+
+The induced emf is maximum when the coil is horizontal (parallel to the field) and zero when the coil is vertical (perpendicular to the field). When the coil is horizontal, sides CD and EF are moving perpendicular to the field, so induced emf is maximum. When the coil is vertical, sides CD and EF are moving parallel to the field, so induced emf is zero.
+
+Mathematically, if coil rotates with angular velocity ω, the flux through coil of area A with N turns is:
+Φ = N A B cosθ = N A B cos(ωt)
+Induced emf ε = -dΦ/dt = N A B ω sin(ωt)
+Maximum emf ε_max = N A B ω.
+Thus ε = ε_max sin(ωt).
+
+Electric Motor:
+An electric motor has two basic electrical parts: a "stator" and a "rotor". The stator is the stationary part, the rotor is the rotating part. The stator consists of a group of electromagnets arranged to form a hollow cylinder. The rotor is an armature mounted on an axle. An induction motor is so named because the current in the rotor coils is induced by the rotating magnetic field of the stator. The currents produce magnetic fields which interact with the stator field to produce torque on the rotor in the direction of the rotating field.
+
+To understand the working, consider a simple two-pole motor. Initially, the S-pole of the rotor is attracted by the two N-poles of the stator and the N-pole of the rotor is attracted by the two S-poles of the stator. When the polarity of the stator is changed, it forces the rotor to rotate to align with the new poles. By continuously changing the polarity, the rotor keeps rotating.
+
+Back emf:
+When a motor rotates in a magnetic field by applying a potential difference V, an induced emf ε is produced. This induced emf acts in a direction so as to oppose the emf V of the battery. This opposing emf is called back emf. The applied voltage is equal to back emf plus the voltage drop across the coil resistance:
+V = ε + I R.
+As the speed increases, the back emf increases. When the motor reaches maximum operating speed, back emf is constant. When a load is applied, the speed decreases, which reduces the back emf and increases current in the motor. If the motor stops, the current may be high enough to burn the motor windings. To protect the motor at low speeds, a resistor in series is used.
+
+Transformer:
+A transformer is a device which is used to transform electrical power from one voltage and current level to another. The transformer depends on the principle of electromagnetic induction.
+
+The main parts of a transformer: two coils (primary and secondary) and a laminated iron core connecting them. The primary coil is connected to the input electrical supply. The alternating current through the primary coil creates a changing magnetic field in the iron core. This changing magnetic field induces an emf in the secondary coil.
+
+The transformer is based on two principles: first, that an electric current produces a magnetic field, and second, that a changing magnetic field in a coil of wire induces a voltage across the ends of the coil (electromagnetic induction).
+
+The voltage across the secondary coil is given by:
+V_s = -N_s (dΦ/dt)
+Similarly, voltage across primary: V_p = -N_p (dΦ/dt)
+For an ideal transformer, the same changing flux passes through both coils, so:
+V_s / V_p = N_s / N_p.
+Thus the ratio of voltages equals the ratio of turns.
+If N_s > N_p, then V_s > V_p and it is a step-up transformer. If N_s < N_p, then V_s < V_p and it is a step-down transformer.
+
+Assuming 100% efficiency, power input = power output: V_p I_p = V_s I_s.
+Thus I_s / I_p = N_p / N_s = V_p / V_s.
+So in a step-up transformer, voltage is stepped up and current is stepped down.
+
+In practice, there are energy losses due to:
+   - Flux leakage: not all flux links both coils.
+   - Resistance of windings: heat loss.
+   - Eddy currents: currents induced in the core causing heating.
+   - Hysteresis: energy loss due to magnetization and demagnetization of core.
+
+To reduce eddy currents, the core is made of laminated iron, i.e., many thin sheets insulated from each other. This limits eddy currents to each lamination, reducing overall loss.
+
+Transformers allow electricity to be efficiently transmitted over long distances. Electricity is generated at power stations at about 25 kV. Step-up transformers boost voltage to 400 kV for transmission. High voltage transmission reduces energy loss. At substations, step-down transformers reduce voltage for distribution to homes and industries.
+
+Key Points:
+- When the magnetic flux linking a conductor changes, an emf is induced. This phenomenon is electromagnetic induction.
+- The induced emf and hence the current in this conductor will last as long as this change is taking place.
+- If the change of magnetic flux is due to a variation in the current flowing in the same circuit, the phenomenon is known as self-induction. If it is due to change of current flowing in another circuit, it is known as mutual induction.
+- When the coil of an electric motor rotates in a magnetic field, an induced emf is produced in such a direction as to oppose the applied emf, known as back emf.
+- Lenz's law: The induced current will flow in such a direction so as to oppose the cause that produces it.
+- When the conductor is moved in a stationary magnetic field, the emf induced is called dynamically induced emf.
+- When the conductor is stationary and the magnetic field is moving or changing, the emf induced is called statically induced emf.
+- Generator is a device which converts mechanical energy into electrical energy.
+- Transformer is a device which transforms electrical power from one voltage and current level to another.
+- Transformer is based on electromagnetic induction.
+- Laminated iron cores reduce eddy currents.

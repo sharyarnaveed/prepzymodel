@@ -1,0 +1,265 @@
+Electronics_2ndphy_fed 
+
+After studying this chapter the students will be able to:
+1. Distinguish between intrinsic and extrinsic semiconductors.
+2. Distinguish between P & N type substances.
+3. Understand the concept of holes and electrons in semiconductors.
+4. Explain how electrons and holes flow across a junction.
+5. Describe a PN junction and discuss its forward and reverse biasing.
+6. Define rectification and describe the use of diodes for half and full wave rectifications.
+7. Distinguish PNP & NPN transistors.
+8. Describe the operations of transistors.
+9. Derive current equation and apply it to solve problems on transistors.
+10. Explain the use of transistors as a switch and an amplifier.
+
+Semiconductors are materials having an intermediate electrical conductivity between conductors and insulators. Semiconductors ensure the good functioning of many modern appliances and are key to electronic systems.
+
+Integrated circuits that run computers, including programmable controllers, use mechanical principles to interface real-world signals and temperature controllers. Understanding of the applications and characteristics of semiconductor devices is important.
+
+INTRINSIC SEMICONDUCTORS
+
+A perfect, pure semiconductor crystal containing no impurities is called an intrinsic semiconductor. A semiconductor is considered ideally pure when there is less than one impurity atom in a billion host atoms. At zero temperature, the bonding arrangement may be represented by a two-dimensional model, sketched in Fig 17.2. In reality, the semiconductor is a three-dimensional solid and the sharing of valence electrons occurs between neighboring atoms in three dimensions.
+
+In Fig 17.2, the hatched circles represent the core of a silicon atom. The four valence electrons are shown as small black dots. The bonding is being in any place represented by dotted lines.
+
+At temperature 0 K, all electrons are in covalent bonds, the bonds are complete. Consequently, the semiconductor behaves as an insulator.
+
+A semiconductor is characterized by its band structure. As shown in Fig 17.3, at absolute zero, the valence electrons completely occupy the valence band leaving the conduction band empty. As all the states in the valence band are full, electrons cannot move within the band. Electrons in the valence band do not possess enough energy to be excited into the conduction band. Therefore, an externally applied electric field cannot cause a flow of current and the semiconductor at 0 K behaves as an insulator.
+
+INTRINSIC SEMICONDUCTOR AT ROOM TEMPERATURE
+
+At ordinary temperatures, the finite thermal energy causes each atom in the crystal to vibrate about its mean position. When the vibration becomes violent, the electrons acquire sufficient energy and break away from the covalent bonds. The electrons liberated from bonds become free electrons which vibrate randomly leaving empty spaces that exist in the atoms at fixed positions.
+
+From the energy band point of view, it means that some of the electrons absorb thermal energy and convert it into potential energy. Those electrons, which gain energy equal to, or in excess of, the bandgap energy Eg are excited to the conduction band.
+
+Eg is the minimum amount of energy required to excite an electron from the valence band to the conduction band. Eg is a characteristic property of the crystal.
+
+Consider the situation in the valence band. When a covalent bond is broken and an electron jumps to the conduction band, an empty state arises in the valence band. The electrons in the conduction band and the electrons in the valence band can be excited to upper vacant levels, within the respective bands. Therefore, if an electric field is applied, current flows in the crystal at ordinary temperatures. We may then define intrinsic semiconductors as such in which conduction arises from thermally (or optically) excited valence electrons.
+
+The absence of an electron in the valence band is customarily represented by a fictitious particle called a hole which has positive charge +e and mass equal to that of an electron me. The situation is shown in Fig 17.4.
+
+In semiconductors, a single event of bond breaking leads to two carriers, namely an electron and a hole. The electron and hole are created as a pair. This phenomenon is called electron-hole pair generation. The thermal excitation is one possible mechanism for pair generation. At any temperature T, the number of electrons generated will be therefore equal to the number of holes created. If n denotes the number density of electrons in the conduction band and p denotes the number density of holes in the valence band, then,
+
+n = p = ni
+
+where ni is called the intrinsic density or intrinsic concentration.
+
+After generation, the carriers move independently. The electron moves in the conduction band and the hole moves in the valence band.
+
+We define a semiconductor as an intrinsic semiconductor in which free electrons and holes are created only by excitation of electrons from the valence band to the conduction band.
+
+EXTRINSIC SEMICONDUCTORS
+
+Intrinsic semiconductors have low conductivity which is of little practical use. But if a small amount of impurity is added to a semiconductor crystal then it greatly increases the conductivity of the intrinsic semiconductor.
+
+The introduction of impurity into an intrinsic semiconductor is called doping. The impurity is called a dopant. A semiconductor doped with impurity atoms is called an extrinsic semiconductor. Pentavalent elements from Group V or trivalent elements from Group III are used as dopants. The atoms belonging to Group V and III are roughly of the same size as silicon or germanium atoms and can easily replace them.
+
+Thus, we have two types of extrinsic semiconductors, namely N-type and P-type semiconductors depending upon the group of impurity.
+
+N-TYPE SEMICONDUCTOR
+
+An N-type semiconductor is produced when a pure semiconductor is doped with a pentavalent impurity. Phosphorus and arsenic are the pentavalent impurities.
+
+Let us examine the effect of these pentavalent impurities on the electrical conductivity. Suppose a phosphorus atom replaces a silicon atom in the crystal. The phosphorus atom has five valence electrons. Out of the five electrons, only four can participate in the bonding with neighboring silicon atoms forming four bonds as shown in Fig 17.5(b). The fifth electron does not participate in bonding and remains loosely bound to the atom.
+
+Impurity atoms which contribute electrons to the conduction band are called donors. Donors donate electrons without producing holes in the valence band. At low temperatures, donor atoms are not ionized and the conduction band electrons come only from the valence band due to the intrinsic process. The donor electrons are supplied at room temperature. The electrons become the majority carriers whereas the holes are called minority carriers and are very small in number. As the current is mainly carried by the negative charge carriers, the semiconductor is called an N-type semiconductor, where N indicates the negative sign of the majority carriers.
+
+P-TYPE SEMICONDUCTOR
+
+A P-type semiconductor is obtained by doping an intrinsic semiconductor with trivalent elements such as boron and aluminum. When a trivalent impurity atom replaces a silicon atom, it falls short of one electron for completing the covalent bonds with its neighbors. The substitution of a host silicon atom by a boron atom does not disturb the neutral environment around the boron atom. However, when an electron from a neighboring atom acquires energy and jumps to form a bond, it leaves behind a hole. The boron atom having acquired an extra electron becomes a negative ion. The hole can move freely in the crystal whereas the impurity ion is immobile.
+
+The trivalent impurity atoms produce holes without producing electrons in the conduction band. The result is the generation of holes in the valence band. Therefore, holes constitute the majority carriers and are mainly contributing to the conduction process. The semiconductor is known as a P-type extrinsic semiconductor where P indicates the positive sign of the majority carriers.
+
+PN JUNCTION DIODE
+
+A PN junction diode is formed by joining a P-type crystal with an N-type crystal and a thin layer is melted at a high temperature. The two crystals are fused under high pressure so that they form a single piece. A PN junction has special properties such as rectification.
+
+At the junction, free electrons from N-type fill the holes in P-region, thus negative and positive ions are formed. These ions create an electric field directed from N- to P-region as shown in Fig 17.7(a). It stops further diffusion of electrons and holes. The region near the junction is now free of mobile charges and it is called depletion region or layer. The width of depletion layer depends on the biasing of the junction. The potential barrier or built-in potential is about 0.7 V for Si and 0.3 V for Ge.
+
+FORWARD BIAS
+
+When P-type is connected with positive potential with respect to N-type as shown in Fig 17.8(a), the applied voltage is in opposite direction to the barrier potential. Thus, the junction width decreases. If the applied voltage drop is increased slowly, the junction barrier height is decreased and at a certain point, called the knee voltage, majority charge carriers cross the junction and the current flows, Fig 17.9. This is called forward bias and the current is called forward current.
+
+REVERSE BIAS
+
+On the other hand, if the P-type region is made negative with respect to the N-type, majority charge carriers cannot cross the junction and hence there is no current. A small amount of current flows due to minority charge carriers. This biasing is called reverse bias and the current is called reverse current. The reverse saturation current is generally of the order of a few microamperes.
+
+VI CHARACTERISTICS OF PN JUNCTION
+
+The VI characteristics of a PN junction diode are shown in Fig 17.11. The knee voltage is about 0.3 V for Germanium and 0.7 V for Silicon.
+
+From the VI characteristics, we see that forward current increases rapidly after the knee voltage. There is a region of constant current in reverse bias until the breakdown voltage. The breakdown voltage is the voltage at which the junction breaks down and a large reverse current flows. This happens due to the Zener effect or avalanche effect. Using these effects, Zener diodes are formed for voltage regulation.
+
+Minority Carrier Current: When the diode is reverse biased, the electric field across the junction prevents the majority carriers from crossing the junction. However, the electric field has the right direction to sweep the minority carriers across the junction. Electrons arriving at the junction from the P-side are assisted by the electric field to move into the N-region and holes from the N-region are helped to move into the P-region. Thus, current flows across the junction.
+
+The current due to the movement of charge carriers caused by an electric field is called drift current. The diode current is due to electrons and holes which is given by:
+
+I = Ie + Ih
+
+Minority carriers are generated through breaking of covalent bonds.
+
+RECTIFICATION
+
+For efficiency and safety reasons, alternating current (AC) is used for electrical power. But some electronic devices like electronic tuners and receivers require DC for their operation. The DC supplies like cells, batteries are expensive, low power, and short-lived. Therefore, generally a DC power supply is obtained by using an AC supply.
+
+The conversion of AC into DC is called rectification and a device used for this conversion is called a rectifier.
+
+Diodes provide compact, inexpensive means of rectification therefore it can be used as a rectifier. As we have seen, when a diode is forward biased it allows the current and in reverse bias it (almost) stops the current. Thus, it can be used as a unilateral device or rectifier. For most power applications, half-wave rectification is insufficient for the task. Therefore, a configuration must be used that gives full use of both half-cycles of the sine wave. Such a circuit is called a full-wave rectifier.
+
+HALF-WAVE RECTIFIER
+
+The simplest circuit is a half-wave rectifier. Fig 17.12(a) shows a half-wave rectifier that uses a transformer to couple the AC input voltage from the power line to the rectifier circuit. The transformer provides two advantages. First, it steps up or steps down the AC voltage. Second, the transformer isolates the rectifier circuit from the power line for safety.
+
+During the positive half cycle of AC, the upper end of the transformer secondary becomes positive with respect to the lower end. Therefore, the diode is forward biased and current flows through the load. During the negative half cycle, the upper end becomes negative with respect to the lower end and the diode is reverse biased. Ideally, no current flows through the load. Thus, only half of the input wave is rectified and it is called half-wave rectifier. During the negative half cycle of AC, the diode is reverse biased, no current flows through the load resistance R_L, and consequently the whole of the transformer secondary voltage appears across the diode. Thus, the maximum voltage across the diode is equal to the peak value V_max. Thus, for a half-wave rectifier,
+
+PIV = V_max
+
+FULL-WAVE RECTIFIER
+
+A more widely used rectifier, called the center-tap design, uses a transformer with a center-tapped secondary winding and two diodes in alternate switching configuration. A full-wave rectifier allows unidirectional (one direction) current during the entire input cycle, whereas a half-wave rectifier allows current only during one half of the input cycle.
+
+The diodes operate in alternate switching mode. For the first half cycle, A becomes positive with respect to B and B becomes positive with respect to C. Therefore, D1 is forward biased and D2 is reverse biased. Current flows through diode D1 (D1) due to D1 while current due to D2 is zero.
+
+For the second half cycle, C becomes positive with respect to B and B becomes positive with respect to A. Now D2 is forward biased and ON and D1 is reverse biased and OFF. The current flows due to D2. For the first half cycle, the current is due to D1 and for the second half cycle, the current is due to D2. Thus, the full wave is rectified.
+
+One disadvantage of full-wave rectifier with center-tap is that it requires a center-tapped transformer.
+
+TRANSISTORS
+
+Transistors are of two types: bipolar, whose function depends on both types of charge carriers, and unipolar, whose function depends on only one type of charge carrier. Sometimes these are called bipolar junction transistors (BJT) and field effect transistors (FET) respectively.
+
+There are two PN junctions which form either PNP or NPN transistors. The symbol is shown in Fig 17.14.
+
+The three regions are Emitter, Base, and Collector. In NPN, the majority carriers are electrons and in PNP, the majority carriers are holes. The middle region is called the base. The emitter region is heavily doped. Its function is to emit the charges. The last region collects the charges and it is called collector. The base region is thin and lightly doped.
+
+The arrow in the transistor symbol indicates the direction of conventional current. In an NPN transistor, the arrow points outward from the emitter. In a PNP transistor, the arrow points inward to the emitter.
+
+In a transistor, there are two junctions, one is the emitter junction and the other is the collector junction. In the active region, the emitter junction is forward biased and the collector junction is reverse biased. The emitter junction being forward biased offers low resistance. The charges emitted by the emitter are attracted by the collector. The collector junction is reverse biased and has a large potential gradient, which attracts the majority carriers. The charges are collected by the collector; therefore, they must reach the collector by moving via the base region.
+
+Addition of base current allows a much larger collector current. The base is thin and it is lightly doped; therefore, the recombination of electrons and holes in the base region is also less. There is no difference in the operation of NPN and PNP transistors except the polarity of biasing. In most of the applications, NPN transistors are preferred because mobility of electrons is three times that of holes and therefore the operation is faster.
+
+TRANSISTOR CONFIGURATIONS
+
+In a transistor circuit, one electrode is common to both input and output circuits. There exist three types of configurations: common base (CB), common emitter (CE), and common collector (CC), as shown in Fig 17.15.
+
+COMMON BASE CONFIGURATION
+
+Since the base is common to both input and output circuits, it is a common base configuration. Figure shows the circuit diagram and input and output characteristics of CB configuration.
+
+At constant collector-to-base voltage (V_CB), the variation in the collector current (I_C) with change in emitter current (I_E) at constant collector-to-base voltage (V_CB) is called input characteristic. At constant emitter current (I_E), the variation in the collector current (I_C) with change in collector-to-base voltage (V_CB) is called output characteristic. The output characteristic has three regions of operation, namely, active, saturation, and cut-off.
+
+When the base-emitter junction is forward biased and the collector-base junction is reverse biased, it is the active region. When both the emitter and collector junctions are reverse biased, it is the cut-off region. There is no current in this case. When both the junctions are forward biased, it is the saturation region. Figure shows these regions.
+
+The ratio of I_C and I_E is called the alpha factor.
+
+α = I_C / I_E
+
+α is less than 1. Typically, α is about 0.95 to 0.99.
+
+COMMON EMITTER CONFIGURATION
+
+In this configuration, the emitter is common to both input and output. Figure shows the circuit arrangement and input and output characteristics for CE configuration.
+
+At constant collector-to-emitter voltage (V_CE), the variation in base current (I_B) with change in base-to-emitter voltage (V_BE) is called input characteristic. At constant base current (I_B), the variation in collector current (I_C) with change in collector-to-emitter voltage (V_CE) is called output characteristic. The output characteristic also shows active, cut-off, and saturation regions.
+
+The ratio of change in collector current (ΔI_C) to the change in base current (ΔI_B) at constant collector-to-emitter voltage is defined as current gain or current amplification factor β.
+
+β = ΔI_C / ΔI_B
+
+Typically, β ranges from 20 to 200. We can write,
+
+I_C = β I_B + I_CEO
+
+Also, α and β are related by:
+
+β = α / (1 - α)
+
+TRANSISTOR AS AN AMPLIFIER
+
+A transistor can be used as an amplifier. A small change in input (voltage or current) causes a large change in output (voltage or current). If β is 100, then the change in collector current is 100 times the change in base current. The small base current produces a large change in collector current. Thus, the transistor acts as an amplifier. The energy required for amplification is supplied by the battery. In most cases, CE mode is preferred because its current and voltage gains are high and power gain is the highest.
+
+In the input, the emitter junction is forward biased, therefore input resistance is low. At the output, the collector junction is reverse biased, therefore output resistance is high. The current is transferred from a low to a high resistance circuit.
+
+TRANSISTOR AS A SWITCH
+
+A transistor is used in a great variety of circuits. Transistor switches form the basis of all electronic computers. With the switch closed, base current flows and the base-emitter voltage is V_BE = 0.7 V. The collector current flows and the collector-emitter voltage is nearly zero (saturation). The transistor is said to be ON. With the switch open, no base current flows, therefore no collector current can flow. The transistor is said to be cut off (OFF). Figure 17.18 shows the transistor ON and OFF states.
+
+EXAMPLE: A transistor connected in a common-emitter configuration has a collector load of 6 kΩ and the supply voltage is 12 V. If the current amplification factor β is 100 and the base-emitter voltage V_BE is 0.6 V, find (a) collector-emitter voltage, (b) base current.
+
+Solution:
+Given: V_CC = 12 V, R_C = 6 kΩ = 6000 Ω, β = 100, V_BE = 0.6 V
+
+Assume the transistor is in active region.
+
+Collector current, I_C = (V_CC - V_CE) / R_C
+
+But also I_C = β I_B
+
+We need to find I_B.
+
+Using Kirchhoff's voltage law in the base-emitter loop:
+
+V_BB = I_B R_B + V_BE
+
+But here V_BB and R_B are not given. Alternatively, we can use the fact that in active region, V_CE is typically around mid-supply. Let's assume I_C is such that V_CE is about half of V_CC.
+
+Assume V_CE = 6 V.
+
+Then I_C = (12 - 6) / 6000 = 1 mA.
+
+Then I_B = I_C / β = 1 mA / 100 = 0.01 mA = 10 μA.
+
+Thus, (a) V_CE = 6 V, (b) I_B = 10 μA.
+
+(Note: This is an approximation; exact values require the base circuit details.)
+
+EXAMPLE: The current gain of a transistor in common-base arrangement is 0.95. What would be the change in collector current corresponding to a change of 0.4 mA in the base current when the emitter current is kept constant?
+
+Solution:
+Given: α = 0.95, ΔI_B = 0.4 mA, I_E constant.
+
+We know β = α / (1 - α) = 0.95 / (1 - 0.95) = 0.95 / 0.05 = 19.
+
+Then ΔI_C = β × ΔI_B = 19 × 0.4 mA = 7.6 mA.
+
+DIGITAL ELECTRONICS
+
+Digital electronics is used in everyday life in calculators, watches, modern communication systems, and computers. All persons working in various fields related to physics must understand the performance of digital electronic circuits. The heart of computers, as we know, performs complicated tasks with fantastic speed and accuracy. At stores, the cash register readout, digital clock, and watches flash the time in all city shops and restaurants. Most automobiles use microprocessors to control engine functions. Aircraft, defense sectors, factory machines, and modern diagnostic tools in medical science are controlled by digital circuits.
+
+The inexpensive fabrication of integrated circuits (ICs) has made the study of digital electronics easy to access. One small IC can perform the function of thousands of transistors, diodes, and resistors. Many ICs are used to construct digital circuits. This is an exciting and rapidly growing field.
+
+Digital systems use several principles for data processing. The subject is also referred to as modern digital electronics.
+
+OPTOELECTRONIC DEVICES
+
+Optoelectronic devices are those devices in which carriers are generated by photons (photo-excitation). Such devices are called optoelectronic devices. Three commonly used optoelectronic devices are:
+1. Photodiode
+2. Light emitting diode (LED)
+3. Solar cell
+
+PHOTODIODE
+
+A photodiode is a PN junction diode operated under reverse bias. When the junction is illuminated with light with photon energy greater than the energy gap of the semiconductor, then electron-hole pairs are generated due to the absorption of photons. The diode is constructed such that the generation of electron-hole pairs takes place in or near the depletion region of the diode. Due to the electric field of the junction, electrons and holes are separated before they recombine. The electrons are collected on the N-side and holes are collected on the P-side giving rise to photovoltage. When an external circuit is connected, current flows. The magnitude of the photocurrent depends on the intensity of incident light. Hence, a photodiode can be used for detecting light signals.
+
+LIGHT EMITTING DIODE (LED)
+
+A light emitting diode is a PN junction diode that emits light when forward biased. When the diode is forward biased, electrons are injected from the N-side to the P-side (where they are minority carriers) and holes are injected from the P-side to the N-side (where they are minority carriers). At the junction, the concentration of minority carriers increases compared to when there is no bias. On either side of the junction, carriers are there which recombine with majority carriers. As a result, energy is released in the form of photons. The diode is covered with a transparent cover so that emitted light can come out. Thus, an LED converts electrical energy into light. These LEDs are widely used in remote controls, burglar alarm systems, optical communication, etc. LEDs have fast response, long life, endurance, and fast on-off switching capability.
+
+SOLAR CELL
+
+A solar cell is a PN junction which generates emf when solar radiation falls on the junction. It works on the same principle (photovoltaic effect) as a photodiode except that no external bias is applied and the junction area is larger. A simple PN junction solar cell is shown in Fig 17.22. The generation of emf by a solar cell, when light falls on it, is due to (i) generation of electron-hole pairs, (ii) separation of electrons and holes (electrons are swept to the N-side and holes to the P-side), (iii) the electrons reaching the N-side are collected by the front contact and holes reaching the P-side are collected by the back contact. Thus, the P-side becomes positive and the N-side becomes negative giving rise to photo voltage. When a load is connected, a photocurrent flows through the load. Solar cells are used to power electronic devices in satellites and calculators.
+
+SUMMARY
+
+Semiconductors are materials having an intermediate electric conductivity between conductors and insulators.
+Pure semiconductors are known as intrinsic semiconductors.
+In semiconductors, a single event of bond breaking leads to two carriers, namely an electron and a hole.
+Minority carriers are generated through breaking of covalent bonds.
+Intrinsic semiconductors have low conductivity which is of little interest. But, if a small amount of impurity is added to a semiconductor crystal, then it greatly increases the conductivity of the intrinsic semiconductor.
+An N-type semiconductor is produced when a pure semiconductor is doped with a pentavalent impurity.
+A P-type semiconductor is obtained by doping an intrinsic semiconductor with trivalent elements such as boron and aluminum.
+A PN junction has special properties such as rectification.
+Diode current through the junction is due to electrons and holes.
+The conversion of AC into DC is called rectification and a device used for this conversion is called a rectifier.
+There are two PN junctions, which form either PNP or NPN transistors.
+An increase in the output current level compared to the input current level is called amplification. The transistor can be used as an amplifier.

@@ -1,0 +1,269 @@
+ECOSYSTEM
+
+INTRODUCTION
+
+The term ecology comes from the Greek words oikos, meaning “the family
+household”, and -logy, meaning “the study of”. The term originally was coined by the
+German zoologist Ernst Haeckel in 1866. He called it oecology and defined it as the
+study of the relationship of animals (organisms) to their environment.
+
+Environment includes not only the physical but also the biological conditions
+under which an organism lives. Relationship includes interactions with the physical world
+and with members of other species and the same species.
+
+ECOSYSTEM
+
+The major unit of ecology is the ecosystem. Organisms interact with their
+environment within the confines of the ecosystem. The eco part of the word is related to
+the environment and the system part means a collection of related parts that function as a
+unit. The ecosystem consists of two basic interacting components, the living or biotic,
+and the physical or abiotic factors.
+
+Biotic components consist of animals, plants, fungi, micro-organisms etc. and
+abiotic components are atmosphere, climate, soil, and water.
+The various kinds of organisms that inhabit an ecosystem make up populations.
+A population is a group of interbreeding individuals (same species) occurring
+together in space and time. Populations of plants and animals in the ecosystem do not
+function independently of each other. Some populations compete with other populations
+for resources, such as food, water, or space. In some cases, one population is the food
+resource for another. Two populations may mutually benefit each other (Fig. 25.1). All
+populations within an ecosystem are known as a community and are in one or another
+manner interconnected to one another.
+
+An ecosystem has many levels. On one level, individual organism, including
+many biotic responses, influence the physical environment. At the next level,
+individuals of one species form a population, that can be described in terms of
+size and distribution. Further, individuals of these populations interact with individuals of other species to form a community.
+
+Autecology
+
+Ecology is the study of relationship of living organisms to their environment.
+When you are studying a single population's relationship to its environment it will be
+called autecology. For example, if you are studying 50 to 100 plants of soybean in order
+to know the effect of water pollution on their growth and yield, you are studying the
+single or one population of soybean plant; this study is autecology.
+
+Synecology
+
+Growth responses of individual plants to their environment are complex.
+One factor can aggravate another factor. These factors interact with one another.
+Complexity of environment depends upon the combination of various factors. The study
+of the relationship of different communities (grouping of populations) to their
+environment is called synecology or community ecology.
+
+When you study only one population, at different places in an environment it will
+be autecology. But when you see all the populations at the same time it will be
+synecology. In synecology (the study of a community) you have to see the various
+aspects of community like the origin, structure and composition of the community. You
+have to consider the history of community and also its dynamics because community is
+not a fixed entity but different changes are going to occur at different times. While
+studying the community we come across three levels of integration: (i) individual (ii)
+population (iii) community.
+
+COMPONENTS OF ECOSYSTEM
+
+The ecosystem can be divided into two main components:
+
+Biotic Components
+Biotic components include all living organisms including plants and animals supported by the biosphere. Biosphere is spread out over the surface of the planet earth extending about 8–10 kilometers to the upper reaches of atmosphere and also the same distance into the depths of oceans.
+
+Abiotic Components
+Abiotic components include all non-living components: air, water and soil. In ecological terms they are called as: (a) atmosphere — (atmo — air, sphere — place) (b) hydrosphere — (hydro — water, sphere — place) (c) lithosphere — (litho — earth/soil, sphere — place).
+
+Processes in Ecosystem and Interaction between
+Biotic and Abiotic Components:
+The main processes occurring in an ecosystem include feeding and the
+circulation of chemical elements, together with the energy flowing through the
+ecosystem.
+
+An ecosystem is made up of three main components: the producers, the consumers and the decomposers. All are concerned with the feeding processes, the
+circulation of chemical elements and the flow of energy.
+
+Producers are the green photosynthetic plants, which capture energy into the ecosystem. They are able to manufacture organic from inorganic substances. They are autotrophic organisms.
+
+Consumers are all the organisms that obtain food either directly or indirectly from the producers. They are heterotrophic organisms.
+
+Decomposers are mostly bacteria and fungi which break down dead organic matter and return mineral ions to the soil.
+
+Food Chain
+
+Food chain is a linear sequence of organisms through which nutrients and energy pass as one organism eats another.
+
+Food Web
+Food web is actually the combination of many food chains. Food webs are not
+really as simple as described in Fig. 25.3, because most animals eat more than one type of
+food at different times; for example, a fox does not feed entirely on rabbits but also takes beetles, rats etc.
+
+All the food chains and food webs begin with a green plant (producer) and may
+consist of three to five links or trophic levels (Fig. 25.3).
+
+Tertiary consumer
+|
+Owl
+Fox
+Dog
+Beetle
+Rat
+Rabbit
+Producer
+
+In a more complex food web you will find more complex trophic levels or food links. In the food chain T1 the first trophic producer level includes all green plants. T2 second trophic level — primary consumers. T3 third trophic level — secondary consumers. T4 fourth trophic level — tertiary consumers.
+
+The presence of many pathways in a food web helps to maintain the stability of the
+ecosystem. For example, owls prey on rabbits and mice. If a disease reduces the rabbit
+population, mice may increase, and owls can switch to mice, maintaining balance. Thus
+succession and predator-prey dynamics help maintain ecosystem balance.
+
+SUCCESSION
+
+Succession is the process of change in the species structure of an ecological community over time. These changes alter the ecosystem in ways that favour certain
+competitors and species replace their predecessors in somewhat predictable manner until
+a stable, self-sustaining climax community is reached. Succession is a kind of community relay in which assemblages of plants and animals replace the earlier ones in a sequence that is at least somewhat predictable.
+
+In each case succession is initiated by a few hardy invaders called pioneers and it
+ends with a diverse and relatively stable climax community.
+
+Two Major Forms of Succession
+Succession on dry land takes two major forms, primary succession and secondary
+succession. During primary succession, an ecosystem is forged from bare rock, sand or
+clear glacial pool where there is no trace of previous life.
+
+The formation of an ecosystem from scratch is a process often requiring
+thousands of years. During secondary succession a new ecosystem develops after an
+existing ecosystem is disturbed as in case of forest fire or an abandoned farm field.
+Secondary succession happens much more rapidly than primary succession because the
+previous community has left its mark in the form of improved soil and seeds. Primary
+succession starting in a pond is called hydrosere and that on a dry soil or habitat is called xerosere. Plants growing in xeric condition are called xerophytes, which are able to
+withstand prolonged periods of water shortage. Succulent plants such as the cacti have
+water stored in large parenchyma tissue; others have leaf modification. Xerosere has the
+following different stages.
+
+Crustose lichen stage: Special types of lichens form crusts on the substratum. They can live in extreme conditions. Sometimes, their surface is wet due to rain and dew-drops. They absorb water during dry season. They are quiescent or dormant, normally desiccated during dry season.
+
+Foliose lichen stage: In this stage the lichens are just like crumpled leaves attached at one point. It produces shade to the crustose lichens as a result of which their growth is reduced. The area becomes rough with more and more fissures and depressions develop. Common examples are Dermatocarpon, Parmelia, etc. At this stage other plants invade called moss stage, because now soil is more porous with some litter of lichens.
+
+Moss stage: This is the third stage with mosses like Polytrichum, Tortula etc. They compete with lichens for water and penetrate much deeper into the soil compared to lichens, adding more humus to the soil.
+
+Herbaceous (plant) stage: Small seedlings of herbaceous plants now establish due to more availability of moisture, humus and soil for anchorage.
+
+Shrub stage: Shrubby plants now start growing, dominating, shadowing herbaceous plants which die to add more humus to the soil.
+
+Climax forests: The soil is improved to an extent that it now allows the growth/establishment of woody plants. The shade of these plants inhibits the growth of most plants other than mosses, lichens, a few ferns etc. Woody plants dominate and this stage in succession remains essentially the same if nothing changes in the environment to upset the balance. Because it is a stable stage in succession, the woody forest is considered to be the climax stage for this region (Fig. 25.4).
+
+Seral communities (seral stages)
+Bare ground → Lichens & algae → Mosses & ferns → Grasses → Shrubs → Trees
+Pioneer community → Climax community
+
+Predation and its Significance
+An animal that preys on other animals is a predator. A predator is a consumer.
+The animal that is caught and eaten is the prey. The overall process is called predation.
+The sizes of populations of predator and prey are related to each other. The size
+of each population is determined by the size of the other. If the number of prey is large,
+this leads to an increase in the number of predators; as predator feeds upon the prey, the
+number of prey begins to fall. The number of predators also decreases, since they have
+less food. As the number of predators decreases, the number of prey begins to
+increase. This predator-prey relationship creates a cycle. Examples: cat/mouse, fox/rabbit, seal/fish, frog/mosquito, hawk/small birds etc.
+
+PARASITISM AND SYMBIOSIS
+
+Parasitism: This is an association between a host and a parasite, which involves providing the parasite protection and conditions for its survival. The parasite may or may not
+harm the host. Diseases in living organisms caused by parasites are called infestations. Parasites may be ectoparasites, living outside the body of the host e.g. fungi causing dandruff in hair and endoparasites, living inside the body of the host e.g. tapeworm in intestine of man.
+
+Symbiosis:
+It is an association between two organisms, which brings benefit to both
+the organisms.
+
+Root Nodules in legume plants, pea and bean, are the hosts to symbiont
+bacteria, which inhabit the roots forming root nodules. The bacteria in the root nodules fix nitrogen in soil from air, converting it into amino acids, which the host uses. In return, host provides bacteria with food and protection.
+
+Mycorrhiza:
+Mycorrhiza is an association between the roots of plants growing in acid soil and certain fungi. The host is pine, beech or heather and it provides the fungus with an enzyme to digest carbohydrates in leaf litter. In return, the fungus symbiont passes mineral ions from the soil to the host.
+
+Mutualism: It is the relationship between two organisms in which both organisms benefit from each other. Lichens are an example of mutualism between a fungus and an alga. The relationship between insects and flowering plants is another example. The insect gets nectar from the flower; in return insects carry pollen from flower to flower.
+
+Commensalism
+In this type of relationship only one organism benefits from the relationship. The
+other is not affected at all. For example, sharks may have small fish called remoras
+attached to them. As the shark feeds, the remoras pick up the scraps. The remoras benefit
+from this relationship; the shark is not affected at all.
+
+Grazing
+Many animals like rabbits, goats, sheep, cows, buffaloes and horses feed on
+grasses. This mode of feeding is called grazing and these animals are called grazers.
+These animals live in pastureland where they feed on grasses, herbs and shrubs. If too
+many animals are kept on pasture, they eat the grasses down to the root. Though grasses
+are more resistant than herbaceous plants and have ability to regrow very fast, the
+hooves of grazing animals trample the soil into hard layer as a result of which rain water
+will not penetrate this soil. It runs off from the upper surface removing the topsoil with it.
+The final result of over-grazing is totally barren land. Grazing is a very important factor
+in determining the ecosystem. Moderate grazing is very helpful to maintain grassland
+ecosystem. It destroys the competitors and helps the grass to grow well. Overgrazing
+may lead to the transformation of a grassland into a desert.
+
+BIOGEOCHEMICAL CYCLES
+
+The chemical elements essential for life in living organisms are called biogenic
+elements or nutrient elements. Macronutrients are elements required by organisms in
+large amount like carbon, hydrogen, oxygen, nitrogen, phosphorus, sulphur and calcium. Micronutrients are elements required by organisms in small quantity or in trace
+amount like zinc, molybdenum, iron, iodine. The nutrient cycles are also called
+biogeochemical cycles as the nutrients move from living to nonliving to living portions of
+an ecosystem in a cyclic manner.
+
+The Nitrogen Cycle
+The main reservoir of nitrogen is the atmosphere; in fact nitrogen makes up 78%
+of the gases in atmosphere. Since most living things, however, cannot use
+atmospheric nitrogen to make amino acids and other nitrogen containing
+compounds, we are dependent on nitrogen present in soil minerals. So, despite the
+abundance of nitrogen in the atmosphere, shortage of nitrogen in the soil is often the
+major limiting factor in plant growth. The process by which nitrogen is transformed and circulated throughout the world of living organisms is known as the nitrogen cycle.
+
+Three principal stages of this cycle are ammonification, nitrification, and
+assimilation.
+
+Much of the nitrogen found in the soil is the result of the decomposition of
+organic materials and is in the form of complex organic compounds, such as proteins,
+amino acids, nucleic acids and nucleotides. These nitrogenous compounds are usually
+rapidly decomposed into simple compounds by soil-dwelling organisms chiefly bacteria
+and fungi. These microorganisms use the proteins and amino acids and release excess of
+ammonia (NH₃) or ammonium ions (NH₄⁺). This process is known as ammonification.
+
+Several bacteria in soil are able to oxidize ammonia or ammonium ions; this
+oxidation is known as nitrification.
+
+Although the plants can utilize ammonium directly, nitrate is the form in which
+most nitrogen moves from the soil into the roots. Once nitrate is within the plant cell, it
+is reduced back to ammonium. In contrast to nitrification, this assimilation process
+requires energy. The ammonium ions thus formed are transferred to carbon-containing
+compounds to produce amino acids and other nitrogenous organic compounds needed
+by the plant.
+
+Nitrogen Depletion and its Remedies
+Although the nitrogen cycle appears complete and self-sustaining, nitrates are
+steadily lost due to the soil erosion, fire and water percolating down through the soil.
+Nitrates are also lost as a result of the activities of certain soil bacteria; in the absence of
+oxygen these bacteria break down nitrates releasing nitrogen back into the atmosphere
+and using the oxygen for their own respiration. This process is known as denitrification,
+in poorly drained (poorly aerated) soils. The cycle is maintained despite these losses
+primarily by the activities of the nitrogen-fixing bacteria, which incorporate gaseous
+nitrogen from air into organic — nitrogen-containing compounds. Just as all organisms
+are ultimately dependent on photosynthesis for energy, they all depend on nitrogen
+fixation for their nitrogen. Soil nitrogen resources are also strengthened by the addition of
+nitrogen fertilizers by man.
+
+The flow of Energy in Food Chain of an Ecosystem
+Energy in the form of radiant heat and light from the sun flows through an
+ecosystem passing through the different trophic levels (links) and radiates again back into
+outer space. The total amount of energy fixed by plants is gross primary production. The
+amount of energy left after plants have met their respiratory needs is net primary
+production, which shows up as plant biomass.
+
+Of the total energy from the sun, a very small fraction is trapped by the producers; most solar energy is used to evaporate water and heat up soil and atmosphere. As energy is transferred from one trophic level to the next, between 80 to 90% of the original energy is lost as heat as a byproduct of respiration. However, a continuous flux of energy from the sun prevents an ecosystem from running down. A pyramid of energy can be constructed showing energy transfer in a community of organisms.
+
+Energy at each trophic level from 1,000,000 kcal of sunlight per m² per yr (example):
+Producers → Primary consumers → Secondary consumers → Tertiary consumers
+
+A short food chain of two or three links supports a community more efficiently
+than a long chain of five links where much of the original energy from the producers
+would never reach those organisms at higher trophic levels. Decomposers are able to
+obtain energy by converting plant and animal tissues and waste into inorganic mineral
+ions.

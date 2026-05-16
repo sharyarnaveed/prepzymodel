@@ -1,0 +1,501 @@
+REPRODUCTION
+
+“Then fashioned We the drop a clot, then fashioned We the clot a little lump, then
+iy fashioned We the little lump bones, then clothed the bones with flesh, and then
+
+a produced it as another creation. So blessed be Allah, the Best Creator of all!”
+(Al-Quran 23:14)
+
+REPRODUCTION
+
+Every species of organisms can reproduce new individuals of that species. In
+organisms, methods of reproduction are varied and some are quite complex. In one
+respect, reproduction differs from all other functions of animals — it is not necessary for
+the well-being of the individual. Although reproduction has nothing to do with the
+survival of the individual, it is very important to the survival of a species or a population.
+Reproduction is the mechanism that produces new generations and maintains a species.
+
+Reproduction is of two types, asexual reproduction and sexual reproduction.
+Asexual reproduction requires only a single parental organism which gives rise to
+offspring by mitotic cell division, during which the total chromosome content of the cell
+is exactly replicated and passed on to daughter cells, so that the offspring are genetically
+identical to the parent. Methods of asexual reproduction are fission, sporulation, budding,
+vegetative propagation, artificial propagation, parthenogenesis and apomixis etc.
+
+Sexual reproduction usually involves two parents. A fertilized egg is produced
+through the union of meiotically produced specialized sex cells (egg and sperm) from
+each parent. Meiosis or reduction division gives rise to gametes (gametogenesis) in
+which not only the chromosome number is halved (haploid) but reshuffling of genes
+leads to recombination of genes. This not only maintains the chromosome number in a
+species but also produces genetic variations, an important factor in the survival and
+adaptation of a species or a population (Fig. 18.1).
+
+In plants, if there is alternation of generations namely a diploid sporophyte and a
+haploid gametophyte, meiosis occurs during spore formation (sporogenesis).
+
+In asexual reproduction, although increase in number of genetically alike
+individuals from a parent is very rapid, this is not an adaptive method and may at
+some stage jeopardize the survival of a species. Man has favoured this type of
+reproduction for his own needs, commonly in plants. But now tissue culturing in plants
+and cloning in animals are being adopted for producing organisms of valuable
+characteristics, without a change in their genetic make-up. Cloning has been practiced
+
+successfully but its disadvantages like rapid aging and low resistance to environmental
+stress and diseases are still limitations for commercial ventures. Also it is still not
+being accepted socially and morally in general.
+
+REPRODUCTION IN PLANTS
+
+In plants both sexual and asexual reproduction are found. In asexual reproduction
+layering, grafting, budding etc. are the artificial modes.
+
+In sexual reproduction, plants have diplohaplontic life cycle with alternating
+diploid sporophyte and haploid gametophyte generations. If the two generations are
+vegetatively similar, such alternation of generations is referred to as isomorphic, and if
+they are dissimilar it is called heteromorphic.
+
+Seed plants are predominantly present all around us due to their better sexual
+reproduction mechanism like modification of flower and inflorescence for pollination,
+providing the basis of oasis by pollen tubes, evolution of pollen tube is an
+
+important step in land adaptation by spermatophytes. Pollen tube acts
+as vehicle for male gametes for their safe transport to female gamete in
+ovule in hostile land environment.
+Evolution of pollen tube is parallel to
+the evolution of seed and is a tool of
+success for seed plants.
+
+Fig. 18.1 (b) Spermatophyte life cycles
+(i) Gymnosperm life cycle, Pinus sylvestris
+(ii) Angiosperm life cycle.
+
+Parthenocarpy
+
+In some cases fruit development proceeds without fertilization and thus no seed
+formation takes place e.g. banana, pineapples and some varieties of oranges and grapes.
+Such development is called parthenocarpy. It is due to hormonal imbalance; usually high
+auxin levels occur in these ovaries. Parthenocarpy is sometimes artificially induced for
+commercial purposes, by adding auxins as in tomato, peppers etc.
+
+Seed Dormancy
+
+It is the special condition of rest, which enables an embryo to survive the long
+periods of unfavourable environmental conditions, such as water scarcity, or low
+
+temperature. During this period of rest the embryo ceases or limits its growth. This is
+of great survival importance to the plant in that it prevents the dormant seed
+from germinating in response to conditions such as a warm spell in winter,
+which, although apparently favourable, are only temporary. Germination or
+resumption of normal growth by a dormant embryo requires certain very precise
+combinations of environmental cues, to avoid any accidental stimulus which may
+prove fatal later on.
+
+Fruit set and Fruit ripening
+
+Germinating pollen grain is not only an important structure for safe transfer of
+gametes and insurance for fertilization but also a rich source of auxins as well as
+commonly stimulating the tissues of the style and ovary to produce more auxin. This
+auxin is necessary for ‘fruit set’, i.e. retention of the ovary, which becomes the fruit after
+fertilization. Without it abscission of flowers normally occurs, leading to low fruit yields.
+After fertilization, the ovary and the ripe seeds continue to produce auxins which
+stimulate fruit development. Developing seeds are not only a rich source of auxins and
+gibberellins, but also of cytokinins. These growth substances are mainly associated with
+development of the embryo and accumulation of food reserves in the seed and sometimes
+in the pericarp (fruit wall).
+
+Fruit ripening is often accompanied by a burst of respiratory activity called the
+climacteric. This is associated with ethane production, which helps in ripening of the fruit.
+
+Photoperiodism
+
+Apart from photosynthesis and phototropic responses, another very important
+way in which light exerts its influence on living organisms is through variations in day
+length called photoperiod. In plants, photoperiod and temperature affect flowering, fruit
+and seed production, bud and seed dormancy, leaf fall and germination.
+
+Photoperiod affects flowering, when shoot meristems start producing floral buds
+instead of leaves and lateral buds.
+
+Effect of photoperiodism was first studied in 1920 by Garner and Allard. They
+studied that tobacco plant flowers only after exposure to a series of short days. Tobacco
+plant naturally flowers under same conditions, in autumn, but flowering could be induced
+by conditions artificially exposing to short days. With further studies they were able to
+classify flowering plants into long-day plants, which require long days for flowering and
+day-neutral plants which flower without being influenced by photoperiod.
+
+Later on, further studies indicated that it is really the length of the dark period
+which is critical. Thus short-day plants are really long-night plants. If they are grown in
+short days but the long night is interrupted by a short light period, flowering is
+
+prevented. Long-day plants will flower in short nights if the long night period is
+
+Table 18.1 (a) Classification of plants according to photoperiodic
+requirements for flowering
+
+Short-day plants (SDPs) | Long-day plants (LDPs) | Day-neutral plants (DNPs)
+Flowering induced by dark | Flowering induced by | Flowering independent of
+periods longer than a | dark periods shorter than a | photoperiod.
+critical length, e.g. | critical length, e.g. |
+cocklebur 8.5 h; tobacco | henbane 13 h; | e.g. cucumber; tomato,
+10–11 h. | snapdragon 11–13 h. | garden pea, maize, cotton.
+
+(Under natural conditions equivalent to days shorter than a critical length,
+e.g. cocklebur 15.5 h; tobacco 13–14 h) etc.
+
+Table 18.1 (b) Some phytochrome-controlled responses in plants.
+
+General process effected
+Germination - Germination of some seeds e.g. some lettuce varieties.
+Germination of fern spores.
+Photomorphogenesis (light-controlled development of form and structure) - Leaf expansion in dicotyledons; leaf unrolling in grasses (monocotyledons).
+Chloroplast development.
+Greening (protochlorophyll converted to chlorophyll).
+Photoperiodism - Stimulates or inhibits flowering depending on species.
+
+Further experimentation also revealed that quantity of light is also influenced by
+the quality of light. Cocklebur, a short day plant, will not flower if its long night is
+interrupted but experiments revealed that red light was effective in preventing flowering.
+Far-red light reversed the effect of red light. It was also observed that the sequence of
+light treatment always determines the response. This response to light intensity and
+quality led to the discovery of blue light sensitive protein pigments — phytochromes.
+
+Phytochrome exists in two forms i.e. P660 and P730. P660, a quiescent form,
+absorbs red light at a wavelength of 660 nm and is converted to active P730. P730
+absorbs far red light at 730 nm and is converted to P660. In nature, the P660 to P730
+conversion takes place in daylight and P730 to P660 conversion occurs in the dark.
+Thus during the day a plant has more P730 phytochromes while during the night it contains
+more phytochromes in the form of P660. The presence of either form provides the plants
+with a means of detecting whether it is in a light or dark environment. The rate at which P
+730 is converted to P660 provides the plant with a “clock” for measuring the duration of
+darkness.
+
+It has been found that red light inhibits flowering in short day plants but
+promotes flowering in long day plants, under conditions during which flowering normally
+takes place. This observation led to the hypothesis that the P730–P660 interconversion
+might be the plant time-regulator for flowering. According to this hypothesis, P730,
+converted from P660 by the absorption of red light, would inhibit flowering in short day
+plants but promote flowering in long day plants. Because P730 accumulates in the day
+and diminishes at night, short day plants could flower only if the night were long enough,
+during which a great amount of P730 would not be completely inactivated, so that
+enough P730 would remain at the end of the night to promote flowering. But now it is
+generally agreed that the time measuring phenomenon of flowering is not totally
+controlled by the interconversion of P660 to P730. Other factors, like presence or
+absence of light, and length of dark or light period also play an important role in
+flowering. Phytochromes seem to be responsible for the detection of either light or
+darkness. The biological clock once stimulated causes production of florigen hormone in
+leaves, which travels through phloem to the floral buds, initiating flowering.
+
+Perennials and biennial plants are stimulated to flower by exposure to low
+temperature. This is called vernalisation. The low temperature stimulus is received by
+the apex of a mature stem or embryo of the seed but not by the leaves as in some
+plants. In some plants, vernalisation is an absolute requirement or in some cases it
+simply accelerates induction of flowering. The duration of low temperature (chilling) treatment
+required varies from four days to three months. Temperature around 4°C is found to be
+effective. Vernalisation serves to synchronise the reproductive
+environment, ensuring reproduction at favourable times of
+
+the year. They also ensure that members of the same species flower at the same time,
+encouraging cross pollination for genetic variability.
+
+REPRODUCTION IN ANIMALS
+
+Animals like plants also reproduce both asexually as well as sexually. But
+asexual reproduction is less common in animals as compared to plants. Binary fission,
+multiple fission (animal-like protoctists), budding (Hydra), parthenogenesis, tissue
+culturing, cloning and identical twins are the common asexual methods of reproduction.
+
+Parthenogenesis is defined as the development of an egg without fertilization. In honey bee males are
+good examples. In the honeybees, males (or drones) develop from unfertilized eggs. The queen bee, though carrying male gametes from males, has the
+ability to lay eggs that have not been fertilized. The sperms she receives from a drone bee
+are stored in a pouch closed off by a valve. The eggs may be fertilized or may not be
+fertilized from the stored sperms. The haploid egg develops into haploid offspring; this is
+called haploid parthenogenesis.
+
+In some cases e.g. in aphids, diploid parthenogenesis may occur, in which the egg-
+producing cells of the female undergo a modified form of meiosis involving either
+no reduction in the number of chromosomes; they retain the diploid number
+of chromosomes. Egg (diploid) develops into a functional embryo in the absence of a
+male gamete. The rest of the ovule develops into the seed and the ovary
+into the fruit.
+
+TISSUE CULTURING AND CLONING
+
+In tissue culturing technique in plants, cambium tissue excised from plants can
+be stimulated by the addition of nutrients, cytokinins, and IAA (indole acetic acid). These
+cells show continued growth and differentiate into a new plant, genetically identical to
+their parents.
+
+Tissue culture is now widely used for the rapid propagation of desired varieties
+or for varieties difficult to propagate by cuttings. Similar techniques have been developed
+for the tissue culture of animal cells.
+
+Organisms produced from a single cell by subculturing (cloning) are called
+clones. In animals and especially among vertebrates, a nucleus from the somatic cell is
+removed and introduced into an egg cell, whose own nucleus has been destroyed by ultra-
+violet radiation. The egg with transplanted diploid somatic cell nucleus develops into an
+organism, genetically identical to the parent who has contributed the nucleus.
+
+The cloning of desirable animals such as prize bulls, race horses etc. might be as
+useful as cloning of useful varieties of plants.
+
+However, the application of the technique to humans would be open to serious
+moral questions. Theoretically any number of genetically identical copies of the same
+man or woman might be made.
+
+The use of cloned cells allows the quantitative study of the action of hormones,
+drugs and antibodies to be made on cells. Such a technique is a useful substitute for
+investigating the effect of drugs, cosmetics and pharmaceutical products on animal cells
+without exposing laboratory animals to these chemicals.
+
+Cloning has the advantage that all the offspring behave similarly, but should an
+environmental hazard develop (like an outbreak of a disease), non-resistant strains are
+present to lessen the impact. Also the degree to which environment influences clone
+development is not fully known and any cloned cell would have to go through all the
+phases of development once again including embryo, fetus, baby and childhood (in case
+of human beings).
+
+IDENTICAL TWINS
+
+In higher vertebrates including man, a zygote after fertilization undergoes
+cleavage (cell division by mitosis). When embryo is at two-celled stage, the two
+blastomeres, instead of remaining together, may separate and behave as two independent
+units each giving rise to a new individual. Both the organisms are products of mitosis,
+
+and as they have identical genetic make-up they are called identical twins. In some cases, more than one egg is produced by the female and all these eggs
+are independently fertilized forming two or more zygotes. These zygotes develop into new
+individuals but with different genetic combinations. Such twins or triplets are called
+fraternal twins or triplets. They are produced sexually.
+
+SEXUAL REPRODUCTION
+
+Sexual reproduction is more advanced than asexual method of reproduction and is a primitive form of
+life in early stages. At a later stage, a mechanism evolved
+involving union of gametes. Meiosis and genetic recombination played a role in the
+development of more complex forms of life and types of gametes, from
+non-motile female gametes (eggs, ova) to motile male gametes (sperm). Sexual reproduction
+is elaborated in the following table 18.2:
+
+Table 18.2
+
+Asexual reproduction | Sexual reproduction
+One parent only. | Usually two parents.
+No gametes are produced. | Gametes are produced. These are haploid
+and nuclei of two gametes fuse |
+(fertilization) to form a diploid zygote.
+Meiosis absent. | Meiosis is present at some stage in life
+cycle to prevent chromosome doubling in
+every generation.
+Offspring identical to parent. | Offspring are not identical to parents.
+They show genetic variation as a result of
+genetic recombination.
+Commonly occurs in plants, less | Occurs in the majority of plant and
+differentiated animals and micro-organisms. | animal species.
+Absent in more differentiated animals.
+Often results in rapid production of large | Less rapid increase in number.
+numbers of offspring.
+
+Both in animals and plants, evolution of sexual reproduction also lead to the
+differentiation of sexes (male or female). Organisms are either having one sex (unisexual)
+or both the sexes (hermaphrodite or bisexual). Advanced mode of sexual reproduction has
+unisexuality in animals but in plants bisexuality in general is retained. Despite the
+bisexuality (tape worm, earthworm etc.), cross fertilization is ensured for maintaining the
+advantage of genetic recombination.
+
+Fertilization is the process which leads to the union of gametes. Fertilization may
+occur outside the body (external fertilization) or inside the body of the female (internal
+fertilization).
+
+External fertilization occurs in aquatic environment where male gametes can
+swim towards the female gametes in water medium. Development is also external due to
+the constant/stable conditions of water (frog, fish etc.)
+
+In terrestrial conditions fertilization is internal. Sperms are lodged in the female
+body where fertilization occurs. This may lead to external development as in reptiles and
+birds. They lay shelled eggs to protect the developing embryo from harsh terrestrial
+conditions. Such animals are called oviparous.
+
+In mammals, internal fertilization leads to internal development and development
+of embryo is accomplished inside the female body, which gives birth to young ones — such
+animals are called viviparous.
+
+In some mammals like duckbill platypus and spiny anteater internal fertilization
+leads to internal development of young one in a shelled egg and when development is
+completed, shelled egg is laid which hatches to offspring. This is called ovoviviparous
+condition.
+
+Viviparous and ovoviviparous animals provide more protection to their young
+ones during development. Nourishment is provided either through stored food in the egg
+or through placenta by the mother.
+
+REPRODUCTION IN MAN
+
+Male and female have separate reproductive systems.
+
+(a) Male Reproductive System
+
+Male reproductive system consists of external genitalia which consist of a pair of
+testes which lie outside the body, in the sac-like scrotum and male copulatory organ
+which is used to transfer the sperms into the female reproductive tract. Each testis
+consists of a highly complex duct system called seminiferous tubules, in which repeated
+division by the cells of the germinal epithelium produce spermatogonia. These increase in
+size and differentiate into primary spermatocytes which undergo meiotic division to form
+secondary spermatocytes and spermatids. Eventually, the spermatids differentiate into
+mature sperms. Fluid secreted by Sertoli cells provides liquid medium, protection and
+nourishment to sperms while they are in the tubules (Fig 18.2 a,b, Fig. 18.3). The sperms are
+then transferred to the main duct of the male reproductive tract, the vas deferens, which
+forms highly convoluted epididymis. The sperms then pass through the urinogenital duct and
+are discharged out.
+
+Fig. 18.2 The human male reproductive system.
+The male reproductive system consists of two testes that produce sperms, ducts that carry the
+sperms, and various glands.
+
+Between the seminiferous tubules are interstitial cells which secrete testosterone.
+This hormone is essential for the successful production of sperms and also contributes to the
+development of male secondary sexual characteristics during puberty.
+
+(b) Female Reproductive System
+
+The female reproductive system consists of the ovaries, the oviducts, uterus and
+the external genitalia (Fig. 18.4).
+
+A pair of ovaries lies within the body cavity of the female. Germ cells in the
+ovary produce many oogonia which divide mitotically to form primary oocytes. These
+are enclosed in groups of follicle cells. The primary oocyte divides meiotically into the
+haploid secondary oocyte and first polar body. Second meiotic division in the oocyte
+proceeds as far as metaphase but is not completed until the oocyte is fertilized by the
+sperm. In human only one ovum is usually discharged from the ovary at one time, this
+phenomenon is called ovulation.
+
+The ovum is then transferred to the oviduct generally called fallopian tube or
+uterine tube. The uterine tube opens into the uterus. The fertilization of the ovum takes
+place in the proximal part of the oviduct. The fertilized ovum (zygote) enters the uterus
+and implants (implantation/conception) and undergoes further development. A placenta is
+established between the uterine and foetal tissues for the exchange of oxygen,
+nutrients and other materials. Uterus opens into the vagina through the cervix. The vagina has independent openings to the exterior.
+
+Gamete formation in females is cyclic. In females the production of egg is a cyclic activity compared to males in whom gamete production and release is a continuous process
+beginning at puberty and lasting throughout life.
+
+In human females, the periodic reproductive cycle is completed in approximately
+28 days and involves changes in the structure and function of the whole reproductive
+system. It is called the menstrual cycle and can be divided into four phases. The events
+of the menstrual cycle involve the ovaries (ovarian cycle) and the uterus (uterine cycle)
+and these are regulated by pituitary gonadotropins.
+
+Primary steps in female reproductive cycles are:
+(i) The pituitary gland on the onset of puberty, releases follicle stimulating hormone
+(FSH) which stimulates the development of several primary follicles. Only one of
+these follicles continues to grow with its primary oocyte while the rest break
+down by a degenerative process known as follicle atresia.
+(ii) The ovary, under the stimulus of FSH, also produces estrogen hormone. This, on
+one hand, stimulates the endometrium (internal lining of the uterus wall) and
+vascularizes it, and on the other hand, inhibits the secretion of FSH from pituitary gland.
+(iii) The estrogen production prepares the uterus for conception partly and also follicle
+develops ova. At this stage, female needs a physical stimulus of mating for
+ovulation. She exhibits the desire for mating or is said to be on “heat”.
+(iv) The follicle cells, after release of the egg, are modified to form a special structure
+called corpus luteum. This yellowish glandular structure starts secreting
+a hormone called progesterone. This hormone develops the endometrium and makes
+it receptive for the implantation of the zygote (placenta formation).
+(v) If fertilization does not occur, the corpus luteum starts degenerating. The
+progesterone secretion diminishes and its supporting effect on the endometrium
+is reduced, which suffers a breakdown. This causes the discharge
+of blood and cell debris known as menstruation. This stage usually lasts for 3–7
+days (Fig 18.5).
+
+The cycle is thus completed and the uterus is ready to enter into the next cycle.
+The human menstrual cycle generally repeats every 25–30 days although there is
+considerable variation in different individuals or even within the same individual at
+different times of her age. The end or complete stop of the menstrual cycle is called
+menopause, after which the female stops producing the ova.
+
+Malnourishment and emotional stresses affect the female reproductive cycle,
+which may be disturbed. The cycle may not be completed in its normal 28 days.
+
+[Diagram of ovarian and uterine cycles]
+
+The ovarian and uterine cycles in human female.
+
+The timing of ovulation is timed to coincide with the thickening of the lining
+of the uterus. The uterine cycle in humans involves the preparation of the uterine wall to receive
+a fertilized ovum if fertilization occurs. Knowing how these two cycles compare, it is possible to
+determine when pregnancy is most likely to occur.
+
+Birth
+
+The total gestation period (pregnancy) is usually about 280 days.
+
+Once a placenta is established, it starts secreting the progesterone hormone
+which maintains the pregnancy. Any disturbance in its secretion may lead to premature
+birth or miscarriage. Human embryo remains enclosed in amniotic sac filled with
+amniotic fluid which is protective and shock absorptive.
+
+During this period the pituitary gland produces luteotropic hormone (LTH). Placenta
+also secretes placental lactogen. Both these hormones stimulate mammary
+gland development for lactation.
+
+From beginning of the 3rd month of pregnancy, the human embryo is referred to
+as the fetus. Most of the major organs are formed by the 12th week of pregnancy and the
+remainder of the gestation period is taken up by growth.
+
+It was thought that hormonal activities within the mother i.e. decrease in
+progesterone level onset the birth. But recent evidence suggests that there is a high degree
+of fetal involvement in the timing of birth. The initial stage of birth is the result of the
+stimuli from the fetal pituitary. The ACTH released from fetal pituitary stimulates the fetal
+adrenal gland to release corticosteroids, which cross the placental barrier and enter the
+maternal blood circulation causing a decrease in progesterone production. The reduction
+of progesterone level stimulates the pituitary gland to produce oxytocin hormone. This
+induces labour pains, i.e. contraction of the uterus wall. The release of
+oxytocin occurs in waves during labour and provides the force to
+expel the fetus from the uterus. The cervix dilates and the uterine
+contractions spread down over the uterus and are strongest from top to
+bottom. Thus, pushing the baby downward leading to the delivery of
+the baby. The umbilical cord is ligated and baby is released from the
+mother.
+
+Within 10–45 minutes after birth, the uterus contracts and separates the placenta
+from the wall of the uterus and placenta then passes out through the vagina. This is called after birth. Bleeding, throughout this period, is controlled by the contraction of smooth
+muscle fibers which completely surround all uterine blood vessels supplying the placenta.
+Average loss of blood is about 350 cm³.
+
+TEST TUBE BABIES
+
+Recent biotechnical advances have led to many improvements in human life.
+One of the important aspects is the test tube babies. Parents which are unable to enjoy the
+normal process of fertilization and birth of their offspring due to some physiological and
+physical abnormalities in any of the two parents are being benefited with this method.
+Parental sperm and ovum are fertilized in vitro — outside the female body and then
+the zygote is implanted back into the mother's uterus, placenta establishes and remaining
+development takes place in the body of the mother leading to normal birth.
+
+SEXUALLY TRANSMITTED DISEASES (STD)
+
+Unhealthy attitudes and low moral values sometimes lead to serious
+complications. The carrier may transmit this disease to their healthy partners.
+
+(i) Gonorrhoea
+It is caused by a gram-negative bacterium Neisseria gonorrhoeae, mainly
+affecting the mucous membrane of urinogenital tract. New born infants may acquire
+serious eye infections if they pass through the infected birth canal. It is highly contagious
+through sexual contacts.
+
+(ii) Syphilis
+It is caused by a spirochaete, Treponema pallidum. It damages the reproductive
+organs, eyes, bones, joints, central nervous system, heart and skin. Sexual contact is the
+major source of its dissemination.
+
+(iii) Genital Herpes
+It is caused by a herpes simplex type 2 virus, most frequently transmitted by
+sexual contact causing infection of the genitalia. It produces genital soreness and ulcers in
+the infected areas. In infected pregnant woman, virus can be transmitted to infant during
+birth, causing damage to eyes and CNS of the infant.
+
+AIDS (Acquired Immune Deficiency Syndrome)
+
+You are already familiar with this dangerous disease. Sexual contact is one of the
+causes of its spread.
+
+The above dreadful sexual diseases can be controlled and prevented by
+avoiding sexual contacts with carrier or diseased person and adopting hygienic
+conditions. Treatment involves medication for a long period except AIDS at present.

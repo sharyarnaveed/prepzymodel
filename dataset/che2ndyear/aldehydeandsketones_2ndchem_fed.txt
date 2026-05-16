@@ -1,0 +1,320 @@
+aldehydeandsketones_2ndchem_fed.txt
+
+After completing this lesson, you will be able to:
+Explain nomenclature and structure of aldehydes and ketones.
+Discuss the preparation of aldehydes and ketones by ozonolysis of alkene, hydration of alkynes, oxidation of alcohols and Friedel Craft's acylation of aromatics.
+Describe reactivity of aldehydes and ketones and their comparison.
+Describe acid and base catalyzed nucleophilic addition reaction of aldehydes and ketones.
+Discuss the chemistry of aldehydes and ketones by their reduction to alcohols and hydrocarbons, by using carbon nucleophiles, nitrogen nucleophiles and oxygen nucleophiles.
+Describe oxidation reactions of aldehydes and ketones.
+Describe isomerism in aldehydes and ketones.
+
+Organic compounds containing the carbonyl functional group are called aldehydes and ketones.
+
+Aldehydes:
+In aldehydes, the C atom of carbonyl group is attached to at least one H atom.
+General formula: CnH2nO or RCHO.
+
+Ketones:
+In ketones, the C atom of carbonyl group is attached to two alkyl or aryl groups.
+General formula: CnH2nO or RCOR'.
+
+An aldehyde may be represented by the general structure: R-CHO.
+A ketone may be represented by the general structures: RCOR', R-CO-R', Ar-CO-Ar, Ar-CO-R.
+
+Examples:
+Formaldehyde (HCHO), Acetaldehyde (CH3CHO), Benzaldehyde (C6H5CHO).
+Acetone (CH3COCH3), Acetophenone (C6H5COCH3), Benzophenone (C6H5COC6H5).
+
+19.1 NOMENCLATURE
+Aldehydes:
+(a) Common names
+For naming substituted aldehyde, the chain is labeled by using alpha, beta, gamma, etc. The carbon next to the carbon of the carbonyl group is indicated by ‘alpha’ and so on.
+Formaldehyde
+Acetaldehyde
+Alpha-methyl propionaldehyde
+Beta-chloro-alpha-methyl propionaldehyde.
+
+(b) IUPAC Names
+1. Select the longest continuous chain of carbon atoms containing aldehydic group as parent chain.
+2. The ending ‘e’ of the alkane is replaced by ‘al’.
+3. The numbering starts from the carbon atom of the carbonyl group. The carbon atom of aldehyde group is always carbon number 1.
+4. The position of the substituent is indicated by numbers which are written before their names.
+Examples:
+Propanal
+2-Methyl propanal
+4-Bromo-4-methyl pentanal.
+
+Ketones:
+(a) Common names
+Ketones are named by adding the word ketone after writing the names of alkyl or aryl groups linked to carbonyl carbon in alphabetical order.
+Dimethyl Ketone (Acetone)
+Ethyl methyl Ketone.
+Substituted ketones are named by labelling the chain using alpha, beta, gamma, etc. The carbon next to the carbonyl group is indicated by ‘alpha’ and so on.
+Alpha-hydroxy-methyl ethyl ketone
+Methyl beta-chloroethyl ketone.
+
+(b) IUPAC Names
+1. The longest chain containing the carbonyl group is taken as parent hydrocarbon.
+2. The ending ‘e’ of hydrocarbon is replaced by ‘one’.
+3. The numbering starts from the end that gives the carbonyl carbon the lower number. In cyclic ketones, carbonyl carbon is number 1.
+4. The positions of substituent are indicated by numbers before their names.
+Examples:
+2-Methyl-3-hexanone
+4-Bromo-2-butanone
+3-Methyl cyclohexanone
+2,6-Dimethyl cyclohexanone.
+
+Quick Quiz 1
+(i) Draw structures of the following compounds:
+(a) 2-Hexenal
+(b) 2,4-Dimethyl pentanal
+(c) 4-Bromo-2-butanone.
+
+19.2 PHYSICAL PROPERTIES
+The polar nature of the carbonyl (C=O) group (due to the electronegativity difference of the two atoms) means dipole-dipole interactions will occur.
+Though C=O cannot form hydrogen bonds to each other, the C=O can accept hydrogen bonds from hydrogen bond donors (e.g. water, alcohols).
+
+The implications of these effects are:
+Higher melting and boiling points compared to analogous alkanes.
+Lower boiling points than analogous alcohols.
+More soluble than alkanes but less soluble than alcohols in aqueous media.
+
+19.3 PREPARATIONS OF ALDEHYDES AND KETONES
+19.3.1 Ozonolysis of Alkenes
+Alkenes react with ozone in the presence of dry ether to form ozonide. These ozonides are decomposed with zinc and boiling water to form aldehydes and ketones.
+Mechanism:
+Alkene + O3 -> Ozonide -> (Zn/H2O) -> Aldehydes/Ketones.
+If the alkene has no branching at the double bond then it produces aldehydes. This reaction is used to locate the position of double bond.
+
+19.3.2 Hydration of Alkynes
+When alkynes are treated with water in the presence of H2SO4 and HgSO4, aldehydes and ketones are formed. The vinyl alcohol, that is initially produced, rearranges.
+Acetylene gives acetaldehyde.
+Propyne gives acetone.
+This reaction is useful for preparing methyl aryl ketones.
+
+19.3.3 Oxidation of Primary and Secondary Alcohols
+Primary alcohols are oxidized to aldehydes by warming with acidic potassium dichromate solution, while secondary alcohols are oxidized to ketones.
+Butanol -> Butanal.
+Benzyl alcohol -> Benzaldehyde.
+2-Propanol -> Acetone.
+
+19.3.4 Friedel-Crafts Acylation of Benzene
+Aromatic ketones can be obtained by treating benzene with acid halide (-COCl) in the presence of anhydrous AlCl3.
+Benzene + R-COCl -> Alkyl aryl ketone + HCl.
+
+19.4 REACTIVITY
+The double bond of the carbonyl group (C=O) has a sigma bond and a pi bond. As oxygen is more electronegative, it attracts the pi-electrons to itself. Therefore, the C=O bond is strongly polar.
+Hence, carbonyl carbon is electrophilic and is likely to be attacked by a nucleophile like CN-. Therefore, carbonyl compounds undergo nucleophilic addition reactions.
+
+19.4.1 Relative Reactivity of Aldehydes and Ketones
+The reactivity of aldehydes and ketones is due to two important resonance structures which have charge separation with a positive carbon and negative oxygen.
+In general, the reactivity order towards nucleophiles is: aldehydes > ketones.
+The substituents have two contributing factors on the reactivity at the carbonyl carbon:
+The size of the substituents attached to the C=O. Larger groups will tend to sterically hinder the approach of the nucleophile.
+The electronic effect of the substituent. Alkyl groups are weakly electron donating so they make the carbon in the carbonyl less electrophilic and therefore less reactive towards nucleophiles.
+
+19.5 REACTIONS OF ALDEHYDES AND KETONES
+19.5.1 Nucleophilic Addition Reactions
+There are two types of nucleophilic addition reactions of carbonyl compounds:
+I- Base catalyzed nucleophilic addition reaction.
+II- Acid catalyzed nucleophilic addition reaction.
+
+I- Base Catalyzed Nucleophilic Addition Reaction
+A base catalyzed nucleophilic addition reaction takes place with a strong nucleophilic reagent. The base reacts with the reagent and generates the nucleophile. The addition is initiated by the attack of a nucleophile on the electrophilic carbon of the carbonyl group.
+General Mechanism:
+Base + H-Nu -> Nu- + H2O.
+Nu- + C=O -> Intermediate -> Product + OH-.
+There are five types of base catalyzed nucleophilic addition reactions of carbonyl compounds:
+1. Addition of hydrogen cyanide.
+2. Addition of Grignard’s reagent.
+3. Addition of sodium bisulphite.
+4. Condensation reactions.
+5. Haloform reactions.
+
+1. Addition of hydrogen cyanide
+Hydrogen cyanide adds to aldehydes and ketones to form cyanohydrins. The acid HCN is obtained from the reaction of sodium cyanide and HCl.
+NaCN + HCl -> HCN + NaCl.
+The reaction is used in the synthesis of a hydroxy acid that contains one carbon atom more than the number of carbon atoms in the starting aldehydes or ketones.
+Formaldehyde -> Formaldehyde cyanohydrin.
+Acetaldehyde -> Acetaldehyde cyanohydrin.
+Acetone -> Acetone cyanohydrin.
+
+Mechanism:
+The base (OH-) generates cyanide ions which act as nucleophile. The hydroxide ion reacts with hydrogen cyanide to produce cyanide ions, which in turn react with carbonyl compound.
+
+2. Addition of Grignard’s reagent
+Grignard’s reagents add to aldehydes and ketones to form adduct which on hydrolysis with a dilute mineral acid gives alcohols. (Chapter 17)
+
+3. Addition of sodium bisulphite
+Aldehydes and small methyl ketones react with a saturated aqueous solution of sodium bisulphite to form a crystalline white precipitate of sodium bisulphite adduct.
+Formaldehyde -> Formaldehyde bisulphite addition product.
+Acetaldehyde -> Acetaldehyde bisulphite addition product.
+Acetone -> Acetone bisulphite addition product.
+The bisulphite adduct on heating with a dilute mineral acid (HCl or H2SO4) regenerates the parent aldehyde or ketone.
+The reaction is used for the separation and purification of carbonyl compounds from non-carbonyl compounds such as alcohols.
+
+4. Condensation reactions
+The reaction in which two molecules of the same or different compounds combine to form a new compound with or without the elimination of a small molecule like H2O or NH3 are called condensation reactions.
+
+(a) ALDOL CONDENSATION
+Definition:
+Aldol condensation is a reaction in which two molecules of same or different carbonyl compound containing alpha hydrogen (hydrogen attached to the carbon atom next to carbonyl group) combine to form aldol or ketol, which usually loses water molecule.
+Mild Alkaline conditions:
+Aldol condensation takes place under mild alkaline conditions. For example, in the presence of sodium carbonate, sodium bicarbonate, barium hydroxide, dilute sodium hydroxide or an alkoxide in low concentration.
+Types:
+Aldol condensation can occur:
+(i) Between two aldehydes (identical or different)
+(ii) Between an aldehyde and a ketone
+(iii) Between two ketones (identical or different).
+
+(i) Condensation between two aldehydes:
+Ethanal + Ethanal -> Aldol (3-hydroxybutanal).
+On heating aldol loses a molecule of water to form an alpha, beta-unsaturated aldehyde.
+Aldol -> Crotonaldehyde (2-butenal).
+
+(ii) Condensation between aldehyde and ketone:
+Ethanal + Propanone -> 4-Hydroxy-2-pentanone (ketol).
+
+Mechanism of Aldol Condensation:
+Following steps are involved in aldol condensation.
+(1) Removal of a proton from alpha-carbon of aldehyde/ketone by base: (Formation of nucleophile)
+(2) Attack of nucleophile on carbonyl carbon to form alkoxide ion: (Formation of alkoxide ion)
+(3) Removal of proton from water by alkoxide ion: (Formation of aldol)
+
+(b) CANNIZZARO’S REACTION
+Aldehydes having no alpha-hydrogen atoms undergo Cannizzaro’s reaction. It is a disproportionation (same element is being oxidized as well as reduced) reaction. Two molecules of the aldehyde are involved.
+Formaldehyde + Conc. KOH -> Methanol + Potassium formate.
+Benzaldehyde + Conc. NaOH -> Benzyl alcohol + Sodium benzoate.
+The reaction is carried out with 50% aqueous solution of sodium hydroxide/potassium hydroxide at room temperature.
+
+Mechanism of Cannizzaro’s Reaction:
+The hydroxide ion acts as a nucleophile. It attacks the electrophilic carbonyl carbon to form a complex anion.
+The anion transfers a hydride ion to a second molecule of formaldehyde.
+The methoxide ion acts as a base and abstracts a proton from formic acid to form methanol and formate ion.
+The formate ion in the presence of alkali gives a salt of acid.
+
+5) Haloform Reaction (Iodoform test)
+The carbonyl compounds containing CH3CO- group on reaction with iodine in the presence of alkali such as an aqueous NaOH forms a yellow crystalline solid called iodoform (CHI3).
+Chemical Equation:
+Organic compound + I2 + NaOH -> CHI3 + RCOONa + NaI + H2O.
+This test is given by alcohols, aldehydes and ketones.
+Examples:
+In primary alcohol only ethanol will give this test positive.
+In secondary alcohols having H3C-CH(OH)- group will give this test.
+This test is not given by tertiary alcohol.
+In aldehydes only ethanal will give this test positive.
+In ketones only methyl ketones will give this test.
+Note: Iodoform test is used for distinguishing methyl ketones from other ketones. It is also used to distinguish ethanol from methanol and other primary alcohols. It can be used to distinguish acetaldehyde from other aldehydes.
+
+II- ACID CATALYZED NUCLEOPHILIC ADDITION REACTIONS
+Acid increases the electrophilic character of the carbonyl carbon and the attack of the weaker nucleophile on the electrophilic carbon becomes easy.
+General mechanism:
+These are of three types:
+1. Polymerization of aldehydes.
+2. Nucleophilic addition of ammonia derivatives with aldehydes/ketones.
+3. Addition of alcohols with aldehydes.
+
+1. Polymerization of aldehydes:
+Both formaldehyde and acetaldehyde polymerize in the presence of dil. H2SO4 to give metaformaldehyde and paraldehyde respectively.
+
+2. Nucleophilic addition reaction of carbonyl compounds with ammonia derivatives:
+Aldehydes and ketones react with ammonia derivatives, G-NH2, to form compounds containing the group >C=N-G and water. The reaction is known as condensation reaction or addition-elimination reaction because water is lost after addition occurs.
+General Reaction:
+Where G = -OH, -NH2, -NHC6H5, -NHCONH2, etc.
+(i) Reaction with hydroxylamine:
+Aldehydes and ketones react with hydroxylamine to form oximes in the presence of an acid.
+Ethanal -> Ethanal oxime.
+Propanone -> Propanone oxime.
+
+(ii) Reaction with hydrazine:
+Aldehydes and ketones react with hydrazine to form hydrazone in the presence of an acid.
+Acetaldehyde -> Acetaldehyde hydrazone.
+Acetone -> Acetone hydrazone.
+
+(iii) Reaction with Phenyl hydrazine:
+Aldehydes and ketones react with phenylhydrazine to form phenylhydrazones in the presence of an acid.
+Where R may be alkyl group or H atom.
+
+(iv) Reaction with 2,4-dinitrophenyl hydrazine:
+Aldehydes and ketones react with 2,4-dinitrophenylhydrazine (2,4-DNPH) in the presence of an acid as a catalyst to form a yellow or orange precipitate of 2,4-dinitrophenylhydrazone.
+This is the identifying test of aldehydes and ketones.
+Where R and R' may be Alkyl group or H atom.
+
+Mechanism of the Reaction of ammonia derivatives:
+Step (i) Protonation of oxygen of the carbonyl group.
+Step (ii) Nucleophilic attack of nitrogen of ammonia derivative on the electrophilic positively charged carbon and deprotonation of the adduct.
+Step (iii) Protonation of oxygen of hydroxyl group followed by the removal of water.
+
+3. Addition of alcohols with aldehydes:
+Aldehydes combine with alcohols in the presence of hydrogen chloride gas to form acetals. The hydrogen chloride acts as a catalyst.
+Acetaldehyde + 2 C2H5OH -> 1,1-Diethoxyethane + H2O.
+The reaction may be used to protect the aldehyde group against alkaline oxidizing agents. To regenerate aldehyde, the acetal is hydrolyzed in the presence of an acid.
+Note: Ketones do not react under these conditions.
+
+19.6.2 Reduction of Aldehydes and Ketones
+1. Reduction to Hydrocarbons:
+Aldehyde and ketone can be reduced to a saturated hydrocarbon by the following two methods:
+(i) Clemmensen Reduction (acidic conditions):
+In this reaction Zn(Hg) in HCl reduces the C=O group of an aldehyde or ketone into -CH2- group.
+Ethanal -> Ethane.
+Propanal -> Propane.
+
+(ii) Wolff-Kishner Reduction (basic conditions):
+In this reaction NH2NH2 / KOH / ethylene glycol reduces the C=O of an aldehyde or ketone into -CH2- group.
+These reduction methods do not reduce C=C, C≡C or -CO2H.
+
+2. Hydride Reductions of Aldehydes and Ketones:
+When reducing agents such as sodium tetrahydridoborate (NaBH4) or Lithium tetrahydridoaluminate (LiAlH4) are added to aldehydes or ketones, they are converted to primary or secondary alcohols.
+The BH4- and the AlH4- ion acts as a source of H- ion (hydride ion). NaBH4 is a weak reducing agent while LiAlH4 is a strong reducing agent. During this reaction carbonyl group (C=O) of aldehyde and ketone is converted to CH(OH).
+Methanal -> Methanol.
+Ketone -> Secondary Alcohol.
+Ethanal -> Ethanol.
+Propanone -> 2-Propanol.
+
+3. Cyanohydrin Formation (Using Carbon Nucleophiles):
+Cyanide ion adds to aldehydes or ketones to give a cyanohydrin.
+The reaction is usually carried out using NaCN or KCN with HCl.
+HCN is a fairly weak acid, but very toxic.
+Step 1: Addition of Cyanide to an Aldehyde.
+The nucleophilic C in the cyanide adds to the electrophilic C in the polar carbonyl group, electrons from the C=O move to the electronegative O creating an intermediate alkoxide.
+Step 2: An acid/base reaction. Protonation of the alkoxide oxygen creates the cyanohydrin product.
+
+4. Using Nitrogen Nucleophiles:
+Primary amines, R-NH2 or ArNH2, undergo nucleophilic addition with aldehydes or ketones to give carbinolamines which then dehydrate to give substituted imines.
+The reactions are usually carried out in an acidic buffer to activate the C=O and facilitate dehydration but without inhibiting the nucleophile.
+
+5. Using Oxygen Nucleophiles:
+Aldehydes and ketones react with water to give 1,1-geminal diols known as hydrates.
+In general, hydrates are not stable enough to be isolated as the equilibrium shifts back to starting materials.
+
+19.6.4 Oxidation Reactions
+I. Oxidation of Aldehydes:
+They are easily oxidized by strong oxidizing agents such as K2Cr2O7/ H2SO4, KMnO4/ H2SO4, and dilute nitric acid.
+Acetaldehyde -> Acetic acid.
+Propionaldehyde -> Propionic acid.
+
+II. Oxidation of Ketones:
+Ketones are only oxidized by strong oxidizing agents such as K2Cr2O7/H2SO4, KMnO4/H2SO4 and conc. HNO3. The carbon atom joined to the smaller number of hydrogen atoms is oxidized. In case of symmetrical ketones only one carbon atom adjacent to the carbonyl group is oxidized and a mixture of two carboxylic acids is always obtained.
+Acetone -> Acetic acid + Formic acid.
+However, in case of unsymmetrical ketones, the carbon atom joined to the carbonyl group with the smaller number of hydrogen atoms is preferentially oxidized and the carbonyl group remains with the smaller alkyl group.
+Butanone -> Acetic acid + Acetic acid.
+
+Tests used to distinguish aldehydes and ketones:
+Weak oxidizing agents like Tollen’s reagent, Fehling’s solution and Benedict’s solution easily oxidize aldehydes to carboxylic acids. Ketones are not oxidized by these weak oxidizing agents.
+
+Test 1: Fehling Solution Test:
+Fehling’s solution (a mild oxidizing agent) is an alkaline solution of Cu2+ ions and sodium or potassium tartrate. When Fehling solution is added to an aldehyde, a red ppt of Cu2O is formed. This test is not given by ketones.
+Aldehyde oxidizes to salt of carboxylic acid and Cu2+ reduces itself to form Cu+.
+
+Test 2: Tollen’s Test (Silver mirror test):
+When Tollen's reagent (aqueous Silver nitrate, ammonia and sodium hydroxide) is added to an aldehyde, a ‘silver mirror’ (Ag) is formed. This test is not given by ketones. This test is called silver mirror test.
+
+Society, Technology and Science
+Sugar Glucose and Fructose - Naturally occurring carbonyl compounds.
+Glucose - An example of aldehyde:
+The two forms are readily inter-converted and in aqueous solution about 1% of glucose molecules exist in the open chain form. This form carries an aldehyde group, so glucose has several properties typical of an aldehyde. It is sometimes called an aldose. Thus, in addition to the condensation reaction already mentioned, glucose shows the reducing properties typical of an aldehyde. The reduction of Fehling’s solution (or Benedict’s solution) is a standard test for glucose and other reducing sugars.
+
+Fructose - An example of ketone:
+The open chain form of fructose is a ketose.
+Under the conditions of the tendency of the carbonyl group to undergo nucleophilic addition. The nucleophile is the oxygen atom of one of the -OH groups in the same molecule, resulting in an internal nucleophilic addition reaction, forming a ring.

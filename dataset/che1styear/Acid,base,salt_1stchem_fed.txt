@@ -1,0 +1,436 @@
+
+INTRODUCTION
+Acids were first recognized as substances that taste sour. Vinegar tastes sour because it is a dilute solution of acetic acid. Citric acid is responsible for the sour taste of a lemon. Bases, sometimes called alkalis, are characterized by their bitter taste and slippery feel. Commercial preparations for unclogging drains are highly basic. A salt is an ionic substance that results from the neutralization of an acid and a base. Acid-base chemistry is important in a wide variety of everyday applications. The influence of acids on living things has assumed special importance in recent years due to the phenomenon of acid rain.
+The acids are classified into (i) Mineral acids (ii) organic acids. The organic acids are much weaker than mineral acids. The organic acids are mostly found in vegetables, fruit and other stuffs. Some common organic acids and their appearance in different categories are as follows:
+Where it is found
+Lactic acid - Sour Milk
+Citric acid - Citrus fruits like lemons, oranges
+Tartaric acid - Grape juice
+Malic acid - Apples and pears
+The presence of water is essential for the formation of H⁺, for example HCl is covalent in nature and does not form H⁺ ions. However, it forms H₃O⁺ ions in the presence of H₂O.
+HCl + H₂O → H₃O⁺ + Cl⁻
+Bases form a class of chemical substances including metal oxides and hydroxides. A soluble base is called an alkali and forms OH⁻ ions when dissolved in H₂O. In general, the bases on hydrolysis produce alkali.
+CaO + H₂O → Ca(OH)₂
+Here CaO is basic in nature whereas Ca(OH)₂ is an alkali and a base.
+Alkalis are important in soap and detergent manufacture. Caustic soda (NaOH) is used for this purpose.
+The ionic substance obtained as a result of neutralization of acids and bases are called Salts.
+e.g. HCl + NaOH → NaCl + H₂O
+A salt may be neutral, acidic or basic.
+
+ACIDIC, BASIC AND AMPHOTERIC SUBSTANCES
+The characteristics of acids and bases are well known e.g. acids turn blue litmus red and react with carbonates to evolve carbon dioxide and bases turn red litmus blue. Hydrochloric acid and nitric acid are common examples of acids, and sodium hydroxide and potassium hydroxide are common examples of bases. However, there are certain substances which are not acids or bases themselves but show acidic or basic nature when dissolved in water. For example, there are certain oxides of metals like sodium oxide (Na₂O) and calcium oxide (CaO) which react with water to furnish bases sodium hydroxide (NaOH) and calcium hydroxide [Ca(OH)₂].
+Na₂O(s) + H₂O(l) → 2NaOH(aq)
+CaO(s) + H₂O(l) → Ca(OH)₂(aq)
+Thus, these oxides are basic in nature. On the other hand certain non-metal oxides like carbon dioxide (CO₂), sulphur dioxide (SO₂) and nitrogen pentaoxide (N₂O₅) when react with water yield carbonic acid (H₂CO₃), sulphurous acid (H₂SO₃) and nitric acid (HNO₃). Such oxides are thus acidic in nature.
+CO₂(g) + H₂O(l) → H₂CO₃(aq)
+SO₂(g) + H₂O(l) → H₂SO₃(aq)
+N₂O₅(g) + H₂O(l) → 2HNO₃(aq)
+Certain oxides are on the border line of being acidic or basic. These oxides which tend to be insoluble in water, are soluble in both acids and bases. They are said to be amphoteric in character that is both acidic and basic. For example aluminium oxide (Al₂O₃) is amphoteric and reacts with both acidic and basic solutions:
+(basic) Al₂O₃(s) + 6HCl(aq) → 2AlCl₃(aq) + 3H₂O(l)
+(acidic) Al₂O₃(s) + 2NaOH(aq) → 2NaAlO₂(aq) + H₂O(l)
+Also, chromium trioxide is amphoteric since it reacts with both acids and bases.
+(basic) Cr₂O₃(s) + 6HNO₃(aq) → 2Cr(NO₃)₃(aq) + 3H₂O(l)
+(acidic) Cr₂O₃(s) + 2KOH(aq) → 2KCrO₂(aq) + H₂O(l)
+In addition to oxides, certain salts are also acidic and basic in nature e.g. ammonium chloride (NH₄Cl) is acidic because when dissolved in water it furnishes an acidic solution; potassium carbonate (K₂CO₃) is basic since it yields a basic solution in water.
+NH₄Cl + HOH → NH₄OH + HCl
+K₂CO₃ + 2HOH → 2KOH + H₂CO₃
+
+LOWRY BRONSTED CONCEPTS FOR ACIDS AND BASES
+The concept of acids and bases was further elaborated by J. Bronsted and T. Lowry, independently, by defining them in a different manner. According to these definitions, a Bronsted acid is a proton donor and Bronsted base is a proton acceptor. In this respect, a proton is defined as the nucleus of a hydrogen atom and it has nothing to do with the protons in a carbon atom, or a sodium atom or any other atom. Hydrochloric acid is a Bronsted acid since it donates a proton to water according to the following equation.
+HCl(g) + H₂O(l) → H₃O⁺(aq) + Cl⁻(aq)
+Acid Base
+Since water accepts a proton, it is a Bronsted base. After accepting a proton, water is converted to hydroxonium ion (H₃O⁺). The hydroxonium ion is in fact a hydrated proton. Some more common Bronsted acids are sulphuric acid (H₂SO₄), phosphoric acid (H₃PO₄) and acetic acid (CH₃CO₂H) etc.
+Amphiprotic Nature of Water
+The Bronsted bases have been defined as those species which accept a proton. Thus, in the following equation, water is a Bronsted base since it accepts a proton from sulphuric acid.
+H₂SO₄(l) + H₂O(l) → H₃O⁺(aq) + HSO₄⁻(aq)
+Acid Base
+Also, in the equation below, ammonia accepts a proton from water. Therefore, ammonia is a Bronsted base and water is a Bronsted acid here:
+NH₃(g) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq)
+Base Acid
+It is important to note that water behaves as a Bronsted acid in presence of ammonia and as a Bronsted base in presence of hydrochloric acid or sulphuric acid. There are many other examples of this type of behaviour.
+
+Amphiprotic Nature of Acetic Acid
+In the equations given below acetic acid is Bronsted acid as well as a Bronsted base.
+CH₃COOH(l) + H₂O(l) ⇌ CH₃COO⁻(aq) + H₃O⁺(aq)
+Acid Base
+CH₃COOH(l) + HCl(g) ⇌ CH₃COOH₂⁺(aq) + Cl⁻(aq)
+Base Acid
+
+CONJUGATE ACID — BASE PAIRS
+Conjugate acid is a species which is formed as a result of acceptance of a proton by a base. Every Bronsted acid has a conjugate base.
+Conjugate base is a species which is left behind after donation of a proton from the acid.
+In an acid-base reaction, an acid yields a base (conjugate) and base after accepting proton yields a conjugate acid. The acid-base reaction is represented as:
+Acid₁ + Base₂ ⇌ Base₁ + Acid₂
+Bronsted acid Bronsted base Conjugate base Conjugate acid
+The conjugate acid-base pairs are species on opposite sides of an equation that differ by a proton. The weaker acids have stronger conjugate bases and stronger acids have weaker conjugate bases.
+Ionization of HCl in water:
+HCl + H₂O → H₃O⁺ + Cl⁻
+acid base conjugate base conjugate acid
+Ionization of NH₄OH in water:
+NH₃ + H₂O ⇌ NH₄⁺ + OH⁻
+base acid conjugate base conjugate acid
+Ionization of H₂O:
+H₂O + H₂O ⇌ H₃O⁺ + OH⁻
+base acid conjugate base conjugate acid
+The water is amphoteric in nature i.e. it is acidic as well as basic in nature.
+Particular Examples of Conjugate Acid-Base Pairs:
+Acid₁ + Base₂ ⇌ Base₁ + Acid₂
+HCl + H₂O ⇌ Cl⁻ + H₃O⁺
+HCl + NH₃ ⇌ Cl⁻ + NH₄⁺
+HNO₃ + H₂O ⇌ NO₃⁻ + H₃O⁺
+NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺
+H₂O + H₂O ⇌ OH⁻ + H₃O⁺
+H₂O + CO₃²⁻ ⇌ OH⁻ + HCO₃⁻
+HClO₄ + H₂O ⇌ ClO₄⁻ + H₃O⁺
+Acid₁ Base₂ and Base₁ Acid₂ are known as conjugate acid-base pairs.
+
+STRENGTH OF ACIDS AND BASES:
+Different Bronsted acids donate proton to different extents. An acid which can donate proton to a higher degree than another acid is said to be relatively strong acid. For example, hydrochloric acid is a relatively stronger acid than acetic acid. Also, acetic acid is relatively stronger than water. The ability of an acid to donate proton is called 'strength of acid' or the 'acid strength'.
+Similarly, the bases also differ in their ability to accept proton. A base which can accept proton to higher degree than another base is a relatively stronger base. Thus ammonia is a relatively stronger base than water because ammonia can accept a proton to a higher degree than water.
+
+Ionisation constant of Water and Calculation of pH and pOH in Aqueous Medium using Given Kw values
+Water is a unique compound due to its ability to accept or donate proton under different environments. It has been mentioned earlier that water acts as a Bronsted acid in presence of ammonia, and as a Bronsted base in presence of hydrochloric acid. In fact, Water itself undergoes ionization to a small extent as shown in the following equation:
+H₂O + H₂O ⇌ H₃O⁺ + OH⁻
+This reaction is regarded as auto ionization of water. There is an equilibrium between water molecules (on the left side of the equation) and the hydronium ions and hydroxide ions on the right side of the equation. The equilibrium constant (K) for this equilibrium can be expressed by the following equation:
+K = [H₃O⁺][OH⁻] / [H₂O]²
+Since water is a solvent the concentration of water, [H₂O] is in large excess, therefore it remains constant. The above equation may be re-written as:
+K[H₂O]² = [H₃O⁺][OH⁻]
+The term K[H₂O]² is the product of two constants, and is designated as Kw:
+K[H₂O]² = K_w = [H₃O⁺][OH⁻]
+K_w is termed as the Ionic product constant of water. Since [H₃O⁺] is the concentration of hydrated protons at equilibrium, the above equation corresponds to:
+K_w = [H⁺][OH⁻]
+In pure water at 25°C, K_w = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴
+Whenever [H⁺] = [OH⁻], the aqueous solution is found to be neutral, neither acidic nor basic.
+[H⁺] = 1.0 × 10⁻⁷ M
+[OH⁻] = 1.0 × 10⁻⁷ M
+[H⁺][OH⁻] = [H⁺]² = 1.0 × 10⁻¹⁴
+[H⁺] > [OH⁻] Acidic solution
+[OH⁻] > [H⁺] Basic solution
+It is to be noted that, because K_w is an equilibrium constant, it is temperature dependent. Thus, at 40 °C K_w = 3.8 × 10⁻¹⁴ which corresponds to [H⁺] = 1.9 × 10⁻⁷ M and [OH⁻] = 1.9 × 10⁻⁷ M as [H⁺] = [OH⁻].
+pH
+Since the concentration of [H⁺] and [OH⁻] are usually very small numbers and inconvenient to work with, a more practical measure called pH was proposed and defined as:
+pH = -log [H⁺]
+It means that pH of a solution is given by the negative logarithm of the [H⁺] concentration (in mol/dm³). However it must be kept in mind that pH being a logarithmic value, does not have any units. The pH concept implies that at 25°C the different types of solutions will show the following behaviours:
+Acidic solution: [H⁺] > 1.0 × 10⁻⁷ M, pH < 7.00
+Basic solution: [H⁺] < 1.0 × 10⁻⁷ M, pH > 7.00
+Neutral solution: [H⁺] = 1.0 × 10⁻⁷ M, pH = 7.00
+pOH
+A scale analogous to the pH can be devised using the negative logarithm of the OH⁻ concentration.
+pOH = -log [OH⁻]
+As K_w = [H⁺][OH⁻]
+At 25°C, K_w = 1.0 × 10⁻¹⁴
+1.0 × 10⁻¹⁴ = [H⁺][OH⁻]
+Taking log of both sides:
+log (1.0 × 10⁻¹⁴) = log [H⁺] + log [OH⁻]
+-14 = -log [H⁺] - log [OH⁻]
+14 = (-log[H⁺]) + (-log[OH⁻])
+14 = pH + pOH
+Example 8.1
+The concentration of [OH⁻] ion in a household ammonia solution is 0.005M. Calculate the concentration of [H⁺] in it.
+Solution:
+[OH⁻] = 0.005M
+K_w = [H⁺][OH⁻]
+1.0 × 10⁻¹⁴ = [H⁺] × 0.005
+[H⁺] = (1.0 × 10⁻¹⁴) / 0.005 = 2.0 × 10⁻¹² M
+Example 8.2
+Calculate the pH of 0.001 M aqueous hydrochloric acid solution.
+Solution:
+Hydrochloric acid ionizes in water completely therefore,
+HCl + H₂O → H₃O⁺ + Cl⁻
+0.001 M 0.001 M
+[H₃O⁺] is in fact the same as [H⁺]
+Therefore [H⁺] = 0.001 M
+pH = -log(0.001)
+= -log 10⁻³
+= 3.00
+Therefore, the pH of 0.001 M aqueous hydrochloric acid is 3.00.
+Example 8.3
+Calculate the pH of 0.062 M NaOH solution.
+Solution:
+NaOH(aq) → Na⁺(aq) + OH⁻(aq)
+0.062 M 0.062 M 0.062 M
+pOH = -log [OH⁻]
+= -log [0.062]
+= 1.21
+Now pH + pOH = 14
+pH = 14 - pOH
+= 14 - 1.21
+= 12.79
+
+Self Check Exercise 8.1
+What is the pH of a solution containing 1.95 g of pure H₂SO₄ per dm³ of solution? (Ans: pH = 1.4)
+Titration:
+It is defined as a method to find the volume of the standard solution required to react completely with known volume of another solution under analysis.
+Acid-base titrations are conducted using burettes and volumetric pipettes. Generally acid solution is placed in the burette. A fixed volume of base is placed into a conical flask along with a few drops of the appropriate acid-base indicator. Acid from the burette is added to the base until the indicator changes colour. This change of colour indicates the end point of titration. In the neutralization of a strong acid with a strong base, phenolphthalein is used as an indicator. It imparts pink colour to the base solution. At the end point, solution just becomes colourless. The molarity of the acid solution under test is determined with the help of the following equation:
+M₁V₁ / n₁ = M₂V₂ / n₂
+Where M₁ = Molarity of the base
+V₁ = Volume of the base taken in flask
+M₂ = Molarity of the acid
+V₂ = Volume of acid used from the burette
+n₁ = No. of moles of base
+n₂ = No. of moles of acid
+Knowing the five parameters, the sixth can be calculated.
+
+Self Check Exercise 8.2
+In a titration it is found that 25 cm³ of 0.12M NaOH is neutralized with 30cm³ of HCl of unknown concentration. Calculate concentration and strength of HCl solution.
+Solution:
+HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)
+n₁ = 1 n₂ = 1
+M₁V₁ / n₁ = M₂V₂ / n₂
+(M₂ × 30) / 1 = (0.12 × 25) / 1
+M₂ = 0.1 M
+Thus Molarity of HCl solution is 0.1M.
+Strength of solution = Molarity × Molar mass
+Strength of HCl solution = 0.1 × 36.5 = 3.65 g dm⁻³
+
+Strong and Weak Acids
+The extent of ionization and the acid dissociation constant Ka can be used to distinguish between strong and weak acids.
+The strength of an acid is generally expressed in terms of the acid ionization constant, Ka. Consider the case of ionization of a general acid HX in water. In this aqueous solution, the established equilibrium may be represented as follows:
+HX(aq) + H₂O(l) ⇌ H₃O⁺(aq) + X⁻(aq)
+The equilibrium constant K for this ionization process may be written as follows:
+K = [H₃O⁺][X⁻] / [HX][H₂O]
+or K[H₂O] = [H₃O⁺][X⁻] / [HX]
+Since water is a solvent, it is present in excess and therefore its concentration may be regarded as constant. Thus, K [H₂O] is another constant and is designated as Ka thus,
+K [H₂O] = K_a = [H₃O⁺][X⁻] / [HX]
+Ka is termed as the acid dissociation constant. It is a measure of the extent to which an acid is ionized or dissociated at the equilibrium state. It must be kept in mind that the acid dissociation constant, Ka, is dependent on temperature. Therefore, the value of Ka should be mentioned along with the temperature at which Ka was determined. Dissociation constant, Ka, of acetic acid in water at 25°C is 1.8 × 10⁻⁵. The comparison of Ka values of different acids provides a method to compare their strengths.
+The greater the value of Ka, the stronger is the acid.
+The value of Ka are usually inconvenient numbers, therefore, for convenience these values are converted to pKa values. The relationship between Ka and pKa is as follows:
+pK_a = -log K_a
+Since pKa refers to the negative logarithm of Ka, smaller the value pKa stronger shall be the acid because smaller pKa value corresponds to a greater Ka value. In table 8.2 are listed the ionization constants and pKa values of some common acids in water at 25°C. Which acid is strongest acid? Which acid is weakest acid?
+Table 8.2: Ionisation constants and pK_a of Acids
+Name of Acid Formula Ka pK_a
+Perchloric acid HClO₄ 1.0 × 10¹⁰ -10.0
+Hydroiodic acid HI 1.0 × 10¹⁰ -10.0
+Hydrobromic acid HBr 1.0 × 10⁹ -9.0
+Hydrochloric acid HCl 1.0 × 10⁷ -7.0
+Sulphuric acid H₂SO₄ 1.0 × 10³ -3.0
+Hydrofluoric acid HF 7.2 × 10⁻⁴ +3.14
+Formic acid HCOOH 1.8 × 10⁻⁴ +3.74
+Benzoic acid C₆H₅COOH 6.3 × 10⁻⁵ +4.20
+Acetic acid CH₃COOH 1.8 × 10⁻⁵ +4.74
+Phenol C₆H₅OH 1.3 × 10⁻¹⁰ +9.89
+Water H₂O 1.0 × 10⁻¹⁴ +14.0
+Which acid is stronger HCl or HF?
+Example 8.6
+Calculate concentration of H⁺ ions of a solution that contains 1.0M HF (Ka = 7.2 × 10⁻⁴).
+Solution:
+HF(aq) ⇌ H⁺(aq) + F⁻(aq)
+Initial conc. 1.0M 0 0
+Eq. conc. 1.0 - x x x
+(moles dm⁻³)
+K_a = [H⁺][F⁻] / [HF]
+7.2 × 10⁻⁴ = x² / (1.0 - x)
+Since x is very small as compared to 1.0, the term in the denominator can be approximated as follows:
+1.0 - x ≈ 1.0
+7.2 × 10⁻⁴ = x²
+x = √(7.2 × 10⁻⁴) = 0.0268 M
+[H⁺] = 0.0268 M
+
+Strong and Weak Bases
+The strength of a base is the ability to accept a proton from a solvent. Hydroxides of alkali metals such as sodium hydroxide and potassium hydroxide are strong bases and ionize completely in aqueous solution.
+NaOH(aq) → Na⁺(aq) + OH⁻(aq)
+The OH⁻ ion thus formed is a Bronsted base because it can accept proton H⁺.
+OH⁻ + H⁺ → H₂O
+The ability of a base to accept a proton from an acid, usually water, is termed as strength of the base. For a base B an equilibrium reaction with water can be represented by the following equation:
+B(aq) + H₂O(l) ⇌ BH⁺(aq) + OH⁻(aq)
+The equilibrium constant Kb is referred to base ionization constant and can be derived in the same way as Ka for acids. Thus:
+K_b = [BH⁺][OH⁻] / [B]
+Kb value will be large if degree of ionization of the base B is high i.e. if the base B is strong. The value of Kb will be small for a weak base B. Again, for convenience, a parameter pKb has been devised to express Kb value in convenient numbers. Thus, pKb is defined as the negative logarithm of Kb.
+Table 8.3: Kb and pKb Values of Some Common Bases
+Name of Base Formula Kb pKb
+Diethyl amine (C₂H₅)₂NH 1.3 × 10⁻³ 2.89
+Methyl amine CH₃NH₂ 4.38 × 10⁻⁴ 3.36
+Ethyl amine C₂H₅NH₂ 5.6 × 10⁻⁴ 3.25
+Ammonia NH₃ 1.8 × 10⁻⁵ 4.74
+Pyridine C₅H₅N 1.7 × 10⁻⁹ 8.77
+Aniline C₆H₅NH₂ 4.2 × 10⁻¹⁰ 9.38
+According to these values ammonia is a stronger base than pyridine and aniline but weaker than methylamine and ethylamine. Also, diethyl amine is a strongest base among all those listed in the table.
+
+Relationship of Ka and Kb
+For a conjugate acid base pair an important relationship exists between Ka, the acid dissociation constant, and Kb, the base dissociation constant. This is given by:
+K_a × K_b = K_w
+or K_a = K_w / K_b
+This relationship can be proved by considering the ionization of an acid HA and writing equation for its Ka:
+HA(aq) ⇌ H⁺(aq) + A⁻(aq)
+K_a = [H⁺][A⁻] / [HA]
+The equilibrium for the conjugate base:
+A⁻(aq) + H₂O(l) ⇌ HA(aq) + OH⁻(aq)
+K_b = [HA][OH⁻] / [A⁻]
+Multiplying the expression for Ka and Kb:
+K_a × K_b = ([H⁺][A⁻]/[HA]) × ([HA][OH⁻]/[A⁻]) = [H⁺][OH⁻] = K_w
+Thus K_a K_b = K_w.
+This result leads to an important conclusion that if the value of Ka is known Kb can be calculated since K_a K_b = K_w.
+log (K_a K_b) = log K_w
+log K_a + log K_b = log K_w
+On changing the signs from plus to minus in the above equation:
+(-log K_a) + (-log K_b) = (-log K_w)
+Note that in terms of pKa and pKb the equation becomes:
+pK_a + pK_b = pK_w
+As pK_w = 14 at 25°C
+pK_a + pK_b = 14 at 25°C
+Important Conclusions
+Since K_a × K_b = K_w
+Therefore:
+K_a = K_w / K_b
+and K_b = K_w / K_a
+Since K_w is constant at a given temperature, it may be deduced that K_a is inversely proportional to K_b. Thus, stronger the acid, weaker is its conjugate base. It can also be said that stronger a base, weaker is its conjugate acid. For example, ammonia is a weaker base (pK_b = + 4.76) than diethylamine (pK_b = 3.02) therefore the conjugate acid of ammonia is stronger acid than the conjugate acid of diethylamine. Similarly, the conjugate base of a weak acid, water (pK_a = + 14.00) is a stronger base than the conjugate base of stronger acid, hydrochloric acid (pK_a = -7.00). Thus, hydroxide ion (OH⁻) is a stronger base than the chloride ion (Cl⁻).
+Example 8.7
+The pKa of acetic acid at 25°C is + 4.76. Calculate the pKb of the conjugate base of acetic acid.
+Solution:
+pK_a + pK_b = 14.00
+pK_a of acetic acid is given as + 4.76
+4.76 + pK_b = 14
+pK_b = 9.24
+Example 8.8
+The pKb of pyridine at 25°C is 8.25. Calculate the pKa of the conjugate acid of pyridine.
+Solution:
+pK_a + pK_b = 14.00
+pK_b of pyridine = + 8.25
+therefore pK_a + 8.25 = 14.00
+and pK_a = 14.00 - 8.25 = 5.75
+
+LEWIS CONCEPT OF ACID AND BASE
+G.N. Lewis, in 1932, put forward his acid-base theory on the basis of electron pair. According to Lewis definition, a base is a substance that donates a pair of electrons, and an acid is a substance which can accept a pair of electrons.
+For example, the hydroxide ion (OH⁻) is a Lewis base because it donates a pair of electron and the proton (H⁺) is a Lewis acid since it accepts a pair of electrons.
+H⁺ + :OH⁻ → H—O—H
+The significance of the Lewis acid-base concept is that it is much more general than other concepts. It may include such acid-base reactions which are not covered by the Bronsted Lowery theory. One such example is the reaction between ammonia and boron trifluoride (BF₃) illustrated by the following equation:
+NH₃ + BF₃ → H₃N:BF₃
+The vacant, unhybridized 2p orbital of boron atom in boron trifluoride accepts the electron pair from ammonia. Thus, in this reaction ammonia is a Lewis base and boron trifluoride is a Lewis acid although no proton transfer is observed here.
+In Table 8.4 some common Lewis acids and base are listed. A careful look at this table reveals that Lewis acids have the ability to accept electron pair whereas the Lewis bases are capable of donating electron pair.
+Table 8.4: Some common Lewis Acids and Bases
+Lewis Acids: H⁺, BF₃, AlCl₃, SO₃
+Lewis Bases: NH₃, OH⁻, H₂O, CN⁻
+
+BUFFER SOLUTIONS AND THEIR APPLICATIONS
+A buffer solution is a solution, the pH of which does not change significantly when a small amount of acid or base is added to it. Such a solution has a constant pH which does not change on keeping it constant for a long time.
+Types of buffer solutions
+A buffer solution can be made in two ways:
+(1) By mixing a weak acid and a salt of it with a strong base. Such solutions give acidic buffers with pH less than 7. e.g. CH₃COOH + CH₃COONa.
+(2) By mixing a weak base and a salt of it with a strong acid. Such solutions will give basic buffers with pH more than 7. e.g. NH₄OH + NH₄Cl.
+Buffer Action:
+Let us take a buffer solution of CH₃COOH and CH₃COONa. Common ion effect helps us to understand how will buffer work. CH₃COOH being a weak electrolyte undergoes very little dissociation. When CH₃COONa, a strong electrolyte is added to CH₃COOH solution, the dissociation of CH₃COOH is suppressed due to common ion effect of CH₃COO⁻.
+CH₃COOH(aq) + H₂O(l) ⇌ CH₃COO⁻(aq) + H₃O⁺(aq)
+CH₃COONa(aq) → CH₃COO⁻(aq) + Na⁺(aq)
+(i) Suppose we add a few drops of HCl to it. Its H⁺ ions are used up by CH₃COO⁻. Thus the addition of HCl will not change the pH of the buffer solution.
+CH₃COO⁻(aq) + H⁺(aq) → CH₃COOH(aq)
+(ii) In the same buffer solution, if a strong base is added it is neutralised by the acid.
+CH₃COOH(aq) + OH⁻(aq) → CH₃COO⁻(aq) + H₂O(l)
+Thus the addition of NaOH will not change the value of pH.
+Calculation of pH of Buffer Solution
+The concentration of conjugate base in the reaction mixture is predominately supplied by the salt which is a strong electrolyte. Therefore, assuming the concentration of conjugate base equal to that of salt and original concentration of acid as equilibrium concentrations, pH of a buffer can be calculated.
+The following example explains the calculations associated with buffer solutions.
+Example 8.9
+(a) Calculate the pH of an acetic acid-sodium acetate buffer solution containing 1.0 moles of each component.
+(b) What will be the pH of this solution after addition of 0.01 mole of hydrochloric acid to 1 dm³ volume? Assume that the volume of solution remains unchanged on addition of hydrochloric acid. (Ka for acetic acid is 1.8 × 10⁻⁵).
+Solution:
+(a) The pH of the buffer solution can be calculated by assuming the equilibrium concentration of both the acid and its conjugate base as starting concentration.
+Thus [CH₃CO₂H] = 1.0M [CH₃COO⁻] = 1.0M
+For acetic acid dissociation:
+K_a = [H⁺][CH₃COO⁻] / [CH₃CO₂H]
+1.8 × 10⁻⁵ = [H⁺](1.0) / (1.0)
+[H⁺] = 1.8 × 10⁻⁵ M
+pH = -log (1.8 × 10⁻⁵) = 4.745
+Thus, the pH of buffer solution is 4.745.
+(b) After HCl addition:
+HCl(aq) → H⁺(aq) + Cl⁻(aq)
+0.01 mole 0.01 mole 0.01 mole
+Initially, there were 1.0 mole of CH₃COOH and 1.0 mole of CH₃COO⁻ present per dm³ of the solution. After addition of hydrochloric acid 0.01 mole of CH₃COO⁻ ions are combined with the H⁺ ions formed from dissociation of 0.01 mole of added hydrochloric acid. This can be written as:
+CH₃COO⁻(aq) + H⁺(aq) → CH₃COOH(aq)
+0.01 mole 0.01 mole 0.01 mole
+Thus, the numbers of moles of acetic acid and acetate ions, after addition of hydrochloric acid are:
+CH₃COOH = (1.0 + 0.01) mole = 1.01 mole
+CH₃COO⁻ = (1.0 - 0.01) mole = 0.99 mole
+The equilibrium equation for this new situation can be written:
+K_a = [CH₃COO⁻][H⁺] / [CH₃COOH]
+or [H⁺] = (K_a [CH₃COOH]) / [CH₃COO⁻]
+[H⁺] = (1.8 × 10⁻⁵ × 1.01) / 0.99
+[H⁺] = 1.83 × 10⁻⁵ M
+pH = -log (1.83 × 10⁻⁵) = 4.736
+Notice there is a slight change in pH from 4.745 to 4.736 that is only a difference of 0.009. Thus a buffer does a very good job in limiting the change in pH to a very small amount.
+pH of a buffer can also be calculated by using Henderson’s-Hasselbalch equation.
+For Acidic Buffers: pH = pK_a + log ([salt]/[acid])
+For Basic Buffers: pOH = pK_b + log ([salt]/[base])
+Example 8.10
+What is the pH of buffer if concentration of CH₃COOH is 0.1 M and CH₃COONa is 1.0 M. pK_a for CH₃COOH is 4.76?
+Solution:
+Concentration of CH₃COOH = 0.1 M
+Concentration of CH₃COONa = 1.0 M
+The formula to determine pH value is:
+pH = pK_a + log ([salt]/[acid])
+pH = 4.76 + log (1.0 / 0.1)
+pH = 4.76 + log 10
+pH = 4.76 + 1 = 5.76
+
+Self Check Exercise 8.4
+Calculate the pH of a buffer solution in which 0.11 Molar CH₃COONa and 0.09 Molar CH₃COOH solutions are present.
+Ka for CH₃COOH is 1.8 × 10⁻⁵ (Ans: 4.83)
+
+Important facts
+Some important facts about buffer solutions are as follows:
+1. Buffer solution can be prepared by combining, in aqueous solution, a weak acid and its salt with strong base or a weak base and its salt with strong acid.
+2. A buffer solution resists change in its pH even if a small amount of strong acid or a base is added to it.
+3. A buffer solution maintains the stability of its pH by shifting their equilibrium to consume added H⁺ ion or to replace H₃O⁺ ions which have reacted with the added OH⁻ ions.
+4. An aqueous solution of a strong acid and its conjugate base (as its soluble salt) can not act as a buffer solution. Since the strong acid is completely ionized already, addition of small amount of base (OH⁻ ions) will consume the H₃O⁺ ions which can not be replaced and the pH of the solution will change. If a small amount of strong acid is added to this solution, the equilibrium will not shift to the left because the acid already present is a strong acid. Also a solution of strong base and its conjugate acid do not form a buffer solution due to similar reasons.
+5. Some common examples of buffers are: acetic acid / sodium acetate buffer, phosphoric acid/potassium dihydrogen phosphate buffer and formic acid / sodium formate buffer.
+
+Applications of buffer solutions
+(1) Buffer solutions play an important role in several industrial processes. For example, they are used in the manufacture of photographic materials, leather and dyes.
+(2) They are also used in the process of electroplating and analytical procedures.
+(3) The buffer solutions are also used for calibration of pH meters.
+(4) In nature, many biological systems depend upon buffer action to preserve a constant pH.
+Biological System pH Range
+Human blood 7.35 to 7.45
+Milk 6.7 - 6.9
+Egg white protein 7.0 - 8.1
+(5) Buffers are used to maintain the pH of culture media for the growth of bacteria in bacteriological applications.
+
+SALT HYDROLYSIS
+Consider the following observations:
+(i) Aqueous solution of NH₄Cl turns blue litmus red.
+(ii) Aqueous solution of K₂CO₃ turns red litmus blue.
+(iii) Aqueous solution of NaCl has no action on litmus solutions.
+These observations can be explained on the basis of Bronsted-Lowry acid-base theory. When a salt (MX) is dissolved in water, it splits up into its M⁺ and X⁻ ions. These ions may react with water and give following reactions:
+M⁺(aq) + H—OH(l) ⇌ MOH(aq) + H⁺(aq)
+X⁻(aq) + H—OH(l) ⇌ HX(aq) + OH⁻(aq)
+Since H⁺ and OH⁻ ions are produced in these reactions, the solution of the salt may be acidic or basic. In salts anions are derived from acids and cations from bases. The anions of weak acids are strong conjugate bases. Such anions react with water producing basic solutions.
+For example: CH₃COO⁻, CN⁻, HCO₃⁻, CO₃²⁻, etc.
+CN⁻(aq) + H—OH(l) ⇌ HCN(aq) + OH⁻(aq)
+CO₃²⁻(aq) + 2H—OH(l) ⇌ H₂CO₃(aq) + 2OH⁻(aq)
+HCO₃⁻(aq) + H—OH(l) ⇌ H₂CO₃(aq) + OH⁻(aq)
+Anions like Cl⁻, NO₃⁻, SO₄²⁻, are so weak conjugate bases that, they do not react with water.
+Cations like Cu²⁺, Al³⁺, NH₄⁺, are strong conjugate acids. Such cations react with water producing acidic solutions.
+For example: Cu²⁺, Al³⁺, NH₄⁺ etc.
+Cu²⁺(aq) + 2H—OH(l) ⇌ Cu(OH)₂(aq) + 2H⁺(aq)
+NH₄⁺(aq) + H—OH(l) ⇌ NH₄OH(aq) + H⁺(aq)
+Cations like Na⁺, Ca²⁺, Mg²⁺, etc. are so weak conjugate acids that they do not react with water.
+These reactions are called hydrolysis reactions. “The reaction of cations and anions of salts with water is called hydrolysis.”
+Hydrolysis is different from hydration. In hydrolysis H—OH bond is broken whereas in hydration water molecule adds up to a substance without bond breakage.
+There are four types of Salts on the basis of their reactivity with water:
+1. Salts of strong acids and strong bases do not hydrolyse (pH = 7).
+Examples: NaCl, Na₂SO₄, KNO₃ etc.
+2. Salts of weak acids and strong bases hydrolyse producing basic solutions (pH > 7).
+Examples: CH₃COONa, NaCN, Na₂S etc.
+3. Salts of strong acids and weak bases hydrolyse producing acidic solutions (pH < 7).
+Examples: CuSO₄, NH₄Cl, NH₄NO₃ etc.
+4. Salts of weak acids and weak bases hydrolyse, but the resulting solution is either neutral, acidic or basic. This depends upon the relative values of Ka and Kb of cations and anions of the salt.
+The important aspects of the salt hydrolysis, discussed above, are summarised in Table 8.5.
+Table 8.5
+Salt Ions which Solution pH (Nature)
+Acid Base Hydrolyse
+Strong Strong NaCl, KBr None 7.0 (Neutral)
+Strong Weak CuSO₄, NH₄Cl Cations < 7.0 (Acidic)
+Weak Strong CH₃COONa, NaCN Anions > 7.0 (Basic)
+Weak Weak NH₄NO₂ Anions & May be equal, smaller or
+Cations greater than 7.0
+
+The Levelling Effect
+Strong acids like perchloric acid, hydrochloric acid, nitric acid and sulphuric acid in water appear to be of equal strength. Thus, water as a base, is unable to differentiate among the relative acidic strength of acids stronger than hydroxonium ion. The inability of any solvent to differentiate among the relative strength of all acids is termed as the levelling effect. Because the solvent levels the strength of all the acids, making them appear identical.
+The levelling effect of water can be compensated for, if a more weakly basic solvent like acetic acid is employed in place of water. Since acetic acid is a much weaker base than water, it is not easily protonated. Thus, appreciable differences in proton donation of acids are observed in acetic acid (solvent).
+The relative acid strength in acetic acid is: HClO₄ > HBr > HCl > H₂SO₄ > HNO₃
+It may be pointed out that all these acids are of identical strength in water (solvent) due to the levelling effect.
+e.g. HCl + H₂O → H₃O⁺ + Cl⁻
+HI + H₂O → H₃O⁺ + I⁻
+HBr + H₂O → H₃O⁺ + Br⁻
+H₂SO₄ + H₂O → H₃O⁺ + HSO₄⁻
+HNO₃ + H₂O → H₃O⁺ + NO₃⁻
+Hydroxonium ion (H₃O⁺), which is acidic in nature, is formed in each case. The equal behaviour of such ions formed, levels the strength of the acid.

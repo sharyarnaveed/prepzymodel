@@ -1,0 +1,389 @@
+currentelectric_2ndphy_fed
+
+**CHAPTER 5 CURRENT ELECTRICITY**
+
+Studying this chapter the students will be able to:
+
+Describe the concept of steady current.
+
+State Ohm's law.
+
+Define resistivity and explain its dependence upon temperature.
+
+Define conductance and conductivity of conductor.
+
+State the characteristics of a thermistor and its use to measure low temperatures.
+
+Distinguish between e.m.f and p.d. using the energy considerations.
+
+Explain the internal resistance of sources and its consequences for external circuits.
+
+Describe some sources of e.m.f.
+
+Describe the conditions for maximum power transfer.
+
+Describe thermocouple and its function.
+
+Explain variation of thermoelectric e.m.f. with temperature.
+
+Apply Kirchhoff's first law as conservation of charge to solve problem.
+
+Apply Kirchhoff's second law as conservation of energy to solve problem.
+
+Describe the use of rheostat in the potential divider circuit.
+
+Describe a Wheatstone bridge and how it is used to find unknown resistance.
+
+Describe the function of potentiometer to measure and compare potentials without drawing any current from the circuit.
+
+Current electricity is the study of charges in motion. Simple electrical circuits are analyzed using Ohm's law. For other circuits, Kirchhoff rules are required.
+
+Electricity provides the comforts of a technological society. Electricity is uniquely appropriate for powering an enormous number of devices that have made modern life possible.
+
+Electricity authorities use high voltage transmission lines and transformers to distribute electricity to homes and industries in a town. Voltages can be as high as 5 x 10⁵ volts from power stations but by the time this reaches homes, the electricity has been transformed to 220 volts in Pakistan. While it is relatively economical to generate electric power at a rapid rate, there are both financial and environmental costs that should be considered when assessing the long-term impact of commercial and domestic power.
+
+In moving from electrostatics to moving charges, we have to study topics like magnetic field produced due to the motion of charges, resistance offered by materials to the moving charges through them and lastly the energy changes as the charges move through the conductors. In this chapter, we will study the various features associated with the moving charges.
+
+The steady flow of free electrons is called steady current. The flow of electrons can be explained by referring Fig 12.1. The conductor contains free electrons when electric field or voltage is applied.
+
+Figure 12.1: Flow of electrons in a conductor.
+
+This flow of electrons is called electric current.
+Here are the main points:
+Current is due to flow of electrons and electrons are the constituents of matter. Therefore, electric current is matter (i.e. free electrons) in motion.
+The direction of current is from negative terminal to the positive terminal through a part of the circuit external to the cell. However, historically, it was assumed that current flows from positive terminal to the negative terminal of the cell via the circuit. This convention is so well established that it is still in use. This assumed direction is now called conventional current.
+Those substances which have larger number of free electrons will permit current to flow easily. Such substances are called conductors, for example metals like copper, silver, aluminum etc.
+
+In current carrying materials the charges are moving. In metals the moving charges are negative electrons while in gases the moving charges are negative electrons and positive ions. In semiconductor material such as germanium or silicon, current is partly carried by motion of electrons and partly by motion of vacancies, or holes, which are spaces left by missing electrons and act like positive charges.
+
+We define the current I through a cross-section area A to be the net charge flowing through the area per unit time. If charge Q flows through an area in a time t, the current I is:
+I = Q/t ... (12.1)
+Here Q is measured in coulombs and time t in seconds. Therefore the unit of electric current will be coulombs/sec or ampere (A). One ampere is defined as when one coulomb of charge flows across any cross section of a conductor in one second. The submultiples of ampere are:
+1 milliampere (1 mA) = 1 x 10⁻³ A
+1 microampere (1 µA) = 1 x 10⁻⁶ A
+Current is a scalar quantity as it does not follow vector law of addition.
+
+A metal conductor has a large number of free electrons which wander randomly in the conductor. The average speed of free electrons due to random motion, the free electron shifts from one atom to another, but all free electrons move randomly.
+
+When a potential difference is applied across the ends of a conductor, an electric field is set up at every point within the wire. The electrons experience a force due to electric field, E. As a result of this force and the collisions with the atoms, the electrons acquire a net drift velocity opposite to the direction of the electric field.
+
+Figure 12.2: Random motion of free electrons.
+
+The average velocity with which free electrons get drifted in a metallic conductor under the influence of electric field is called drift velocity (v_d). The drift velocity of free electrons is of the order of 10⁻⁴ m/s.
+
+Electric current propagates very slowly, however room light turns on quickly when switch is turned on. The reason is that propagation of electric field takes place at the speed of light.
+
+An electroencephalogram (EEG) is a neurological test that uses an electronic instrument to record electrical activity in the brain. Several electrodes are attached to your head and hooked by wires to a computer that records the voltage fluctuations resulting from ionic current flows within the neurons of the brain. The brain's electrical charge is maintained by billions of neurons. Neurons are electrically charged by transport proteins that pump ions across their membranes. The EEG consists mostly of Na⁺, K⁺, Ca⁺⁺, and Cl⁻ ions. The computer records your brain's electrical activity on the screen or on paper as wavy lines. Thus the potential difference produced by the electrical activity of the brain is used for diagnosing abnormal behavior. The electrodes are not harmful to your body.
+
+Example 12.1: A steady current of 1 ampere is flowing through a conductor. How many electrons pass through the cross-section of the conductor each second? In which direction is the current flowing?
+Solution: I = 1 A, t = 1 s.
+Charge Q = I t = 1 C.
+Number of electrons n = Q/e = 1 C / (1.6 x 10⁻¹⁹ C) = 6.25 x 10¹⁸.
+The current is flowing from left to right i.e. in opposite direction of electron flow.
+
+Metals contain many free electrons which can move in response to an applied electric field. By attaching a pair of metal wires and applying a voltage we can move these charge carriers through the material. Ohm's law is a fundamental law of electricity. The relationship between the three fundamental quantities: voltage (V), the current (I) and resistance (R) in a circuit was first discovered by German scientist George Simon Ohm in 1826.
+When a voltage is applied to a circuit containing only resistive elements, according to Ohm's Law, I = V/R. If a voltage V is applied across a conductor and current I flows through it then according to ohm law:
+I ∝ V or I = V/R ... (12.2)
+or V = I R
+Here R is known as the resistance of the conducting material. It depends on the nature, dimension and physical state of the conductor.
+
+For a conductor that obeys Ohm's law, a graph of current I against voltage V is a straight line passing through the origin Fig. (12.3a). The slope of the line is tan θ = I/V = 1/R. Thus the slope is constant for ohmic conductors. The Ohm’s law is not obeyed by all conducting material. Those materials for which the slope of I versus V graph is not constant are called non-Ohmic materials. For examples Fig 12.3 (b, c & d) show the non-Ohmic characteristics of the filament of an electric bulb, a thermistor and of a semiconductor diode respectively. The I-V graph for a bulb shows that graph curves as V and I increases, indicating that a given change in V causes an increasingly smaller change in I at larger values of V. This indicates that the resistance of the filament increases with increase of voltage.
+
+Figure 12.3: (a) Ohmic conductor, (b) Filament bulb, (c) Thermistor, (d) Semiconductor diode.
+
+The I-V graph for thermistor bends upward shows that resistance decreases sharply as their temperature rises. The I-V graph of a semiconductor diode shows that it is also non-linear graph. The current passes when the voltage acts in one direction but it is almost zero when it acts in the opposite direction.
+
+Example 12.2: The high voltage supply in a TV receiver is 17 kV. The maximum allowable current is 150 µA. What is the least permissible value of load resistance?
+Solution: V = 17 kV = 17 x 10³ V, I = 150 µA = 150 x 10⁻⁶ A.
+R = V/I = (17 x 10³) / (150 x 10⁻⁶) = 1.13 x 10⁸ Ω.
+
+Resistance is the opposition offered by the substance to the flow of free electrons. This opposition is due to collision of electrons with atoms and molecules of the substance. Resistance is the electric friction offered by the substance and is associated with the flow of electric current. The moving electrons collide with the atoms/molecules of the substance, each collision resulting in the generation of a small quantity of heat. The SI unit of resistance is the ohm and is represented by symbol Ω (omega). The resistance of a wire is said to be 1 ohm if a potential difference of 1 volt across its ends causes 1 ampere current to flow through it.
+
+Factors upon which resistance depends:
+When electrons flow through a wire they experience resistance and lose energy. The longer the path the electrons flow over, the more energy they lose. It is found experimentally that the total resistance R of a wire is directly proportional to its length L i.e. R ∝ L.
+Resistance is inversely proportional to its area of cross-section i.e. R ∝ 1/A.
+Thick wires have less resistance per meter and will cause less energy loss.
+
+The resistance of a conductor is:
+R = ρ L/A ... (12.3)
+Here ρ (Greek letter ‘rho’) is a constant and is called the specific resistance of the material.
+
+Specific Resistance or Resistivity:
+We have seen above that R = ρ L/A.
+If L = 1 m, A = 1 m², then R = ρ.
+Hence specific resistance of a material is the resistance offered by 1 m length of wire of a material having an area of cross-section of 1 m². The unit of resistivity is ohm-meter (Ω m). The resistivity of a substance varies over a wide range. The following table gives the resistivity of some metals.
+
+Table: Resistivity of some metals.
+
+| Metal            | Resistivity (10⁻⁸ Ω m) |
+|------------------|-------------------------|
+| Silver           | 1.78                    |
+| Copper           | 1.73                    |
+| Aluminum         | 2.85                    |
+| Iron             | 11.4                    |
+| Platinum         | 10.6                    |
+| Nichrome         | 109                     |
+
+The resistivity of metals and alloys is very small. Therefore, they allow the passage of electric current. On the other hand, resistivity of insulators is very high. As a result, these materials hardly conduct any current. There is an intermediate class of material known as semiconductors. The resistivity of these substances lies between conductors and insulators.
+
+The reciprocal of resistance of a conductor is called conductance (G). If a conductor has resistance R, then its conductance G is given by:
+G = 1/R ... (12.4)
+The SI unit of conductance is mho (i.e. ohm spelt backward) these days, it is common practice to use Siemens as the unit of conductance. It is denoted by S.
+
+The reciprocal of resistivity of a conductor is called its conductivity. It is denoted by the symbol σ. If a conductor has resistivity ρ, then its conductivity is:
+σ = 1/ρ ... (12.5)
+Unit of conductivity is mho m⁻¹ or Siemens meter⁻¹ (S m⁻¹).
+
+The change in resistance is fairly regular for most conductors. The resistance of electrolytes, insulators (e.g. glass, mica, rubber etc.) and semiconductors (e.g. germanium, silicon etc.) decreases with the increase in temperature.
+
+Temperature Co-efficient of Resistance:
+Consider a conductor having resistance R₀ at 0°C and R_t at t°C. It has been found that in the normal range of temperatures, the increase in resistance (R_t - R₀) is directly proportional to the initial resistance i.e. R_t - R₀ ∝ R₀, and is directly proportional to the rise in temperature i.e. R_t - R₀ ∝ t.
+Combination of above two relations, we get:
+R_t - R₀ ∝ R₀ t
+or R_t - R₀ = α R₀ t ... (12.6)
+Here α is a constant and is called temperature co-efficient of resistance. It depends upon the nature of material and temperature.
+From Eq. (12.6) we get:
+R_t = R₀ (1 + α t) ... (12.7)
+Also α = (R_t - R₀) / (R₀ t) ... (12.8)
+The temperature co-efficient of resistance α may be defined as increase in resistance per ohm original resistance per degree rise in temperature. The SI unit of α is K⁻¹. Since the resistance of metals increases with the rise in temperature, they have positive temperature co-efficient of resistance, while co-efficient α is negative for semiconductors and insulators which show decrease in resistance as the temperature rises.
+
+Variation of Resistivity with Temperature:
+The resistivity or specific resistance of most materials increases linearly with increasing temperature. The equation (12.7) also apply to resistivity. At temperature t, the resistivity ρ_t of a material is given by:
+ρ_t = ρ₀ (1 + α t) ... (12.9)
+Also α = (ρ_t - ρ₀) / (ρ₀ t) ... (12.10)
+Here α is called temperature co-efficient of resistivity and may be defined as the change in resistivity per kelvin. The temperature co-efficient of resistivity is positive for metals. But the resistivity of graphite decreases with increase in temperature. Since at higher temperature, electrons are freed from the atoms and become mobile, hence the resistivity of graphite is negative. This same behavior is observed for semiconductors.
+
+Example 12.3: Find the change in resistance of 100 Ω copper conductor between summer and winter, knowing that temperature varies from 35°C to -30°C. Assume the temperature co-efficient of copper at 0°C is 0.00427 °C⁻¹.
+Solution: R_t = R₀ (1 + α t)
+For winter: t = -30°C, R_winter = 100 (1 + 0.00427 (-30)) = 100 (1 - 0.1281) = 87.19 Ω.
+For summer: t = 35°C, R_summer = 100 (1 + 0.00427 (35)) = 100 (1 + 0.14945) = 114.945 Ω.
+Change in resistance = 114.945 - 87.19 = 27.755 Ω.
+
+Example 12.4: Find the resistance of copper conductor having a length of 2 km and area of cross section of 22 mm². Assume resistivity is 1.8 x 10⁻⁸ Ω m.
+Solution: L = 2 km = 2000 m, A = 22 mm² = 22 x 10⁻⁶ m².
+R = ρ L/A = (1.8 x 10⁻⁸ x 2000) / (22 x 10⁻⁶) = (3.6 x 10⁻⁵) / (22 x 10⁻⁶) = 1.636 Ω.
+
+Precision and high accuracy resistors are always wire wound resistors. A fine wire of an alloy (nichrome or constantan) is wound on a ceramic tube and covered with an insulating cover. The alloy constantan is used for resistance wire because it has a low temperature co-efficient of resistance. The wire wound resistors can handle much higher currents. They are suitable for use at higher temperatures. The other type of resistors are carbon type resistors. Wire wound variable resistor can be used as rheostat and potentiometer.
+
+Rheostat:
+A rheostat is a variable resistor. It is used to control current in a circuit. Figure 12.6 shows a rheostat. The sliding contact C can be moved along the wire. If the slider is moved towards A, the length AC decreases and hence the resistance in the circuit decreases, resulting in an increase in current. If the slider is moved towards B, the resistance in the circuit increases and hence the current decreases.
+
+Potential Divider:
+A potential divider provides a convenient way of getting a variable potential difference. With the help of the battery a potential difference V is applied across the ends A and B of the resistor. Let R be the resistance of wire AB. The current I passing through it is I = V/R.
+If C is the sliding contact, then the resistance of AC part of the wire is R₁ and of CB part is R₂. The same current I flows through AC and CB. The potential difference between the ends A and C is given by:
+V_AC = I R₁ = (V/R) R₁ = V (R₁/R)
+By changing the position of the sliding contact C, the value of the potential difference V_AC can be changed from 0 to V.
+
+Thermistor:
+A thermistor is a type of semiconductor having resistance that varies rapidly with temperature. Thermistor (thermal resistor) is a heat sensitive device usually made of a semiconductor material whose resistance changes very rapidly with change of temperature. A thermistor has the following important properties.
+The resistance of thermistor changes very rapidly with change of temperature.
+The temperature co-efficient of a thermistor is very high.
+The temperature co-efficient of a thermistor can be both positive and negative.
+Thermistors are made from semiconductor oxides of iron, nickel, cobalt etc.
+They are generally in the form of discs or rods. A pair of platinum wires is fused at the ends for electrical connections. The arrangement is placed in a very small glass bulb and sealed.
+
+Figure 12.8: Thermistor.
+
+Thermistors with negative temperature co-efficient of resistance are used:
+As a protection against current surges in a circuit.
+In a circuit where the heaters of the receiver valves are placed in series. When the supply voltage is switched on the thermistor has a high resistance at first because it is cold. It thus limits the initial current to a safe value. As it warms up, the thermistor resistance drops and an increased current then flows through the heaters.
+In communication tools and accessories like mobile phones, LCD displays, CPUs, rechargeable batteries, and patient monitoring equipment.
+Thermistors can be used continuously without fear of overheating.
+
+Thermistors with negative temperature co-efficient (NTC) are used:
+To measure temperature of winding of large motors and generators. When the temperature of windings increases, the thermistor is cool and its resistance is high. Therefore, only a small current flows through the thermistor coil. When the temperature of the windings is high, the thermistor is hot and its resistance is low. Therefore, a large current flows in the coil to close the contacts.
+In appliances, such as washing machines, dryers, refrigerators and freezers, as well as small appliances like hair dryers, curling irons, ovens, toasters, thermostats, air conditioners and heaters also have NTCs for temperature control.
+
+Electromotive Force:
+An external energy source is required by most electrical circuits to move charges through the circuit. The circuit therefore must include a device that provides a potential difference between two points in the circuit, just as a pump is required to force fluid through a pipe. Such a device is called a source of electromotive force (emf). A source of emf is a device which converts some form of energy into electrical energy like the battery. A battery converts chemical energy into electrical energy. In this device a charge travels "uphill" from lower to higher potential energy even though the electrostatic force is trying to push it from higher to lower potential. The direction of current is from lower to higher potential inside the source which is opposite of what happens in an ordinary conductor. The source makes current flow from lower to higher potential is called electromotive force.
+
+The electromotive force of a source is defined as the energy supplied by the source in taking a unit positive charge once round the complete circuit. Suppose a source of emf supplies an amount of energy W in driving a charge q once round the circuit, then emf E of the source is given by:
+E = W/q ... (12.11)
+The unit of emf is the joule/coulomb, which is the volt (abbreviation V).
+1 volt = 1 joule/coulomb.
+
+Internal Resistance of a Supply:
+A source (e.g. a cell) must have some internal resistance, however small. When delivering no current i.e. no load, the P.D across the terminals will be equal to the emf of the cell. When some load resistance R is connected across the terminals of the cell, the current I starts flowing in the circuit as shown in Fig 12.11. This causes a voltage drop across internal resistance r of the cell so that the terminal voltage V available will be less than E. The relationship between E and V can be established.
+E = I R + I r = I (R + r) ... (12.12)
+or I R = E - I r
+But I R = V, the terminal voltage of the cell.
+Thus V = E - I r.
+Now, if I = 0 (open circuit), V = E.
+Thus the emf of a cell is equal to the potential difference between its terminals when no current is drawn from it.
+
+Power:
+The rate at which work is done in an electric circuit is called electric power i.e. P = W/t.
+If a voltage V is applied to a circuit, it causes current I to flow through a resistance R in time t. The work done W = V I t.
+Power P = W/t = V I t / t = V I ... (12.13)
+Since V = I R, we can also write:
+P = I² R = V²/R ... (12.14)
+These formulas are equally valid for calculation of electric power in a circuit. Which one is to be used depends simply on the known quantities.
+The unit of power in SI is watt. A power of 1 watt is consumed in a circuit if a potential difference of 1 volt causes a current of 1 ampere to flow through it.
+1 Watt = 1 V x 1 A.
+Other units of power are kilowatt (kW) and megawatt (MW).
+1 kW = 1000 watts = 10³ watts.
+1 MW = 10⁶ watts.
+
+Electrical energy consumed in very large quantity for the commercial purpose. Joule is a very small unit. Hence a large unit of energy called kilowatt-hour is used. One kilowatt-hour is commonly termed as a unit of electrical energy. It is the amount of energy consumed when a power of 1 kilowatt is used for 1 hour.
+1 kWh = 1000 watt x 3600 second = 3.6 x 10⁶ J.
+
+Example 12.5: How much energy is supplied to the heater in 10 s?
+Given: R = 20 Ω, V = 220 V, t = 10 s, W = ?
+Using Ohm's law: V = I R or I = V/R = 220/20 = 11 A.
+Using the formula: W = I² R t = (11)² x 20 x 10 = 121 x 200 = 24200 J.
+
+Example 12.6: The following are used: six bulbs of 40 watts each working for 4 hours per day. Two fluorescent tubes 125 watts each working for 2 hours per day. One electric heater 1 kW working for 3 hours per day. What is the electrical energy consumed in 30 days of a month when the rate of electrical energy cost is Rs 7.00 per unit?
+Solution:
+Bulbs: 6 x 40 = 240 watts.
+Energy consumed by bulbs per day = 240 x 4 = 960 Wh.
+Tubes: 2 x 125 = 250 watts.
+Energy consumed by tubes per day = 250 x 2 = 500 Wh.
+Heater: 1000 watts.
+Energy consumed by heater per day = 1000 x 3 = 3000 Wh.
+Total energy consumed per day = 960 + 500 + 3000 = 4460 Wh = 4.46 kWh.
+Total energy consumed in 30 days = 4.46 x 30 = 133.8 kWh.
+Cost = 7 x 133.8 = Rs 936.6.
+
+Example 12.7: A 120 V source is connected to a heater. What resistance must be placed in series with a heater of resistance 75 Ω to limit the power dissipation in the heater to 90 W?
+Solution: Power in heater P = I² R_h.
+I² = P / R_h = 90 / 75 = 1.2, so I = √1.2 = 1.095 A.
+Total resistance R_total = V / I = 120 / 1.095 = 109.6 Ω.
+Series resistance R_s = R_total - R_h = 109.6 - 75 = 34.6 Ω.
+
+Maximum Power Transfer:
+In electronic circuits and systems it is important to have maximum power transfer from the source to the load. For example, in radio or TV transmitting system, it is desired to transfer the maximum power possible from the amplifier to the antenna systems. We want maximum power transfer from an amplifier to speaker system. This is accomplished by proper matching of load resistance R and source resistance r.
+If the load resistance is less or greater than the source resistance, then the power delivered to the load will be minimum.
+
+For the circuit of fig. 12.13, as the current I flows through the load R the charges move from a point of higher potential to a point of lower potential. In this process they lose potential energy. If V is the P.D. across R, the loss of potential energy per second is known as power delivered to R by the current I.
+P = I V = I (I R) = I² R.
+But I = E / (R + r).
+So P = E² R / (R + r)².
+For maximum power transfer, differentiate P with respect to R and set to zero. We find that maximum power is delivered to the load when the load resistance R equals the internal resistance r of the source. Under this condition, the maximum output power is:
+P_max = E² / (4r) ... (12.15)
+
+Thermocouple:
+In 1821, Thomas Seebeck discovered experimentally a relation between thermal energy and electricity. He joined two wires of two dissimilar metals to form a junction. He discovered that if one junction is heated to a high temperature, and the other remains at a cooler temperature then the galvanometer connected in the circuit shows a deflection. This is known as Seebeck Effect. The emf thus produced is called thermoelectric emf. The resulting current is called thermoelectric current. The pair of junctions is called a thermocouple.
+
+The emf produced is very small, of the order of mV per every degree of temperature difference. The Seebeck effect is reversible, i.e., if the hot and cold junctions are interchanged, the direction of emf (and hence current) reverses. The thermoelectric emf produced depends on the separation of the metals forming the thermocouple. The thermo emf of a thermocouple is expressed as a function of the temperature T of the hot junction, when the cold junction is maintained at 0°C. This temperature dependence is given by:
+E = α T + β T² ... (12.16)
+Here α and β are constants (called thermoelectric coefficients) which depend on the nature of the metals.
+
+Variation of thermoelectric emf with temperature:
+When both junctions of a thermocouple are at the same temperature, the net emf is zero. As the temperature of hot junction rises, the emf increases, reaches a maximum at a certain temperature called neutral temperature, then decreases and becomes zero at a temperature called inversion temperature. The graph shows the variation of the thermo emf with temperature of hot junction, when the cold junction is at 0°C.
+
+Resistance Thermometers:
+Resistance thermometers, also called resistance temperature detectors (RTDs), are sensors used to measure temperature. They operate by correlating the resistance of the RTD element with temperature. An RTD sensing element consists of a wire coil or deposited film of pure metal (platinum, nickel or copper). The resistance vs temperature relationship is well known and is repeatable over time. Platinum is the most common and best performing metal for RTDs because it follows a very linear resistance-temperature relationship and it follows the R vs T relationship in a highly repeatable manner over a wide temperature range. The unique properties of platinum make it the material of choice for temperature standards over the range of -200 °C to 600 °C. They are slowly replacing the use of thermocouples in many industrial applications below 600°C, due to higher accuracy and repeatability.
+
+Kirchhoff's Laws:
+Many times we encounter circuits where simplification by series and parallel combinations is impossible. Consequently, Ohm’s law cannot be applied to such circuits. This happens when there is more than one emf in the circuit or when the resistors are connected in a complicated manner.
+
+Figure 12.16: Complex circuit.
+
+In such a circuit which cannot be solved by series and parallel combinations, we use Kirchhoff's laws. For solving complex circuits, German physicist Gustav Kirchhoff (1824-1887) gave two laws, known as Kirchhoff’s laws. These laws are extremely useful for solving complicated circuits.
+
+Kirchhoff's First Law (KCL):
+Kirchhoff's first law is related to the currents at the junctions of an electric circuit and states: The algebraic sum of all the currents meeting at a junction in an electrical circuit is zero. A junction is a point in a circuit where two or more components are connected. Algebraic sum means that the sign of the quantity is taken into account. For currents entering the junction, we take positive sign and for currents leaving the junction, we take negative sign.
+∑ I = 0 ... (12.17)
+At junction A: I₁ + I₂ - I₃ - I₄ = 0 or I₁ + I₂ = I₃ + I₄.
+Thus sum of incoming currents = sum of outgoing current.
+Kirchhoff's current law may also be stated as the algebraic sum of currents flowing towards the junction in an electrical circuit is equal to the algebraic sum of currents flowing away from that junction.
+Kirchhoff's current law is true because electric current is merely the flow of free electrons and they cannot accumulate at any point in the circuit. This is in accordance with the law of conservation of charge. Hence Kirchhoff’s current law is another form of the law of conservation of charge.
+
+Kirchhoff's Second Law (KVL):
+Kirchhoff's second law refers to emfs and potential differences in a closed loop and may be stated as: In any closed electrical circuit, the algebraic sum of all the electromotive forces (emf) and the potential drops across resistors is equal to zero.
+∑ E + ∑ I R = 0 ... (12.18)
+Alternatively, algebraic sum of voltage drops = 0.
+Kirchhoff's voltage law can be easily understood. If we start from a point (say point A) in this closed circuit and go back to the same point after going around the circuit, then there is no change in potential.
+
+In applying Kirchhoff's voltage law the following conventions are used:
+A rise in potential is taken positive.
+A fall in potential is taken negative.
+For a battery, the positive end is always at higher potential.
+The current flows from high potential to the low potential.
+Assume the direction of current either clockwise or counter clockwise.
+
+Let us take counter-clockwise round. Consider current from positive terminal of E₁. We take the rise of potential as +E₁. Through R₁, the voltage drop is -I R₁. Across E₂, from the positive to negative side there is a fall of potential -E₂. Through R₂, there is a drop of -I R₂. Apply KVL, we get:
+E₁ - I R₁ - E₂ - I R₂ = 0
+or E₁ - E₂ = I R₁ + I R₂
+or ∑ E = ∑ I R.
+Thus the algebraic sum of all the emfs in a closed loop in a circuit is equal to the sum of all the potential drops in that loop. KVL is in fact, a statement of the law of conservation of energy.
+
+Procedure for using Kirchhoff's Laws:
+Consider the circuit shown in figure 12.19.
+1. Identify all closed loops. In Fig.12.19 there are two closed loops: loop 1 (ABCFA) and loop 2 (CDEFC). The choice of loops is quite arbitrary, but it should be such that each resistance is covered at least once in the selected loop. Kirchhoff's voltage law can be applied to each loop to get the desired equations.
+2. Assume currents in each loop. Let current I₁ in loop 1 and current I₂ in loop 2. At junction C, the incoming currents are I₁ and I₂. The current in branch CF will be (I₁ + I₂). The direction in which currents are assumed to flow is unimportant, since if wrong direction is chosen, it will be indicated by a negative sign in the result.
+3. Apply KVL to loop 1 (ABCFA). In this loop, emf E₁ will be given positive sign. As we go around the loop in the order ABCFA, we go from -ve terminal to +ve terminal of the battery in the branch AB and hence there is a rise in potential. The drop in branch CF is (I₁ + I₂) R₁ and shall bear negative sign. Applying KVL:
+E₁ - (I₁ + I₂) R₁ = 0.
+4. Apply KVL to loop 2 (CDEFC). As we go around the loop in the order CDEFC, we go from +ve to -ve of E₂, so E₂ is negative and drop (I₁ + I₂) R₁ is positive. Applying KVL:
+I₂ R₂ + (I₁ + I₂) R₁ - E₂ = 0.
+5. Solve the equations. If E₁, E₂, R₁ and R₂ are known, we can find the value of I₁ and I₂ from these two equations. Hence currents in all branches can be determined.
+
+Example 12.8: The emfs of two batteries are 6V and 2V and internal resistances are 1 Ω and 2 Ω respectively which are connected in parallel across a 5 Ω resistor. Calculate (a) current through each battery and (b) terminal voltage.
+Solution: The circuit is shown in figure 12.20. Assume two loops with currents I₁ and I₂ as marked.
+Applying Kirchhoff's voltage law to loop HBCDH:
+6 - I₁ (1) - (I₁ + I₂) 5 = 0 => 6 - I₁ - 5I₁ - 5I₂ = 0 => 6 - 6I₁ - 5I₂ = 0 => 6I₁ + 5I₂ = 6 ... (1)
+Applying Kirchhoff's voltage law to loop ABHFGA:
+2 - I₂ (2) - (I₁ + I₂) 5 = 0 => 2 - 2I₂ - 5I₁ - 5I₂ = 0 => 2 - 5I₁ - 7I₂ = 0 => 5I₁ + 7I₂ = 2 ... (2)
+Multiply eq (1) by 5 and eq (2) by 6 and subtract:
+(30I₁ + 25I₂ = 30) - (30I₁ + 42I₂ = 12) => -17I₂ = 18 => I₂ = -18/17 = -1.06 A.
+Negative sign indicates that the direction of I₂ is opposite to that assumed.
+Substitute I₂ = -1.06 A in eq (1): 6I₁ + 5(-1.06) = 6 => 6I₁ = 6 + 5.3 = 11.3 => I₁ = 1.88 A.
+Thus current through 6V battery is 1.88 A (discharging), through 2V battery is 1.06 A (charging).
+Terminal voltage V = (I₁ + I₂) R = (1.88 - 1.06) x 5 = 0.82 x 5 = 4.1 V.
+
+Example 12.9: For the circuit shown in figure 12.21, find the voltage V_x.
+Solution: The circuit has two loops. Assume currents I₁ and I₂ as shown.
+First find total resistance seen by the 24 V source: R_total = 2 + 1 + 3 = 6 kΩ.
+Total current I = V / R_total = 24 / 6 = 4 mA.
+Apply Kirchhoff's voltage law to loop ABCDA:
+24 - I₁ (2k) - V_x = 0.
+But I₁ = I = 4 mA.
+So 24 - (4 x 2) - V_x = 0 => 24 - 8 - V_x = 0 => V_x = 16 V.
+
+Wheatstone Bridge:
+A Wheatstone bridge circuit is shown in fig 12.22. Across one pair of opposite junctions A and C a battery is connected and across the other opposite pair of junctions B and D a galvanometer is connected. Resistances P, Q, R and X are connected as shown. When the key is closed, the current I divides at junction A between the two paths ABC and ADC. The galvanometer shows current. The value of resistance R is adjusted until the galvanometer shows no current. Under such condition the bridge is said to be balanced. The point at which galvanometer shows zero deflection is called balance point.
+Let I₁ and I₂ be the currents through P and Q respectively when the bridge is balanced. Since there is no current through galvanometer, the current in Q and X are also I₁ and I₂.
+Since the galvanometer reads zero, points B and D are at the same potential. This implies that voltage drops from A to B and A to D must be equal. Also the potential drop from B to C and D to C must be equal. Hence:
+I₁ P = I₂ R ... (i)
+I₁ Q = I₂ X ... (ii)
+Dividing (i) by (ii): P/Q = R/X or P X = Q R.
+Therefore X = (Q/P) R ... (12.19)
+If the resistances on the right side of equation (12.19) are known, the unknown resistance X can be calculated. This is the principle of determination of unknown resistance by Wheatstone bridge.
+
+Potentiometer:
+A potentiometer is a null type resistance network device for measuring potential differences. It is one of the most useful instruments. Its principle of action is that the unknown emf or P.D. is measured by balancing it, wholly or in part, against a known potential difference.
+The simplest potentiometer consists of a wire LM of uniform cross-section stretched along a scale and connected across a battery of potential V. A standard cell of known emf E_s is connected between L and a sliding contact N via a switch S.
+
+Figure 12.23: Simplest potentiometer circuit.
+
+The slider N is moved along the wire until the galvanometer shows zero deflection when N is making contact at point S. Let the length between L and N be l_s. The potential over length l_s of the wire is then the same as the emf E_s. Then switch to the other cell, the emf E_x which is to be measured. Adjust the slider N again to give zero deflection on the galvanometer. Let the new distance between L and N be l_x. Then:
+E_x / E_s = l_x / l_s ... (12.20)
+Thus E_x = (l_x / l_s) E_s.
+
+Applications of Potentiometer:
+Measurement of small emf (up to 2 V).
+Comparison of emf of two cells.
+Measurement of high emf (say 250 V).
+Measurement of resistance.
+
+Example 12.10: In a potentiometer experiment, a standard cell of emf 1.0183 V and a standard resistance of 0.1 Ω were used. It was found that 1.0183 V was equivalent to the emf across 150 cm of the wire when a current was flowing through the standard resistance. If the potential difference across 0.1 Ω was balanced by 150 cm, what was the value of current?
+Solution: For standard cell, E_s = 1.0183 V, l_s = 150 cm = 1.5 m.
+The potential difference across 0.1 Ω resistor is V = I R.
+This V is balanced by length 1.5 m.
+Thus V = (l_s / L) * V_supply, but since the same wire balances the standard cell emf, the potential gradient is E_s / l_s = 1.0183 / 1.5 V/m.
+Thus V = (1.0183 / 1.5) * 1.5 = 1.0183 V.
+But V = I R = I * 0.1.
+So I = 1.0183 / 0.1 = 10.183 A.
+
+SUMMARY:
+The steady flow of free electrons is called steady current.
+Current is due to flow of electrons and electrons are the constituents of matter.
+Those substances which have larger number of free electrons will permit current to flow easily. Such substances are called conductors, for example metals.
+Current through the cross-section area A is the net charge flowing through the area per unit time. I = Q/t.
+The average velocity with which free electrons get drifted in a metallic conductor under the influence of electric field is called drift velocity (v_d).
+Ohm’s Law states that the magnitude of the current in metals is proportional to the applied voltage as long as the temperature of the conductor is kept constant. V = I R.
+Resistance is the opposition offered by the substance to the flow of free electrons.
+The resistance R of a conductor is directly proportional to its length and inversely proportional to its area of cross-section and is given by: R = ρ L/A.
+The reciprocal of resistance of a conductor is called conductance (G).
+The increase in resistance (R_t - R_0) is directly proportional to the initial resistance and the rise in temperature and nature of material and is given by R_t = R_0 (1 + α t).
+

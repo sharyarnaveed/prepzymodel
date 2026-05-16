@@ -1,0 +1,227 @@
+
+This chapter deals with the most fundamental bioenergetics processes i.e., photosynthesis and respiration. You must have the general concept of these processes. Your learning would foster the skills of analysis and evaluation. This chapter also discusses photorespiration, the process that reduces plants' photosynthetic efficiency.
+
+Photosynthesis is a "redox" process in which CO2 (an oxidized form of carbon) is reduced into glucose (a reduced form of carbon). Water acts as a reducing agent and is oxidized into oxygen during this process. Bio-energetically photosynthesis can be defined as an energy conversion process in which energy poor molecules i.e., CO2 and H2O are transformed into energy rich molecule such as glucose. The extra energy is absorbed in the form of sunlight by the photosynthetic pigments.
+
+The overall reaction of photosynthesis can be summarized as follows:
+Reduction
+6CO2 + 12H2O → C6H12O6 + 6O2 + 6H2O
+Carbon dioxide Water Glucose Oxygen Water
+Oxidation
+This process involves the interaction of sunlight, pigments, water and carbon dioxide.
+
+4.1.1 Role of Light
+Sunlight is an electromagnetic form of energy. The full range of electromagnetic radiation in the universe is called electromagnetic spectrum. Visible light is only a small part of the spectrum between 380nm to 750nm which is not only seen by naked eye but is also effective for the process of photosynthesis.
+The effectiveness of a particular wavelength of light for the process of photosynthesis primarily depends upon its absorption in the plant body. As different wavelengths (colours) of visible light are differently absorbed by various photosynthetic pigments, therefore, each wavelength has its own effectiveness for the process of photosynthesis. If a plant is exposed to different wavelengths of light, the rate of photosynthesis will be variable in different colours. The graph which shows the rate of photosynthesis at each wavelength of light for a particular plant is called action spectrum. Analysis of action spectrum indicates that blue (460nm) and red (670nm) wavelengths of light are most effective for the process.
+
+4.1.2 Kinds of Photosynthetic Pigments
+Pigment is any substance that absorbs light. The colour of a pigment is due to the colour of light which is reflected back. All the pigments that take part in photosynthesis are embedded in thylakoid membranes (grana lamellae) within chloroplasts. Higher plants have two major groups of pigments i.e., chlorophylls and carotenoids.
+
+Chlorophyll
+Chlorophylls absorb mainly violet, blue, orange and red wavelengths. Green and yellow are least absorbed and reflected. Two major types of chlorophyll are Chlorophyll-a and Chlorophyll-b. Chlorophyll-a is a bluish green pigment which is found in all photosynthetic organisms except photosynthetic bacteria. Chlorophyll-b is yellowish green pigment which is also found in all photosynthetic organisms except brown, red algae and photosynthetic bacteria. Algae also have some other form of chlorophylls i.e., Chl-c, Chl-d and Chl-e while photosynthetic bacteria have yet another type of chlorophyll i.e., bacteriochlorophyll.
+Molecular formula of chlorophyll a and b:
+Chlorophyll a = C55 H72 O5 N4 Mg
+Chlorophyll b = C55 H70 O6 N4 Mg
+A molecule of chlorophyll consists of a head and two tails. The head is composed of a porphyrin ring with Mg in the centre. The porphyrin ring further consists of four pyrrole rings (each pyrrole ring contains four carbon atoms and one nitrogen atom). The nitrogen atoms of the pyrrole rings are bonded with the Mg atom. The pyrrole rings also contain different groups. Chlorophyll-a contains methyl group (-CH3) whereas chlorophyll-b contains aldehyde group (-CHO) at the same position.
+
+The head of chlorophyll is hydrophilic in nature. It stays at the surface of thylakoid membrane. It is light absorbing part of chlorophyll. The two side chains in chlorophyll molecule are called tails. Side chains are methyl ester. The tails are hydrophobic in nature. They are embedded into the thylakoid membrane and serve to anchor the chlorophyll molecule in the membrane.
+
+Carotenoids
+Carotenoids are yellow, orange, red or brown pigments. They absorb light strongly in the blue-violet range. They are seen in leaves before leaf fall, present in some flowers and fruits. The carotenoids act as accessory pigment along with chlorophyll-b as they absorb light energy and then transfer it to the chlorophyll-a. Therefore, they protect the chlorophyll-a from excess of light. They also attract insects, birds and other animals for pollination and dispersal.
+There are two types of carotenoids: carotenes and xanthophylls. The carotenes are orange red pigments composed of isoprenoid units and are found in all photosynthetic eukaryotes. The most widespread and important carotene is β (beta) carotene. Xanthophylls are yellow in colour and are also composed of isoprenoid units. Lutein is widely distributed xanthophyll which is responsible for yellow colour of foliage in autumn.
+
+4.1.3 Absorption Spectrum
+The absorption of different colours of light by a particular pigment can be determined by the help of spectrophotometer. The data of spectrophotometer is represented by a graph. Such a graph which shows the absorption of different colours of light by a particular pigment is called absorption spectrum of that pigment.
+Different pigments absorb different wavelengths of visible light and these wavelengths are not absorbed at the same rate. The main photoreceptors are chlorophyll a and b and both show more absorption in violet-blue (430nm to 470nm) and orange-red (630nm to 660nm) regions of the visible spectrum. On the other hand carotenoids show more absorption at 430nm to 500nm.
+
+4.1.4 Arrangements of Pigments (Photosystems)
+For efficient absorption and utilization of light energy, the photosynthetic pigments are organized in the form of clusters in thylakoid membranes. These clusters are called photosystems. Each photosystem consists of two parts. The outer part of photosystem is called antenna complex which consists of chlorophyll-b and carotenoids. The central part is called reaction centre which contains chlorophyll-a. Generally chlorophyll-a has an optimal absorption wavelength of 660nm, it forms different associations with different proteins in each type of photosystem to slightly shift its optimal absorption wavelength, producing two distinct photosystem types i.e., photosystem-I (PS-I) and photosystem-II (PS-II). The reaction chlorophyll-a in the reaction centre of PS-I can absorb maximum 700nm wavelength of light, hence called P700. Similarly, the reaction chlorophyll-a in the reaction centre of PS-II can absorb maximum 680nm wavelength of light, hence called P680. The photosystems are named for the order in which they were discovered and not for the order in which they occur in the thylakoid membrane.
+As chlorophyll-a can only absorb light of a narrow wavelength, it works with the pigments of antenna complex to gain energy from a larger part of the spectrum. The pigments absorb light of various wavelengths and pass along their gained energy to chlorophyll-a of the reaction centre. When the energy reaches the chlorophyll-a, its electrons become so excited that they escape and move to a nearby electron transport chain. In this way chlorophyll molecule becomes oxidized.
+Chlorophyll + light energy → Chlorophyll+ + e-
+(reduced form) (oxidized) (electron)
+The electron transport system plays an important role in generation of ATP by the conversion of light energy into chemical energy.
+
+4.1.5 Role of Carbon Dioxide in Photosynthesis
+Carbon dioxide acts as carbon source for the synthesis of organic compounds in photosynthesis. Plants are therefore known as autotrophs because they use inorganic carbon for the synthesis of their organic compounds. Carbon dioxide is utilized in light independent reaction (Calvin cycle) of photosynthesis. Air contains about 0.03 to 0.04 percent of carbon dioxide. Land plants use atmospheric carbon dioxide while aquatic plants use dissolved carbon dioxide. Bicarbonates and carbonates are the major source of carbon for aquatic photosynthetic organisms.
+
+4.1.6 Role of Water in Photosynthesis
+Water is essential for photosynthesis. Water acts as hydrogen and electron donor. The electron lost by the P680 during photolysis of water is taken up by the NADP+ to form NADPH. The oxygen which is evolved during this process is released in atmosphere.
+The role of water in photosynthesis was first reported by Van Niel in 1930. He hypothesized that plants split water as a source of hydrogen, releasing oxygen as a by-product. This observation was based on investigations of photosynthesis in bacteria that make carbohydrates from carbon dioxide, but do not release oxygen.
+Van Niel's hypothesis was confirmed in 1940, when for the first time 18O in biological experimentation was used. In first experiment water was made of 18O. The water tagged 18O was given to an alga suspension. The oxygen, evolved during photosynthesis, was found to be radioactive. It was separated and identified. In another experiment carbon dioxide with tagged 18O was added. The oxygen evolved contained none of the isotopes. Thus the source of evolved oxygen was proved to be water. In the following summary, red denotes labelled atoms of Oxygen 18O.
+6CO2 + 12H2O → C6H12O6 + 6H2O + 6O2
+6CO2 + 12H2O → C6H12O6 + 6H2O + 6O2
+
+4.1.7 Mechanism of Photosynthesis
+The process of photosynthesis has been divided into two phases. The first phase is called light dependent phase (light reaction) because it can take place only in the presence of light. The light-dependent phase occurs in the thylakoid membranes. In this phase light energy is used to make ATP (assimilating power) and NADPH (reducing power), whereas, water and oxygen are supposed to be input and output respectively. The second phase of photosynthesis is called light independent phase (dark reaction) because it can occur whether light is present or not. This phase actually requires the products of light reaction i.e., ATP and NADPH. Since these products are available in day therefore, dark reaction also occurs in day time. In this phase CO2 acts as input which is converted into glyceraldehyde 3-phosphate (G3P), the output of this phase. The ATP is hydrolyzed to ADP and Pi while NADPH is oxidized to NADP+ in this phase, whereas, the electrons and hydrogen from NADPH are incorporated into G3P, which is an energy rich molecule.
+
+4.1.8 Light Dependent Phase (Light Reaction)
+The light dependent phase of photosynthesis involves the absorption of light by the photosynthetic pigments, excitation and flow of electrons through an electron transport chain, synthesis of ATP, and reduction of NADP+ to NADPH. The flow of electrons through an electron transport chain during light reaction is of two different types known as non-cyclic and cyclic. In non-cyclic electron flow, the excited electrons after leaving a particular photosystem do not come back; these electrons after losing their energy are incorporated into another molecule. On the other hand, in cyclic electron flow, the excited electrons after leaving a particular photosystem finally come back to their photosystem from where they left.
+The most important event in light reaction is the production of ATP. This production of ATP during light reaction is called photophosphorylation and the mechanism is called chemiosmosis. There are two types of photophosphorylation.
+
+Non-Cyclic Photophosphorylation
+It is predominant pathway of light reaction in higher plants that occurs in routine. In non-cyclic photophosphorylation both photosystems i.e., PS-I and PS-II are utilized and two electron transport chains are involved. The excited electrons which are removed from PS-II after flowing through one chain are transferred to PS-I. Similarly, the excited electrons which are removed from PS-I are finally accepted by NADP+. Therefore it is called non-cyclic electron flow. The events of non-cyclic photophosphorylation are described in steps for convenience.
+
+Step 1: Absorption of light by PS-II and excitation of its electrons
+When photons strike the antenna complex of PS-II, the electrons begin to move along the chain of different pigments within the photosystem. Ultimately, the absorbed energy reaches the reaction centre of PS-II (P680) where it causes two electrons to be excited. These excited electrons are captured by the primary electron acceptor of PS-II and leave two "electron holes" in the photosystem. In this way the P680 becomes a strong oxidizing agent. These electron holes of photosystem must be filled so that it can be used again. This is done by photolysis of water. The water splits up into 2H+ ions, 2e- and 1/2O2. Since this breakdown of water releases oxygen gas so it is also called oxygen evolving complex. The electrons released during photolysis of water fill the electron holes of PS-II.
+
+Step 2: Flow of electrons from PS-II to PS-I
+The electrons which have been released from PS-II and captured by primary electron acceptor now begin to flow to PS-I through an electron transport chain. The electrons flow through primary electron acceptor to the plastoquinone (PQ). From PQ the electrons enter a protein complex of the cytochromes (Cyt) which consist of Cyt-b6 and Cyt-f.
+The cytochrome complex is not only an electron carrier but it also works as proton pump. The electron flow through the cytochrome complex stimulates it to pump the protons from stroma to the thylakoid inner space. In this way the energy of flowing electrons is transformed into a gradient of protons (H+) in the thylakoid inner space. The proton gradient activates an enzyme in thylakoid membrane called ATP synthase which not only moves the protons back into the stroma but also catalyzes a reaction in which ADP and Pi are combined to form ATP (substrate level phosphorylation). This whole mechanism which involves flow of electron, pumping of protons, and generation of ATP by thylakoid membranes is called chemiosmosis. This ATP, created during light reactions will provide chemical energy for the synthesis of sugar during dark reactions.
+The energized electrons after losing their energy, move from cytochrome complex to the plastocyanin (PC) and finally incorporated into the PS-I.
+
+Step 3: Absorption of light by PS-I and excitation of its electrons
+On the other hand, when P700 in the reaction centre of PS-I molecule absorbs two photons of light, electrons are boosted to a higher energy level. P700 molecule passes these electrons to a primary electron acceptor of PS-I, creating "electron holes". These electron holes of P700 are filled by the pair of electrons received from the P680 via plastocyanin.
+
+Step 4: Electron flow from PS-I to NADP+
+The primary electron acceptor of photosystem I passes the photoexcited electrons to a second electron transport chain. The electrons are accepted by ferredoxin (Fd). It is an iron containing protein. An enzyme called NADP reductase (flavoprotein enzyme) transfers the electrons from Fd to NADP+. NADP+ combines with electrons and hydrogen ions to form NADPH (reduced). The NADPH will provide reducing power for the synthesis of sugar in the Calvin cycle.
+NADP+ + 2e- + 2H+ → NADPH + H+
+The flow of electrons through the two photosystems during non-cyclic electron flow is shown as Z-Scheme due to its conceptual zigzag shape.
+
+Cyclic Photophosphorylation
+Excess of NADPH and deficit of ATP may stimulate a temporary shift from a non-cyclic electron flow to cyclic electron flow until ATP supply catches up the demand. In this mechanism only PS-I's electrons are involved. The PS-I absorbs photons of light. When energy reaches the reaction centre of PS-I, its electrons are boosted up to higher energy level. Such excited electrons are transferred to the primary electron acceptor of PS-I, then they move through an electron transport chain consisting of ferredoxin, cytochrome b6/f complex and plastocyanin. When electrons attain low energy level, ATP is generated by chemiosmosis. Finally, these low energy electrons are transferred back to P700 chlorophyll in PS-I reaction centre. There is no involvement of PS-II in this cyclic flow. Therefore, no photolysis of water and consequently, no release of oxygen.
+
+4.1.9 Light Independent Phase (Dark Reaction)
+The light independent phase (dark reaction) takes its name from the fact that light is not directly required for these reactions to occur. This phase requires the availability of NADPH, ATP (the products of light reaction) and CO2. In this phase of photosynthesis, NADPH is used to reduce carbon dioxide while ATP is used to incorporate energy. Finally, CO2 is converted into a phosphorylated triose carbohydrate i.e., glyceraldehyde-3-phosphate (G3P) which are later on used to make glucose. Dark reaction generally involves a complicated metabolic pathway, the Calvin cycle or C3 pathway. However, in some plants, in addition to Calvin cycle another metabolic pathway is also involved, called C4 pathway. The plants in which only Calvin cycle occurs during dark reaction are called C3 plants.
+
+Calvin Cycle
+Calvin cycle term is applied to the series of metabolic reactions in which CO2 is reduced to produce G3P. (These reactions have been explored by Melvin Calvin and co-workers at University of California. Melvin Calvin won the Nobel Prize in 1961 for this discovery). The Calvin cycle can be divided into three phases, carbon fixation, reduction and regeneration of carbon dioxide acceptor i.e., RuBP.
+
+Phase 1: Carbon Fixation
+One of the key substance in this process is a five carbon phosphorylating sugar ribulose bisphosphate (RuBP). It is generally referred as CO2 acceptor because it has affinity of combining with carbon dioxide with the help of Ribulose bisphosphate carboxylase/oxygenase also known as RuBisCO. Three intermediate molecules of 6-carbon compound are formed during this reaction. These molecules are unstable and exist for a short time. They cannot be isolated. Each six carbon breaks down, to form two molecules of 3-phosphoglycerate (3-PGA), a phosphorous containing compound with three carbons.
+The conversion of inorganic compound (CO2) into organic compound is called carbon fixation. As this is the first phase of Calvin cycle, hence, it is called carbon fixation. The Calvin cycle is also known as C3 pathway.
+
+Phase 2: Reduction
+Six molecules of 3-phosphoglycerate (3-PGA) react with six ATP molecules. A phosphate from each ATP is transferred to each 3-PGA. In this way, 3-PGA is changed into 1,3-bisphosphoglycerate. These molecules are then reduced by gaining hydrogen of NADPH and finally 3-phosphoglyceraldehyde or glyceraldehyde-3-phosphate (G3P) molecules are formed. During this reduction process a phosphate group from each 1,3-bisphosphoglycerate is also given off. There are total six molecules of G3P are formed. Only one molecule is released from the cycle while rest of the five molecules are used to regenerate the CO2 acceptor molecules in the next phase.
+
+Phase 3: Regeneration of CO2 acceptor
+Five molecules of G3P which are left in this phase are used to regenerate the three molecules of RuBP through a series of reactions in which three molecules each containing three carbon atoms are rearranged to form three molecules of ribulose phosphate (RuP) each containing five carbon atoms. With the help of ATP, a phosphate from each ATP is transferred to each RuP. In this way three molecules of RuP are converted into RuBP which again participate in the next cycle.
+The whole process of Calvin cycle indicates that there are three molecules of CO2, six molecules of NADPH (reducing power) and nine molecules of ATP (assimilating power) are used to release just one molecule of G3P form the cycle. However, in order to produce one glucose molecule, two molecules of G3P are required. The overall process of Calvin cycle can be represented as:
+3CO2 + 9ATP + 6NADPH → G3P + 9ADP + 8Pi + 6NADP+
+
+4.2 CELLULAR RESPIRATION
+In biological systems oxidation-reduction is a chemical reaction usually involves the removal of hydrogen atom from one molecule and the gain of hydrogen atom by another molecule. Cellular respiration is a series of complex oxidation-reduction reactions by which living cells obtain energy through the breakdown of organic matter.
+
+4.2.1 Kinds of Cellular Respiration
+There are two kinds of respirations: aerobic respiration and anaerobic respiration. Aerobic respiration takes place in the presence of abundant atmospheric oxygen, whereas, anaerobic respiration occurs in the absence of oxygen. The organic molecule that generally undergoes oxidation in cellular respiration in order to release energy is glucose, therefore, glucose is said to be respiratory fuel. The initial breakdown of glucose in both aerobic and anaerobic respirations is quite same, in which it is broken down into two molecules of pyruvates. This common step of aerobic and anaerobic respirations is called glycolysis. The pyruvates undergo different pathways depending upon the availability of oxygen and the kind of organism. If oxygen is available, the further breakdown of pyruvates takes place aerobically and final products are carbon dioxide and water with the release of large amount of energy i.e., 36 ATPs (in eukaryotes) or 38 ATPs (in prokaryotes). If oxygen is absent, then the pyruvates are broken down anaerobically and the final products are either lactic acid or ethanol and carbon dioxide, with release of very small amount of energy i.e., just 2 ATPs.
+
+4.2.2 Mechanism of Anaerobic Respiration
+Anaerobic respiration takes place in many microorganisms (bacteria, yeast), muscle cells and in the cells of higher plants. Anaerobic respiration is incomplete oxidation of glucose in the absence of oxygen. It is also known as fermentation. There are two types of anaerobic respiration depending upon the nature of final product i.e., lactic acid fermentation and alcoholic fermentation.
+
+Lactic Acid Fermentation
+It involves the reduction of pyruvate by NADH to lactic acid. Lactic acid fermentation operates anaerobically because NAD+ needs to return and pick up more electrons during the earlier reaction of glycolysis. The overall equation can be represented as:
+C6H12O6 + 2NAD+ → 2CH3CHOHCOOH + 2NADH + 2H+
+Glucose → 2 Lactic acid + 2NADH + 2H+
+Lactic acid fermentation occurs in anaerobic bacteria and in the muscles of vertebrates as well as human during strenuous exercise when oxygen supply is exhausted. The accumulation of lactic acid causes muscles fatigue i.e., muscles become unable to contract and begin to ache.
+
+Alcoholic Fermentation
+Alcoholic fermentation is found in yeast. It consists of glycolysis followed by the decarboxylation of pyruvate to acetaldehyde then reduction of acetaldehyde by NADH to ethanol. The decarboxylation step releases carbon dioxide. The reduction step regenerates NAD+ for use in glycolysis. The overall equation can be represented as:
+C6H12O6 + 2ADP + 2Pi + 2NAD+ → 2C2H5OH + 2CO2 + 2ATP + 2NADH + 2H+
+Glucose → 2 Ethanol + 2 Carbon dioxide + 2ATP + 2NADH + 2H+
+
+4.2.3 Aerobic Respiration
+Aerobic respiration is a catabolic process which involves complete oxidation of glucose into carbon dioxide and water with release of large amount of energy. It takes place in three phases: glycolysis, Krebs cycle and electron transport chain.
+
+Glycolysis
+Glycolysis is the process of breakdown of glucose or similar hexose sugar into two molecules of pyruvates through a series of enzymatic reactions releasing some energy (as ATP) and reduced coenzymes (as NADH). It occurs in the cytoplasm. It is completed in two phases i.e., preparatory phase and oxidative phase. Preparatory phase is an investment phase in which two ATPs are consumed. Its end products are two molecules of G3P. On the other hand oxidative phase is pay off phase in which not only ATPs are produced through substrate level phosphorylation but it also produces NADH which upon further oxidation in respiratory electron transport chain yields more ATPs. The whole glycolysis pathway takes place in the following sub steps.
+
+Phosphorylation: When glucose reacts with ATP, a phosphate group from ATP is transferred to glucose. In this way glucose is phosphorylated to glucose-6-phosphate.
+
+Isomerization: Glucose-6-phosphate is changed to its isomer fructose-6-phosphate.
+
+Phosphorylation: When fructose-6-phosphate reacts with another ATP, it is phosphorylated to Fructose-1,6-bisphosphate.
+
+Splitting: Now fructose-1,6-bisphosphate splits up to form one molecule each of 3-carbon compounds, glyceraldehyde 3-phosphate (G3P) and dihydroxyacetone 3-phosphate.
+
+Isomerization: The dihydroxyacetone 3-phosphate is ultimately changed into its isomer, the glyceraldehyde 3-phosphate (G3P). In this way preparatory phase is completed. Next phase of glycolysis is proceeded by two molecules of G3P, therefore, the remaining reactions occur twice.
+
+Dehydrogenation and Phosphorylation: Each G3P is oxidized by NAD+ and at the same time phosphorylated by inorganic phosphate (Pi) to form 1,3-bisphosphoglycerate.
+
+Substrate Level Phosphorylation: In this step a molecule of ATP is produced by substrate level phosphorylation. 1,3-bisphosphoglycerate loses its phosphate group to ADP forming ATP and is changed into 3-phosphoglycerate.
+
+Isomerization: In this step position of phosphate group is changed from C3 to C2. 3-phosphoglycerate is converted to 2-phosphoglycerate. Glycolysis is also called Embden-Meyerhof-Parnas pathway.
+
+Dehydration: In this step, 2-phosphoglycerate loses a water molecule and is converted into phosphoenol pyruvate.
+
+Formation of ATP: Again a molecule of ATP is produced by substrate level phosphorylation when phosphoenol pyruvate loses its phosphate group which is taken up by ADP to form ATP in the presence of an enzyme (pyruvate kinase). The phosphoenol pyruvate is finally converted into pyruvate.
+
+4.2.4 Oxidation of Pyruvate
+Pyruvates are produced in cytosol. Because pyruvate is a charged molecule, it must enter the mitochondrion via active transport with the help of a transport protein. On entering the mitochondria, pyruvates do not directly participate in Krebs cycle but they undergo an intermediate phase, called oxidation of pyruvate or link reaction as a part of aerobic respiration before entering into Krebs cycle. This reaction occurs in the mitochondrial matrix. Each pyruvate molecule undergoes oxidation. First, it undergoes decarboxylation, in which a molecule of CO2 is removed from pyruvate to form a two-carbon compound called acetyl group. Then, NAD+ removes hydrogen atoms (oxidation) from the acetyl group to produce acetyl-CoA and NADH. Acetyl-CoA now enters the Krebs cycle.
+
+4.2.5 Krebs Cycle
+This cycle was discovered by German scientist Sir Hans Krebs, therefore, called Krebs cycle. It is also called citric acid cycle or Tri carboxylic acid (TCA) cycle because the first compound which is formed in the cycle is citrate (citric acid) that contains three carboxylic acid groups.
+The Krebs cycle comprises following nine steps:
+
+Synthesis
+Acetyl CoA (2-carbon compound) and a water molecule combine with oxaloacetate (4-carbon compound) to form a 6-carbon compound called citrate (citric acid). It is the first product of Krebs cycle. CoA is liberated.
+
+Dehydration
+Citrate undergoes reorganization by the removal of a water molecule. The resulting compound is cis-aconitate.
+
+Hydration
+Cis-aconitate is converted into isocitrate with the addition of water. Actually, citrate and isocitrate are isomers of each other.
+
+Oxidative decarboxylation
+This is a two-step process, which involves oxidation/dehydrogenation of isocitrate, followed by the decarboxylation to form alpha-ketoglutarate. The hydrogen and electrons which are released from isocitrate are taken up by NAD+ to form NADH while the carboxyl group is released in the form of CO2.
+
+Oxidative decarboxylation and addition of CoA
+Alpha-ketoglutarate again undergoes oxidative decarboxylation. The hydrogen and electrons which are released from alpha-ketoglutarate are taken up by NAD+ to form NADH and the carboxyl group is released in the form of CO2. Then, it combines with coenzyme A forming succinyl CoA.
+
+Formation of ATP
+CoA is removed from Succinyl CoA to form succinate. The reaction releases energy which is used to combine GDP and Pi forming GTP. GTP reacts with ADP to form ATP and GDP is again converted into GDP. In this way a molecule of ATP is produced.
+
+Dehydrogenation/oxidation
+Succinate undergoes dehydrogenation/oxidation to form fumarate. The hydrogen and electrons which are released from succinate are taken up by FAD to form FADH2.
+
+Hydration
+A water molecule gets added to fumarate to form malate.
+
+Oxidation
+Malate undergoes dehydrogenation/oxidation to produce oxaloacetate. The hydrogen and electrons which are released from malate are taken up by NAD+ to form NADH. Oxaloacetate picks up another molecule of acetyl CoA to repeat the cycle.
+
+4.2.6 Electron Transport Chain (ETC)
+Most of the energy of glucose is in the form of NADH and FADH2. Their energy is released through Electron Transport Chain. In this chain, the reduced coenzymes are oxidized and the electrons are passed along a series of oxidation-reduction reactions.
+The components of electron transport chain include: (1) NADH-dehydrogenase complex (I), (2) FADH-dehydrogenase complex (II), (3) coenzyme Q, (4) Cytochrome reductase complex (III), (5) Cytochrome c, (6) Cytochrome oxidase complex (IV).
+
+Sequence of electron flow
+NADH is oxidized when it reacts with NADH-dehydrogenase complex (I). The electrons now move to the mobile carrier co-enzyme Q. If FADH2 is to be oxidized through ETC, it also transfers its electrons to coenzyme Q, via FADH dehydrogenase complex (II). The flowing electrons from coenzyme Q are now transferred to cytochrome reductase complex (III) which hands over its electron to cytochrome c. Like co-enzyme Q, cytochrome c is also mobile carrier of electrons. Cytochrome c delivers the electrons to cytochrome oxidase complex (IV). Finally, the electrons are transferred to oxygen. Each oxygen atom becomes reactive. It also picks up a pair of hydrogen ions from the aqueous solution forming water.
+
+During the passage of electrons from one carrier to next, energy is released. Part of this energy is used to pump protons (H+) from the mitochondrial matrix into the inter-membrane space. There are three such sites, corresponding to three complexes in the electron transport chain i.e. NADH-dehydrogenase complex (I), cytochrome reductase complex (III) and cytochrome oxidase complex (IV).
+
+MDCATBYFUTUREDOCTORS(TOUSEEFAHMADKHAN) 03499815886
+
+How does the electron transport chain make ATP? The coupling of electron transport chain and ATP synthesis is called chemiosmosis.
+
+Chemiosmosis and Oxidative Phosphorylation
+Oxidative phosphorylation is the synthesis of ATP molecules with the help of energy released during oxidation of reduced co-enzymes (NADH, FADH2) produced in respiration. The enzyme required for this synthesis is called ATP synthase.
+ATP synthase is embedded in the inner mitochondrial membrane. It consists of two parts i.e., Fo and F1. Fo is embedded in the membrane and involves in the movement of protons from inter-membrane space to mitochondrial matrix. F1 or head particle is attached to the surface of membrane towards matrix. It catalyzes ATP synthesis by combining ADP and Pi. ATP-synthase becomes active in ATP synthesis when a proton gradient having higher concentration of protons on the inter-membrane side is established. The flow of protons down their concentration gradient through the Fo channel provides energy that is used by ATP-synthase to produce ATP. This produces ATP. Oxidative phosphorylation produces about 32 ATP molecules while a similar mechanism during light reaction produces ATP in chloroplasts.
+
+4.2.7 Substrate Level Phosphorylation
+The prime objective of cellular respiration is to generate ATPs. There are two ways to do this during aerobic respiration: chemiosmosis and substrate level phosphorylation, however we have already discussed.
+As far as substrate level phosphorylation is concerned, you are already familiar that addition of inorganic phosphate to any organic molecule is called phosphorylation. Thus, when phosphate is enzymatically transferred from an organic substrates molecule it is called substrate level phosphorylation. However, it accounts for only a small percentage of the ATP that a cell generates. It occurs at three occasions during aerobic respiration.
+In glycolysis, substrate level phosphorylation occurs when 1,3-bisphosphoglycerate is converted to 3-phosphoglycerate (7th reaction) and when phosphoenol pyruvate is converted to pyruvate (10th reaction). There are four ATPs produced by this mechanism but two of them are supposed to be consumed in preparatory phase of glycolysis. So net ATP produced by substrate level phosphorylation is 2 ATP.
+In Krebs cycle, substrate level phosphorylation occurs when succinyl CoA is converted to succinate. There are two molecules of ATP produced at this occasion. Since, ATP can be synthesized directly from the organic substrates of exergonic reactions (energy releasing reactions e.g., cellular respiration), therefore, it is said that substrate level phosphorylation couples the exergonic reactions with the synthesis of ATP. These ATPs are used to drive endergonic reactions (energy storing reaction e.g., protein synthesis). In this way, out of total 36 ATP which are produced during aerobic respiration in human cells, 4 ATP are the result of substrate level phosphorylation and the remaining 32 ATP are produced by chemiosmosis through electron transport chain.
+
+4.2.8 Importance of G3P
+Glyceraldehyde 3-phosphate (G3P) is an important intermediate of respiration and photosynthesis. In respiration, G3P appears during glycolysis pathway which leads to the formation of pyruvate. In the Calvin cycle of photosynthesis, G3P molecules are converted to glucose phosphate within the chloroplast. Glucose phosphate is then converted to glucose, fructose, sucrose and starch.
+
+4.2.9 Respiration of Fats and Proteins
+When fat is used as an energy source, it breaks down to glycerol and three fatty acids. Glycerol is converted to G3P, a metabolite in glycolysis. Fatty acids are converted to acetyl-CoA, which enters the Krebs cycle. An 18-carbon fatty acid results in nine acetyl-CoA molecules.
+Breakdown of proteins results in amino acids whose R-group size determines whether the carbon chain is oxidized in glycolysis or the Krebs cycle. The carbon chain is oxidized when an amino acid undergoes deamination, i.e., the removal of the amino group. The amino group becomes ammonia (NH3), which enters the urea cycle and becomes part of urea.
+
+4.3 PHOTORESPIRATION
+The respiratory activity that occurs in green cells in the presence of light resulting in the release of carbon dioxide is termed as photorespiration. It needs oxygen and produce CO2 and H2O like aerobic respiration. However ATP is not produced during photorespiration.
+
+4.3.1 Mechanism of Photorespiration
+When the CO2 levels inside the leaf drop to around 50 ppm (part per million), ribulose bisphosphate carboxylase/oxygenase (RuBisCO) starts to combine O2 with RuBP instead of CO2. The net result of this is that instead of producing two 3C molecules of phosphoglycerate (PGA), only one molecule of PGA and a toxic 2C molecule called phosphoglycolate are produced. The plant must get rid of the phosphoglycolate. First it immediately gets rid of the phosphate group, converting the molecule to glycolate.
+Phosphoglycolate → Phosphoglycerate + Glycolate
+The glycolate is then transported to the peroxisome and a series of reactions convert it to glycine. The glycine is then transported to the mitochondria where it is converted into serine. The serine is then used to make other organic molecules.
+
+4.3.2 Effect of temperature on the oxidative activity of RuBisCO
+Photorespiration is related to the functioning of the enzyme ribulose bisphosphate carboxylase/oxygenase. It is often called RuBisCO because it can have an oxygenase activity in addition to carboxylase activity. Its activity depends upon the relative concentration of O2 and CO2 in leaves. Photorespiration starts when the CO2 levels inside the leaf become low. This happens on hot dry days when plant begins to secrete abscisic acid which causes closing of stomata to prevent excess water loss. If the plant continues to fix CO2 in photosynthesis when its stomata are closed, the CO2 will be used up and the O2 produced from photosynthesis will be prevented to release out of plant body. In this way the O2 level in the leaf will increase relative to CO2 concentrations.
+
+4.3.3 Cost and Evolution of Photorespiration
+Photorespiration costs the plant energy and results in the net loss of fixed carbon from the carbohydrate during photosynthesis. Since photorespiration is not essential for plant then why it exists? If photorespiration is inhibited chemically, the plant grows normally. Moreover there are plants which naturally resistant to photorespiration. The reason is that the active site of RuBisCO can bind both carbon dioxide and oxygen. There was no oxygen in the atmosphere at the time of establishment of photosynthesis, so the carboxylase binding activity was the only one used. The photorespiration started when the oxygen began to accumulate in the atmosphere.
+
+4.3.4 Significance of C4 Photosynthesis: An adaptation to the problem of photorespiration
+Plants in hot climate have evolved an adaptation to the problem of photorespiration by developing an additional metabolic pathway in light independent phase of photosynthesis. This metabolic pathway is called Hatch-Slack cycle or C4 pathway. In this pathway the first product of CO2 fixation is a 4-carbon compound oxaloacetate, so these plants are called C4 plants e.g., maize, sugarcane, sorghum, etc.
+Oxaloacetate is then transported to the bundle sheath cells of mesophyll. It is then reduced to another 4-C compound, malate with the help of NADH, produced in photochemical phase. The malate is transported to the chloroplasts of bundle sheath cells. Here malate is converted to pyruvate (C3) with the release of CO2. Thus concentration of CO2 increases in the bundle sheath cells. These cells contain enzymes of Calvin cycle. Because of high concentration of CO2, RuBisCO participates in Calvin cycle and not in photorespiration. Sugar produced in Calvin cycle is transported into the phloem. Pyruvate generated in the bundle sheath cells re-enters mesophyll cells and regenerates phosphoenol pyruvate (PEP) by consuming one ATP.

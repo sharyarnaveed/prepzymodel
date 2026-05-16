@@ -1,0 +1,428 @@
+
+
+
+Define thermodynamics.
+Define the terms system, surrounding, boundary, state function, heat, heat capacity, internal energy, work done and enthalpy of a substance.
+Name and define the units of thermal energy.
+Define bond dissociation energy.
+Classify reaction as exothermic or endothermic.
+Apply Hess’s Law to construct simple energy cycles.
+Relate change in internal energy of a system with thermal energy at constant temperature and constant pressure.
+Use the experimental data to calculate the heat of reaction using a calorimeter.
+Specify conditions for the standard heat of reaction.
+Explain reaction pathway diagram in terms of enthalpy changes of the reaction. (Born Haber's Cycle).
+Describe how heat of combustion can be used to estimate the energy available from foods.
+
+INTRODUCTION
+
+Every process in this universe whether it occurs in living cells, or in test tubes, or in the atmosphere or in water etc. is accompanied by an energy change. Some processes release energy, other require energy. However, in all these cases total amount of energy in the universe remains constant. The branch of thermodynamics that examines the heat involved in chemical reactions is called thermochemistry. In this chapter we will discuss the principles that govern energy changes. We will examine the role of energy in chemical reactions. We will also discuss how heat of a chemical reaction is measured in order to focus on the central topic of the chapter i.e., the amount of heat released or absorbed in a reaction. The study of all types of energy changes associated with physical and chemical changes is known as thermodynamics.
+
+ENERGY IN CHEMICAL REACTIONS
+
+The energy in the form of heat is either evolved or absorbed as a result of chemical reaction. This is because, in a chemical reaction old bonds are broken and new bonds are formed. Bond breaking always consumes energy and bond making always releases energy. When the energy released by bond formation is greater than the energy consumed by bond breaking, there is a net release of chemical energy. Whereas energy is absorbed, when the energy consumed by bond breaking is greater than the energy released by bond formation. Thus in chemical reactions energy is exchanged with the surroundings.
+
+UNITS OF THERMAL ENERGY
+
+Unit of heat or thermal energy used in SI system is the Joule (J). It is defined as the energy required to move an object or a particle through a distance of one meter by a force of one Newton.
+Another common unit of heat is the calorie. It is defined as the heat or thermal energy required to raise the temperature of one gram of water from 14.5°C to 15.5°C.
+1 Calorie = 4.18 Joules
+
+SYSTEM, SURROUNDINGS AND BOUNDARY
+
+The part of the universe on which we wish to focus our attention is called a system. The remaining part of the universe is called surroundings. The real or imaginary surface separating the system from its surroundings is called the boundary.
+A system in chemistry is usually the substance undergoing physical or chemical change. For example, in the study of reaction between limestone and hydrochloric acid solution in a test tube, limestone and hydrochloric acid solution form a system. The test tube and everything around the test tube is surroundings. Similarly in the study of thermal decomposition of a compound, the sample of the compound would be the system, whereas the beaker, the source of heat and everything else would be surroundings.
+
+THERMOCHEMICAL REACTIONS
+
+When a chemical change takes place, energy is exchanged between system and its surroundings. Energy has many forms such as heat, light, work etc. A chemical reaction which proceeds with the evolution or absorption of heat is called a thermochemical reaction. A balanced chemical equation which also shows heat change of a chemical reaction is called thermochemical equation. The branch of chemistry which deals with the heat or thermal energy changes in chemical reactions is called thermochemistry.
+For example
+C(s) + O2(g) → CO2(g) ΔH° = –393.5kJ
+There are two types of thermochemical reactions:
+
+EXOTHERMIC REACTIONS
+
+A chemical reaction that proceeds with the evolution of heat is called an exothermic reaction. In an exothermic reaction the chemical system transfers energy to the surroundings as the reactants are converted to products e.g. burning of fuels is a highly exothermic reaction. The energy released can be used to heat a room, or to drive an engine or to cook food. Examples of exothermic reactions are given below:
+(i) C(s) + O2(g) → CO2(g) ΔH° = –393.5kJ
+(ii) 2H2(g) + O2(g) → 2H2O(l) ΔH° = –571.6kJ
+
+ENDOTHERMIC REACTIONS
+
+A chemical reaction that proceeds with the absorption of heat is called an endothermic reaction. In these reactions heat is transferred from surrounding to the system. Examples of endothermic reactions are given below:
+(i) H2(g) + I2(g) → 2HI(g) ΔH° = + 53.8kJ
+(ii) C(s) + H2O(g) → CO(g) + H2(g) ΔH° = +134.4kJ
+(iii) 2NO2(g) → N2O4(g) ΔH° = –58.0kJ
+(iv) 2NO(g) + O2(g) → 2NO2(g) ΔH° = –114.0kJ
+(v) N2(g) + O2(g) → 2NO(g) ΔH° = +180.5kJ
+
+Self Check Exercise 11.1
+Classify the following processes as exothermic or endothermic.
+(a) Freezing of water (b) Combustion of methane
+(c) Sublimation of dry ice (d) H2O(g) → H2O(l)
+(e) decomposition of limestone.
+
+HEAT OF REACTION
+
+The amount of energy released or absorbed depends on the amount of substances that react. For example, as more fuel burns, more energy is released. Thus when we report an energy change we must also report the amounts of the chemical substances that generate the energy change. For this purpose energy changes are expressed in terms of molar quantities of reactants and products.
+The amount of heat evolved or absorbed in a chemical reaction, when molar quantities of reactants and product are same as shown in a chemical reaction is called heat of reaction.
+Heat of reaction measured at 25°C (or 298K) and one atmospheric pressure is known as standard enthalpy change denoted by ΔH° (for detail see section 11.5.1)
+(i) C(s) + O2(g) → CO2(g) ΔH° = -393.5kJ
+This equation shows that 1 mole of solid carbon (12g) reacts with 1 mole of oxygen gas (32g) to give 1 mole of CO2 gas (44g) at 25°C and 1 atmospheric pressure and 393.5 KJ heat is evolved. What does the following equation show?
+(ii) H2(g) + I2(g) → 2HI(g) ΔH° = +53.8kJ
+If a reaction is exothermic when going in one direction, it will be endothermic in the reverse direction. When a reaction is reversed, the magnitude of ΔH° remains the same but its sign changes.
+Thus above two thermochemical reactions in the reverse direction would be represented as follows:
+CO2(g) → C(s) + O2(g) ΔH° = +393.5kJ
+2HI(g) → H2(g) + I2(g) ΔH° = -53.8kJ
+
+THERMODYNAMICS
+
+The study of all types of energy changes associated with chemical and physical changes is known as thermodynamics.
+
+STATE FUNCTION
+
+A complete description of a system, which includes its quantity, temperature, pressure and volume describe the state of the system.
+There are three types of systems, open system, closed system and isolated system. In an open system reactants and energy may be exchanged with its surroundings. In a closed system only energy may be exchanged with surroundings but not material. Whereas in an isolated system no energy and no material may be exchanged with its surroundings. In fact there is no ideally isolated system. It is hypothetical system used for a comparison.
+The condition of a system when various properties like temperature, pressure, volume, number of moles etc. of system have definite values is called state of the system. The initial state of a system is its state before it undergoes a change. Whereas the final state is its state after the change has occurred. In a chemical reaction, the description of the products defines the final state.
+Variables such as pressure, temperature, volume and energy depend only on the state of the system. A change in any of these variables depends only on the difference between initial and final conditions, but does not depend on the path followed. Such variables are called state functions or state variables.
+The properties that are determined by the state of the system regardless of how that condition was achieved are called state functions.
+Change in any property of a system is determined by the difference in the value of that property in the final state and the value of the same property in the initial state.
+For example
+Let V1 is the initial volume of H2 gas confined in a cylinder at temperature T1, and pressure P1. When temperature is increased from T1 to T2, its volume becomes V2 and pressure changes to P2. The change in volume (ΔV) is given by the following equation.
+ΔV = V2 – V1
+Similarly change in temperature ΔT and change in pressure ΔP are given by the equations.
+ΔT = T2 – T1
+ΔP = P2 – P1
+
+Spontaneous and non-spontaneous reactions:
+The reactions which proceed on their own and do not need any external energy to proceed are called spontaneous reactions. For example emission of rays from radioactive elements, burning of methane and coal. On the other hand the reactions which require external energy to proceed are called non-spontaneous reactions. For example reaction of nitrogen and oxygen to form nitric oxide, thermal decomposition of PbO2 etc.
+
+INTERNAL ENERGY
+
+In every chemical process energy is transformed from one form to another. The amount of energy transformed depends upon the energy contents of reactants and products. Every system has definite amount of energy present in it. This energy is due to kinetic as well as potential energies of the particles present in the system. The kinetic energy of the particles is due to the translational, rotational and vibrational motions of particles. The potential energy is due to all types of attractive forces present between the particles. These attractive forces include all types of bonds and Van der Waal’s forces. The sum of all kinds of energies of the particles of the system is called as internal energy. It is denoted by E. Absolute value of internal energy of a system cannot be measured. However change in internal energy (ΔE) of a system can be measured. The internal energy is a state function and depends only on the initial and final states of the system. Thus:
+ΔE = E2 – E1
+Where E1 and E2 are internal energies in the initial and final states of the system respectively.
+
+FIRST LAW OF THERMODYNAMICS
+
+A system can exchange energy with its surroundings in two distinct ways. Energy can be transferred as heat or work. Heat and work can be transferred into or out of the system. Because energy must be conserved, the energy change of the system is linked to the flow of heat and work. First law of Thermodynamics states that
+Energy can neither be created nor destroyed or total energy of the system and surroundings remain constant.
+ΔE = q + w
+Where ΔE is the change in the system's internal energy, q is heat and w represents work. w has positive sign when work is done on the system and negative when work is done by the system. q is positive when system absorbs heat and negative when loses heat.
+Consider a gas confined to a cylinder having a movable piston as shown in Fig: 11.1.
+Suppose system absorbs ΔE energy from a source. On absorbing energy gas expands inside the cylinder and pushes the piston through a distance Δh. A part of thermal energy q becomes work w on the piston. Therefore:
+ΔE = q + w
+Since pressure is defined as force per unit area, the Pressure of the gas (P) is:
+P = F / A
+F = P x A ... (1)
+Work done on the piston is:
+Work = Force X distance
+= F X Δh ... (2)
+From equations 1 and 2, We get.
+W = P x A x Δh ... (3)
+During expansion, the gas changes its volume. This volume change ΔV is equal to the product of area (A) and displacement (Δh).
+ΔV = A. Δh
+Therefore equation 3 becomes.
+W = P x ΔV
+The gas (the system) is expanding, pushing back the piston against the pressure. Therefore, the system is doing work on the surroundings, so the sign of work should be negative.
+w = - PΔV
+Such type of work is done in an automobile engine. Heat from the combustion of the fuel expands the gases in the cylinder to push back the piston. The piston turns a crankshaft which does work to move the automobile. This type of work is called as pressure-volume work. Under these conditions:
+ΔE = q – PΔV
+
+RELATIONSHIP BETWEEN INTERNAL ENERGY OF A SYSTEM AND THERMAL ENERGY AT CONSTANT TEMPERATURE AND PRESSURE
+
+Chemical reactions are generally carried out in open containers. Therefore, these reactions take place at constant pressure. This means that volume of reaction mixture can change. Thus, PV work can be done and heat can flow to or from the system.
+According to the first law of thermodynamics,
+ΔE = qp + PΔV
+Where qp is the heat transferred to the system from the surroundings. PΔV is work done by the surrounding on the system at constant pressure. If the system does work on the surrounding then,
+ΔE = qp – PΔV
+Rearranging this equation,
+qp = ΔE + PΔV
+If a chemical reaction involves only PV work at constant pressure, qp becomes an important quantity. In this case qp represents the heat absorbed or evolved by the reaction at constant pressure and is known as enthalpy change, ΔH. Thus, the thermal energy for a reaction is equal to change in internal energy (ΔE) of the system plus PV work done by the system at constant pressure. This thermal energy change is called enthalpy change (ΔH) of the system. Therefore,
+qp = ΔH = ΔE + PΔV …………………(1)
+Thus, enthalpy of a substance is defined as the system’s internal energy plus the product of its pressure and volume (H = E + PV). Absolute value of enthalpy of a system cannot be measured. However, change in enthalpy of a system (ΔH) can be measured.
+Since enthalpy change (ΔH) for a reaction is measured as thermal energy or heat therefore it is also known as heat of reaction. For a combustion reaction, ΔH is also called heat of combustion.
+Since, there is no appreciable volume change in reactions involving solids or liquids, so ΔV = 0. Therefore, equation (1) becomes,
+ΔH = ΔE + P(0)
+Thus ΔH = ΔE
+Standard enthalpy change is enthalpy change at constant pressure (1 atm) and constant temperature (25°C) and is denoted by ΔH°. Superscript zero indicates that the reaction has been carried out under standard conditions. Under these conditions reactants and products are in their standard states. (For detail see section 11.5)
+Equation (1) can be written as
+qp = ΔH° = ΔE° + PΔV
+Thus thermal energy change for a reaction is equal to the change in the internal energy of a system plus PV work done by the system at constant temperature and pressure.
+
+RELATION BETWEEN ENTHALPY CHANGE AND HEAT OF REACTION OR HEAT OF COMBUSTION OF A REACTION
+
+Because most chemical reactions occur at constant pressure, we can equate the heat change in these reactions to the change in enthalpy. This means we can define heat of a reaction as the change in enthalpy (ΔH), as the difference between the enthalpies of the products (final state) and the enthalpies of the reactants (initial state).
+ΔH = Hproducts – Hreactants
+The enthalpy change of a reaction can be positive or negative depending upon the process. For an exothermic process, in which heat is released by the system to the surrounding ΔH is negative (see examples in section 11.1.4). For an endothermic process, in which heat is absorbed by the system from the surroundings ΔH is positive (see examples in section 11.1.4). Since, combustion is an exothermic process in which heat is released by the system to its surroundings, ΔH is negative (see examples in section 11.5).
+
+STANDARD STATES AND STANDARD ENTHALPY CHANGES
+
+ΔH varies with conditions, we use standardized ΔH values. These values are calculated when all the substances are in their standard state (condition).
+
+CONDITIONS FOR STANDARD HEAT OF REACTION
+
+Conditions for the standard states are as follows:
+1. Standard state for a gas is 1 atm.
+2. Standard state for an element or compound is the most stable physical state at 1 atm and 25°C (298 K).
+3. Standard state for a substance in aqueous solution is 1M concentration.
+Now we will define important enthalpies.
+
+STANDARD ENTHALPY OF REACTION (ΔH°)
+
+The enthalpy change in a chemical reaction, when reactants and products are in their standard states and their molar quantities are same as shown by the balanced chemical equation is called standard enthalpy of reaction. Examples are given below:
+(i) 2H2(g) + O2(g) → 2H2O(l) ΔH° = -571.6kJ
+(ii) CH4(g) + 2O2(g) → CO2(g) + 2H2O(l) ΔH° = -890.4kJ
+(iii) 2Al(s) + Fe2O3(s) → Al2O3(s) + 2Fe(s) ΔH° = -850kJ
+
+STANDARD ENTHALPY OF FORMATION (ΔHf°)
+
+It is defined as the enthalpy change that accompanies the formation of one mole of a compound from its elements with all substances in their standard states. Standard enthalpies of formation of some compounds are shown in table 11.1.
+For writing thermochemical equation for enthalpy of formation, write elements as reactants and 1 mole of the compound as product. Show standard states of all the substances. Finally balance the atoms.
+
+Example 11.1
+Write thermochemical equation for the formation of H2O, SO2 and H2O2. Use data given in table 11.1.
+Solution:
+(i) H2(g) + 1/2 O2(g) → H2O(l) ΔHf° = -285.8 kJ mole-1
+(ii) S(s) + O2(g) → SO2(g) ΔHf° = -395.2 kJ mole-1
+(iii) H2(g) + O2(g) → H2O2(l) ΔHf° = -191.2 kJ mole-1
+Standard enthalpies of formation of some substances are shown in table 11.1.
+
+STANDARD ENTHALPY OF COMBUSTION (ΔHc°)
+
+The enthalpy change when one mole of a substance is completely burnt in excess of oxygen under standard conditions is called standard enthalpy of combustion. Standard enthalpies of combustion of some substances are shown in table 11.2.
+For writing thermochemical equation for enthalpy of combustion, write 1 mole of the element or compound and oxygen as reactant. Write oxides of the given element or oxides of elements present in the compound as products. Show standard states of all the substances. Finally, balance the atoms.
+
+Example 11.2
+Write thermochemical equation for the combustion of C, CH4 and H2. Use data given in 11.2.
+Solution:
+(i) C(s) + O2(g) → CO2(g) ΔHc° = -393.5 kJ mole-1
+(ii) CH4(g) + 2O2(g) → CO2(g) + 2H2O(l) ΔHc° = -890.4 kJ mole-1
+(iii) H2(g) + 1/2 O2(g) → H2O(l) ΔHc° = -285.8 kJ mole-1
+
+STANDARD ENTHALPY OF ATOMIZATION (ΔHatom°)
+
+The enthalpy change when one mole of gaseous atoms are formed from its element under standard conditions is called standard enthalpy of atomization. e.g.,
+(i) 1/2 H2(g) → H(g) ΔHatom° = +218 kJ mole-1
+(ii) 1/2 Cl2(g) → Cl(g) ΔHatom° = +121 kJ mole-1
+
+STANDARD ENTHALPY OF NEUTRALIZATION (ΔHneut°)
+
+It is defined as the amount of heat evolved when one mole of H+ ions from an acid combine with one mole of OH- ions from a base to form one mole of water under standard conditions. e.g.
+NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l) ΔHneut° = – 57.4 kJ mole-1
+Strong acids and bases ionize completely in their aqueous solutions. Thus, when solutions of NaOH and HCl are mixed together, the only change which occurs is the formation of water. Na+ and Cl- ions remain in solution. Thus heat of neutralization is due to the formation of water from H+ and OH- ions.
+Na+(aq) + OH-(aq) + H+(aq) + Cl-(aq) → Na+(aq) + Cl-(aq) + H2O(l) ΔH° = – 57.4 kJ mole-1
+
+STANDARD ENTHALPY OF SOLUTION (ΔHsoln°)
+
+It is the enthalpy change when one mole of a substance is dissolved in so much of solvent that further dilution results in no detectable heat change, under standard conditions. e.g.,
+(i) NH4Cl(s) → NH4+(aq) + Cl-(aq) ΔHsoln° = +15.1 kJ mole-1
+(ii) HCl(g) → H+(aq) + Cl-(aq) ΔHsoln° = –75 kJ mole-1
+
+Self Check Exercise 11.2
+1. Write thermochemical equation for the given information.
+(a) Standard enthalpy of formation of Benzene (l) is +49.0 kJ mole-1
+(b) Standard enthalpy of formation of ethanol (l) is -277.7 kJ mole-1
+(c) Standard enthalpy of combustion of acetic acid(l) is -876 kJ mole-1
+(d) When ethanol is burned in air -1367 kJ mole-1 energy is released at 1 atm and 25°C.
+2. Which of the following equations describe a reaction for which ΔH° is equal to the enthalpy of formation of a compound, ΔHf°?
+(a) 4 Al(s) + 3 O2(g) → 2 Al2O3(s)
+(b) 4Al(s) + 3/2 O2(g) → 2Al2O3(s)
+(c) C(s) + 1/2 O2(g) → CO(g)
+
+BOND DISSOCIATION ENERGY
+
+When a chemical reaction occurs, old bonds break and new bonds form. Bond breaking requires energy and bond formation always releases energy. The amount of energy required to break one mole of a particular bond to form neutral atoms is called bond dissociation energy. Whereas the amount of energy released when one mole of a particular bond is formed from neutral atoms is called bond energy.
+The difference between bond dissociation energy and bond energy determines whether the reaction absorbs or releases energy.
+
+HEAT CAPACITY
+
+The different forms of energy can be converted into one another. Any other form of energy can be completely transformed into heat energy. But at constant temperature heat cannot be completely converted into another form of energy. The amount of heat absorbed (q) by a substance is proportional to the temperature change.
+q ∝ ΔT
+q = Heat capacity x ΔT
+Where heat capacity is constant of proportionality.
+Heat Capacity = q / ΔT ……………………(1)
+The amount of heat required to raise the temperature of given amount of a substance by 1 Kelvin is called heat capacity. It is expressed in Joules per Kelvin.
+The amount of heat required to raise the temperature of one gram of a substance by 1 Kelvin is called specific heat capacity. It is expressed in Joules per gram per Kelvin.
+Specific heat capacity (c) = Heat / (mass x ΔT) ………………(2)
+The amount of heat required to raise the temperature of one mole of a substance by one Kelvin is called its molar heat capacity. The unit for molar heat capacity is J K-1 mole-1.
+Molar heat Capacity (C) = Heat / (moles x ΔT) …………(3)
+If the quantity of heat q is absorbed by n moles of the substance and its temperature raises from T1 to T2, its molar heat capacity C is given by the expression.
+C = q / [n (T2 – T1)]
+Since heat absorbed by a substance at constant Pressure is equal to ΔH.
+qp = ΔH
+Cp = qp / [n(ΔT)]
+Cp = ΔH / [n ΔT]
+or ΔH = n Cp ΔT
+Where Cp is molar heat capacity of the substance at constant pressure.
+When heat is absorbed by a substance at constant volume, then qv = ΔE.
+Cv = qv / [n ΔT]
+Cv = ΔE / [n ΔT]
+ΔE = n Cv ΔT
+Where Cv is molar heat capacity of the substance at constant volume.
+For Example,
+Specific heat capacity of Cu = 0.387 J.g-1K-1
+Molar heat Capacity of Cu = 0.387 x 63.54 = 24.59 J mole-1 K-1
+Knowing specific heat capacity of a substance, its mass and temperature change of substance being heated or cooled, we can determine heat absorb or released.
+Re-arranging equation (2) we get
+q = c x m x ΔT
+Similarly, if we know mole of the substance then:
+q = C x n x ΔT
+
+Self Check Exercise 11.3
+Calculate the heat evolved when an Al pan weighing 200g is cooled from 100°C to 25°C at constant pressure. Specific heat capacity of Al is 0.900 J g-1 K-1 (Ans: 13500J)
+
+CALORIMETRY
+
+Calorimetry is the science of measuring heat of a chemical reaction by measuring the temperature change. A device that measures heat flow is called calorimeter. Calorimeters measure the heat released from a system either at constant pressure (qp = ΔH) or at constant volume (qv = ΔE). Thus there are two types of calorimetry.
+
+CONSTANT PRESSURE CALORIMETRY
+
+In constant pressure calorimetry pressure of the system is constant. For this purpose we need a thermally insulated container with a thermometer and stirrer. For most purposes a coffee cup calorimeter is used (Fig 11.2).
+q = m x c x ΔT
+Where m = mass of reactants
+c = specific heat of reaction mixture
+ΔT = change in temperature.
+This process can be understood by the following example.
+
+Example 11.3
+When 50cm3 of 1.0M NaOH neutralizes 50cm3 of 1.0M HCl at 25°C. The temperature rises from 25°C to 31.9°C. Calculate the heat of Neutralization. (Specific heat of water = 4.2 J g-1 K-1, Density of water=1 g.cm-3)
+Solution
+We can calculate the amount of heat evolved by the following equation.
+q = m x c x ΔT
+Volume of NaOH = 50cm3
+Volume of HCl = 50cm3
+Total Volume of reaction mixture = 50cm3 + 50cm3 = 100 cm3
+Density of water = 1 g.cm-3
+Total mass of reaction mixture(m) = 100cm3 x 1g.cm-3 = 100g
+Raise in temperature ΔT = 31.9°C – 25°C = 6.9°C or 6.9K
+Now q = m x c x ΔT
+q = 100g x 4.2 J g-1 K-1 x 6.9K = 2898 J ≈ 2.9 x 103 J
+No. of moles of NaOH = M x V / 1000 = (1 x 50) / 1000 = 0.05
+Similarly, No of moles of HCl = (1 x 50) / 1000 = 0.05
+Considering chemical equation.
+NaOH (aq) + HCl (aq) → NaCl (aq) + H2O (l)
+1 mole 1 mole 1 mole
+0.05 mole 0.05 mole 0.05 mole
+Thus formation of 0.05 moles of water release heat = 2.9 x 103 J
+Formation of 1 mole of water will release heat = (2.9 x 103) / 0.05 = 5.8 x 104 J mole-1 = 58.0 kJ mole-1
+Since heat is evolved at constant pressure,
+qp = ΔH = -58.0 kJ mole-1
+
+Self Check Exercise 11.4
+Experimental data shows that when 20.0cm3 of 0.55M HCl solution is mixed with 25.0cm3 of 0.35M NaOH in a calorimeter, complete neutralization occurs and temperature of the calorimeter changes from 25°C to 26.07°C. Use this data to determine ΔH of neutralization for the reaction. (Ans: -57.78 kJ mole-1)
+
+CONSTANT VOLUME CALORIMETRY (Bomb Calorimetry)
+
+Constant volume calorimetry is used for accurate determination of the enthalpy of combustion for food, fuel and other compounds. A bomb calorimeter is used for this purpose. Chemical reaction in a bomb calorimeter takes place under constant volume conditions. A bomb calorimeter is shown in fig 11.3.
+We can understand this by the following example.
+
+Example 11.4
+When 1.8 g of glucose is burned in a bomb calorimeter in the presence of Oxygen at pressure of 25 atm at 25°C. The temperature of water rises to 31.52°C. Heat capacity of calorimeter = 4.321 kJK-1. Calculate the heat of combustion of glucose.
+Solution
+Increase in temperature = ΔT = 31.52°C – 25°C = 6.52°C
+Heat evolved = ΔT x total heat capacity of calorimeter
+= 6.52 x 4.321 kJ K-1
+= 28.1729 kJ
+No. of moles of glucose burnt = 1.8g / 180 g.mole-1 = 0.01 moles
+Since 28.1729 kJ of heat was evolved for 0.01 moles of glucose the heat of combustion of glucose per mole = 28.1729 kJ / 0.01 = 2817.29 kJ mole-1
+Since heat is evolved at constant pressure,
+qp = ΔHc° = – 2817.29 kJ mole-1.
+
+Self Check Exercise 11.5
+Fats and Oils are a rich source of energy. They provide more energy as compared to carbohydrates and proteins. When 1.0g of a typical fat glyceral trioleate, C57H104O6, is burnt in a bomb calorimeter at 25°C raises its temperature by 8.77°C. Total specific heat content of calorimeter is 4.321 kJK-1. List important steps you will use in the determination of heat of combustion of this fat, calorimetrically. Calculate also amount of heat available from this fat. (Ans: 33535.3 kJ mole-1)
+
+HESS’S LAW
+
+Enthalpy is a state function; therefore, enthalpy change in a chemical reaction in going from some initial state to some final state is independent of the path followed by the reaction. Thus in going from a particular set of reactant to a particular set of products, the change in enthalpy is the same whether the reaction takes place in one step or in many steps. This principle is known as Hess's law.
+G.H. Hess stated this law in 1840. It states that the enthalpy change in a chemical reaction is same whether the reaction takes place in a single step or in several steps.
+Mathematically – ΣΔH (Cycle) = 0
+Suppose a reactant A changes into the product B in one step and enthalpy change in this step is ΔH. Now suppose this change takes place in three steps, involving a change from A to C, C to D, and finally D to B as shown below:
+If ΔH1, ΔH2 and ΔH3 are enthalpy changes in these steps, as shown in the figure (11.4). Then according to the Hess's Law. ΔH = ΔH1 + ΔH2 + ΔH3
+
+Example 11.5
+Combustion of C to CO2 evolves 393.5 kJ energy.
+C(s) + O2(g) → CO2(g) ΔH° = -393.5kJ
+This reaction may take place in two steps.
+C(s) + 1/2 O2(g) → CO(g) ΔH1° = -110.52kJ
+CO(g) + 1/2 O2(g) → CO2(g) ΔH2° = -282.98kJ
+Net reaction C(s) + O2(g) → CO2(g) ΔH° = ΔH1° + ΔH2° = -393.5 kJ
+Thus the enthalpy change in a chemical reaction is independent of the path followed.
+Fig.11.5 shows energy cycle for this reaction.
+There are many compounds which cannot be prepared directly from their elements. Some of these compounds cannot be decomposed into their constituent elements. e.g. CCl4. Some elements do not burn completely due to the formation of a protective covering on their surface. such as Al, B etc. Thus enthalpies of formation of CCl4, Al2O3, B2O3 etc cannot be determined directly by calorimetry. Hess's law is particularly useful for determining enthalpies of formation of such compounds.
+
+Example 11.6
+Enthalpy of formation of methane cannot be measured directly. By the application of Hess’s law it can be determined indirectly from the enthalpies of combustion for CH4, H2 and C.
+(i) H2(g) + 1/2 O2(g) → H2O(l) ΔHc° = -285.5 kJ mole-1
+(ii) C(s) + O2(g) → CO2(g) ΔHc° = -393.5 kJ mole-1
+(iii) CH4(g) + 2O2(g) → CO2(g) + 2H2O(l) ΔHc° = -890.4 kJ mole-1
+(iv) C(s) + 2H2(g) → CH4(g) ΔHf° = ?
+To obtain ΔHf° for the required reaction we must some how combine equations i, ii, and iii to produce that reaction and add the corresponding ΔH° values. This can be done by focusing on reactants and products of the required reaction. The reactants are C(s) and 2H2(g) and the product is CH4(g). How can we obtain the correct equation? Reaction (iii) has C(s) as reactant which is needed in the required equation. Thus equation (iii) will be used as such. Equation (ii) has H2(g) as reactant but the required equation needs 2H2(g), thus equation (ii) will be used after multiplying by 2. Equation (i) has CH4(g) as reactant, but this is needed as product in the required equation. Thus reaction (i) must be reversed and the sign of ΔH° is changed accordingly. Adding the equations and deleting the species that occur on both sides we get.
+CO2(g) + 2H2O(l) → CH4(g) + 2O2(g) ΔH° = + 890.4 kJ
+2H2(g) + O2(g) → 2H2O(l) ΔH° = - 571.0 kJ
+C(s) + O2(g) → CO2(g) ΔH° = -393.5 kJ
+C(s) + 2H2(g) → CH4(g) ΔHf° = -74.1 kJ mole-1
+This gives the required equation and its enthalpy.
+
+ENTHALPIES OF REACTIONS FROM ENTHALPIES OF FORMATION
+
+It is often convenient to calculate the ΔH° values for a reaction from values of the standard enthalpies of formation, ΔHf° of the reactants and products. For a given reaction:
+ΔH° = Σ coeff ΔHf° (products) - Σ coeff ΔHf° (reactants)
+Where coeff = Coefficient
+Elements in their standard states are not included in the ΔH° reaction calculation i.e, ΔHf° of an element in its standard state is zero. When balanced equation for a reaction is multiplied by an integer, the value of ΔH° for that reaction should be multiplied by same integer.
+
+Example 11.7
+Calculate ΔH° for the following reaction, which take place when gases burn in internal combustion engines. Where the values of ΔHf° are -269 kJ, 0 kJ, -393.5 kJ and -285.8 kJ for C8H18(l), O2(g), CO2(g) and H2O(l) respectively
+2C8H18(l) + 25O2(g) → 16CO2(g) + 18H2O(l)
+Solution:
+ΔH°reaction = Σ coeff ΔHf° (products) – Σ coeff ΔHf° (reactants)
+= [16 x ΔHf° for CO2(g) + 18 x ΔHf° for H2O(l)] – [2 x ΔHf° for C8H18(l) + 25 x ΔHf° for O2(g)]
+= [16(-393.5 kJ) + 18 (-285.8 kJ)] – [2 (-269 kJ) + 25(0)]
+= -6296 kJ - 5144.4 kJ + 538 kJ + 0
+= -11440.4 kJ + 538 kJ
+= -10902.4 kJ
+= -1.09 x 104 kJ
+
+Example 11.8
+Calculate ΔH° reaction for the following reaction. This reaction takes place in the tissues of the living organisms. Where the values of ΔHf° are -1258.18 kJ, 0 kJ, -393.5 kJ and -285.8 kJ for C6H12O6(s), O2(g), CO2(g) and H2O(l) respectively
+C6H12O6(s) + 6O2(g) → 6CO2(g) + 6H2O(l) ΔH°reaction = ?
+ΔH°reaction = Σ coeff ΔHf° (products) – Σ coeff ΔHf° (reactants)
+ΔH°reaction = [6ΔHf°(CO2(g)) + 6ΔHf°(H2O(l))] – [ΔHf°(C6H12O6(s)) + 6ΔHf°(O2(g))]
+= [6(-393.5 kJ) + 6(-285.8 kJ)] – [-1258.18 kJ + 6x0]
+= [-2361.0 kJ – 1714.8 kJ] – [-1258.18 kJ]
+= –4075.8 kJ + 1258.18 kJ
+= –2817.62 kJ
+This means one mole (180g) of glucose provides 2817.62 kJ energy. Therefore energy provided by one gram of glucose will be 2817.62 kJ mole-1 / 180 g mole-1 = 15.65 kJ g-1
+
+BORN HABER CYCLE
+
+This is special application of Hess’s law to binary ionic compounds. It helps us to calculate lattice energies of binary ionic compounds (M+X-). The energy change that takes place when separated gaseous ions are packed together to form one mole of an ionic solid is called lattice energy.
+M+(g) + X-(g) → MX(s)
+Lattice energy cannot be determined directly. However it can be determined indirectly by means of Born Haber cycle. Consider the case of NaCl. Its standard enthalpy of formation (ΔHf°) is -411 kJ mole-1. The formation reaction can be considered as taking place in several steps, one of which is the formation of lattice. This complete sequence of reaction is called a Born Haber Cycle (Fig.11.6)
+Step-I: Sublimation of solid sodium. The energy of sublimation for Na(s) is 108 kJ mole-1
+Na(s) → Na(g) ΔHsub° = +108 kJ/mole
+Step-II: Ionization of Na(g) atom to form Na+(g) ion. This process corresponds to the first ionization energy for Na.
+Na(g) → Na+(g) + 1e- ΔHIE° = + 496 kJ/mole
+Step-III: Dissociation of Cl2 molecules. We need to form one mole of Cl atoms by breaking the Cl-Cl bond in 1/2 mole of Cl2 molecules. The energy required to break this bond is 121 kJ/mole and is known as enthalpy of atomization for Cl2.
+1/2 Cl2(g) → Cl(g) ΔHatom° = +121 kJ/mole
+All these three steps are endothermic and are drawn upward in the figure (11.6).
+Step-IV: Formation of Cl-(g) ion. Energy is released in this step equal to the electron affinity for Cl.
+Cl(g) + 1e- → Cl-(g) ΔHEA° = -349 kJ/mole
+Step-V: Formation of solid NaCl from the gaseous Na+ and Cl- ions. This corresponds to the lattice energy (ΔHlattice) for NaCl which is to be calculated.
+Na+(g) + Cl-(g) → NaCl(s) ΔHlattice = ?
+Since the sum of these five steps gives the overall reaction and the sum of the individual energy changes give the overall energy change. Thus
+ΔHf° = ΔHsub° + ΔHIE° + ΔHatom° + ΔHEA° + ΔHlattice
+-411 kJ = +108 kJ + 496 kJ + 121 kJ + (-349 kJ) + ΔHlattice
+ΔHlattice = -411 kJ – (108 kJ + 496 kJ + 121 kJ - 349 kJ)
+ΔHlattice = -787 kJ mole-1
+Thus lattice energy of NaCl is 787 kJ/mole.
+Born-Haber cycle is also useful because it is difficult to determine electron affinities directly.
+
+Self Check Exercise 11.6
+Draw a complete Born Haber Cycle for the formation of MgO (s). Calculate the lattice energy for MgO from the following data.
+Standard enthalpy of formation of MgO = -602 kJ mole-1
+Standard enthalpy of sublimation of Mg = 150 kJ mole-1
+Ionization energy of Mg(g) to form Mg2+(g) = 2180 kJ mole-1
+Standard enthalpy of atomization of O2 = 247 kJ mole-1
+Electron affinity of O(g) to form O-(g) = -141 kJ mole-1
+Electron affinity of O-(g) to form O2-(g) = 878 kJ mole-1
+(Ans: -3916 kJ mole-1)
+

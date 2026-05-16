@@ -1,0 +1,245 @@
+atomicspect_2ndphy_fed 
+
+At the end of this chapter the student will be able to:
+1. Describe and explain the origin of different types of optical spectra.
+2. Have an understanding of the existence of discrete electron energy levels in isolated atoms (e.g., atomic hydrogen) and deduce how this leads to spectral lines.
+3. Explain how the uniqueness of the spectra of elements can be used to identify an element.
+4. Analyse the significance of the hydrogen spectrum in the development of atomic model of the atom.
+5. Explain hydrogen atom in terms of energy levels on the basis of Bohr model.
+6. Determine the ionization and excitation energies of an atom using an energy level diagram.
+7. Solve problems and analyse information using: 1/λ = R_H (1/p² – 1/n²).
+8. Understand that inner shell transitions in heavy elements result in the emission of characteristic X-rays.
+9. Understand the terms spontaneous emission, stimulated emission, metastable state, population inversion and laser action.
+10. Describe the structure and purpose of the main components of a He-Ne laser.
+
+At the start of the twentieth century, physicists were studying atomic spectra which exhibited a series of discrete lines. Balmer developed an empirical formula which could explain the existence of line spectrum of hydrogen atom. The study of the line spectrum of hydrogen atom led to the Bohr model of the atom. The discovery of X-rays, working principle of CT scanner and laser also gave significant information.
+
+CT scan stands for Computed Tomography scan. It is also known as Computer Axial Tomography (CAT) scan. It is a medical imaging method that employs tomography. CT scanning is useful to get a detailed 3-D image of internal parts of the body, such as soft tissues, the blood vessels, the lungs, the brain, the kidneys, and bones.
+
+When a substance is heated, its atoms absorb energy and are excited, i.e., the electrons jump to higher energy states. The electron stays there for a very short time (about 10⁻⁸ s) and falls back to its lower energy state. In this process, it emits a photon which is a discrete packet of energy or a particle of light having wave characteristics, i.e., it has a definite wavelength and frequency. The emitted radiation or photon is equal to the difference in energy between the higher and lower energy states.
+
+In a solid, liquid or a dense gas, the atoms are closely packed. The atoms are not free to emit radiation because of interaction. As a result, we do not get discrete radiation but instead obtain only a continuous spectrum. Atoms of gas are however free to emit radiation when excited. The spectrum of a gas is, therefore, discrete, having line spectrum.
+
+If an evacuated glass tube is filled with a gas such as neon or hydrogen and a potential difference is applied between electrodes in the tube causing a current in the gas, the tube will emit light whose color is characteristic of the gas. When the emitted light is analyzed by passing it through a narrow slit and then through a spectroscope, a series of discrete lines is observed, each line corresponding to a different wavelength or color. We refer to such a series of lines as line spectrum. The wavelengths contained in a given line spectrum are characteristic of the element emitting light. Because no two elements emit the same line spectrum, this phenomenon represents a practical technique for identifying elements in chemical substances. The first such spectral series was observed by Balmer in 1885 in the course of a study of the visible part of the hydrogen spectrum.
+
+If hydrogen gas is placed in a discharge tube and a discharge is produced by means of a high voltage across the tube, the gas becomes luminous and emits a bluish-red light, Fig 19.2. This light can be analyzed by passing it through a device such as a prism or a grating. The spectrum of hydrogen consists of a series of lines. Each line represents a wavelength of light emitted by the source.
+
+The line spectrum of hydrogen includes a series of lines in the visible region of the electromagnetic spectrum as shown in Fig 19.2. The lines fall into three distinct groups or series named after their discoverers. The spectrum of atomic hydrogen was known much before Bohr proposed a theory for it.
+
+The series in the visible region, called Balmer series, was studied by Balmer, who found that the wavelengths of these lines can be calculated by a simple empirical equation:
+
+1/λ = R (1/2² – 1/n²)
+
+where n = 3, 4, 5, … and R is a constant, now known as Rydberg constant. If λ is in meters, R has the value 1.097 × 10⁷ m⁻¹.
+
+Other series were discovered later in the ultraviolet and infrared regions, known as Lyman series, Paschen series, Brackett series and Pfund series after their discoverers. The wavelengths of the lines in these series can be calculated by the following empirical formulas:
+
+Lyman series: 1/λ = R (1/1² – 1/n²), n = 2, 3, 4, …
+Paschen series: 1/λ = R (1/3² – 1/n²), n = 4, 5, 6, …
+Brackett series: 1/λ = R (1/4² – 1/n²), n = 5, 6, 7, …
+Pfund series: 1/λ = R (1/5² – 1/n²), n = 6, 7, 8, …
+
+These formulas can be written in a general mathematical form as:
+
+1/λ = R (1/p² – 1/n²)
+
+where p = 1 for Lyman, p = 2 for Balmer, p = 3 for Paschen, etc. Balmer series lies in the visible region of the spectrum, the Paschen series in the infrared, and the Lyman series in the ultraviolet.
+
+BOHR’S MODEL OF THE HYDROGEN ATOM
+
+In 1913, the Danish scientist Niels Bohr (1885 – 1963) proposed a theory of the hydrogen atom. This theory combines ideas from classical physics, quantum theory, and the Rutherford model. However, the theory does not properly describe complex atoms and ions.
+
+The postulates of the Bohr model of the hydrogen atom are as follows:
+
+1. The electron moves in circular orbits about the nucleus under the influence of the Coulomb force of attraction between the electron and the positively charged nucleus. The necessary centripetal force is provided by the Coulomb force:
+
+m v² / r = k e² / r²
+
+2. Only those stationary orbits are allowed for which the orbital angular momentum is equal to an integral multiple of ħ (where ħ = h/2π):
+
+m v r = n ħ
+
+where n = 1, 2, 3, … is called the principal quantum number, h is Planck’s constant (h = 6.626 × 10⁻³⁴ J·s).
+
+3. The electron in a stable orbit does not radiate energy as in the classical theory. The atom radiates energy only when the electron jumps from one allowed orbit to another. The frequency of the radiation obeys the condition:
+
+h f = E_i – E_f
+
+where E_i and E_f are the energies of the initial and final states.
+
+From these postulates, we can derive the radius of the nth orbit and the energy of the electron in that orbit.
+
+Radius of the nth orbit:
+r_n = (n² ħ²) / (k e² m) = n² a₀
+
+where a₀ = 0.053 nm is the Bohr radius. Thus, the radii of the allowed orbits are quantized.
+
+Energy of the electron in the nth orbit:
+The total energy E_n is the sum of kinetic and potential energy:
+
+E_n = K.E + P.E = (1/2) m v² – (k e² / r)
+
+Substituting the expressions for v and r, we get:
+
+E_n = – (k e²) / (2 r_n) = – (13.6 eV) / n²
+
+Thus, the energy of the electron in the hydrogen atom is quantized. The ground state (n=1) has energy –13.6 eV. The negative sign indicates that the electron is bound to the nucleus.
+
+When the electron makes a transition from a higher energy level n_i to a lower energy level n_f, the energy of the emitted photon is:
+
+h f = E_i – E_f = –13.6 eV (1/n_i² – 1/n_f²)
+
+Using c = f λ, we get:
+
+1/λ = (13.6 eV / h c) (1/n_f² – 1/n_i²) = R_H (1/n_f² – 1/n_i²)
+
+where R_H is the Rydberg constant for hydrogen, R_H = 1.097 × 10⁷ m⁻¹, in agreement with the empirical value.
+
+Thus, Bohr’s model successfully explains the line spectrum of hydrogen.
+
+DE BROGLIE EXPLANATION OF BOHR’S QUANTIZATION CONDITION
+
+More than a decade following Bohr’s publication, no one was able to explain why the angular momentum of the electron was restricted to these values. Finally, de Broglie provided a connection in his theory of the wave nature of material particles. De Broglie assumed that an electron orbit would be stable (allowed) only if it contained an integral number of electron wavelengths. This leads to the condition:
+
+2 π r = n λ
+
+where λ = h / (m v) is the de Broglie wavelength. Substituting, we get:
+
+m v r = n (h / 2π)
+
+which is exactly Bohr’s quantization condition. Thus, de Broglie’s wave explanation justifies Bohr’s postulate.
+
+EXAMPLE: An electron in the hydrogen atom makes a transition from n = 2 to n = 1. Find the wavelength of the emitted photon.
+
+Solution:
+1/λ = R_H (1/1² – 1/2²) = R_H (1 – 1/4) = (3/4) R_H
+λ = 4 / (3 R_H) = 4 / (3 × 1.097 × 10⁷) = 1.215 × 10⁻⁷ m = 121.5 nm
+
+EXAMPLE: The Balmer series for the hydrogen atom corresponds to electronic transitions that terminate in the state with quantum number n = 2. Find the longest wavelength emitted in the Balmer series.
+
+Solution:
+The longest wavelength corresponds to the smallest energy transition, i.e., from n = 3 to n = 2.
+1/λ = R_H (1/2² – 1/3²) = R_H (1/4 – 1/9) = R_H (5/36)
+λ = 36 / (5 R_H) = 36 / (5 × 1.097 × 10⁷) = 6.56 × 10⁻⁷ m = 656 nm
+
+EXAMPLE: Find the shortest wavelength photon in the Balmer series.
+
+Solution:
+The shortest wavelength corresponds to the largest energy transition, i.e., from n = ∞ to n = 2.
+1/λ = R_H (1/2² – 1/∞²) = R_H (1/4) → λ = 4 / R_H = 4 / (1.097 × 10⁷) = 3.646 × 10⁻⁷ m = 364.6 nm
+
+EXCITATION AND IONIZATION POTENTIAL
+
+The Bohr model as well as the current quantum mechanical model of an atom predicts that the total energy of an electron in an atom is quantized. The allowed energies are given by a relation of the form E_n = –13.6 eV / n² for hydrogen. The state with n=1 is called the ground state, while states with n=2,3,4,… are called excited states. When energy is supplied to the atom, an electron in the atom jumps to one of its excited states. The atom in an excited state cannot stay for a long time. The electron in an excited atom soon returns to lower energy levels by emitting photons.
+
+The energy required to move an electron from its ground state to an excited state is called excitation energy. For example, the first excitation energy of hydrogen atom (from n=1 to n=2) is:
+
+ΔE = E₂ – E₁ = (–3.4 eV) – (–13.6 eV) = 10.2 eV
+
+The potential difference V in volts applied to an electron to provide it an amount of energy equal to the excitation energy of the atom is called excitation potential. For example, the first excitation potential of hydrogen atom is 10.2 V.
+
+If an atom absorbs sufficient amount of energy, an electron may be removed from the atom, i.e., the electron is removed from the atom. An atom which has lost one or more electrons is said to be ionized. The minimum energy required to remove an electron from its ground state is called ionization energy of the atom. The ionization energy is equal to the negative of the ground state energy. For hydrogen, ionization energy = 13.6 eV.
+
+The potential difference applied to an electron to provide it the requisite amount of ionization energy is called ionization potential. For hydrogen, ionization potential = 13.6 V.
+
+EXAMPLE: When a hydrogen atom is bombarded, the atom may be raised into a higher energy state. As the excited electron falls back to the lower energy levels, light is emitted. What are the three longest wavelength spectral lines emitted by the hydrogen atom as it returns to the n=1 state from higher energy states?
+
+Solution:
+The three longest wavelengths correspond to transitions to n=1 from n=2, n=3, and n=4.
+
+For n=2 → n=1: ΔE = 10.2 eV, λ = hc/ΔE = 122 nm
+For n=3 → n=1: ΔE = 12.1 eV, λ = hc/ΔE = 103 nm
+For n=4 → n=1: ΔE = 12.75 eV, λ = hc/ΔE = 97.2 nm
+
+These are the first three lines of the Lyman series.
+
+INNER SHELL TRANSITIONS AND CHARACTERISTIC X-RAYS
+
+In hydrogen atom, transitions result in the emission of spectral lines in the visible or ultraviolet region due to small energy differences. In heavy atoms, the electrons are arranged in shells labeled K, L, M, N, O, etc. The K shell being closest to the nucleus has the lowest energy. When an electron from an inner shell is removed (e.g., by bombardment with high-energy electrons), a vacancy is created. An electron from a higher shell may jump to fill this vacancy, emitting a photon in the X-ray region. Such transitions give rise to characteristic X-rays.
+
+For example, an X-ray photon emitted due to transition from L-shell to K-shell is called K_α characteristic X-ray. The transition from M-shell to K-shell gives rise to K_β characteristic X-rays. The study of characteristic X-ray spectra has played a very important role in the study of atomic structure and the periodic table.
+
+CONTINUOUS X-RAYS
+
+Another process that can produce X-rays is when an electron traveling towards a target nucleus in an X-ray tube is decelerated by the Coulomb interaction with the nucleus. According to classical electromagnetism, an accelerated charge radiates. This radiation is called Bremsstrahlung (braking radiation). Bremsstrahlung produces a continuous spectrum of X-rays.
+
+When an electron loses all its energy in a single collision, the photon emitted has the maximum frequency (or minimum wavelength) given by:
+
+eV = h f_max = h c / λ_min
+
+Thus, λ_min = h c / (e V)
+
+This gives the short-wavelength limit of the continuous X-ray spectrum.
+
+EXAMPLE: Calculate the minimum wavelength produced when electrons are accelerated through a potential difference of 10000 V in an X-ray tube.
+
+Solution:
+λ_min = h c / (e V) = (6.63 × 10⁻³⁴ J·s × 3 × 10⁸ m/s) / (1.6 × 10⁻¹⁹ C × 10000 V) = 1.24 × 10⁻¹⁰ m = 0.124 nm
+
+PRODUCTION OF X-RAYS
+
+Fig 19.9 shows an arrangement for producing X-rays. It consists of a vacuum tube with a cathode (heated filament) and an anode (target). Electrons emitted from the cathode are accelerated by a high voltage (typically several kV to MV) towards the anode. When these high-energy electrons strike the target, X-rays are produced. Only a small fraction of the kinetic energy of the incident electrons is converted into X-rays; the rest is converted into heat. The target must have a high melting point and is often cooled by water.
+
+PROPERTIES OF X-RAYS
+
+1. They are not refracted as they pass from one medium to another.
+2. They cast shadows of obstacles placed in their path.
+3. They can be diffracted.
+4. They cause fluorescence in many substances.
+5. They affect photographic plates.
+6. They penetrate solid substances which are opaque to ordinary visible light.
+7. When they pass through a gas, they ionize the atoms.
+
+APPLICATIONS OF X-RAYS
+
+X-rays have important practical applications categorized as: (i) scientific, (ii) industrial, and (iii) medical.
+
+Scientific: X-ray diffraction by crystals is used to determine the internal structure of crystals, atomic spacing, etc.
+
+Industrial: X-rays are used to analyze the composition of alloys, detect flaws in materials, and study the structure of rubber and plastics.
+
+Medical: X-rays are used for diagnostic imaging (e.g., detecting bone fractures, dental problems) and for cancer therapy (radiation therapy).
+
+CT SCANNER
+
+A conventional X-ray gives only limited information because it is a 2D projection. To give a detailed 3D image, a CT (Computed Tomography) scanner is used. In a CT scanner, an X-ray source and a ring of detectors rotate around the patient. Multiple images are taken from different angles, and a computer combines these to produce a detailed 3D image of the internal organs. This is especially useful in diagnosing cancer and other conditions.
+
+LASERS
+
+The term laser is an abbreviation of Light Amplification by Stimulated Emission of Radiation. Laser is a remarkable device that produces an intense and narrow beam of coherent light. The first laser was fabricated by T.H. Maiman in 1960. To understand the working of a laser, terms such as spontaneous emission, stimulated emission, and population inversion must be understood.
+
+Spontaneous Emission: When an atom in an excited state decays to a lower energy state on its own, emitting a photon, it is called spontaneous emission. The emitted photon has random direction and phase.
+
+Stimulated Emission: If a photon of energy equal to the energy difference between the excited state and a lower state interacts with an atom already in the excited state, it can stimulate the atom to emit a photon identical in energy, direction, and phase to the incident photon. This is called stimulated emission.
+
+Metastable State: Some excited states have a relatively long lifetime (e.g., 10⁻³ s) compared to typical excited states (10⁻⁸ s). Such states are called metastable states.
+
+Population Inversion: Normally, the number of atoms in the ground state is greater than in the excited state. Population inversion is a condition where the number of atoms in an excited (metastable) state is greater than in a lower energy state. This is necessary for laser action.
+
+Laser Action: In a laser, an active medium (e.g., a gas, solid, or liquid) is placed between two mirrors (one fully reflective, one partially reflective). Energy is supplied to the medium (by optical pumping, electrical discharge, etc.) to achieve population inversion in a metastable state. Initially, a few atoms undergo spontaneous emission, producing photons. These photons stimulate other excited atoms to emit photons, leading to a cascade of stimulated emission. The photons bounce back and forth between the mirrors, amplifying the light. The partially reflective mirror allows a portion of the light to escape as a coherent, intense, and highly directional laser beam.
+
+HE-NE LASER
+
+The He-Ne laser is the most common type of laser used in physics laboratories. The tube is filled with 85% helium and 15% neon gas. The neon atoms are the active medium. An electric discharge excites the helium atoms to a metastable state. These excited helium atoms collide with neon atoms, transferring energy and exciting the neon atoms to a metastable state. Population inversion is achieved in neon. Stimulated emission then produces laser light at a wavelength of 632.8 nm (red).
+
+APPLICATIONS OF LASERS
+
+- Lasers are used as surgical tools for welding detached retinas and destroying cancerous tissue.
+- The intense heat produced by a laser beam is used to drill tiny holes in hard materials.
+- Lasers are used in surveying and alignment due to their precise straightness.
+- Lasers are used in telecommunications through optical fibers.
+- Lasers can be used to generate three-dimensional images of objects in a process called holography.
+- Lasers are used in barcode scanners, CD/DVD players, laser printers, etc.
+- Lasers are used in scientific research, including spectroscopy and nuclear fusion experiments.
+
+KEY POINTS
+
+- When an atom in a gas or vapour at low pressure is suitably excited (usually by passing electric current through it), the emitted radiation has a line spectrum which contains only specific wavelengths.
+- The postulates of Bohr’s model of the hydrogen atom are:
+  1. An electron bound to the nucleus in an atom can move around the nucleus on certain circular orbits without radiating. Those orbits are called the discrete stationary states of the atom.
+  2. Only those stationary states are allowed for which orbital angular momentum is equal to an integral multiple of ħ.
+  3. Whenever an electron makes a transition, i.e., jumps from a higher energy state E_i to a lower energy state E_f, a photon of frequency f is emitted so that hf = E_i – E_f.
+- The transition of electrons in hydrogen or other light elements results in the emission of spectral lines in the infrared, visible or ultraviolet region due to small energy differences.
+- X-rays emitted in inner shell transitions are called characteristic X-rays because their energy depends upon the type of target atom.
+- In spontaneous absorption, a photon absorbed by an atom in the ground state E_1 raises the atom to an excited state E_2.
+- Stimulated or induced emission is that in which the incident photon of energy hf = E_2 – E_1 induces the atom to decay by emitting a photon that travels in the direction of the incident photon. This leads to amplification and a coherent beam.
